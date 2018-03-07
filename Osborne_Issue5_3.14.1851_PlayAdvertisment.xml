@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+   schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><!-- The title of the project here. --></title>
+            <editor role="Editor-in-Chief">Mary Isbell</editor>
+            <editor role="Managing_Editor">Anna Kroon</editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>TBD</publisher>
+            <pubPlace>TBD</pubPlace>
+            <date>TBD</date>
+         </publicationStmt>
+         <notesStmt>
+            <note><!-- Context for the extracted text. Format is dependent on the text. Example: Outline of issues and article titles from a newspaper. --></note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <!-- ?????? We need to find a tag that is the equivalent of imprint, but for manuscript items and even for published items, I'd like to include the library that holds the item-->
+                  <author><!-- The author of the source text. --></author>
+                  <title><!-- The title of the source text. --></title>
+                  <imprint>
+                     <publisher><!-- The publisher of the source text. --></publisher>
+                     <pubPlace><!-- The place of publication for the source text. This may be 'born digital'. --></pubPlace>
+                     <date><!-- The date of publication for the source text. --></date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <!-- The tags and content within this element will be determined by the Editor-In-Cheif. -->
+            <segmentation>
+               <!-- This will be determined by the Editor-In-Chief. -->
+               <p>here is a description of how divs work for this text</p>
+            </segmentation>
+            <correction>
+               <!-- This will be determined by the Editor-In-Chief. -->
+               <p>we corrected spelling and indicated as much</p>
+            </correction>
+            <normalization>
+               <!-- This will be determined by the Editor-In-Chief. -->
+               <p>we normalized and indicated as much</p>
+            </normalization>
+         </editorialDecl>
+         
+      </encodingDesc>
+      <profileDesc>
+         <!-- This will be determined by the Editor-In-Chief. -->
+         <abstract>
+            <p>Context for the extracted text. This will indlude historical information and information about the text as a whole. Format is dependent on the text. Example: Outline of issues and article titles from a newspaper.</p>
+         </abstract>
+      </profileDesc>
+      <revisionDesc>
+         <change>See versions of this file at the <ref target="https://github.com/MaryIsbell/ShipboardTheatricals">GitHub</ref> for this project.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <figure><!-- Lion and crest thing --></figure>
+            <head><hi>ROYAL
+               <lb/>ARCTIC CASINO.</hi></head>
+            <ab><lb/>The Manager has the honor to announce 
+               <lb/>that this highly fashionable, and usually
+               <lb/>crowded resort, will be again shortly
+               <lb/><!-- Weird lines? What do I do? -->thowen open
+               <lb/>The <hi>Splendid Suite of Apartments</hi> 
+               <lb/>are re decorated in the old Hyperborean style
+               <lb/><!-- Weird lines again -->at an
+               <lb/><hi>ENORMOUS OUTLAY,
+                  <lb/>OF TIME, TALENT, AND MATERIAL.</hi>
+               <lb/>At teh suggestion of an exalted personage of
+               <lb/>this realm, the Season will close with
+               <lb/>A
+               <lb/><hi>GRAND
+                  <lb/>FANCY DRESS
+                  <lb/>BALL!!</hi>
+               <lb/>On Wednesday, the 14<hi rend="super">th</hi> of Februsry, 1851,
+               <lb/>for which Tickets will be issuesd in due season.
+               <lb/>The M.C. guarantees that the Refreshments
+               <lb/>under the able catership of Madame Gough <!-- REAL WOMAN???? -->
+               <lb/>(from Gunter's) shall realize the most san-
+               <lb/>guine expectations and that the Wines,
+               <lb/>Liqueurs, &amp; &amp;, shall be worthly of his dis-
+               <lb/>tinguished Guests.
+               <lb/><hi>A
+                  <lb/>HIGHLY TALENTED BAND</hi>
+               <lb/>Will Attend.
+               <lb/>N.B. Personages of distinction desiring to
+               <lb/>present addresses to the august <persName>M. C.</persName> must
+               <lb/>announce the same on furnishing their
+               <lb/>Cards at the 
+               <lb/>Grand Entrance
+               <cb/><hi>ROYAL
+               <lb/><figure></figure>
+               <lb/>ARCTIC THEATRE.
+               <lb/>H.M.S ASSISTANCE.</hi>
+               <lb/>LAST NIGHT FOR THE SEASON!!
+               <lb/>On Friday,the 28<hi rend ="superscript">th</hi> February 1851
+               <lb/>Anniversary of Commissioning the Expedition
+               <lb/>will be performed the
+               <lb/>GRAND HISTORICAL DRAMA
+               <lb/>in Two Acts, of
+               <lb/><hi>CHARLES
+               <lb/>THE
+               <lb/>TWELFTH.</hi> //37
+               <castList>
+                  <castItem>
+                     <lb/><role>Charles XII, </role><actor>______________<persName>Lieu<hi rend="superscript">t</hi> Mecham.</persName></actor>
+                     <lb/><role>Adam Brock, </role><actor><persName>M<hi rend="superscript">r</hi> Ede.</persName></actor>
+                     <lb/><role>Maj Vanberg, (as Firman), </role><actor><persName>Cap<hi rend="superscript">t</hi> Ommanney.</persName></actor>
+                     <lb/><role>Gustavus de Mervelt, </role><actor><persName>M<hi rend="superscript">r</hi> Markham.</persName></actor>
+                     <lb/><role>Triptolemus Muddlewerk,</role>_____<actor><persName>F. J. Krable.</persName></actor>
+                     <lb/><role>Gen<hi rend="superscript">l</hi> Duckert, </role><actor><persName>Lieut Cator._</persName></actor>
+                     <lb/><role>Col. Rwichel,</role> <actor><persName>M<hi rend="superscript">r</hi> May</persName></actor>
+                     <lb/><role>Officers, </role><actor><persName>Mess<hi rend="superscript">rs</hi> Richards</persName></actor> and <actor><persName>Shellabear.</persName></actor>
+                     <lb/><role>Eudiga, </role><actor><persName>M<hi rend="superscript">r</hi> M<hi rend="superscript">c</hi>Dougall</persName>._ </actor><role>Ulrica, </role><actor><persName>M<hi rend="superscript">r</hi> Pearse.</persName></actor> 
+                  </castItem>
+               </castList>
+               <lb/>Act 1._ The scenes are laid in the Id. of
+               <lb/>Rugen, Swedish Pomerania. Charles XII in-
+               <lb/>cognito, as an Officer of the Royal Household.
+               <lb/>Act 2._ Scenes in the Town of Stralsund, 
+               <lb/>during a state of siege. Charles in propria persona.
+               <lb/>Entirely new scenery &amp; dresses!!!
+               <lb/>After which, Grand Phantasmagorial
+               <lb/><hi>MAGICAL FIGURES.</hi>
+               <lb/>To conclude with
+               <lb/>THE NEW PANTOMIME OF
+               <lb/><hi>ZERO!</hi>
+               <lb/>Repeated by special desire; and prepared with
+               <lb/>unusual magnificence!
+               <lb/>Doors open at 6o'Clock.___Commence at 6_.30__
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>
