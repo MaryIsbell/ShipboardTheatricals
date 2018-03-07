@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Extracts from The Illustrated Arctic News <!-- What is the actual title? --></title>
+            <editor role="Editor-in-Chief">Mary Isbell</editor>
+            <editor role="Managing_Editor">Anna Kroon</editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>TBD</publisher>
+            <pubPlace>TBD</pubPlace>
+            <date>TBD</date>
+         </publicationStmt>
+         <notesStmt>
+            <!-- ??? How do we want to format this?  Is this where we want to put the detailed outline? -->
+            <note/>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <!-- ?????? We need to find a tag that is the equivalent of imprint, but for manuscript items and even for published items, I'd like to include the library that holds the item-->
+                  <editor>George F McDougal</editor>
+                  <editor>Sherard Osborn</editor>
+                  <title>The Illustrated Arctic News</title>
+                  <imprint>
+                     <publisher>Ackermann</publisher>
+                     <pubPlace>London</pubPlace>
+                     <date><!-- The date of publication for the source text. --></date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <!-- ??????? Do we want these to be written out and typed in to this header or just comments to suggest how to write this? -->
+            <segmentation>
+               <p>here is a description of how divs work for this text</p>
+            </segmentation>
+            <correction>
+               <p>we corrected spelling and indicated as much</p>
+            </correction>
+            <normalization>
+               <p>we normalized and indicated as much</p>
+            </normalization>
+         </editorialDecl>
+
+      </encodingDesc>
+      <profileDesc>
+         <!-- Do we want this? This is kind of like an intro with context and stuff. -->
+      </profileDesc>
+      <revisionDesc>
+         <!-- ???? How do we want to link to the github? Do we need a new project github? -->
+         <change>see versions of this file at github___</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>THE ARCTIC DRAMA <lb/>ADVERTISEMENT.</head>
+            <p>The Managers &amp; Company of the Royal Arctic Theatre, beg to announce their intention of commencing their performances on board
+               H.M.S. "Assistance" on Saturday the 9<hi rend="superscript">th</hi> Nov<hi rend="superscript">r</hi>. 1850, in honor of the anniversary
+               of the birth of H.R.H. the Prince of Wales ._ On which occasion the Captain and Officers will perform the Farce of "Married Life" or
+               "Did you ever send your wife to Camberwell?"_</p>
+            <p>The Entertainment will conclude with the Farce of the "Lottery Ticket" to be performed by the Ship's Company.</p>
+            <p>The Manager trusts that the attention which has been bestowed on the magnificent Scenery, Decorations, &amp;
+               <!-- This might be a plus sign -->Dressesm will be fully rewarded by the approbation of his numerous patrons, &amp; an Arctic
+               Public.</p>
+            <p>He also takes this opportunity of returning his best thanks to that eminent Artist, Lieut: Broune for, his valuable aontributions to
+               the Scenery.</p> 
+         </div>
+      </body>
+   </text>
+</TEI>
