@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><!-- The title of the project here. --></title>
+            <editor role="Editor-in-Chief">Mary Isbell</editor>
+            <editor role="Managing_Editor">Anna Kroon</editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>TBD</publisher>
+            <pubPlace>TBD</pubPlace>
+            <date>TBD</date>
+         </publicationStmt>
+         <notesStmt>
+            <note><!-- Context for the extracted text. Format is dependent on the text. Example: Outline of issues and article titles from a newspaper. --></note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <!-- ?????? We need to find a tag that is the equivalent of imprint, but for manuscript items and even for published items, I'd like to include the library that holds the item-->
+                  <author><!-- The author of the source text. --></author>
+                  <title><!-- The title of the source text. --></title>
+                  <imprint>
+                     <publisher><!-- The publisher of the source text. --></publisher>
+                     <pubPlace><!-- The place of publication for the source text. This may be 'born digital'. --></pubPlace>
+                     <date><!-- The date of publication for the source text. --></date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <!-- The tags and content within this element will be determined by the Editor-In-Cheif. -->
+            <segmentation>
+               <!-- This will be determined by the Editor-In-Chief. -->
+               <p>here is a description of how divs work for this text</p>
+            </segmentation>
+            <correction>
+               <!-- This will be determined by the Editor-In-Chief. -->
+               <p>we corrected spelling and indicated as much</p>
+            </correction>
+            <normalization>
+               <!-- This will be determined by the Editor-In-Chief. -->
+               <p>we normalized and indicated as much</p>
+            </normalization>
+         </editorialDecl>
+
+      </encodingDesc>
+      <profileDesc>
+         <!-- This will be determined by the Editor-In-Chief. -->
+        <abstract>
+           <p>Context for the extracted text. This will indlude historical information and information about the text as a whole. Format is dependent on the text. Example: Outline of issues and article titles from a newspaper.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+         <change>See versions of this file at the <ref target="https://github.com/MaryIsbell/ShipboardTheatricals">GitHub</ref> for this project.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>EDITORS PORTFOLIO.</head>
+            <p><figure><!-- PUT THE FIGURE IN HERE --></figure>ANUARY, 1852 has gone bye the first milestone on out journey towards another Christmas,that it has passed quickly and pleasantly all the squadron could attest, and nothing perhaps has conduced mere to throw cheerfulness around us, than the daily perceptible increase of daylight, How delightful it has been to serve with every fresh day, some distant point of land return again to view, after having been hidden in <cb/>obscurity for weeks how interesting to heair daily each individual repesting some fact which proved satisfactory to his own mind that the days were indeed lengthening.</p>
+            <p>From New Years Eve to Twelfth night we are under the impression that we nearly lived at the hospitable board of the gallant leader of our Ecpedition, hospitality which (we are merely the voice of the public in proclaiming it) seems only to be limited by the number of Chairs in the "Resolute" and the size of the Cabin.</p>
+            <p>On each occasion was pledged with dincerity, the health of Her Majesty <figure><!-- PUT FIGURE IN HERE --></figure><cb/>The Queen! Her Consort and Ministers, the Admiralty, and those at home who both officially and privately had lended so much to the sucess of our enterprise, out safety &amp; our confort.</p>
+            <p>Absent Friends! would they could have heard the cheer that followed, it told volumes for the health and happiness of those upon <cb/>whom the appiness of the absent depend._ las but not least, we pledged out borther Sailors now wintering within the Arctic Circle,_ God send that they have spent an equallly happy winter and if those who entered by Blherings Straits have rescued the gallant men we came to seek pleasing indeed for us, as well as for them, will be the recollection in after years if the Winter 1850.</p>
+            <p>Admirably as we believe all have suceeded in shaking off the tedum of a night of three months duration_ there was one evening especially worthy of remark_ we feel assured it will never be forgot by any one in this expedition_ we allude to the re-opening of the Royal Arctic Theatre on the 9<hi rend="super">th</hi> inst.</p>
+            <p>The Curtain rose for the well known Farce of the "Turned Head", the characters in which were ably supported by Semen and Marines._ </p>
+            <p>The famous Extravaganza of Bombastes Furioso, was next performed by Officers_ the cas of Characters was as follows:_</p>
+            <castList>
+               <castItem> <!-- 35 total characters per line.  -->
+                  <lb/><role>King Artaxominous,</role>______<actor>M<hi rend="super">r</hi> Brookman.</actor>
+                  <lb/><role>Fusbos,</role>_________________<actor>M<hi rend="super">r</hi> Markham.</actor>
+                  <lb/><role>Bombastes,</role>_______________<actor>L<hi rend="super">t</hi> Elliot.</actor>
+                  <lb/><role>Distaffina,</role>______________<actor>M<hi rend="super">r</hi> Cheyne.</actor>
+               </castItem>
+            </castList>
+            <p>We hardly know which to applaud most, the admirable manner in which the pieve was brought to the Stage._ the comic magnificence of the dresses, or the thorough appreciation of the Characters assumed by those Officers who so kindly came forward to conduce to the amusement of their comrades.</p>
+            <p>Sincerely do we thank them for as hearty a laugh, as ever we had in our lives. This rich entertainment closed with an original Pantomime, from the pen of M<hi rend="super">r</hi> Ede, of H.M.S. "Assistance"._ We feel a natural diffidence in criticising the performance of a friend, but this we must say_ that it was admirable, + the Songs introduced in it, told with great effect_ <cb/>especially the one which our worthy cotemporary the " <hi rend="underline">Aurora Borealis</hi> ", has, with its usual good taste introduced in its January number, and we can only wish that the Author may suceed equally well in all he undertakes._ The back scene during the Pantomime, was an Artistic representation of H.M.S. " Assistance", in a <hi rend="underline">Nip</hi>_ every way worthy of the well-established reputation of the Painter, Lieut<hi rend="super">t</hi> Browne.</p>
+            <p>The able remarks of the "<hi rend="underline">Aurora</hi>" on the performances at another place of public amusement, the "Intrepid Saloon", we heartily concue in, and wish the lefsee crowded houses, and unparalleled sucess!</p>
+            <p>A slight interregnum has now occurred in the round of our festivities, shortly to be broken by a Fancy dress Ball at the Royal Arctic Casino. We feel ourselves justified in declaring that it will be crowded by all the youth, rank, &amp; beauty of Griffith's Island_the deep interest taken by some individuals in the parts they intend to assume, we became fully aware of, on scaling a Ravine some three miles off, &amp; finding a somewhat stout brother Officer pracising Clowns antics on a Snow drift, with the temperature above 42° below zero. We remonstrated with our friend, but finding him obstinate, we determined thus to expose his folly_</p>
+            <p>Our correspondents deserve our best thanks for their contributions, &amp; we wish them &amp; our Readers <figure><!-- PUT THE FIGURE IN HERE. --></figure></p>
+         </div>
+      </body>
+   </text>
+</TEI>
