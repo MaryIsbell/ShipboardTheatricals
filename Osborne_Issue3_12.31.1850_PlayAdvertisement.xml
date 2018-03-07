@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><!-- The title of the project here. --></title>
+            <editor role="Editor-in-Chief">Mary Isbell</editor>
+            <editor role="Managing_Editor">Anna Kroon</editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>TBD</publisher>
+            <pubPlace>TBD</pubPlace>
+            <date>TBD</date>
+         </publicationStmt>
+         <notesStmt>
+            <note><!-- Context for the extracted text. Format is dependent on the text. Example: Outline of issues and article titles from a newspaper. --></note>
+         </notesStmt>
+         <sourceDesc><!-- msDesc is not reequired...we will just include this information if the source is unpublished-->
+            <msDesc>
+               <msIdentifier>
+                  <settlement>City where library is located</settlement>
+                  <repository>Name of Library</repository>
+                  <idno>Call number for manuscript</idno>
+               </msIdentifier>
+            </msDesc>
+            <biblStruct>
+               <monogr>
+                  <!-- there are lots of requirements within the biblstruct tag...<monogr> is one of the required components-->
+                  <author><!-- The author of the source text. --></author>
+                  <title><!-- The title of the source text. --></title>
+                  <imprint>
+                     <publisher><!-- The publisher of the source text. --></publisher>
+                     <pubPlace><!-- The place of publication for the source text. This may be 'born digital'. --></pubPlace>
+                     <date><!-- The date of publication for the source text. --></date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <!-- The tags and content within this element will be determined by the Editor-In-Chief for each file. -->
+            <segmentation>
+               <!-- This will be determined by the Editor-In-Chief. -->
+               <p>here is a description of how divs work for this text</p>
+            </segmentation>
+            <correction>
+               <!-- This will be determined by the Editor-In-Chief. -->
+               <p>we corrected spelling and indicated as much</p>
+            </correction>
+            <normalization>
+               <!-- This will be determined by the Editor-In-Chief. -->
+               <p>we normalized and indicated as much</p>
+            </normalization>
+         </editorialDecl>
+
+      </encodingDesc>
+      <profileDesc>
+         <!-- This will be determined by the Editor-In-Chief. -->
+         <abstract>
+            <p>Context for the extracted text. This will indlude historical information and
+               information about the text as a whole. Format is dependent on the text. Example:
+               Outline of issues and article titles from a newspaper.</p>
+         </abstract>
+      </profileDesc>
+      <revisionDesc>
+         <change>See versions of this file at the <ref
+               target="https://github.com/MaryIsbell/ShipboardTheatricals">GitHub</ref> for this
+            project.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <ab>
+               <hi>Royal
+               <lb/>Arctic <figure><!-- How are we placing the figures again? Do I need to crop this? --></figure>Theatre
+               <!-- Ich Dien is part of the image. try putting the caption on it. -->
+               <lb/>H.M.S. ASSISTANCE.</hi>
+               <lb/>Manager, <persName>Capt<hi rend="superscript">n</hi> Ommanney</persName>
+               <lb/>Patronised by <persName>Capt<hi rend="superscript">n</hi> Horatio Austin C.B.</persName>
+               <lb/><hi>GRAND ATTRACTION FOR THE NEW YEAR.</hi>
+               <lb/>On Thursday the 9<hi rend="superscript">th</hi> of January, 1851,
+               <lb/>the Favorite Actors of the Ships Companies
+               <lb/>present will perform the truly laughable
+               <lb/><hi>FARCE OF THE 
+               <lb/>TURNED HEAD.</hi>
+               <lb/>To be followed by the Gran Farcical, Tragical, 
+               <lb/>Melo-dramaical, Serio- Comic
+               <lb/><hi>PLAY OF
+               <lb/>BOMBASTES
+               <lb/>FURIOSO!!!</hi>
+               <lb/>which will be produced by the Officers of
+               <lb/>the Squardon. The only Lady in this piece, has been engaged at an Enormous Sacrifice,
+               <lb/>it being her first appearance on any Stage!!
+               <lb/>The whole to conclude with the entirely
+               <lb/><hi>NEW PANTMIME OF
+               <lb/>ZERO!
+               <lb/>OR HARLEQUIN LIGHT!!</hi>
+               <lb/>Written expressly for the occasion by
+               <lb/>a talented member of the expediditon,
+               <lb/>In which the celebrated Clowns will 
+               <lb/>introduce some of their favorite airs.
+               <lb/>Doos open at 6 o Clock _____ Commence at 6_30
+               <cb/><figure></figure><hi>ROYAL
+               <lb/>INTREPID SALOON.</hi>
+               <lb/>GRAND ATTRACTION!!!
+               <lb/>On Friday, January the 17<hi rend="super">th</hi> 1851, 
+               <lb/>the Performance will commence with
+               <lb/>the celebrated Gallantic Show of 
+               <lb/><hi>MOVING FIGURES!!</hi>
+               <lb/>And conclude with the
+               <lb/><hi>LIFE OF A SAILOR!!</hi>
+               <lb/>in Six Steps. __
+               <lb/>Several Comic Songs will be sung
+               <lb/>between the performances._
+               <lb/>The following Talented Company
+               <lb/>will appear.
+               <lb/>Mess<hi rend="super">rs</hi> Lewis Urguhart, and J.&amp;H. Morgan
+               <lb/>Doors open at 6 o'Clock. _ Commence at 6_30._
+               <lb/>N.B._ Children in arms not admitted
+               <!-- This might be a note from the lithographer. Insert note. -->
+               <lb/>N.B. The large type headings as well as
+               <lb/>the Arms and devices were cut in
+               <lb/>board by the Seamen.
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>
