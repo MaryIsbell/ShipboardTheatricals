@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head rend="main">Calcutta Lyric Thetre.</head>
+            <head rend="sub">(for the denefit of the "Indian Relief Fund")</head>
+            <p>The Amatures of H.M.S. "Chesapeake" will on Thrusday next, 25<hi rend="superscript">th</hi> February, perform the most admired, and
+               highly romantic Drama of "The Seven Clerks", (a legend of Marseilles) to be followed by a "Nautical Hornpipe" &amp;c, the whole to
+               concluded with the laughable, Burlesque, Tragic Opera "Bombastes Furioso." The splendid Band of H.M.S. "Chesapeke" will attend under
+               their talented Master, <gap reason="illegible" quantity="4" unit="chars"/> Juan Faustin<gap reason="illegible" quantity="1"
+                  unit="chars"/></p>
+         </div>
+      </body>
+   </text>
+</TEI>
