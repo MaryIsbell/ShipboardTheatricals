@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><!-- The title of the project here. --></title>
+            <editor role="Editor-in-Chief">Mary Isbell</editor>
+            <editor role="Managing_Editor">Anna Kroon</editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>TBD</publisher>
+            <pubPlace>TBD</pubPlace>
+            <date>TBD</date>
+         </publicationStmt>
+         <notesStmt>
+            <note><!-- Context for the extracted text. Format is dependent on the text. Example: Outline of issues and article titles from a newspaper. --></note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <!-- ?????? We need to find a tag that is the equivalent of imprint, but for manuscript items and even for published items, I'd like to include the library that holds the item-->
+                  <author><!-- The author of the source text. --></author>
+                  <title><!-- The title of the source text. --></title>
+                  <imprint>
+                     <publisher><!-- The publisher of the source text. --></publisher>
+                     <pubPlace><!-- The place of publication for the source text. This may be 'born digital'. --></pubPlace>
+                     <date><!-- The date of publication for the source text. --></date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <!-- The tags and content within this element will be determined by the Editor-In-Cheif. -->
+            <segmentation>
+               <!-- This will be determined by the Editor-In-Chief. -->
+               <p>here is a description of how divs work for this text</p>
+            </segmentation>
+            <correction>
+               <!-- This will be determined by the Editor-In-Chief. -->
+               <p>we corrected spelling and indicated as much</p>
+            </correction>
+            <normalization>
+               <!-- This will be determined by the Editor-In-Chief. -->
+               <p>we normalized and indicated as much</p>
+            </normalization>
+         </editorialDecl>
+
+      </encodingDesc>
+      <profileDesc>
+         <!-- This will be determined by the Editor-In-Chief. -->
+         <abstract>
+            <p>Context for the extracted text. This will indlude historical information and information about the text as a whole. Format is dependent
+               on the text. Example: Outline of issues and article titles from a newspaper.</p>
+         </abstract>
+      </profileDesc>
+      <revisionDesc>
+         <change>See versions of this file at the <ref target="https://github.com/MaryIsbell/ShipboardTheatricals">GitHub</ref> for this
+            project.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Events of the Month of February.</head>
+         <p>The close of February and the first week of March 1851, are replete with interest, and mark a fresh epoch in the fast changing history of
+            our eventful sojourn in the Northern Regions</p>
+         <pb/>
+         <p>The arrival of the Sun in our heavens, was we may say commemorated by the Fancy Dress Ball_ of it we have elsewhere spoken. Hardly had our
+            daylight extende itself to the length of ten hours, when <persName>M<hi rend="superscript">r</hi> Hamilton</persName> &amp; <persName>D<hi
+                  rend="superscript">r</hi> Bradford</persName> with a Sledge, &amp; a party of Seamen, performed a pedestrian feat by walking to the Expeditions.<figure>
+               <caption>Scene from the Pantomime of 'Zero'</caption>
+            </figure> wintering under Cornwallis Island, and we rejoiced ot see them returned with some of our gallant friends who kindly came over to
+            pay us a visit, &amp; merriment in their little Society as well as our own.</p>
+         <p>The 'Assistance' had made arrangements to celebrate the anniversary of our Expedition having been put into commission by a performance on
+            the boards of the Royal Arctic Theatre, unhappily a very severe gale of wind prevented this thier intention, being carried into effect,
+            and the performance as well as the closing of the Theatre was unavoidably postponed to the 4<hi rend="superscript">th</hi> of March.</p>
+         <p>On that Evening a crowded house proved how unabated was the interest fled in a Stage which has been a source of great amusement throughout
+            the Squadron<cb/><figure>
+               <caption>Scene from Charles XII.</caption>
+            </figure></p>
+         <p>Not small are the obligations which the non performers labour under to the many individuals who have in such divers
+            <!-- This can't be the right word -->manners tended to the general amusement. Managers, Actors, Painters, Prompters, and Scene Shifters,
+            <!-- etc etc --></p>
+         <p>"Nobly each &amp; all their means have used" as the neat Epilogue truthfully says_ ans the result has been a Theatre unequalled in
+            excellence by any Squadron, &amp; reflecting no small credit on the 'Assistances' in general_ especially when it be remembered that the
+            performances have taken place on the Upper Deck with the external temperature as low as 30° below zero.</p>
+         <p>The Original Pantomime of Zero, was again performed, and had been evidently much improved. A new Song or two was introduced &amp; the
+            indefatigable <persName>M<hi rend="superscript">r</hi> Dean</persName> astonished the Audience by his clever imitation of a Bear &amp; a
+            Fox.</p>
+         <p>A witty &amp; highly diverting explanation of the figures exhibited by a Magic Lanthorn next followed in rapid succession and as the
+            Family Herald would say "we were constantly thrown into a sweet agony of joy &amp; sorrow," by the sudden transition from the burning of
+            Hindov Widows, to the bombardment of Jean d'Acre.</p>
+         <pb/>
+         <p>The pretty drama of Charles the 12<hi rend="superscript">th</hi> with the following Cast of Characters:_ <castList>
+               <castItem>
+                  <lb/><role>Charles XII,</role>___<actor><persName>L<hi rend="superscript">t</hi> Mecham.</persName></actor>
+               </castItem>
+               <castItem><lb/><role>Major Vauberg,</role>___<actor><persName>Capt<hi rend="superscript">n</hi> Ommanney</persName></actor></castItem>
+               <castItem><lb/><role>Adam Brock,</role>___<actor><persName>M<hi rend="superscript">r</hi> Ede</persName></actor></castItem>
+               <castItem><lb/><role>Triptolemus Muddlewerk,</role>___<actor><persName>M<hi rend="superscript">r</hi>
+                  Krabbe</persName></actor></castItem>
+               <castItem><lb/><role>Gustavus de Mervelt,</role>___<actor><persName>M<hi rend="superscript">r</hi>
+                  Markham</persName></actor></castItem>
+               <castItem><lb/><role>Colonel Reichil,</role>___<actor><persName>M<hi rend="superscript">r</hi> May</persName></actor></castItem>
+               <castItem><lb/><role>General Duckerst,</role>___<actor><persName>L<hi rend="superscript">t</hi> Cator</persName></actor></castItem>
+               <castItem><lb/><role>Officers,</role>___<actor><persName>Mess<hi rend="superscript">re</hi>
+                        Richards</persName></actor>&amp;<actor><persName>Shellabeer</persName></actor></castItem>
+               <lb/>
+               <castGroup rend="braced">
+                  <roleDesc>Women</roleDesc>
+                  <castItem><role>Eudiga</role>___<actor>M<hi rend="superscript">r</hi> M<hi rend="superscript">c</hi>Dougall</actor></castItem>
+                  <lb/>
+                  <castItem><role>Ulrica</role>___<actor>M<hi rend="superscript"> Pearse</hi></actor></castItem>
+               </castGroup>
+
+            </castList>
+            <lb/>closed the Evening's entertainment._ From the Royal Swede to the Officer of the Guard, all the parts were admirably sustained. Adam
+            Brock was as like as the original as the imagination could picture it, and the worthy Burgomaster kept the Company in roard of laughter._
+            Firman looked the picture of conscious innocence, and appeared fully alive to the fact that altho innocent, he might yet be drawn &amp;
+            quartered for Royal pleasure or Stage effect.</p>
+         <p>Oh!for a Crowgwill to tell of the facinating performance of Eudiga &amp; Ulrica. England's fiar daughters would have seen the truthful
+            representationof the loves of Ulrica &amp; Gustavus de Mervelt, or Eudiga &amp; Coln<hi rend="superscript">l</hi> Richel.</p>
+         <p>Where the young ladies could possibly have aquired the subtle knowledge they displayed in the woeful intricacy of female attire, we know
+            not, suffice it, that not a <hi rend="underline">point</hi> was missing._ As a finale the Manager delivered, <lb/><hi>The following
+               Epilouge, <lb/>from the pen of M<hi rend="superscript">r</hi> Ede._</hi>
+            <lg>
+               <l>When first this Curtain rose, we strove to say,</l>
+               <l>All our sucess in your applause would lay.</l>
+               <l>Thus trusting we have tried, &amp; not in vain,</l>
+               <l>To hear your laughter o'er &amp; o'er again.</l>
+               <l>One sole regret we had, until to night,</l>
+               <cb/>
+               <l>That those so near, could not with us unite;</l>
+               <l>And in this mimic world, the hourse beguile,</l>
+               <l>Where all must feel the want od woman's smile.</l>
+               <l>But now 'tis o'er, the flow'r of day expands,</l>
+               <l>And greedy time new sacrifice demands.</l>
+               <l>The strength of youth, the wisdom of the sage.</l>
+               <l>Must soon appear upon life's boundless stage.</l>
+               <l>Amusement then to duty will give place,</l>
+               <l>And lines of thought will mark the anxious face,</l>
+               <l>In merriment &amp; fun we've joinged together,</l>
+               <l>Defying coul &amp; every change of weather.</l>
+               <l>Nobly each and all their means have used,</l>
+               <l>First the Amusers, then in turn the Amused,</l>
+               <l>In health &amp; happiness the time has fled;</l>
+               <l>And bright success on all, its rays has shed.</l>
+               <l>That our next efforts may as well succeed,</l>
+               <l>Is the great wish in which we're all agreed.</l>
+            </lg></p>
+         <p>The Curtain then dropped amidst the loud cheets of a delighted audience, and thus concluded the performacnes of the Royal Arctic Theatre.
+            A supper &amp; Refereshment, were as usual hospitably provide by the 'Jolly Assistances', to which right good justice was done by <figure>
+               <caption>Scene from Charles XII.</caption>
+            </figure>Midnight the time consuming gaities of out Arctic Winter had passed away and we rose on the morrow, to look forward and prepare
+            for the great &amp; glorious labour before us.</p>
+      </body>
+   </text>
+</TEI>
