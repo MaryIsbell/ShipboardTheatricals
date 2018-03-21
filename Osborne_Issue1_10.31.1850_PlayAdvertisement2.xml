@@ -53,45 +53,32 @@
       </encodingDesc>
       <profileDesc>
          <!-- This will be determined by the Editor-In-Chief. -->
-        <abstract>
-           <p>Context for the extracted text. This will indlude historical information and information about the text as a whole. Format is dependent on the text. Example: Outline of issues and article titles from a newspaper.</p>
-        </abstract>
+         <abstract>
+            <p>Context for the extracted text. This will indlude historical information and information about the text as a whole. Format is dependent
+               on the text. Example: Outline of issues and article titles from a newspaper.</p>
+         </abstract>
       </profileDesc>
       <revisionDesc>
-         <change>See versions of this file at the <ref target="https://github.com/MaryIsbell/ShipboardTheatricals">GitHub</ref> for this project.</change>
+         <change>See versions of this file at the <ref target="https://github.com/MaryIsbell/ShipboardTheatricals">GitHub</ref> for this
+            project.</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <ab> Opening of the
-               <lb/>Royal Arctic Theatre.
-                  <lb/><hi>H.M.S. ASSISTANCE,</hi>
-                  <lb/>In honor of the birthday of H.R.H
-                  <lb/>the Prince of Wales.
-                  <lb/>Manager. _ <persName>Capt<hi rend="superscript">n</hi> Ommanney</persName><!-- Needs XMLID -->
-                  <lb/>Under the patronage of <persName>Capt<hi rend="superscript">n</hi> Hor. Austin, C<gap quantity="1" unit="chars" reason="illegible"/></persName><!-- Needs XMLID --> 
-                  <lb/>On Saturday the 9<hi rend="superscript">th</hi> Nov<hi rend="superscript">r</hi> 1850;
-                  <lb/>will be performed by the Captain &amp; Officers
-                  <lb/>the populat laughable Farce of
-                  <lb/><hi>MARRIED LIFE!</hi>
-                  <lb/>or
-                  <lb/><hi>DID YOU EVER SEND YOUR WIFE
-                  <lb/>TO CAMERWELL?</hi>
-                  <lb/>After which several Comic Songs, and 
-                  <lb/>the Orchestra will perform some of the most 
-                  <lb/>select Pieces!
-                  <lb/>The whole to conclude with the much ad
-                  <lb/>-missed Farce of
-                  <lb/>THE
-                  <lb/><hi>LOTTERY TICKET!</hi>
-                  <lb/>Which will be performed by the Ship's Com
-                  <lb/>pany, and embraces scenes of great interest!!
-                  <lb/>The Scenery had been prepared by the most eminent artists; and together with the Dress<gap></gap> are on a scale of unrivalled magnificence!
-                  <lb/>A splendid Drop Scene by <persName>Lieut Browne</persName><!-- Needs XMLID -->!
-                  <lb/>Doors open at 6 o'clock. _______ Commence at 6.30.
-               <lb/>The Police are directed to take in charge a<gap quantity="1" unit="chars" reason="illegible"/> disorderly Women &amp; dogs.
-           </ab>
+            <ab>Opening of the <lb/>Royal Arctic Theatre, <lb/><hi>H.M.S. ASSISTANCE,</hi>
+               <lb/>In honor of the birthday of H.R.H. <lb/>the Prince of Wales. <lb/>Manager. _ <persName>Capt<hi rend="superscript">n</hi>.
+                  Ommanney</persName><!-- Needs XMLID -->
+               <lb/>Under the patronage of <persName>Capt<hi rend="superscript">n</hi>. Hor<hi rend="superscript">o</hi>. Austin, C.B.</persName><!-- Needs XMLID -->
+               <lb/>On Saturday the 9<hi rend="superscript">th</hi> Nov<hi rend="superscript">r</hi>. 1850; <lb/>will be performed by the Captain
+               &amp; Officers, <lb/>the popular laughable Farce of <lb/><hi>MARRIED LIFE! <lb/>or <lb/>DID YOU EVER SEND YOUR WIFE <lb/>TO
+                  CAMERWELL?</hi>
+               <lb/>After which several Comic Songs, and <lb/>the Orchestra will perform some of the most <lb/>select Pieces! <lb/>The whole to
+               conclude with the much ad- <lb/>-mired Farce of <lb/><hi>THE <lb/>LOTTERY TICKET!</hi>
+               <lb/>Which will be performed by the Ship's Com- <lb/>pany, and embraces scenes of great interest!! <lb/>The Scenery has been prepared
+               by the most <lb/>eminent artists; and together with the Dresses <lb/>are on a scale of unrivalled magnificence!_ <lb/>A splendid Drop
+               Scene by <persName>Lieut: Browne</persName><!-- Needs XMLID -->! <lb/>Doors open at 6 o'Clock. _______ Commence at 6. 30. <lb/>The
+               Police are directed to take in charge all <lb/>disorderly Women &amp; dogs. <lb/>F.J.K. Printer. <!-- Bib tag? --></ab>
          </div>
       </body>
    </text>
