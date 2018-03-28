@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><!-- The title of the project here. --></title>
+            <editor role="Editor-in-Chief">Mary Isbell</editor>
+            <editor role="Managing_Editor">Anna Kroon</editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>TBD</publisher>
+            <pubPlace>TBD</pubPlace>
+            <date>TBD</date>
+         </publicationStmt>
+         <notesStmt>
+            <note><!-- Context for the extracted text. Format is dependent on the text. Example: Outline of issues and article titles from a newspaper. --></note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <!-- ?????? We need to find a tag that is the equivalent of imprint, but for manuscript items and even for published items, I'd like to include the library that holds the item-->
+                  <author><!-- The author of the source text. --></author>
+                  <title><!-- The title of the source text. --></title>
+                  <imprint>
+                     <publisher><!-- The publisher of the source text. --></publisher>
+                     <pubPlace><!-- The place of publication for the source text. This may be 'born digital'. --></pubPlace>
+                     <date><!-- The date of publication for the source text. --></date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <!-- The tags and content within this element will be determined by the Editor-In-Cheif. -->
+            <segmentation>
+               <!-- This will be determined by the Editor-In-Chief. -->
+               <p>here is a description of how divs work for this text</p>
+            </segmentation>
+            <correction>
+               <!-- This will be determined by the Editor-In-Chief. -->
+               <p>we corrected spelling and indicated as much</p>
+            </correction>
+            <normalization>
+               <!-- This will be determined by the Editor-In-Chief. -->
+               <p>we normalized and indicated as much</p>
+            </normalization>
+         </editorialDecl>
+
+      </encodingDesc>
+      <profileDesc>
+         <!-- This will be determined by the Editor-In-Chief. -->
+        <abstract>
+           <p>Context for the extracted text. This will indlude historical information and information about the text as a whole. Format is dependent on the text. Example: Outline of issues and article titles from a newspaper.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+         <change>See versions of this file at the <ref target="https://github.com/MaryIsbell/ShipboardTheatricals">GitHub</ref> for this project.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="article">
+            <p><gap reason="indesipherable" quantity="6" unit="chars"></gap> together as we are for years, has <gap reason="indesipherable" quantity="8" unit="chars"></gap> it became that we should endeavour to conjoin friendship with <gap reason="indesipherable" quantity="10" unit="chars"></gap> and around <gap reason="indesipherable" quantity="6" unit="chars"></gap> with duty, in order that we may and somtime of our floating home.</p>
+            <p>We must have <gap reason="indesipherable" quantity="7" unit="chars"></gap>to some <gap reason="indesipherable" quantity="5" unit="chars"></gap> of <gap reason="indesipherable" quantity="6" unit="chars"></gap>the weary hours which lie heavily on our hands;_ and what can be more <gap reason="indesipherable" quantity="8" unit="chars"></gap> than to take up our <gap reason="indesipherable" quantity="4" unit="chars"></gap> and <gap reason="indesipherable" quantity="4" unit="chars"></gap><gap reason="indesipherable" quantity="4" unit="chars"></gap>the ideas which <gap reason="indesipherable" quantity="3" unit="chars"></gap><gap reason="indesipherable" quantity="4" unit="chars"></gap>with the tide of season._</p>
+            <p>It is this <gap reason="indesipherable" quantity="7" unit="chars"></gap><gap reason="indesipherable" quantity="5" unit="chars"></gap>there Ideas which are dear to undertake or <gap reason="indesipherable" quantity="4" unit="chars"></gap><gap reason="indesipherable" quantity="4" unit="chars"></gap>are may <gap reason="indesipherable" quantity="5" unit="chars"></gap>our of <gap reason="indesipherable" quantity="5" unit="chars"></gap><gap reason="indesipherable" quantity="7" unit="chars"></gap>by out shipmates.</p>
+            <p>We lack <gap reason="indesipherable" quantity="10" unit="chars"></gap>; it is <gap reason="indesipherable" quantity="5" unit="chars"></gap>in the <gap reason="indesipherable" quantity="10" unit="chars"></gap><gap reason="indesipherable" quantity="6" unit="chars"></gap>, hwo, <cb/>too <gap reason="indesipherable" quantity="8" unit="chars"></gap>to give it forth in public, may <gap reason="indesipherable" quantity="3" unit="chars"></gap><gap reason="indesipherable" quantity="6" unit="chars"></gap>to see it appear in black &amp; white, <gap reason="indesipherable" quantity="10" unit="chars"></gap> from <gap reason="indesipherable" quantity="2" unit="chars"></gap> <gap reason="indesipherable" quantity="6" unit="chars"></gap> source._</p>
+            <p>Wit is like a <gap reason="indesipherable" quantity="8" unit="chars"></gap>, it <gap reason="indesipherable" quantity="4" unit="chars"></gap><gap reason="indesipherable" quantity="8" unit="chars"></gap> sparkle on <gap reason="indesipherable" quantity="10" unit="chars"></gap><gap reason="indesipherable" quantity="4" unit="chars"></gap>, <gap reason="indesipherable" quantity="4" unit="chars"></gap>more <gap reason="indesipherable" quantity="8" unit="chars"></gap> require labour to bring it forth.</p>
+            <p>Amongst so <gap reason="indesipherable" quantity="5" unit="chars"></gap> it is next to <gap reason="indesipherable" quantity="4" unit="chars"></gap></p>
+            <p></p>
+         </div>
+      </body>
+   </text>
+</TEI>
