@@ -12,7 +12,7 @@
             <respStmt>
                <resp>Transcription, encoding, and notes</resp>
                <name xml:id="initials">Mary Isbell</name>
-            </respStmt>           
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -20,13 +20,12 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <publisher>TAPAS</publisher>           
+            <publisher>TAPAS</publisher>
             <date>2018</date>
             <availability>
-               <p>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-               </p>
+               <p>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. </p>
             </availability>
-         </publicationStmt>        
+         </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -47,6 +46,13 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>column breaks have not been retained, superscript has not been retained. Individual paragraphs have not been captured, making it seem
+               like an entire contribution is one complete paragraph, which is not the case. Only the beginning of the contribution has been
+               transcribed, followed by [...] indicating additional content to be transcribed.</p>
+         </editorialDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
@@ -55,16 +61,55 @@
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 20th November 1858</head>
-            <head type="sub">Vol 1.              No 42</head>
-            <cb n="1"/>
+            <head type="sub">Vol 1. No 42</head>
             <div type="article">
-
-               <p>
-                  Our stay at Jeddah has worn a very monotonous aspect. Strangers, to the shore, we have only been able to gaze from our bulwarks on
-                  teh far spreading sands, and barren hills of Arabia, and sigh to don the garment of some Mecca pilgrim, mount on the hump of some
-                  fleet camel, and all Christian as we are, penetrate into the holiest shrines, and sanctuaries of Islam.
+               <p> Our stay at Jeddah has worn a very monotonous aspect. Strangers, to the shore, we have only been able to gaze from our bulwarks on
+                  the far spreading sands, and barren hills of Arabia, and sigh to don the garment of some Mecca pilgrim, mount on the hump of some
+                  fleet camel, and all Christian as we are, penetrate into the holiest shrines, and sanctuaries of Islam. [...]<pb n="TYI1422"/>[...]
                </p>
-               
+            </div>
+            <div type="article">
+               <head>Sailing up the Red Sea.</head>
+               <p>Sunday Morning 17 Octr. Having sailed with a fair breeze from Aden yesterday afternoon, we are this morning in sight of the straits
+                  of Babel-Mandel. [...details the ship approaching Jeddah with the help of a Arab pilot named Abdullah...] <pb n="TYI1423"/>[...]</p>
+            </div>
+            <div type="poem">
+               <head>Tuesday 19 Octr 1858</head>
+               <lg>
+                  <l>The sun had past his highest point, the sea was calm &amp; bright</l>
+                  <l>The ship was slowly urged along, by breezes soft and light</l>
+                  <l>[...9 quatrains of verse describing a shark eating a midshipman's jacket and then being caught and eaten by the crew]</l>
+               </lg>
+            </div>
+            <div type="article">
+               <head>The Late Comet.</head>
+               <p>We are sorry that the very brief notes taken by "our own Observer", will not permit us to give any elaborate or scientific account
+                  of this beautiful heavenly visitor. It was on teh Evening of Septr 30th after dropping anchor at Aden, that our attention was first
+                  called to see teh bright stranger, which had made its appearance, unpredicted, &amp; unannounced among the celestial bodies of the
+                  Northern Hemisphere.[...]<pb n="TYI1424"/>[...]</p>
+            </div>
+            <div type="Naval_Intelligence">
+               <head>Naval Intelligence</head>
+               <p>22nd Octr. H.M.S. Chesapeake arrived at Jeddah on Friday 22nd at 5 P.M. having been piloted in through the outer reefs by Mr Mayes
+                  Master of the Cyclops. [...]</p>
+            </div>
+            <div type="Epitome">
+               <head>Epitome</head>
+               <p>On Monday Oct 25 preparations were made for the reception of His Excellency Nemuk Pacha, and the English &amp; French Commissioners,
+                  but his Excellency being indiscposed after visiting the "Pelorus" was unable to visit us. The Commissioners however came on board
+                  and inspected the ship.[...general reports of storms and boredom]</p>
+            </div>
+            <div type="Facetiae">
+               <head>Facetiae</head>
+               <p>A shocking punster, hearing that Jeddah was celebrated for Turquoise, said that if Turks &amp; Arabs were on unfriendly terms, no
+                  doubt plenty of "Turk Wars" would be the result. [...other puns]</p>
+            </div>
+            <div type="Enigma">
+               <head>Enigma</head>
+               <lg>
+                  <l>BOrne on the wing of yon dark plumag'd bird</l>
+                  <l>High o'er the earth how oft I took my flight:[...three quatrains of a riddle]</l>
+               </lg>
             </div>
          </div>
       </body>
