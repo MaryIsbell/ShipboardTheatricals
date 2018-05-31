@@ -57,7 +57,7 @@
    <text>
       <body>
          <pb n="TYI1421"/>
-         <div n="7" type="issue">
+         <div n="42" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 20th November 1858</head>
@@ -107,11 +107,55 @@
             <div type="Enigma">
                <head>Enigma</head>
                <lg>
-                  <l>BOrne on the wing of yon dark plumag'd bird</l>
+                  <l>Bone on the wing of yon dark plumag'd bird</l>
                   <l>High o'er the earth how oft I took my flight:[...three quatrains of a riddle]</l>
                </lg>
             </div>
+            <div type="Answer_Rebus">
+               <head/>
+               <lg>
+                  <l>!Tis the Emerald Isle where the rough jaunting "car".</l>
+                  <l>Will bear you in country or town [in verse explaining that the answer is "carnation"]</l>
+               </lg>
+            </div>
+            <div type="Publication_Information">
+               <head>The Young Idea</head>
+               <lg>
+                  <l>Published at the office No 1 POrt St Chesapeake, every Saturday[...]</l>
+               </lg>
+            </div>
          </div>
+         <pb n="TYI1431"/>
+         <div n="43" type="issue">
+            <head type="main">"The Young Idea"</head>
+            <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+            <head type="sub">Saturday 27th November 1858</head>
+            <head type="sub">Vol 1. No 43</head><div type="article"><p>Our past week has produced one circumstance which had caused some little
+               excitement amongst the squadron, and has for a short period dispeled the monotony of our life; we refer to the race between our Barge
+               and the "Pelorus's" Cutter.[...]<pb n="TYI1432"/>[...]</p><div type="article"><head>Jeddah, our Visit to Namik Pacha.</head><head
+                  type="sub">Tuesday
+                  26 Octr 1858</head><p>We left our ship, a large party of us, in three Boats at half past 8 a.m., and after various difficulties in
+                     avoiding coral rocks, and crossing shoal Water, came alongside teh Jetty near the Southern extremity of teh Town. Here we
+                     perceived the KaimaKhan, or Governor of Jeddah dressed in purple uniform coat, and attended by teh Harbour Master in his suit of
+                     brown cloth, waiting to receive us. He shook each one by teh hand as we ascended the steps &amp; Passing under the gateway, found
+                  a number of Arab steeds in gay trappings, &amp; saddles, ready for us to mount. We formed a brilliant cavalcade, as we set out on
+                  our progress thro' the town. We were 20 in all, and all attired in our uniform frock coats &amp; swords with white flowing turbans
+                  encircling our caps. Captains Pullen, and Parkin led teh way, attended by teh Kaima Khan, while we followed by twos and threes, and
+                  well armed Turkish attendants, Bashi Bazouks we believe with plenty of silver mounted pistols at their girdles welked at our horses
+                  heads. After passing an open space in which loungers were sitting smoking hookahs, and drinking coffee, &amp; camels lying wiht
+                  piles of goods around them, our road lay thro' the long winding streets of the Bazaars, where articles of every description were
+                  exposed for Sale, &amp; human faces of every shape and color met the view. There was so much novelty to attract the eye; that it was
+                  difficult to notice anything occurately. The Bazaars were so narrow that two horsemen could with difficulty ride abreast, without
+                  pushing against the wares on either side. In some parts swarms of flies rendered our progress annoying. There were broad vessels
+                  piled up with dates, or melons, or pomegranates, or oranges; trays on which large broad cakes, or other eatables were exposed for
+                  sale. shops in which the porous water coolers, and other simple earthenwares were hangingin, or silks and muslins of various kinds,
+                  or strings of breads, amber black or white coral or cornelian, such as devout Musselmen use in prayer, or Turkish slippers; or long
+                  pipes and outhpieces; all whihc for a moment only caught the eye as our steeds passed on. The human faces most attracted us, the
+                  light hughed caucasian features of the Turk., the well bronzed countenance of teh native Arab the broad Ethiopian visage of teh
+                  black slave, teh veiled face of some female, <choice><orig>here</orig><corr>her</corr></choice> eyes only peering thro' the white
+                     muslin "yek-mesh", the scowling gaze of the wild Bedouin as he stood erect in his uncleanly brown robe, his head enveloped in a
+                     cowl, with his hand ready at the [...]</p></div>
+         </div></div>
       </body>
    </text>
 </TEI>
