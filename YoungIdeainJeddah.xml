@@ -56,7 +56,7 @@
    </teiHeader>
    <text>
       <body>
-         <pb n="TYI1421"/>
+         <pb n="IMG_0286" facs="https://farm2.staticflickr.com/1740/40668620790_f4ce895caa_k_d.jpg"/>
          <div n="42" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -130,32 +130,72 @@
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 27th November 1858</head>
-            <head type="sub">Vol 1. No 43</head><div type="article"><p>Our past week has produced one circumstance which had caused some little
-               excitement amongst the squadron, and has for a short period dispeled the monotony of our life; we refer to the race between our Barge
-               and the "Pelorus's" Cutter.[...]<pb n="TYI1432"/>[...]</p><div type="article"><head>Jeddah, our Visit to Namik Pacha.</head><head
-                  type="sub">Tuesday
-                  26 Octr 1858</head><p>We left our ship, a large party of us, in three Boats at half past 8 a.m., and after various difficulties in
-                     avoiding coral rocks, and crossing shoal Water, came alongside teh Jetty near the Southern extremity of teh Town. Here we
-                     perceived the KaimaKhan, or Governor of Jeddah dressed in purple uniform coat, and attended by teh Harbour Master in his suit of
-                     brown cloth, waiting to receive us. He shook each one by teh hand as we ascended the steps &amp; Passing under the gateway, found
-                  a number of Arab steeds in gay trappings, &amp; saddles, ready for us to mount. We formed a brilliant cavalcade, as we set out on
-                  our progress thro' the town. We were 20 in all, and all attired in our uniform frock coats &amp; swords with white flowing turbans
-                  encircling our caps. Captains Pullen, and Parkin led teh way, attended by teh Kaima Khan, while we followed by twos and threes, and
-                  well armed Turkish attendants, Bashi Bazouks we believe with plenty of silver mounted pistols at their girdles welked at our horses
-                  heads. After passing an open space in which loungers were sitting smoking hookahs, and drinking coffee, &amp; camels lying wiht
-                  piles of goods around them, our road lay thro' the long winding streets of the Bazaars, where articles of every description were
-                  exposed for Sale, &amp; human faces of every shape and color met the view. There was so much novelty to attract the eye; that it was
-                  difficult to notice anything occurately. The Bazaars were so narrow that two horsemen could with difficulty ride abreast, without
-                  pushing against the wares on either side. In some parts swarms of flies rendered our progress annoying. There were broad vessels
-                  piled up with dates, or melons, or pomegranates, or oranges; trays on which large broad cakes, or other eatables were exposed for
-                  sale. shops in which the porous water coolers, and other simple earthenwares were hangingin, or silks and muslins of various kinds,
-                  or strings of breads, amber black or white coral or cornelian, such as devout Musselmen use in prayer, or Turkish slippers; or long
-                  pipes and outhpieces; all whihc for a moment only caught the eye as our steeds passed on. The human faces most attracted us, the
-                  light hughed caucasian features of the Turk., the well bronzed countenance of teh native Arab the broad Ethiopian visage of teh
-                  black slave, teh veiled face of some female, <choice><orig>here</orig><corr>her</corr></choice> eyes only peering thro' the white
-                     muslin "yek-mesh", the scowling gaze of the wild Bedouin as he stood erect in his uncleanly brown robe, his head enveloped in a
-                     cowl, with his hand ready at the [...]</p></div>
-         </div></div>
+            <head type="sub">Vol 1. No 43</head>
+            <div type="article">
+               <p>Our past week has produced one circumstance which had caused some little excitement amongst the squadron, and has for a short period
+                  dispeled the monotony of our life; we refer to the race between our Barge and the "Pelorus's" Cutter.[...]<pb n="TYI1432"/>[...]</p>
+               <div type="article">
+                  <head>Jeddah, our Visit to Namik Pacha.</head>
+                  <head type="sub">Tuesday 26 Octr 1858</head>
+                  <p>We left our ship, a large party of us, in three Boats at half past 8 a.m., and after various difficulties in avoiding coral
+                     rocks, and crossing shoal Water, came alongside teh Jetty near the Southern extremity of teh Town. Here we perceived the
+                     KaimaKhan, or Governor of Jeddah dressed in purple uniform coat, and attended by teh Harbour Master in his suit of brown cloth,
+                     waiting to receive us. He shook each one by teh hand as we ascended the steps &amp; Passing under the gateway, found a number of
+                     Arab steeds in gay trappings, &amp; saddles, ready for us to mount. We formed a brilliant cavalcade, as we set out on our
+                     progress thro' the town. We were 20 in all, and all attired in our uniform frock coats &amp; swords with white flowing turbans
+                     encircling our caps. Captains Pullen, and Parkin led teh way, attended by teh Kaima Khan, while we followed by twos and threes,
+                     and well armed Turkish attendants, Bashi Bazouks we believe with plenty of silver mounted pistols at their girdles welked at our
+                     horses heads. After passing an open space in which loungers were sitting smoking hookahs, and drinking coffee, &amp; camels lying
+                     wiht piles of goods around them, our road lay thro' the long winding streets of the Bazaars, where articles of every description
+                     were exposed for Sale, &amp; human faces of every shape and color met the view. There was so much novelty to attract the eye;
+                     that it was difficult to notice anything occurately. The Bazaars were so narrow that two horsemen could with difficulty ride
+                     abreast, without pushing against the wares on either side. In some parts swarms of flies rendered our progress annoying. There
+                     were broad vessels piled up with dates, or melons, or pomegranates, or oranges; trays on which large broad cakes, or other
+                     eatables were exposed for sale. shops in which the porous water coolers, and other simple earthenwares were hangingin, or silks
+                     and muslins of various kinds, or strings of breads, amber black or white coral or cornelian, such as devout Musselmen use in
+                     prayer, or Turkish slippers; or long pipes and outhpieces; all whihc for a moment only caught the eye as our steeds passed on.
+                     The human faces most attracted us, the light hughed caucasian features of the Turk., the well bronzed countenance of teh native
+                     Arab the broad Ethiopian visage of teh black slave, teh veiled face of some female, <choice>
+                        <orig>here</orig>
+                        <corr>her</corr>
+                     </choice> eyes only peering thro' the white muslin "yek-mesh", the scowling gaze of the wild Bedouin as he stood erect in his
+                     uncleanly brown robe, his head enveloped in a cowl, with his hand ready at the [...interesting exchange about tobacco as snuff,
+                     with Pasha saying it was "good for the gums" and his inquiries about the men in black, who it turns out where the chaplains,
+                     described by Parkin as "the two professors who instructed teh youths in theology &amp; navigation"...will continue in next
+                     number]</p>
+               </div>
+               <div type="sporting_intelligence">
+                  <head type="main">SPORTING INTELLIGENCE</head>
+                  <head type="sub">Boat Race between the Chesapeakes Barge and Pelorus's Cutter.></head>
+                  <p>[...]</p>
+               </div>
+               <div type="song">
+                  <head type="main">(Song)</head>
+                  <head type="main">The Cheasapeake's Barge</head>
+                  <head type="sub">Air (Yankee doodle)</head>
+                  <lg>
+                     <l>of the "Chesapeake's of old,</l>
+                     <l>[...]</l>
+                     <pb n="?????"/>
+                  </lg>
+               </div>
+               <div type="Article">
+                  <head>Namik Pacha, &amp; the Merchants of Jeddah</head>
+                  <p>It is said that Namik Pacha being fearful that the rich Merchants of Jeddah would remove their wealth at the sight of our English
+                     ships, invited them to a friendly entertainment, and in true Eastern spirit then detained them in safe custody. eleven in number.
+                     We hear also that the new Sheriff has in a similar way detained several at Mecca, with the view of procuring from them the fine
+                     which is supposed will be exacted by the English and French Governments</p>
+               </div>
+               <div type="Epitome">
+                  <head type="main">Epitome</head>
+                  <head type="sub">Festivities in the Ward room.</head>
+                  <p>On Wednesday Evening 25th Inst several officers from "Cyclops" and "Pelorus" assembled on board the "Chesapeake" and after much
+                     merry dancing while teh Band was playing on the Main Deck, retired to teh Ward room to finish the Evening with a bowl of punch,
+                     and a few concomitant songs [more details about celebrations and such...]</p>
+               </div>
+               <div> </div>
+            </div>
+         </div>
       </body>
    </text>
 </TEI>
