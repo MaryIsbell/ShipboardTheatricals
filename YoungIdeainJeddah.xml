@@ -44,6 +44,46 @@
                   </imprint>
                </monogr>
             </biblStruct>
+            <listOrg>
+               <org>
+                  <orgName>Pelorus</orgName>
+                  <note>HMS Pelorus was a Royal Navy screw corvette with twenty-one guns in the Pearl class. She was launched on February 5, 1858 and
+                     her masting and fitting-out was completed on September 10, 1857. She was 200 feet long, 40 feet 4 inches at the broadest point,
+                     with a depth in the hold of 23 feet 11 inches. As Lyon and Winfield explain, "Corvette designs were rapidly enlarged over the
+                     1860s, as the corvette began to take over the traditional role of policing the high seas. To this end they were all built as
+                     steam auxiliaries, designed to cruise under sail" (207). HMS Pelorus was broken up for parts at Devonport on February 3, 1869.
+                     David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All the Ships of the Royal Navy, 1815–1889 (London: Chatham
+                     Publishing), 2004.</note>
+               </org>
+               <org>
+                  <orgName>Roebuck</orgName>
+                  <note>HMS Roebuck was a Royal Navy despatch vessel with 5 guns in the Intrepid class. She was launched on March 22, 1856 and her
+                     masting and fitting-out was completed on August 25, 1857. She was 200 feet long, 179 feet 5 1/4 inches at the broadest point,
+                     with a depth in the hold of 14 feet 6 inches. She was built for a company of 100 men. As Lyon and Winfield explain, "The outbreak
+                     of the Russian War demonstrated the need for numerous manoeuvrable, shallow-draught vessels for coastal and inshore operations in
+                     the Baltic and Black Seas. Six small screw steamers of the Arrow Class were approved to be built by contract in the Thames [...]"
+                     (218). The Roebuck was one of twenty additional vessels ordered in 1855 (218-219). David Lyon and Rif Winfield, The Sail &amp;
+                     Steam Navy List: All the Ships of the Royal Navy, 1815–1889 (London: Chatham Publishing), 2004.</note>
+               </org>
+               <org>
+                  <orgName>Cyclops</orgName>
+                  <note>HMS Cyclops was a Royal Navy steam vessel with six guns in the Cyclops class. She was launched on July 10, 1839. She was 190
+                     feet 3 inches long, 163 feet 6 inches at the broadest point, with a depth in the hold of 37 feet 6 inches. She was built for a
+                     company of 175 to 200 men. As Lyon and Winfield explain, the ship was re-armed in 1856 "with 2x 68 pdrds (95cwt) on the pivots
+                     and 4 x 10in (84cwt) on the broadside trucks." They also explain that she "was fitted 1856/57 to assist with the laying of the
+                     Atlantic cable (151). David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All the Ships of the Royal Navy, 1815–1889
+                     (London: Chatham Publishing), 2004. </note>
+               </org>
+               <org>
+                  <orgName>Chesapeake</orgName>
+                  <note>HMS Chesapeake was a Royal Navy screw frigate with fifty-one guns in the Forte (or Imperieuse) class, which was one of several
+                     classes including the thirty new wooden screw frigates completed between 1849 and 1865 (197). She was built in dry dock, launched
+                     on September 7, 1855, and her masting and fitting-out was completed on August 28, 1857. She was 212 feet long, 50 feet 2 inches
+                     at the broadest point, with a depth in the hold of 16 feet and 9 inches. She was built for a company of 515 men. The Chesapeake
+                     was sold in 1867 to be broken up for parts at Charlton (200). David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All
+                     the Ships of the Royal Navy, 1815–1889 (London: Chatham Publishing), 2004.</note>
+               </org>
+            </listOrg>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -63,6 +103,7 @@
             <head type="sub">Saturday 20th November 1858</head>
             <head type="sub">Vol 1. No 42</head>
             <div type="article">
+               <head>No Title</head>
                <p> Our stay at Jeddah has worn a very monotonous aspect. Strangers, to the shore, we have only been able to gaze from our bulwarks on
                   the far spreading sands, and barren hills of Arabia, and sigh to don the garment of some Mecca pilgrim, mount on the hump of some
                   fleet camel, and all Christian as we are, penetrate into the holiest shrines, and sanctuaries of Islam. [...]<pb n="TYI1422"/>[...]
@@ -84,8 +125,8 @@
             <div type="article">
                <head>The Late Comet.</head>
                <p>We are sorry that the very brief notes taken by "our own Observer", will not permit us to give any elaborate or scientific account
-                  of this beautiful heavenly visitor. It was on teh Evening of Septr 30th after dropping anchor at Aden, that our attention was first
-                  called to see teh bright stranger, which had made its appearance, unpredicted, &amp; unannounced among the celestial bodies of the
+                  of this beautiful heavenly visitor. It was on the Evening of Septr 30th after dropping anchor at Aden, that our attention was first
+                  called to see the bright stranger, which had made its appearance, unpredicted, &amp; unannounced among the celestial bodies of the
                   Northern Hemisphere.[...]<pb n="TYI1424"/>[...]</p>
             </div>
             <div type="Naval_Intelligence">
@@ -132,70 +173,641 @@
             <head type="sub">Saturday 27th November 1858</head>
             <head type="sub">Vol 1. No 43</head>
             <div type="article">
+               <head>No Title</head>
                <p>Our past week has produced one circumstance which had caused some little excitement amongst the squadron, and has for a short period
                   dispeled the monotony of our life; we refer to the race between our Barge and the "Pelorus's" Cutter.[...]<pb n="TYI1432"/>[...]</p>
-               <div type="article">
-                  <head>Jeddah, our Visit to Namik Pacha.</head>
-                  <head type="sub">Tuesday 26 Octr 1858</head>
-                  <p>We left our ship, a large party of us, in three Boats at half past 8 a.m., and after various difficulties in avoiding coral
-                     rocks, and crossing shoal Water, came alongside teh Jetty near the Southern extremity of teh Town. Here we perceived the
-                     KaimaKhan, or Governor of Jeddah dressed in purple uniform coat, and attended by teh Harbour Master in his suit of brown cloth,
-                     waiting to receive us. He shook each one by teh hand as we ascended the steps &amp; Passing under the gateway, found a number of
-                     Arab steeds in gay trappings, &amp; saddles, ready for us to mount. We formed a brilliant cavalcade, as we set out on our
-                     progress thro' the town. We were 20 in all, and all attired in our uniform frock coats &amp; swords with white flowing turbans
-                     encircling our caps. Captains Pullen, and Parkin led teh way, attended by teh Kaima Khan, while we followed by twos and threes,
-                     and well armed Turkish attendants, Bashi Bazouks we believe with plenty of silver mounted pistols at their girdles welked at our
-                     horses heads. After passing an open space in which loungers were sitting smoking hookahs, and drinking coffee, &amp; camels lying
-                     wiht piles of goods around them, our road lay thro' the long winding streets of the Bazaars, where articles of every description
-                     were exposed for Sale, &amp; human faces of every shape and color met the view. There was so much novelty to attract the eye;
-                     that it was difficult to notice anything occurately. The Bazaars were so narrow that two horsemen could with difficulty ride
-                     abreast, without pushing against the wares on either side. In some parts swarms of flies rendered our progress annoying. There
-                     were broad vessels piled up with dates, or melons, or pomegranates, or oranges; trays on which large broad cakes, or other
-                     eatables were exposed for sale. shops in which the porous water coolers, and other simple earthenwares were hangingin, or silks
-                     and muslins of various kinds, or strings of breads, amber black or white coral or cornelian, such as devout Musselmen use in
-                     prayer, or Turkish slippers; or long pipes and outhpieces; all whihc for a moment only caught the eye as our steeds passed on.
-                     The human faces most attracted us, the light hughed caucasian features of the Turk., the well bronzed countenance of teh native
-                     Arab the broad Ethiopian visage of teh black slave, teh veiled face of some female, <choice>
-                        <orig>here</orig>
-                        <corr>her</corr>
-                     </choice> eyes only peering thro' the white muslin "yek-mesh", the scowling gaze of the wild Bedouin as he stood erect in his
-                     uncleanly brown robe, his head enveloped in a cowl, with his hand ready at the [...interesting exchange about tobacco as snuff,
-                     with Pasha saying it was "good for the gums" and his inquiries about the men in black, who it turns out where the chaplains,
-                     described by Parkin as "the two professors who instructed teh youths in theology &amp; navigation"...will continue in next
-                     number]</p>
-               </div>
-               <div type="sporting_intelligence">
-                  <head type="main">SPORTING INTELLIGENCE</head>
-                  <head type="sub">Boat Race between the Chesapeakes Barge and Pelorus's Cutter.></head>
-                  <p>[...]</p>
-               </div>
-               <div type="song">
-                  <head type="main">(Song)</head>
-                  <head type="main">The Cheasapeake's Barge</head>
-                  <head type="sub">Air (Yankee doodle)</head>
-                  <lg>
-                     <l>of the "Chesapeake's of old,</l>
-                     <l>[...]</l>
-                     <pb n="?????"/>
-                  </lg>
-               </div>
-               <div type="Article">
-                  <head>Namik Pacha, &amp; the Merchants of Jeddah</head>
-                  <p>It is said that Namik Pacha being fearful that the rich Merchants of Jeddah would remove their wealth at the sight of our English
-                     ships, invited them to a friendly entertainment, and in true Eastern spirit then detained them in safe custody. eleven in number.
-                     We hear also that the new Sheriff has in a similar way detained several at Mecca, with the view of procuring from them the fine
-                     which is supposed will be exacted by the English and French Governments</p>
-               </div>
-               <div type="Epitome">
-                  <head type="main">Epitome</head>
-                  <head type="sub">Festivities in the Ward room.</head>
-                  <p>On Wednesday Evening 25th Inst several officers from "Cyclops" and "Pelorus" assembled on board the "Chesapeake" and after much
-                     merry dancing while teh Band was playing on the Main Deck, retired to teh Ward room to finish the Evening with a bowl of punch,
-                     and a few concomitant songs [more details about celebrations and such...]</p>
-               </div>
-               <div> </div>
+            </div>
+            <div type="article">
+               <head>Jeddah, our Visit to Namik Pacha.</head>
+               <head type="sub">Tuesday 26 Octr 1858</head>
+               <p>We left our ship, a large party of us, in three Boats at half past 8 a.m., and after various difficulties in avoiding coral rocks,
+                  and crossing shoal Water, came alongside the Jetty near the Southern extremity of the Town. Here we perceived the KaimaKhan, or
+                  Governor of Jeddah dressed in purple uniform coat, and attended by the Harbour Master in his suit of brown cloth, waiting to receive
+                  us. He shook each one by the hand as we ascended the steps &amp; Passing under the gateway, found a number of Arab steeds in gay
+                  trappings, &amp; saddles, ready for us to mount. We formed a brilliant cavalcade, as we set out on our progress thro' the town. We
+                  were 20 in all, and all attired in our uniform frock coats &amp; swords with white flowing turbans encircling our caps. Captains
+                  Pullen, and Parkin led the way, attended by the Kaima Khan, while we followed by twos and threes, and well armed Turkish attendants,
+                  Bashi Bazouks we believe with plenty of silver mounted pistols at their girdles welked at our horses heads. After passing an open
+                  space in which loungers were sitting smoking hookahs, and drinking coffee, &amp; camels lying wiht piles of goods around them, our
+                  road lay thro' the long winding streets of the Bazaars, where articles of every description were exposed for Sale, &amp; human faces
+                  of every shape and color met the view. There was so much novelty to attract the eye; that it was difficult to notice anything
+                  occurately. The Bazaars were so narrow that two horsemen could with difficulty ride abreast, without pushing against the wares on
+                  either side. In some parts swarms of flies rendered our progress annoying. There were broad vessels piled up with dates, or melons,
+                  or pomegranates, or oranges; trays on which large broad cakes, or other eatables were exposed for sale. shops in which the porous
+                  water coolers, and other simple earthenwares were hangingin, or silks and muslins of various kinds, or strings of breads, amber
+                  black or white coral or cornelian, such as devout Musselmen use in prayer, or Turkish slippers; or long pipes and outhpieces; all
+                  whihc for a moment only caught the eye as our steeds passed on. The human faces most attracted us, the light hughed caucasian
+                  features of the Turk., the well bronzed countenance of the native Arab the broad Ethiopian visage of the black slave, the veiled
+                  face of some female, <choice>
+                     <orig>here</orig>
+                     <corr>her</corr>
+                  </choice> eyes only peering thro' the white muslin "yek-mesh", the scowling gaze of the wild Bedouin as he stood erect in his
+                  uncleanly brown robe, his head enveloped in a cowl, with his hand ready at the [...interesting exchange about tobacco as snuff, with
+                  Pasha saying it was "good for the gums" and his inquiries about the men in black, who it turns out where the chaplains, described by
+                  Parkin as "the two professors who instructed the youths in theology &amp; navigation"...will continue in next number]</p>
+            </div>
+            <div type="sporting_intelligence">
+               <head type="main">SPORTING INTELLIGENCE</head>
+               <head type="sub">Boat Race between the Chesapeakes Barge and Pelorus's Cutter.></head>
+               <p>[...]</p>
+            </div>
+            <div type="song">
+               <head type="main">(Song)</head>
+               <head type="main">The Cheasapeake's Barge</head>
+               <head type="sub">Air (Yankee doodle)</head>
+               <lg>
+                  <l>of the "Chesapeake's of old,</l>
+                  <l>[...]</l>
+                  <pb n="?????"/>
+               </lg>
+            </div>
+            <div type="Article">
+               <head>Namik Pacha, &amp; the Merchants of Jeddah</head>
+               <p>It is said that Namik Pacha being fearful that the rich Merchants of Jeddah would remove their wealth at the sight of our English
+                  ships, invited them to a friendly entertainment, and in true Eastern spirit then detained them in safe custody. eleven in number. We
+                  hear also that the new Sheriff has in a similar way detained several at Mecca, with the view of procuring from them the fine which
+                  is supposed will be exacted by the English and French Governments</p>
+            </div>
+            <div type="Epitome">
+               <head type="main">Epitome</head>
+               <head type="sub">Festivities in the Ward room.</head>
+               <p>On Wednesday Evening 25th Inst several officers from "Cyclops" and "Pelorus" assembled on board the "Chesapeake" and after much
+                  merry dancing while the Band was playing on the Main Deck, retired to the Ward room to finish the Evening with a bowl of punch, and
+                  a few concomitant songs [more details about celebrations and such...]</p>
+            </div>
+            <div type="Facetiae">
+               <head>Facetiae</head>
+               <p>[...]</p>
+            </div>
+            <div type="rebus">
+               <head>Rebus</head>
+               <p>[...]</p>
+            </div>
+            <div type="Publication_Info">
+               <head>The Young Idea</head>
+               <p>[...]</p>
             </div>
          </div>
+         <pb n="TYI1441"/>
+         <div n="44" type="issue">
+            <head type="main">"The Young Idea"</head>
+            <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+            <head type="sub">Saturday 4th December 1858</head>
+            <head type="sub">Vol 1. No 44</head>
+            <div type="article">
+               <head>No Title</head>
+               <p>[...]</p>
+            </div>
+            <div type="article">
+               <head>Jeddah, and our Visit to Namik Pacha</head>
+               <head type="sub">continued from last week</head>
+               <p>[...]<pb n="TYI1442"/>[...]</p>
+            </div>
+            <div type="sporting_intelligence">
+               <head>SPORTING INTELLIGENCE</head>
+               <p>[...]</p>
+            </div>
+            <div type="letter">
+               <head>The Editor of The "Young Idea" to his friends on closing the first Year of Publication.</head>
+               <p>[...]<pb n="TYI1443"/>[...]</p>
+            </div>
+            <div type="published_elsewhere">
+               <head>The Red Sea</head>
+               <p>[...]</p>
+            </div>
+            <div type="Naval_Intelligence">
+               <head>Naval Intelligence</head>
+               <p>[...]<pb n="TYI1444"/>[...]</p>
+            </div>
+            <div type="epitome">
+               <head>Epitome</head>
+               <p>[...]</p>
+            </div>
+            <div type="facetiae">
+               <head>Facetiae</head>
+               <p>[...]</p>
+            </div>
+            <div type="Conundrums">
+               <head>Conundrums</head>
+               <p>[...]</p>
+            </div>
+            <div type="publication_info">
+               <head>The Young Idea</head>
+               <p>[...]</p>
+            </div>
+         </div>
+         <pb n="TYI2011"/>
+         <div n="1" type="issue">
+            <head type="main">"The Young Idea"</head>
+            <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+            <head type="sub">Saturday 18th December 1858</head>
+            <head type="sub">Vol 2. An accident to the Editor prevented last weeks no. from appearing No 1.</head>
+            <div type="article">
+               <head>No Title</head>
+               <p>[...]</p>
+            </div>
+            <div type="article">
+               <head>A visit to the Sheriffe of Mecca</head>
+               <p>[...]<pb n="TYI2012"/></p>
+            </div>
+            <div type="letter">
+               <head>From the Readers to the Editor on commencing his New Volume</head>
+               <p>[...]</p>
+            </div>
+            <pb n="TYI2013"/>
+            <div type="article">
+               <head>The Tricolor and Union Jack</head>
+               <p>[...socializing between British and French sailors]</p>
+            </div>
+            <div type="song">
+               <head>Christmas 1858</head>
+               <lg>
+                  <l>[...]<pb n="TYI2014"/>[...]</l>
+               </lg>
+            </div>
+            <div type="article">
+               <head>The Garbarry</head>
+               <p>[...interesting story of assisting a ship that got stuck on the reef. Parkin assisted and the Du Chayle sent a boat as well...when
+                  the job was done some of the men drank too much]</p>
+            </div>
+            <div type="Naval_Intelligence">
+               <head>Naval Intelligence</head>
+               <p>[...]</p>
+            </div>
+            <div type="epitome">
+               <head>Epitome</head>
+               <p>[...]</p>
+            </div>
+            <div type="facetiae">
+               <head>Facetiae</head>
+               <p>[...]</p>
+            </div>
+            <div type="rebus">
+               <head>Rebus</head>
+               <p>[...]</p>
+            </div>
+            <div type="answers">
+               <head>Answers to Conundrums Nos. 60 &amp; 61</head>
+               <p>[...]</p>
+            </div>
+            <div type="publication_info">
+               <head>The Young Idea</head>
+               <p>[...]</p>
+            </div>
+         </div>
+         <pb n="TYI2021"/>
+         <div n="2" type="issue">
+            <head type="main">"The Young Idea"</head>
+            <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+            <head type="sub">Saturday 25th December 1858</head>
+            <head type="sub">Vol 2. No 2.</head>
+            <div type="article">
+               <head>No Title</head>
+               <p>[...]</p>
+            </div>
+            <pb n="TYI2022"/>
+            <div type="poem">
+               <head>Chesapeake's Greeting to "Pelorus</head>
+               <lg>
+                  <l>We've pull'd and we've sail'd together</l>
+                  <l>[...]</l>
+               </lg>
+            </div>
+            <div type="rough_yarns">
+               <head>Rough Yarns No 1. "The Boutswains Christmas Dinner"</head>
+               <p>[...] <pb n="TYI2023"/>[...]</p>
+            </div>
+            <div type="epitome">
+               <head>Epitome</head>
+               <p>[...]</p>
+            </div>
+            <div type="facetiae">
+               <head>Facetiae</head>
+               <p>[...]</p>
+            </div>
+            <pb n="TYI2024"/>
+            <div type="illustration">
+               <head>[...]</head>
+               <p>[...]</p>
+            </div>
+         </div>
+         <pb n="TYI2031"/>
+         <div n="3" type="issue">
+            <head type="main">"The Young Idea"</head>
+            <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+            <head type="sub">Saturday 1st January 1859</head>
+            <head type="sub">Vol 2. No 3.</head>
+            <div type="article">
+               <head>No Title</head>
+               <p>[...]</p>
+            </div>
+            <pb n="TYI2032"/>
+            <div type="article">
+               <head>Christmas Day 1858</head>
+               <p>[...]</p>
+            </div>
+            <div type="article">
+               <head>Farewell Dinner to Capt Parkin</head>
+               <p>[...]<pb n="TYI2033"/>[...]</p>
+            </div>
+            <div type="article">
+               <head>Our Christmas Play</head>
+               <p>Our Christmas play came off in right merry style on Wednesday Evening (29 Decr). Our quarter deck, roofed in with flags of all
+                  nations, presented as gay a Theatre as one would wish to see, while the rising tiers of benches from the deck to the bridge abaft,
+                  accommodated a large and happy audience, not only of our own bluejackets, but of those from the "Pelorus", the "DuChayla" and the
+                  "Roebuck".</p>
+               <p>We are proud of our Amateur Performers, who have this time surpassed themselves. The comedy of King Charles the SEcond" being cast
+                  as on the last occasion, we need say little, except to compliment the fair "Mary" the Wapping beauty, around whom the whole plot
+                  clusters, on the increasing ease, &amp; freedome with which she plays her part. "Charles" was as royal, "Rochester" as Manly, and
+                  old "Copp" as jolly hearted as ever.</p>
+               <p>The two farces which follwed kept the audience in a state of continuoual laughter and applause. Thos Walsh, as "Paddy Carey" was
+                  indeed a "broth of a boy", speaking with a rich brogue, whirling his shillelah in true Hibernian spirit, touching the hearts of the
+                  audience by the generous<pb n="TYI2034"/>nature of the deeds represented, and winding up with a song, and a "jig" which brought down
+                  thunders of applause. The other characters of the piece were all good, but "widow Leary" the landlady deserves special mention. She
+                  was the yielding widow, and the Irish landlady is perfection.</p>
+               <p>In the "Man about Town" the chief burden of the piece rested upon Isaac Wright as "Skirts", and well did he sustain it. Coming in
+                  which his two large placards of the "Learned PIg," he at once moved our mucles to a state of risibility, which we found it difficult
+                  to pause from, such was the continued succession of funny deeds, and speeches. Horner as "Dr Mandible" the physician Walsh as
+                  "Topps" the Tiger, and indeed all the minor characters, played up to him well, and the curtain fell amidst loud and long
+                  applause.</p>
+               <p>We may safely say that all Oficers &amp; men present, whether French or English, were delighted with their Evening's amusement, and
+                  we were glad to observe our newly arrived Commodore, tho' rather late or the first piece, thoroughly enjoying the fun of the two
+                  Farces.</p>
+               <p>A supper was laid out on the Main Deck after the performance; for the Amateurs</p>
+            </div>
+            <div type="article">
+               <head>A Night Alarm</head>
+               <p>[...]</p>
+            </div>
+            <div type="naval_intelligence">
+               <head>Naval Intelligence</head>
+               <p>[...]</p>
+            </div>
+            <div type="answer">
+               <head>Answer to Rebus in No 1</head>
+               <p>[...]</p>
+            </div>
+            <div type="publication_info">
+               <head>The Young Idea</head>
+               <p>[...]</p>
+            </div>
+         </div>
+         <pb n="TYI2041"/>
+         <div n="4" type="issue">
+            <head type="main">"The Young Idea"</head>
+            <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+            <head type="sub">Saturday 8th January 1859</head>
+            <head type="sub">Vol 2. No 4.</head>
+            <div type="article">
+               <head>No Title</head>
+               <p>[...]</p>
+            </div>
+            <pb n="TYI2042"/>
+            <div type="previously_published">
+               <head>Notes about Mecca (from Sale's Koran)</head>
+               <p>[...]</p>
+            </div>
+            <div type="article">
+               <head>"Jack</head>
+               <p>[...]<pb n="TYI2043"/>[...]</p>
+            </div>
+            <div type="song">
+               <head>Song on the Death of Capt. Sir William Peel KCB R.N.</head>
+               <lg>
+                  <l>[...]</l>
+               </lg>
+            </div>
+            <div type="article">
+               <head>Sand Squalls &amp; Rain Squalls</head>
+               <p>[...]<pb n="TYI2044"/>[...]</p>
+            </div>
+            <div type="naval_intelligence">
+               <head>Naval Intelligence</head>
+               <p>[...]</p>
+            </div>
+            <div type="epitome">
+               <head>Epitome</head>
+               <p>[...]</p>
+            </div>
+            <div type="rebus">
+               <head>Rebus</head>
+               <p>[...]</p>
+            </div>
+            <div type="advertisement">
+               <head>Cheseapeake Amateur Theatricals</head>
+               <p>[...requesting funding from voluntary contributions]</p>
+            </div>
+            <div type="answers">
+               <head>Answer to Pictorial Rebus in No 3 Vol 2</head>
+               <p>[...]</p>
+            </div>
+            <div type="publication_info">
+               <head>The Young Idea</head>
+               <p>[...]</p>
+            </div>
+            <pb n="TYI2051"/>
+            <div n="5" type="issue">
+               <head type="main">"The Young Idea"</head>
+               <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+               <head type="sub">Saturday 15th January 1859</head>
+               <head type="sub">Vol 2. No 5.</head>
+               <div type="article">
+                  <head>No Title</head>
+                  <p>A tardy act of justice has at length been accomplished, and two of the prime instigators of the "Jeddah Massacre" have paid with
+                     their lives the penalty of their murderous deed. We know not who may have been those Eleven wretched Arabs, who on a former
+                     occasion were executed on the reefs in the sight of the "Cyclops"; but at all events they were but the tools, the instruments of
+                     the crime; the origin of it has been clearly traced home to the three chief men in Jeddah, those whose duty it was to protect,
+                     and defend the Christians, and strangers who felt secure in their friends help.</p>
+                  <p>Horrible as was the sight of blood on Wednesday morning, we must rejoice as Englishmen, that justice has found out its true
+                     victims; the third guilty man, the late Kaima Khan of Jeddah, is, we hear to be sent to Constantinople, to await the Sultan's
+                     decree, &amp; tho' we have sipped his coffee, &amp; smoked his pipes, we can scarcely regret that he too should meet with a like
+                     fate. To the firmness of the French Commissioner, we believe this act of just retriubution may be attributed. Bombardment or the
+                        execu<pb n="TYI2052"/>tion of the guilty men were the only alternatives offered, and Namik Pacha, at the last moment, with
+                     grief &amp; reluctance signed their death warrant.</p>
+                  <p>We may now perhaps consider that the first great objects of the Jeddah Commission, &amp; of our own visit here, has been
+                     accomplished, &amp; tho we hear that much still remains to be settled, in the way of indemnification, yet we would indulge a hope
+                     that the presence of the Chesapeake may be no longer necessary. This very morning, the "Duchayla" has spread her wings again, and
+                     is now speeding on her way to Suez tho', we believe to return again: let us hope that soon we may have to record how the
+                     "Chesapeake" also has let fall her long-furled canvass, &amp; is far on her way to Aden &amp; the waters of the East.</p>
+               </div>
+               <div type="letter">
+                  <head type="main">The Jeddah Massacre</head>
+                  <head type="sub">Execution of Mahtesil and Amoudi.</head>
+                  <floatingText>
+                     <body>
+                        <opener>To the Editor of the "Young Idea"<lb/>Dear Sir,</opener>
+                        <p>As one of those whose duty it was to witness the Execution on Wednesday last (12th), I beg to send you some slight account
+                           of what took place, tho' indeed I write even now with a feeling of horror at the spectacle At 4 am, as you know, we were
+                           all astir, coffee being served out to the Marines and Boats' crews who were to attend. At One Bell we shoved off from the
+                           ship, and it still wanted some time to daylight when we mustered, under Captain SEymour's orders, abreast of the old
+                           Turkish hulk whihc is lying off the town. The "Pelorus"' Boats were there and those of the "Ducayla" a goodly squadron in
+                           all, three Pinnaces, besides several cutters, and two or three light gigs. The Pinnaces each carried their brass gun in the
+                           bows, and all the Boat's crews were well provided with arms, and ammunition in case of any sudden outbreak of the natives.
+                           As daylight broke over the walls and minarets of Jeddah, and the more distant hills that bound our landscape to the
+                           Eastward, we started from our "rendezvous," the execution being fixed by the Turkish authorities for one hour after
+                           daybreak. The Frenchmen led the way, the Boats following one another in single file; it took us fully half an hour to reach
+                           the shore, the pilotage among the shoals being diffuclt, and by the time that all arrangments were complete, the "one hour
+                           after daybreak" was fast expiring. We found the Turkish guard already drawn up at the scene of execution; it was the square
+                           plot of ground on the Custom House Wharf, open to the shipping, and close under the seawall of the town. As we stood facing
+                           the sea, the right side of the square was occupied by a company of Turkish soldiers, perhaps 100 in number, a similar
+                           company of Albanians occupied the left; while a third side was formed of the English Marines &amp; French Sailors, each
+                           fifty in nuber, with their backs against the wall of the town. The French occupied theright of our position, their right
+                           thus touching the plank of the Turks, and between us waved, side by side, the flags of our two countries, those flags which
+                           had been dishonoured, &amp;<pb n="TYI2053"/>insulted on that fearful night of the Christian massacre. It wasa picturesque
+                           sight, though we stood in shadow, there were the Turks in their red Fez caps, dark brown jackets, with red pipings and
+                           black accoutrements, muskets with long shining barrels, the men themselves of fair height but somewhat dingy, and dirty
+                           looking. There were the Albanians, light in hue, tall and dressed in white, white jacket, and white loose trousers, white
+                           cap with tassel, white ose, white bells, a red sas only relieving the unmixed white of their costume; there werre our own
+                           in their blue and red Tunics (for half were Artillery, and half Light Infantry), and their white forage caps; there were
+                           the French Sailors, in their blue jackets, and white trousers with red sash, and straw sailors hat, armed with rifle and
+                           sword bayonet, while on the seaside, completing the square, were drawn up a single line of Bashi Bazouks &amp; irregular
+                           Albanians, dressed in a strange variety of costume armed to the teeth with pistols, swords, daggers, and knives, and of
+                           every hue &amp; shade of complexion, some jet black, others light, and fair. Behind all were seen our boats, with their
+                           respective crews moored in line a boat's length from the shore, their sterns towards the Quay</p>
+                        <p>Our attention was now turned to a gateway in that corner of the Square on which the right of the Albanians rested. It was
+                           the gateway leading into the town, adorned with open partico, that projected into the square. From this, as soon as we had
+                           formed, guards were despatched to bring in the two prisoners. Everything was still; no inhabitants of the town were to be
+                           seen or heard, except the few Turkish Officials who stood on the town wall behind us, or looked from the windows of a house
+                           that commanded the Square. All approaches to the spot were closed, and guarded by Turkish sentries </p>
+                        <p>But see!!! the prosoners approach and on them every eye is fixed.</p>
+                        <p>The first one who entered is an old man thin, and spare, dressed in light green robe flowing to the feet, and white turban;
+                           his beard white with age, his eye keen and piercing. His hands were tied behind, above the elbows, and he is attended by a
+                           guard on either side, and a third behind; he halts on entering the square, and looks astonished. I can well believe the
+                           story that is told that he knew not his approaching fate till that moment he casts his eyes around, and as they rest on our
+                           "colours" he seems to comprehend all, and gives himself up to prayer. He is followed at a short interval by the other
+                           prisoner, similarly guarded; a taller and apparently a younger man, with robe of dark purple, and white Turban; his hands
+                           similarly tied, he is we understand the sheikh of that Arab trine which committed the massacre, while the older man is the
+                           h"Chief of Bazaars" the richest and most powerful man in Jeddah. AS they seem to hesitate by the gateway, they are pushed
+                           on by the guard into the cenre of the square and there they are compelled to kneel down with their faces turned Eastward,
+                           towards Mecca. The guards retire, the executioners take their place with sword drawn; wild looking fellows, irregular
+                           Albanians, their arms bare to the elbow, their sashes loaded wiht pistols. The old man is the first to suffer: as he bends
+                           his head forward, the executioner seems to try his distance carefully with the sword, two or three times; -yet his first
+                           blow strikes too low down the back: again the sword is raised, adn the blow falls on the neck but does not enter deeply;
+                           the old man who is still murmering in prayer, turns his head, as though reproachfully; a third blow is struck, and he falls
+                           forward on his face; the gush of blood seems to choke his utterance: his last words of prayer, gurgle out with his
+                           lifeblood, but the head is not yet severed; it is butcher's work that follows: the remaining flesh is sawn through with the
+                           sword, and the head rolled away from the body: a pool of blood rushed out upon the ground, the executioner lifts the robe
+                           of the deceased, and wipes in it his sword and bloodstained fingers.</p>
+                        <p>I could look no longer: a sickening sensation came over me: one of the French Sailors, a powerful man, fainted away: I saw
+                           not the second execution; the gleam only of a decending sword seemed to flash before my eyes, and in another moment, I
+                           heared that all was over: the head of the second prisoner had been severed at a single blow.</p>
+                        <pb n="TYI2054"/>
+                        <p>The Turkish authorities now advanced and flung over each of the bodies a white sheet; but this made the seem almost more
+                           ghastly than before, for you could see the blood spouting from the arteries against the underside of the sheet, and with
+                           each gush dying it afresh.</p>
+                        <p>I was only too glad when the order was given to leave this scene of blood &amp; reembark in our boats. I am sure that not
+                           one of those who saw it woudl ever with to witness such another scene</p>
+                        <p>Captain Seymour, H.M.S. "Pelorus" commanded our force, and was present inside the Square, attended by the Commodore's
+                           Secretary and an Aide-de-camp, while Capt Tricault of "Duchayla" remained in charge of the boat squadron.</p>
+                        <closer>I remain Dear Sir<lb/>Yours truly</closer>
+                        <signed>"Eye Witness"</signed>
+                     </body>
+                  </floatingText>
+               </div>
+               <div type="poem">
+                  <head>Jeddah.</head>
+                  <lg>
+                     <l>Ah! Jeddah's towers are gleaming bright</l>
+                     <l>[...]</l>
+                  </lg>
+               </div>
+               <div type="naval_intelligence">
+                  <head>Naval Intelligence</head>
+                  <p>[...]</p>
+               </div>
+               <div type="epitome">
+                  <head>Epitome</head>
+                  <p>[...]</p>
+                  <p>Peeping under a screen erected on the main deck, we have ascertained the creation of several new scenes, at which two or three
+                     hands were busily paining. We anticipate much pleasure from the production of a new play on our arrival at Aden</p>
+               </div>
+               <div type="rebus">
+                  <head>Rebus</head>
+                  <p>[...]</p>
+               </div>
+               <div type="publication_info">
+                  <head>"The Young Idea"</head>
+                  <p>[...]</p>
+               </div>
+            </div>
+            <pb n="TYI2061"/>
+            <div n="6" type="issue">
+               <head type="main">"The Young Idea"</head>
+               <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+               <head type="sub">Saturday 29th January 1859</head>
+               <head type="sub">Vol 2. No 6.</head>
+               <div type="article">
+                  <head>No Title</head>
+                  <p>Only the total absence of all circumstances of note, has for a while, caused our weekly sheet to remain unstained with ink; our
+                     pen to be useuless on the desk before us. "The Young Idea" professes to record events, not to invent fiction; but here at Jeddah
+                     the record of one day, is a history of the whole: nothing has occurred to vary our monotony, except the hasty visit of our little
+                     messenger the "Roebuck."</p>
+                  <p>WE could almost envy them the fitful way in which they flit from place to place, pausing only for a day, or two at each station;
+                     from Jeddah to Suez, or from Aden to Jeddah: they have shivered for a while in the real winter's cold of Egypt; they have
+                     wandered through the Oriental Streets, and Bazaars of crowded Cairo; they have gazed on the green valley of the fertilizing Nile;
+                     they have climbed to the summit of the Great Pyramid, and penetrated into its close, and half suffocating chambers, and we, all
+                     the while, have been idly lying amongst the reefs of Jeddah, our minds gleaning no fresh idea from scenes before us, but
+                     wandering vacantly into the future or the past.</p>
+               </div>
+               <div type="letter">
+                  <head>Arabic Numberals</head>
+                  <floatingText>
+                     <body>
+                        <opener>Dear Sir,</opener>
+                        <p>It is well known how much European civilization owes to the influence of<pb n="TYI2062"/>the Arabian mind [...]</p>
+                        <closer>Dear Sir, Yours very sincerely</closer>
+                        <signed>Arithmeticus</signed>
+                     </body>
+                  </floatingText>
+               </div>
+               <div type="letter">
+                  <head>Arabic Numberals</head>
+                  <floatingText>
+                     <body>
+                        <opener>To the Editor of the "Young Idea"<lb/>Dear Sir</opener>
+                        <p>I must call your attention to mistakes which are frequently made in our Rebuses [...]</p>
+                        <closer>I remain<lb/>Yours very truly</closer>
+                        <signed>"Sphynx"</signed>
+                     </body>
+                  </floatingText>
+                  <p>Ed. We regret exceedingly [...] careless of our "devil."</p>
+               </div>
+               <div type="previously_published">
+                  <head>More Notes about Mecca. <lb/>(chiefly from Sale's Koran).</head>
+                  <p>[...]<pb n="TYI2063"/>[...]</p>
+               </div>
+               <div type="enigma">
+                  <head>Historical Enigmas<lb/>No. 1</head>
+                  <p>[...]<pb n="TYI2064"/>[...]</p>
+               </div>
+               <div type="letter">
+                  <head>The last New Riddle from England.</head>
+                  <floatingText>
+                     <body>
+                        <opener>To the Editor of the Yg Idea<lb/>Dear Sir</opener>
+                        <p>[...]</p>
+                        <closer>I have the honor to be, Sir<lb/>Yours sincerely,</closer>
+                        <signed>"Sphynx"</signed>
+                     </body>
+                  </floatingText>
+               </div>
+               <div type="naval_intelligence">
+                  <head>Naval Intelligence</head>
+                  <p>[...]</p>
+               </div>
+               <div type="epitome">
+                  <head>Epitome.</head>
+                  <p>[...]On Monday (24th) when shifting Topsails Isaac Wright Ordy fell backwards from the main Topsail Yard, but was happily brought
+                     up by his knife lanyard hitching, whihc gave him time to grasp the rigging: we should indeed have been very sorry had anything
+                     more serious befallen one, whose comic powers have so lately given us amusement</p>
+                  <p>[...]</p>
+                  <p>The three Arab dhouws with coal from Aden arrived on Wednesday (26) evening, &amp; we coaled that night, and the two succeeding
+                     days.</p>
+                  <p>Much amusement was caused in the Ward Room on Wednesday EVening, by the presence of a Messenger from the Pacha of Hoeidah to
+                     Namik Pacha (a passenger in one of the Dhows) whose astonishment at various tricks with cards was of the most grotesque
+                     description.</p>
+               </div>
+               <div type="facetiae">
+                  <head>Facetiae.</head>
+                  <p>A remark being made on the long line of "dhows" lying off Jeddah, [...]</p>
+               </div>
+               <div type="rebus">
+                  <head>REBUS</head>
+                  <p>[...]</p>
+               </div>
+               <div type="answer">
+                  <head>Answer to Rebus in No. 5. Expostulation.</head>
+               </div>
+               <div type="publication_info">
+                  <head>"The Young Idea"</head>
+                  <p>[...]</p>
+               </div>
+            </div>
+            <pb n="TYI2071"/>
+            <div n="7" type="issue">
+               <head type="main">"The Young Idea"</head>
+               <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+               <head type="sub">Saturday 26 February 1859</head>
+               <head type="sub">Vol 2. No 7.</head>
+               <div type="article">
+                  <head>No Title</head>
+                  <p>Our readers will hardly require an excuse for the nonappearance of our Weekly Journal, on the last three Saturdays, (alas' it is
+                     now weekly only in name) for all must have felt how monotonously the past-three or four weeks have flet: - unchequered by a
+                     single occurrence of note, unmarked by a single episode, wehreby they may be remembered;- productive of naught to interest,
+                     amuse, or cheer on such a stagnant state of affairs no wonder that ideas become tainted with dulness and that imaginiation is
+                     entirely at a loss to provide amusement.</p>
+                  <p>But we cannot let this, our last week at Jeddah pass, without commemorating our release from its influence wihtout hailing our
+                     approaching departure, without rendering our last days more cheery by the production of a "Young Idea." Four Months have rolled
+                     past quickly beholding us lying inactively in these <pb n="TYI2072"/>waters; our anchors rusting in their coral beds, and our
+                     minds rusting in the no less corroding bed of sluggish, unvarying, inaction .The change already commences to exercise its
+                     beneficial effects, faces begin to brighten, minds begin to expand at the thoughts of the rocky steeps of Aden, of again
+                     careering swiftly over the bright waters of the Arabian Sea, of the pleasant verdure of Point de Galle, of the probably
+                     occurrences of the next two months.</p>
+                  <p>Farewell! then to Jeddah, farewell! to its distant hills, its sandy shores, its glistening walls, and crowded bazaarss; farewell
+                     to its deep blue waters, and coral reefs, farewell to its desert borne breezes, adn san ladet atmostphere, adn with us our
+                     readers all gladly echo "Farewell"!!!</p>
+               </div>
+               <div type="letter">
+                  <head>The "Great Eastern" Steamship &amp; the Future of Trincomalie</head>
+                  <p>[...]<pb n="TYI2073"/>[...]</p>
+               </div>
+               <div type="article">
+                  <head>Notes about Jeddah</head>
+                  <p>[...very interesting anecdotes about a visit ashore!]<pb n="TYI2074"/></p>
+               </div>
+               <div type="enigma">
+                  <head>Historical Enigma</head>
+                  <p>[...]</p>
+               </div>
+               <div type="naval_intelligence">
+                  <head>Naval Intelligence</head>
+                  <p>[...]</p>
+               </div>
+               <div type="epitome">
+                  <head>Epitome.</head>
+                  <p>[...]</p>
+               </div>
+               <div type="promotionsandappointments">
+                  <head>Promotions &amp; Appointments</head>
+                  <p>[...]8th Mr A.D. McArthur Clerk having passed provisionally before Mr Hayward Paymaster to be Act Asst Paymr[...]</p>
+               </div>
+               <div type="charade">
+                  <head>The Sailor's Charade.</head>
+                  <p>[...]</p>
+               </div>
+               <div type="answer">
+                  <head>Answer to REbus in No 6. Pomegranate</head>
+                  <p>[...]</p>
+               </div>
+               <div type="publication_info">
+                  <head>-</head>
+                  <p>[...]</p>
+               </div>
+               <div type="-">
+                  <head>-</head>
+                  <p>[...]</p>
+               </div>
+               <div type="-">
+                  <head>-</head>
+                  <p>[...]</p>
+               </div>
+               <div type="-">
+                  <head>-</head>
+                  <p>[...]</p>
+               </div>
+               <div type="-">
+                  <head>-</head>
+                  <p>[...]</p>
+               </div>
+               <div type="-">
+                  <head>-</head>
+                  <p>[...]</p>
+               </div>
+
+            </div>
+         </div>
+
+
       </body>
    </text>
 </TEI>
