@@ -57,10 +57,14 @@
                      captain in the Royal Marines, who lived with his wife Mary E., a son James (a gentleman, aged 29), a son John (no occupation,
                      aged 27), a son Henry (a clerk in the wine trade, aged 17), a son Alexander D (a scholar, aged 15), a son Hanibal (no occupation,
                      aged 13), and a servant Esther Johnson (aged 20).</note>
-                  <bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives
-                     at Kew (ADM 38/2884)</bibl>
-                  <bibl>Census Returns of England and Wales, 1851. Kew, Surrey, England: The National Archives of the UK (TNA): Public Record Office
-                     (PRO), 1851.</bibl>
+                  <bibl><title>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858</title><msIdentifier>
+                        <institution>National Archives at Kew</institution>
+                        <idno>ADM 38/2884</idno>
+                     </msIdentifier></bibl>
+                  <bibl><title>Census Returns of England and Wales, 1851. Kew, Surrey, England:</title>
+                     <msIdentifier>
+                        <institution>The National Archives of the UK (TNA): Public Record Office (PRO)</institution>
+                     </msIdentifier></bibl>
                </person>
 
                <person>
@@ -566,9 +570,10 @@
             <div type="Epitome">
                <head type="main">Epitome</head>
                <head type="sub">Festivities in the Ward room.</head>
-               <p>On Wednesday Evening 25th Inst several officers from "<orgName ref="#Cyclops">Cyclops</orgName>" and "<orgName ref="#Pelorus">Pelorus</orgName>" assembled on board
-                  the "Chesapeake" and after much merry dancing while the Band was playing on the Main Deck, retired to the Ward room to finish the
-                  Evening with a bowl of punch, and a few concomitant songs [more details about celebrations and such...]</p>
+               <p>On Wednesday Evening 25th Inst several officers from "<orgName ref="#Cyclops">Cyclops</orgName>" and "<orgName ref="#Pelorus"
+                     >Pelorus</orgName>" assembled on board the "Chesapeake" and after much merry dancing while the Band was playing on the Main Deck,
+                  retired to the Ward room to finish the Evening with a bowl of punch, and a few concomitant songs [more details about celebrations
+                  and such...]</p>
             </div>
             <div type="Facetiae">
                <head>Facetiae</head>
