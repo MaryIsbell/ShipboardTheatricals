@@ -51,8 +51,7 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person>
-                  <persName xml:id="A_D_McArthur">Alexander D. McArthur</persName>
+               <person xml:id="A_D_McArthur">
                   <note>Alexander D. McArthur, a clerk, joined the Chesapeake on December 9th 1857. He was born on December 25th 1835 in Woolwich,
                      Kent, making him 21 when he came aboard. Census records for the town of Woolwich in 1851 reveal the family of John McAurthur, a
                      captain in the Royal Marines, who lived with his wife Mary E., a son James (a gentleman, aged 29), a son John (no occupation,
@@ -288,8 +287,7 @@
                </person>
             </listPerson>
             <listOrg>
-               <org>
-                  <orgName xml:id="Pelorus">Pelorus</orgName>
+               <org xml:id="Pelorus">
                   <note>HMS Pelorus was a Royal Navy screw corvette with twenty-one guns in the Pearl class. She was launched on February 5, 1858 and
                      her masting and fitting-out was completed on September 10, 1857. She was 200 feet long, 40 feet 4 inches at the broadest point,
                      with a depth in the hold of 23 feet 11 inches. As Lyon and Winfield explain, "Corvette designs were rapidly enlarged over the
@@ -340,7 +338,100 @@
    </teiHeader>
    <text>
       <body>
-         <pb n="IMG_0286" facs="https://farm2.staticflickr.com/1740/40668620790_f4ce895caa_k_d.jpg"/>
+         <pb n="TYI1331"/>
+         <pb n="TYI1331"/>
+         <div n="33" type="issue">
+            <head type="main">"The Young Idea"</head>
+            <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+            <head type="sub">Saturday 21st August 1858</head>
+            <head type="sub">Vol 1. No 33</head>
+            <div type="-">
+               <head>No Title</head>
+               <p>[...]Rumour speaks strongly of our near departure from Trincomalie for the Read Sea; on account of the recent massacre of the
+                  European population of Jeddah: the change will no doubt be pleasant for a short time, whilst we are enjoying the novelty of the new
+                  scenes presented to us &amp; which the "Young Idea" will attempt faithfully to record, but we shall not long prefer the heated
+                  climate &amp; barren shores of the Red Sea, to the cool breezes, &amp; verdant coasts of India [rest of the issue not relevant
+                  now]</p>
+            </div>
+         </div>
+         <pb n="TYI1341"/>
+         <div n="33" type="issue">
+            <head type="main">"The Young Idea"</head>
+            <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+            <head type="sub">Saturday 28th August 1858</head>
+            <head type="sub">Vol 1. No 34</head>
+            <div type="article">
+               <head>No Title</head>
+               <p>Our present stay in Trincomalee harbour, has bidden fair to terminate with scenes far less peaceful than those with which it
+                  commenced. Sticks have been prepared, revolvers loaded, and threats passed to &amp; fro between some of ourselves on board and our
+                  dusky Gentoo neighbours on the shore. WE must honestly confess, that the first offence seems to have proeeded from some of our own
+                  bluejackets too anxious to pry into Gentoo mysteries, and interrupt the nocturnal procession of the natives in honor of their "idol
+                  deities"; this led to a wanton attack, the following night upon two of our own officers in uniform.</p>
+               <p>British blood rose against such an insult, and on the following night it was avenged by a little band of Crusaders, who stormed, and
+                  cleared teh heathen temple of its worshippers. More desperate vengeance is now threatened by teh natives for itis the nature of
+                  vengeance thus to propagate itself; but we would hope that here it may end.</p>
+               <p>While we admire the true English spirit, which has led our youthful Crusaders, to view a mob of infuriated "niggers" with more
+                  indifference, than they would the same number of cats, or monkeys, we would yet hope, that no unnecessary animosity may be
+                     raised,<pb n="TYI1341"/>and that in our dealing as Christians, with these Gentoo natives, we may be guided always by a spirit of
+                  compassion, &amp; kindness, rather than one of oppression, &amp; contempt.</p>
+            </div>
+            <div type="article">
+               <head>Shooting Trip to Candligar</head>
+               <p>[...]</p>
+            </div>
+            <div type="sporting_intelligence">
+               <head>Chricket Match between the "Cheseapeake, and "Army and Pelorus"</head>
+               <p>[...]</p>
+            </div>
+            <div type="play_review">
+               <head>Theatre Royal<lb/>H.M.S. "CHESAPEAKE <note>The review included in Bampfield's transcription from The Young Idea is more detailed
+                     than the one in the 1867 edition. It reads as follows
+                     <!--I will not want to keep this as a note because I want to be able
+                     to include all of the markup linking ography data; just putting this here for now with all of the markup in it-->On
+                     Friday Evening (28th Inst.) our Quarterdeck presented a gay scene, our Amateurs providing us with a first-rate Evening amusement.
+                     The Guns being removed, the whole space of the Quarter deck was converted into a Saloon festooned with flags, &amp; <del><gap
+                           reason="illegible"/></del> decorated with beautiful flowers, and green boughs. Chandeliers, constructed with bayonets, hung
+                     from above, giving abundance of light; the Capstan was taken away, &amp; its space occupied by a square ottoman; chairs &amp;
+                     benches filled the <gap reason="illegible"/> portion of the Deck, while a succession of rising seats extending back to the bridge
+                     accommodated a multitude of bluejacket spectators. This bridge alas being <del>itself</del>fully crowded. The stage itself was
+                     raised on the Starboard side, between the Mainmast and the Gangway, about 4 feet above the Deck, the Orchestra being arranged in
+                     front. The stage arrangements were very good, the lights well managed, and teh scenery by Geo Horner, excellent. This being
+                     regarded as a farewell entertainment from the Officers of the Chesapeake, our Ship was enlivened by teh presence of most of teh
+                     ladies and gentlemen of Trincomalee, as well as a few of the passengers from teh "Australasian", and officers as well as men,
+                     from the "Pelorus", &amp; the Fort. The following were the cast of characters. [not including this for now-don't have time]. The
+                     pieces chosen were well suited to develop the various talents of the Actors:--Geo: Horner, as King Charles 2nd looked &amp; acted
+                     the "Merry Monarch" well, and Chas Stewart as "Rochester" did no less well. But no doubt Capt Copp, the kind-hearted old Sailor
+                     (Thos Walshe) was the life and soul of the piece, &amp; kept us in roars of laughter with his quaint sayings whenever he made his
+                     appearance. "Lady Clara" looked the lady well, but spoke timidly, and "mary" alas required a little more confidence. In the 2nd
+                     Piece "Raising the Wind," the part of "Jeremy Didler" was ably sustained by <gap reason="unintelligible"/> Wright, &amp;
+                     "Fainwould" the simple cockney was admirably impersonated by Chs Stewart. Great credit is due also to Wm Connell for the way in
+                     which he played the lady's part of "Ship Laurelia Durable": this appears to be his particular forte. Thos Walshe again shone as
+                     "Sam" the Yorkshire waiter and the minor characters also did well. Seldome have we seen an audience so well pleased, our actors
+                     so well applauded. Teh "jib" by Thos Walshe was as excellent as usual, &amp; te "Yo, heave oh!" sung by Wm Connell produced a
+                     pleasing effect by the Chorus it raised from the Bluejackets present [the same continues as usual--the only real difference is
+                     that the cast of characters is not re-created in the lithograph edition and there is a much more detailed description of how the
+                     ship was configured in Bampfield's review</note></head>
+               <p>On Friday night the 27th Inst our amateurs provided us with a first rate evenings amusement The Quarter deck was gaily decorated
+                  with flags and flowers, and presented a beautiful spectacle, the utmost credit being due to the managers and arrangers of the
+                  decorations, we hav enot space to give a lengthy description of the arrangeents, but we cannot refrain from giving the actors that
+                  praise which is most justly their due. The pieces chosen were well suited to the various talents of teh actors. Geo Horner as "King
+                  Charles the 2nd looked and acted the "Merry Monarch" well, and Chas. Stewart did equally well in the character of Rochester. But no
+                  doubt Captain Copp the kind hearted old sailor (Thos . Walshe) was the life and soul of the piece, and kept us in roars of laugher
+                  with his quaint sayings shenever he made his appearance. Lady Clara (John Hurst) looked the lady well, but spoke timidly, and Mary
+                  Jas Hammond) also required a little more self confidence</p>
+               <p>In the second piece "Raising the Wind", the part of "Jeremy Didler" was ably sustained by Isaac Wright, and Fainwould" the simple
+                  cockney was admirably impersonated by Chas. Stewart, indeed this appeared to us the most perfect impersonation of the Evening. The
+                  greatest credit is also due to Wm Connell for the way in which he played teh lady's part of Miss Laurelia Durable, this appears to
+                  be his particular forte. Thos. Walshe again shone as "Sam 'the waiter, and the minor characters also did wel. Seldom have we seen an
+                  audience so well pleased or actors so well applauded. The "jig" by Thos Walshe was as excellent as usual, and the "Yo heave oh!"
+                  sung by Wm Connell produced a pleasing effect by teh Chorus whihc it raised from the Blue jackets present.</p>
+               <p>After teh play, the Quarter Deck was cleared &amp; a few couples were formed for dancing. A arge number of visitors were on board,
+                  and we believe very much enjoyed the Evening's entertainment. The Gun Room gave a capital spread despite their want of space &amp;
+                  means to their brother officers of the "Pelorus"</p>
+               <p>[rest of the issue not relevant now]</p>
+            </div>
+         </div>
+         <pb n="TYI1421" facs="https://farm2.staticflickr.com/1740/40668620790_f4ce895caa_k_d.jpg"/>
          <div n="42" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -410,7 +501,6 @@
                </lg>
             </div>
          </div>
-         <pb n="TYI1431"/>
          <div n="43" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -476,7 +566,7 @@
             <div type="Epitome">
                <head type="main">Epitome</head>
                <head type="sub">Festivities in the Ward room.</head>
-               <p>On Wednesday Evening 25th Inst several officers from "Cyclops" and "<orgName ref="#Pelorus">Pelorus</orgName>" assembled on board
+               <p>On Wednesday Evening 25th Inst several officers from "<orgName ref="#Cyclops">Cyclops</orgName>" and "<orgName ref="#Pelorus">Pelorus</orgName>" assembled on board
                   the "Chesapeake" and after much merry dancing while the Band was playing on the Main Deck, retired to the Ward room to finish the
                   Evening with a bowl of punch, and a few concomitant songs [more details about celebrations and such...]</p>
             </div>
@@ -661,11 +751,11 @@
                   nations, presented as gay a Theatre as one would wish to see, while the rising tiers of benches from the deck to the bridge abaft,
                   accommodated a large and happy audience, not only of our own bluejackets, but of those from the "<orgName ref="#Pelorus"
                      >Pelorus</orgName>", the "DuChayla" and the "Roebuck".</p>
-               <p>We are proud of our Amateur Performers, who have this time surpassed themselves. The comedy of King Charles the SEcond" being cast
+               <p>We are proud of our Amateur Performers, who have this time surpassed themselves. The comedy of King Charles the Second" being cast
                   as on the last occasion, we need say little, except to compliment the fair "Mary" the Wapping beauty, around whom the whole plot
-                  clusters, on the increasing ease, &amp; freedome with which she plays her part. "Charles" was as royal, "Rochester" as Manly, and
-                  old "Copp" as jolly hearted as ever.</p>
-               <p>The two farces which follwed kept the audience in a state of continuoual laughter and applause. Thos Walsh, as "Paddy Carey" was
+                  clusters, on the increasing ease, &amp; freedom with which she plays her part. "Charles" was as royal, "Rochester" as Manly, and old
+                  "Copp" as jolly hearted as ever.</p>
+               <p>The two farces which followed kept the audience in a state of continuoual laughter and applause. Thos Walsh, as "Paddy Carey" was
                   indeed a "broth of a boy", speaking with a rich brogue, whirling his shillelah in true Hibernian spirit, touching the hearts of the
                   audience by the generous<pb n="TYI2034" facs="https://farm2.staticflickr.com/1743/27606331227_4931573b8b_k_d.jpg"/>nature of the
                   deeds represented, and winding up with a song, and a "jig" which brought down thunders of applause. The other characters of the
