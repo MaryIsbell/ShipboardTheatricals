@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main">Trincomalee Play Review</title>
+            <author>A.D. McArthur</author>
+            <editor>Mary Isbell</editor>
+            <respStmt>
+               <resp>Transcription, encoding, and notes</resp>
+               <name xml:id="initials">Mary Isbell</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2018</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>TAPAS</publisher>
+            <date>2018</date>
+            <availability>
+               <p>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <editor>A.D. McArthur</editor>
+                  <title>The Young Idea: A Naval Journal Edited on Board the H.M.S. Chesapeake in 1857, 1858 &amp; 1859 </title>
+                  <idno type="callno">Edition created from copy in editor's private collection, only other known copy held at British Library:
+                     1757.a.20/</idno>
+                  <imprint>
+                     <date>1867</date>
+                     <biblScope>
+                        <!-- type="pubPlace" -->
+                        <ref type="address">170 Fleet Street, London, England</ref>
+                        <name type="publisher">Paul Jerrard &amp; Son</name>
+                     </biblScope>
+                     <note type="project">Trincomalee Performance</note>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="A_D_McArthur">
+                  <note>Alexander D. McArthur, a clerk, joined the Chesapeake on December 9th 1857. He was born on December 25th 1835 in Woolwich,
+                     Kent, making him 21 when he came aboard. Census records for the town of Woolwich in 1851 reveal the family of John McAurthur, a
+                     captain in the Royal Marines, who lived with his wife Mary E., a son James (a gentleman, aged 29), a son John (no occupation,
+                     aged 27), a son Henry (a clerk in the wine trade, aged 17), a son Alexander D (a scholar, aged 15), a son Hanibal (no occupation,
+                     aged 13), and a servant Esther Johnson (aged 20).</note>
+                  <!--<bibl><<msIdentifier><msName>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858</msName>
+                        <institution>National Archives at Kew</institution>
+                     <idno>ADM 38/2884</idno>
+                     </msIdentifier></bibl>
+                  <bibl>
+                  <bibl><msIdentifier><msName>Census Returns of England and Wales, 1851. Kew, Surrey, England</msName><institution>The National Archives of the
+                     UK (TNA): Public Record Office (PRO)</institution>                       
+                     </msIdentifier></bibl>-->
+               </person>
+               <person xml:id="J_W_L_Bampfield">
+                  <note>Reverend John William Lewis Bampfield joined the Chesapeake on July 24th 1857 and was a regular contributor to and supporter
+                     of The Young Idea. While his age is not recorded in the muster book, census records reveal that Bampfield was born in June of
+                     1823, so he was in his mid-thirties during the cruise. He was commissioned as chaplain aboard a different royal naval vessel in
+                     Port Royal, Jamaica before his arrival aboard the Chesapeake. His detailed journal provides an additional witness to The Young
+                     Idea, providing fascinating points of contrast from the facsimile edition that McArthur had printed in 1867 and offering hints
+                     about the authorship of contributions through his inclusion of the initials of authors (a marked list). </note>
+               </person>
+               <person xml:id="Edgell">
+                  <note>Harry Edmund Edgell joined the Chesapeake as Commodore after the period chronicled in the issues included in this edition. He
+                     was an enthusiastic supporter of The Young Idea. In <hi rend="italics">Martello Tower" in China, and the Pacific in H.M.S.
+                        "Tribune," 1856-60</hi>, Francis Martin Norman recounts Edgell's enthusiastic support for a shipboard theatrical aboard H.M.S.
+                     Tribune in 1857, when he was captain of the ship. Edgell composed the prologue for the play and painted the drop-scene (50). The
+                     National Maritime Museum at Greenwich (NMM) holds over 300 watercolors by Edgell, including some undertaken during the cruise
+                     chronicled in The Young Idea. The NMM's biographical note on Edgell reads as follows: "Edgell was promoted to lieutenant in 1828,
+                     to commander in 1837 and to captain in 1846. He was appointed to command the Tribune in 1855 when she was in the Crimea. During
+                     this commission she went to the Pacific and finally to China. In 1857 Edgell was the Senior Naval Officer at Hong Kong and he
+                     transferred into the Bittern tender commanding the gun boats on the Canton River during the hostilities with the Chinese. In 1858
+                     be was given command of the squadron in Indian waters, during which time he commanded the Chesapeake and later the Retribution.
+                     The latter returned to England and was paid off in 1860. Edgell had no further active employment and was promoted on the retired
+                     list, reaching the rank of vice-admiral in 1871."</note>
+               </person>
+               <person xml:id="George_Horner">
+                  <note>George Horner, a bandsman, joined the Chesapeake on August 12, 1857. He was born in London in 1817. The muster book for the
+                     Chesapeake claims to offer the first entry for George Horner, perhaps meaning this was his first time at sea.<bibl>Muster Book of
+                        Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
+                        38/2884)</bibl></note>
+               </person>
+               <person xml:id="James_Hammond">
+                  <note>James Hammond, an ordinary seaman, joined the Chesapeake on August 12, 1857. He was born in London on November 12, 1837 and
+                     served aboard HMS Eurydice just before joining the Chesapeake.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st
+                        January 1859 Ending 31st March 1859, held by the National Archives at Kew (ADM
+                     38/2886)</bibl><!-- note that this same information is available in the first muster book kept for the voyage; I looked later
+                           because Hammond didn't appear on stage until later. --></note>
+               </person>
+               <person xml:id="Charles_Stewart">
+                  <note>Charles Stewart, an ordinary seaman, joined the Chesapeake on May 23, 1857. He was born in London and served aboard HMS
+                     Gladiator just before joining the Chesapeake. He was born in 1834.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing
+                        1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+               </person>
+               <person xml:id="Thomas_Walsh">
+                  <note>Thomas Walsh, an ordinary seaman, joined the Chesapeake on August 15, 1857. He was born in London in 1834 and served aboard
+                     HMS Cressy just before joining the Chesapeake.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858
+                        Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+               </person>
+               <person xml:id="Robert_Wilkinson">
+                  <note>Robert Wilkinson, a private in the Royal Marines, joined the Chesapeake on July 25th 1857. He was born in Sitchfield,
+                        Staffordshire.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by
+                        the National Archives at Kew (ADM 38/2884)</bibl></note>
+               </person>
+               <person xml:id="Henry_Underhill">
+                  <note>ordinary seaman from Alesford, 36 when coming aboard the Chesapeake<bibl>Muster Book of Her Majesty's Ship Chesapeake
+                        Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl>
+                  </note>
+               </person>
+               <person xml:id="John_Welsh">
+                  <note>John Welsh, an ordinary seaman, joined the Chesapeake on February 20, 1857. He was born in Mayo<bibl>Muster Book of Her
+                        Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
+                        38/2884)</bibl></note>
+               </person>
+               <person xml:id="Henry_Montagu">
+                  <note>Henry Montagu, yeoman of signals, joined the Chesapeake on July 28, 1857 after serving aboard HMS President. He was born in
+                     St. Hilliers, Jersey (the Channel Islands) in 1826, making him 32 at the time of the performance.<bibl>Muster Book of Her
+                        Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
+                        38/2884)</bibl></note>
+               </person>
+               <person xml:id="Isaac_Wright">
+                  <note>Isaac Wright, an ordinary sailor 2nd class, joined the Chesapeake on September 4th 1857. He was born in Sunderland in 1835,
+                     making him 23 at the time of the performance.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858
+                        Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+               </person>
+               <person xml:id="Henry_Hamilton">
+                  <note>C. R. B. Hamilton (the only Hamilton in the musters) was a naval cadet who served aboard <orgName ref="Colossus">HMS
+                        Colossus</orgName> before joining the Chesapeake on July 23, 1857. He was born in County Tyrone, Ireland in December of 1842,
+                     making him 15 at the time the performance<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending
+                        31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+               </person>
+               <person xml:id="James_Brown">
+                  <note>James Brown, an ordinary seaman, joined the Chesapeake on July 23, 1857, after serving aboard <orgName ref="Cuckoo">HMS
+                        Cuckoo</orgName> until February 3, 1857. He was born at Sheerness on the 17th of January 1829, making him 28 at the time of
+                     the performance<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the
+                        National Archives at Kew (ADM 38/2884)</bibl></note>
+               </person>
+               <person xml:id="William_Connell">
+                  <note>William T. Connell, an ordinary seaman, joined the Chesapeake on July 31 1857, after serving aboard HMS Eurydice until 17 June
+                     1857. He was born in London in 1835, making him 27 at the time of the performance.<bibl>Muster Book of Her Majesty's Ship
+                        Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
+                     38/2884)</bibl></note>
+               </person>
+            </listPerson>
+            <listOrg>
+               <org xml:id="Pelorus">
+                  <note>HMS Pelorus was a Royal Navy screw corvette with twenty-one guns in the Pearl class. She was launched on February 5, 1858 and
+                     her masting and fitting-out was completed on September 10, 1857. She was 200 feet long, 40 feet 4 inches at the broadest point,
+                     with a depth in the hold of 23 feet 11 inches. As Lyon and Winfield explain, "Corvette designs were rapidly enlarged over the
+                     1860s, as the corvette began to take over the traditional role of policing the high seas. To this end they were all built as
+                     steam auxiliaries, designed to cruise under sail" (207). HMS Pelorus was broken up for parts at Devonport on February 3, 1869.
+                     David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All the Ships of the Royal Navy, 1815–1889 (London: Chatham
+                     Publishing), 2004.</note>
+               </org>
+               <org xml:id="Roebuck">
+                  <note>HMS Roebuck was a Royal Navy despatch vessel with 5 guns in the Intrepid class. She was launched on March 22, 1856 and her
+                     masting and fitting-out was completed on August 25, 1857. She was 200 feet long, 179 feet 5 1/4 inches at the broadest point,
+                     with a depth in the hold of 14 feet 6 inches. She was built for a company of 100 men. As Lyon and Winfield explain, "The outbreak
+                     of the Russian War demonstrated the need for numerous manoeuvrable, shallow-draught vessels for coastal and inshore operations in
+                     the Baltic and Black Seas. Six small screw steamers of the Arrow Class were approved to be built by contract in the Thames [...]"
+                     (218). The Roebuck was one of twenty additional vessels ordered in 1855 (218-219). David Lyon and Rif Winfield, The Sail &amp;
+                     Steam Navy List: All the Ships of the Royal Navy, 1815–1889 (London: Chatham Publishing), 2004.</note>
+               </org>
+               <org xml:id="Cyclops">
+                  <note>HMS Cyclops was a Royal Navy steam vessel with six guns in the Cyclops class. She was launched on July 10, 1839. She was 190
+                     feet 3 inches long, 163 feet 6 inches at the broadest point, with a depth in the hold of 37 feet 6 inches. She was built for a
+                     company of 175 to 200 men. As Lyon and Winfield explain, the ship was re-armed in 1856 "with 2x 68 pdrds (95cwt) on the pivots
+                     and 4 x 10in (84cwt) on the broadside trucks." They also explain that she "was fitted 1856/57 to assist with the laying of the
+                     Atlantic cable (151). David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All the Ships of the Royal Navy, 1815–1889
+                     (London: Chatham Publishing), 2004. </note>
+               </org>
+               <org xml:id="Chesapeake">
+                  <note>HMS Chesapeake was a Royal Navy screw frigate with fifty-one guns in the Forte (or Imperieuse) class, which was one of several
+                     classes including the thirty new wooden screw frigates completed between 1849 and 1865 (197). She was built in dry dock, launched
+                     on September 7, 1855, and her masting and fitting-out was completed on August 28, 1857. She was 212 feet long, 50 feet 2 inches
+                     at the broadest point, with a depth in the hold of 16 feet and 9 inches. She was built for a company of 515 men. The Chesapeake
+                     was sold in 1867 to be broken up for parts at Charlton (200). David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All
+                     the Ships of the Royal Navy, 1815–1889 (London: Chatham Publishing), 2004.</note>
+               </org>
+            </listOrg>
+         </particDesc>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>column breaks have not been retained, superscript has not been retained. Individual paragraphs have not been captured, making it seem
+               like an entire contribution is one complete paragraph, which is not the case. Only the beginning of most contributions have been
+               transcribed, followed by [...] indicating additional content to be transcribed. Where there is no title, "No Title" is used as the
+               header.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="IMG_1453" facs="https://farm8.staticflickr.com/7865/33190573388_2cb97b2f13_k_d.jpg"/>
+         <head>____<note>(what does Bampfield do with this article? where does it appear and who is it attributed to?</note></head>
+         <p></p>
+
+      </body>
+   </text>
+</TEI>
