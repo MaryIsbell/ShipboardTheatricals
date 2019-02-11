@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main">Extracts from "Outbreak in Jeddah in June 1858. Papers</title>
+            <author>Various diplomats</author>
+            <editor>Mary Isbell</editor>
+            <respStmt>
+               <resp>Transcription, encoding, and notes</resp>
+               <name xml:id="initials">Mary Isbell</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2018</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>TAPAS</publisher>
+            <date>2018</date>
+            <availability>
+               <p>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <editor>not yet known</editor>
+                  <title>Outbreak at Jeddah in June 1858. Papers.</title>
+                  <idno type="callno">National Archives--accessed through trial of database</idno>
+                  <imprint>
+                     <date>1867</date>
+                     <note type="project">extracts of foreign office correspondence</note>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+
+               <person>
+                  <persName xml:id="Edgell">Harry Edmund Edgell</persName>
+                  <note>Harry Edmund Edgell joined the Chesapeake as Commodore after the period chronicled in the issues included in this edition. He
+                     was an enthusiastic supporter of The Young Idea. In <hi rend="italics">Martello Tower" in China, and the Pacific in H.M.S.
+                        "Tribune," 1856-60</hi>, Francis Martin Norman recounts Edgell's enthusiastic support for a shipboard theatrical aboard H.M.S.
+                     Tribune in 1857, when he was captain of the ship. Edgell composed the prologue for the play and painted the drop-scene (50). The
+                     National Maritime Museum at Greenwich (NMM) holds over 300 watercolors by Edgell, including some undertaken during the cruise
+                     chronicled in The Young Idea. The NMM's biographical note on Edgell reads as follows: "Edgell was promoted to lieutenant in 1828,
+                     to commander in 1837 and to captain in 1846. He was appointed to command the Tribune in 1855 when she was in the Crimea. During
+                     this commission she went to the Pacific and finally to China. In 1857 Edgell was the Senior Naval Officer at Hong Kong and he
+                     transferred into the Bittern tender commanding the gun boats on the Canton River during the hostilities with the Chinese. In 1858
+                     be was given command of the squadron in Indian waters, during which time he commanded the Chesapeake and later the Retribution.
+                     The latter returned to England and was paid off in 1860. Edgell had no further active employment and was promoted on the retired
+                     list, reaching the rank of vice-admiral in 1871."</note>
+               </person>
+               <person>
+                  <persName xml:id="Watson">Commodore Rundle Burges Watson</persName>
+                  <note>Excerpts from “Watson, Rundle Burges” by <bibl><author>by J.K. Laughton, rev. Andrew Lambert</author></bibl> for the
+                           <bibl><title>Oxford Dictionary of National Biography</title></bibl>: <quote>"Watson, Rundle Burges (1809–1860), naval
+                        officer, was the eldest son of Captain Joshua Rowley Watson (1772–1810). He entered the navy in November 1821, and was
+                        promoted lieutenant on 7 October 1829. [...] On 23 December 1842 he was advanced to post rank, and on 24 December was made a
+                        CB. [...] In December 1852 [Watson] was appointed to the new steam frigate Impérieuse (50 guns), then, and for some years
+                        later, considered one of the finest ships in the navy. In 1854 she was sent into the Baltic in advance of the fleet, Watson
+                        being senior officer of the squadron of small vessels appointed to watch the breaking up of the ice, and to see that no
+                        Russian warships got to sea. It was an arduous service well performed. The Impérieuse continued with the flying squadron in
+                        the Baltic during the campaigns of 1854 and 1855, and until the signing of peace in March 1856. As the senior officer of the
+                        frigate squadron, and generally on detached service, Watson demonstrated the highest standards of seamanship, judgement, and
+                        leadership. After the peace the Impérieuse was sent to the North American station; she returned to England and was paid off
+                        early in 1857. From May 1856 until his death Watson was naval aide-de-camp to the queen. In June 1859 he was appointed
+                        captain-superintendent of Sheerness Dockyard, where he died on 5 July 1860. An officer of great ability, Watson was one of the
+                        last great sailing-ship captains, and the first frigate captain of the steam era."</quote></note>
+               </person>
+
+               <person>
+                  <persName xml:id="Namik_Pacha">Namik Pacha</persName>
+                  <note>cite one of the articles on the uprising</note>
+               </person>
+            </listPerson>
+            <listOrg>
+               <org xml:id="Pelorus">
+                  <note>HMS Pelorus was a Royal Navy screw corvette with twenty-one guns in the Pearl class. She was launched on February 5, 1858 and
+                     her masting and fitting-out was completed on September 10, 1857. She was 200 feet long, 40 feet 4 inches at the broadest point,
+                     with a depth in the hold of 23 feet 11 inches. As Lyon and Winfield explain, "Corvette designs were rapidly enlarged over the
+                     1860s, as the corvette began to take over the traditional role of policing the high seas. To this end they were all built as
+                     steam auxiliaries, designed to cruise under sail" (207). HMS Pelorus was broken up for parts at Devonport on February 3, 1869.
+                     David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All the Ships of the Royal Navy, 1815–1889 (London: Chatham
+                     Publishing), 2004.</note>
+               </org>
+               <org>
+                  <orgName xml:id="Roebuck">Roebuck</orgName>
+                  <note>HMS Roebuck was a Royal Navy despatch vessel with 5 guns in the Intrepid class. She was launched on March 22, 1856 and her
+                     masting and fitting-out was completed on August 25, 1857. She was 200 feet long, 179 feet 5 1/4 inches at the broadest point,
+                     with a depth in the hold of 14 feet 6 inches. She was built for a company of 100 men. As Lyon and Winfield explain, "The outbreak
+                     of the Russian War demonstrated the need for numerous manoeuvrable, shallow-draught vessels for coastal and inshore operations in
+                     the Baltic and Black Seas. Six small screw steamers of the Arrow Class were approved to be built by contract in the Thames [...]"
+                     (218). The Roebuck was one of twenty additional vessels ordered in 1855 (218-219). David Lyon and Rif Winfield, The Sail &amp;
+                     Steam Navy List: All the Ships of the Royal Navy, 1815–1889 (London: Chatham Publishing), 2004.</note>
+               </org>
+               <org>
+                  <orgName xml:id="Cyclops">Cyclops</orgName>
+                  <note>HMS Cyclops was a Royal Navy steam vessel with six guns in the Cyclops class. She was launched on July 10, 1839. She was 190
+                     feet 3 inches long, 163 feet 6 inches at the broadest point, with a depth in the hold of 37 feet 6 inches. She was built for a
+                     company of 175 to 200 men. As Lyon and Winfield explain, the ship was re-armed in 1856 "with 2x 68 pdrds (95cwt) on the pivots
+                     and 4 x 10in (84cwt) on the broadside trucks." They also explain that she "was fitted 1856/57 to assist with the laying of the
+                     Atlantic cable (151). David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All the Ships of the Royal Navy, 1815–1889
+                     (London: Chatham Publishing), 2004. </note>
+               </org>
+               <org>
+                  <orgName xml:id="Chesapeake">Chesapeake</orgName>
+                  <note>HMS Chesapeake was a Royal Navy screw frigate with fifty-one guns in the Forte (or Imperieuse) class, which was one of several
+                     classes including the thirty new wooden screw frigates completed between 1849 and 1865 (197). She was built in dry dock, launched
+                     on September 7, 1855, and her masting and fitting-out was completed on August 28, 1857. She was 212 feet long, 50 feet 2 inches
+                     at the broadest point, with a depth in the hold of 16 feet and 9 inches. She was built for a company of 515 men. The Chesapeake
+                     was sold in 1867 to be broken up for parts at Charlton (200). David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All
+                     the Ships of the Royal Navy, 1815–1889 (London: Chatham Publishing), 2004.</note>
+               </org>
+            </listOrg>
+         </particDesc>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>column breaks have not been retained, superscript has not been retained. Individual paragraphs have not been captured, making it seem
+               like an entire contribution is one complete paragraph, which is not the case. Only the beginning of most contributions have been
+               transcribed, followed by [...] indicating additional content to be transcribed. Where there is no title, "No Title" is used as the
+               header.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="5"/>
+
+         <div n="11">
+            <head>Precis of Captain Pullen's Letter to the Secretary to the Admiralty, dated Jeddah, June 25, 1858.</head>
+            <p>ON the evening of the 15th of June the rising of the Mahometans took place. It originated among the Hadramouts, or mercantile community
+               of Jeddah.</p>
+            <p>The attacks on the English and French Consulates, and the Christian inhabitants, were simultaneous. The Christians were principally
+               Greeks. Mr. Page, after being cut to pieces, was thrown out of a window. M. Eveillard, the French Consul, was shot, and his wife cut
+               down with a yataghan. The number massacred amounts to twenty-one, and perhaps more.</p>
+            <p>Heard of the rising at 9:30 P.M., when two naked Greeks came on board in a small canoe. Later at night two more came off.</p>
+            <p>The officers of the vessel had been in the bazars up to 6 P.M., without observing anything unusual. Though the Government would be able
+               to afford sufficient protection.</p>
+            <p>[...skipping ahead to get to the flag bit]</p>
+            <p>Awaited the arrival of the Governor-General from Mecca, expected on the 19th.</p>
+            <p>Learnt, on the 20th, that he had arrived.</p>
+            <p>Demanded, in the name of the Christian world, that justice should be done.</p>
+            <p>On the 22nd the Pasha called on me, and requested that the ship "Eranee" should be delivered up to him, and at his urgent written
+               solicitation gave her up.</p>
+            <p>Held him responsible for the ship till the decision of Her Majesty's Government.</p>
+            <p>Have given a passage to Suez to a Turkish courier wiht despatches for Constantinople.</p>
+            <p>The papers of the ship "Eranee," and the documents connected with her seizure, were destroyed at the English Consulate on the 15th. The
+               Pasha states that the seizure of the "Eranee" was the cause of the massacre. The papers of twenty other British ships were also
+               destroyed at the Consulate. Both the owners of the "ERanee" are British subjects.</p>
+            <p>The Pasha states that Saleli Ben Johur, one of the owners of the "Eranee, is an Ottoman subject, although his vessel sailed under
+               British colours. Up to the 15th he was considered British. The Pasha wrongly states that she "Eranee" only reassumed Turkish colours.
+               By her register it appears she was built at Portsmouth, New Hampshire (America), and seems to have been since owned by persons entitled
+               by law to be owners of British ships.</p>
+            <p>The proceedings on teh "Eranee," by the Kaimakam's Commercial Court, were protested against by Furudj Yusu (acting for Mr. Page during
+               his short absence), on the please of its incompetency to judge between two British subjects. Saleli Ben Johur said he would become an
+               Ottoman subject, and teh Kaimakam allowed him to hoist the Turkish flag, but, on Furudj Yusu's renewed protest, ordered him to haul it
+               down. He again, after twelve days, hoisted [still need to get these images]</p>
+         </div>
+         <pb n="9"/>
+         <div n="15">
+            <head>The Earl of Malmesbury to Sir H. Bulwer.</head>
+            <p>(Telegraphic.) Foreign Office, July 15, 1858, 3 P.M.<!-- This isn't encoded correctly yet --></p>
+            <p>The accounts from Jeddah and Suez, by Captain Pullen, of the "Cyclops," show the worst anti-Christian spirit as existing in those
+               places and complete inefficiency in the authorities. We cannot be trifled with on this case of Jeddah, and even great political
+               objects, as they regard our alliance with the Porte, must yield to the paramount principle of supporting Christan and British prestige
+               in those regions</p>
+            <p>It is not enough to send a General to Jeddah. Troops are wanted there, but, above all, a public execution of the murderers immediately.
+               The Pasha must have the power of life and death given him at once, without tedious references to Constantinople. WE have ordered three
+               ships, with Marines, to Jeddah, and shall seize the place if justice is not speedily obtained. You will state this to the Grand Vizier,
+               and without reserve, and insist without intermission.</p>
+         </div>
+         <pb n="25"/>
+         <div n="51">
+            <head>Sir H. Bulwer to the Earl of Malmesbury.--(Received July 26, 7:20 A.M.)</head>
+            <p>(Telegraphic.) Therapia, July 24, 1858, 10 P.M. <!-- This isn't encoded correctly yet --></p><p>The Turkish flag is to be at once taken
+            down from the vessel seized by Namick Pasha, and its ultimate fate decided by an inquiry.</p><p>ON the other points the French Ambassador
+               and myself have both required what your Lordship says teh British Government demanded.</p><p>The Sultan gives out of his own purse a
+                  present to the sufferers, and pensions to the families of the Consuls; but this is not to interfere with the imposition of a
+                  contribution on the inhabitants of Jeddah</p><p>The messenger just arrived. In regard to Jeddah, let me clearly explain: there is no
+                  hesitation here about executing; the murderers in any number; but the law forbids a Pasha to inflict death without the Sultan's
+                  order. This order is dispatched, and will get to Jeddah as soon as possible. What the Grand Vizier asks is, to allow of its arrival
+                  before requiring the punishment in question: because, if it is inflicted by the authority of the Sultan, the Mahometans will
+                  probably submit; wheras, if inflicted by teh Christian Powers alone, a gneneral rising amongst the Mahometans in that part of the
+                  world and elsewhere may follow: and for the sake of India it seems to myself very important we should be able to show clearly that
+                  the Sultan, as the head of the faith, is on our side. Just think of this, and no doubt of the intentions of people here. They will
+                  do anything, but I will continue to hurry them, and keep up their alarm.</p>
+         </div><pb n="42"/><div n="78"><head>Sir H. Bulwer to the Earl of Malmesbury.--(Received August 6)<!-- not yet encoded correctly
+         --></head><p>No. 86<lb/>My Lord, Constantinople, July 27, 1858. My Lord</p><p>, I INCLOSE to you a report furnished me by M. Thouvenel of the
+            proceedings at Jeddah. It was written by an eye-witness, the Chancelier of the French Consulate, who, together with the French Consul's
+            daughter, escaped the general massacre.</p><p>According to this account the behaviour of Namick Pasha in relation to the "Eranee," was by
+               no means free from blame.</p><p>The papers which I transmit, and which are found in the Chancery here, fully prove that the proprietor
+                  was an Englishman, or at least claimed and enjoyed British protection. The conduct of the Pasha, however, in suppressing the riot
+                  and siezing the ringleaders, seems, directly he entered the town, to have been prompt and energetic; and although his not executing
+                  those who had been guilty of these atrocious crimes is to be regretted, it must not be forgotten that he acted in this manner
+                  according to law, and, moreover, according to a law which the Sultan has enacted at teh recommendation of Christian
+                  Powers.</p><p>[skipping some here]</p><p>[...]it is not to be forgotten that the Arab population are not willingly subjected to
+                     Turkish contronl, and are frequently in rebellion against the authority of the Ottoman Government.</p><p>The Sovereign of this
+                        Empire possesses, as I have said in my telegraphic message of the 26th, notwithstanding these partial outbreaks, a great
+                        general authority and moral power, derived from the prestige which belongs to him as guardian of the Holy Cities; and I cannot
+                     help thinking that it might be of importance to us (with respect to the Mahometan population generally, and even in respect to
+                     the Mahometan population in India) to be able to produce a manifest sign of his displeasure at the blood-thirsty and fanatical
+                     spirit which has recently inflicted such disgrace on the Moslem name.</p><p>I am, for this reason, very anxious that the late
+                        massacre at Jeddah should be punished by the Sultan's officers and at the Sultan's orders; and if your Lordship shares my
+                        opinion, it may be advisable to make such arrangements as would render it certain that Ismail Pasha and the reinforcements he
+                        is to carry with him, and more especially that hte firman which confers the power of inflicting immediate execution on the
+                        criminals, shoudl arrive at Jeddah before our forces appear there.</p><p>These forces, once on the spot, it would be difficult
+                        for them not to act; and if they did act in the name of a Christian Power, I will not say taht it is certain, but it not
+                        immprobable, that such an event might be followed by an immediate rising of the Mohometans in that part of the world, and
+                        general outbreaks and massacres in various parts of this Empire, to say nothing of the effect it might have in teh Mahometan
+                        portion of our dominions [signed, Henry L. Bulwer--need to encode this correctly]</p></div><pb n="56"/><div
+                           n="88"><head>Inclosure 4 in No. 88<lb/>Captain Pullen to Namick Pasha</head><p>M. le Gouverneur-General "Cyclops," Jeddah, June 21, 1858</p><p>ON
+                              your announcing to me your arrival at this place yesterday morning, you requested, previous to delivering to me the
+                              Christians who had escaped the bloody massacre of the 15th instant, an interview.</p><p>Your Excellency is aware how readily I went on shore, the first object of my solicitude being the safety of all who sought protection of the
+               British flag.</p><p>At my demand, it was arranged with your Excellency that the French and English colours should be
+                                    hoisted the following morning of the main of this ship, side by side; that the boats being fully manned and armed,
+                                 should proceed to the landing-place; that the English and French colours, being then advanced to the front, should
+                                 receive a salute of twenty-one guns from the fort; that an armed procession should then form, and, with colours
+                                 flying, proceed through the town, passing the residencies of the English and French Consuls, and, finally, thence a
+                                 funeral party would proceed to the burial-ground, where the murdered Consuls lie, the service for teh dead read by
+                                 the Chaplain of this ship, and military honours paid to the remains.
+                     </p><p>Your Excellency was good enough to accompany the procession as far as the French Consulate.</p><p>I have now another duty
+                        to discharge, and what I then verbally demanded, I now require at your hands.</p><p>Excellency, the blood of the murdered
+                           calls for retribution, for a justice so stern, so terrible in its example, that throughout the land men will hear of the
+                           massacre which took place, and, at the same time, of the punishment which followed</p><p>Excellency, I ask for this
+                              justice, not in the name of England or France alone, but in the name of the whole Christian world. Protestants,
+                              Catholics, Greeks, and Copts, have alike been barbarously murdered, and for all I demand justice. [...more, but stopping
+                           here]</p></div><pb n="57"/><div n="89"><head>Acting Consul-General Green to the Earl of Malmesbury.--(Received August
+                              18.)</head><p>(Telegraphic.) Alexandria, August 13, 1858. <!-- not yet transcribed correctly --></p><p>HER Majesty's
+                                 ship "Cyclops" arrived at Suez from Jeddah last night. I have received the following telegram from Captain
+                                 Pullen:--</p><p>'Cyclops arrived at Jeddah 23rd July. Namick Pasha at Mecca. Satisfaction demanded, and letter sent
+                                    to Kaimakam under flying seal, saying, if no satisfactory answer received in thirty-six hours, shall proceed to
+                                    extremities.</p><p>On the morning of the 25th, forty hours having intervened from time of sending despatch, and no
+                                    reply, commended bombarding on the town at intervals.</p><p>Fourteen or fifteen buggalows burnt and
+                                       destroyed.</p><p>At 11 A.M., letter from Pasha, not satisfactory; resumed operations, and continued
+                                          occasionally until evening of 26th, both from boats and ships, with shot, shell, and rockets</p><p>27th.
+                                             Troops arrived, 507 Bashi-Bazouks. Time given to land.</p><p>28th. Pasha arrived; comes on board next
+                                                day: can come to satisfactory arrangements; cannot execute murderers, but has them confined. States
+                                                that has not the power of life and death; time extended to allow pilgrims to embark.</p><p>30th. 'Lady
+                                                Canning' leaves for Yembo wiht Moorish Princes. Depositions of murderers sent; proved guilt by their
+                                                own local Courts. Their execution insisted upon on the morning of the 2nd instant; and not complied
+                                                with by the evening of the 4th.</p><p>Commenced bombarding again on morning of the 5th. Before a reply
+                                                is received the 'Gabari' steamer arrived with troops; 480 Egyptians. Ismail Pasha commands, with power
+                                                to satisfy just demands of England and France.</p><p>On the morning of the 6th, eleven murdersr
+                                                   executed in sight of the town and shipping in port, and four more culprits to be sent to
+                                                   Constantinople.</p><p>The 'Cyclops' left Jeddah on morning of the 7th instant, and has brought up a
+                                                   messenger from the Pasha with despatches for Constantinople.</p><p>Mr. Vice-Consul Calvert has my despatches for the Admiralty, and leaves immediately.</p></div>
+      </body>
+   </text>
+</TEI>

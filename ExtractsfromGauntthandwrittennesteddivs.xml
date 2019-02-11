@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main">Extracts from Gauntt</title>
+            <!-- this whole header needs to be updated because what I'm transcribing here are
+            extracts from Gauntt's actual narrative written aboard the Macedonian-->
+            <author>Charles Gauntt</author>
+            <editor>Mary Isbell</editor>
+            <respStmt>
+               <resp>Transcription, encoding, and notes</resp>
+               <name xml:id="initials">Mary Isbell</name>
+               <!-- I notice forme work in this journal (the year is along the right side of the page and
+                  the month and day is that the top right of the page. He includes the first part of the word to start the next page at the bottom of
+                  the page on a new line. He uses superscript to write "o'clock," which I may not care to reproduce. The underlinings for rendasis I
+                  do want to preserve...-->
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2019</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>?????</publisher>
+            <date>2019</date>
+            <availability>
+               <p>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>Charles Gauntt</author>
+                  <title>Private record of Charles Gauntt, commander in the Navy of the United States</title>
+                  <idno type="callno">Edition created from copy held at the Natinal Archives [call number info]</idno>
+                  <imprint>
+                     <date>????</date>
+                     <biblScope>
+                        <!-- type="pubPlace" -->
+                        <ref type="address">Philadelphia</ref>
+                        <name type="publisher">Privately Printed</name>
+                     </biblScope>
+                     <note type="project">?????</note>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="Franey">
+                  <note>What can we know about Franey other than "(steerage servant) a veteran"<bibl>
+                        <author><persName>Lessig, Lawrence</persName></author>. <title>Free Culture</title>: <title type="sub">How Big Media Uses
+                           Technology and the Law to Lock Down Culture and Control Creativity</title>. <publisher>The Penguin Press</publisher>,
+                           <pubPlace>New York</pubPlace>; <date when="2004"/>. <idno type="ISBN">1-59420-006-8</idno>
+                     </bibl></note>
+               </person>
+               <person xml:id="Williams_carpenter">
+                  <note>What can we know about Williams other than that he played Variella?<bibl>
+                        <author><persName>Lessig, Lawrence</persName></author>. <title>Free Culture</title>: <title type="sub">How Big Media Uses
+                           Technology and the Law to Lock Down Culture and Control Creativity</title>. <publisher>The Penguin Press</publisher>,
+                           <pubPlace>New York</pubPlace>; <date when="2004"/>. <idno type="ISBN">1-59420-006-8</idno>
+                     </bibl></note>
+               </person>
+               <person xml:id="Bunnell">
+                  <note>We know many things about Bunnell. page 8 of 48 in pdf of macedonian musters...says some things that are a bit illegible<bibl>
+                        <author><persName>Lessig, Lawrence</persName></author>. <title>Free Culture</title>: <title type="sub">How Big Media Uses
+                           Technology and the Law to Lock Down Culture and Control Creativity</title>. <publisher>The Penguin Press</publisher>,
+                           <pubPlace>New York</pubPlace>; <date when="2004"/>. <idno type="ISBN">1-59420-006-8</idno>
+                     </bibl></note>
+               </person>
+               <person xml:id="Williams_Sneer">
+                  <note>Also perhaps of the foretop? perhaps 9 of 48 in musters document (could also be the John Williams on page 11 of 48 also could
+                     bbe thomas williams, also on the same page (11 of 48)?<bibl>
+                        <author><persName>Lessig, Lawrence</persName></author>. <title>Free Culture</title>: <title type="sub">How Big Media Uses
+                           Technology and the Law to Lock Down Culture and Control Creativity</title>. <publisher>The Penguin Press</publisher>,
+                           <pubPlace>New York</pubPlace>; <date when="2004"/>. <idno type="ISBN">1-59420-006-8</idno>
+                     </bibl></note>
+               </person>
+               <person xml:id="Fanigan">
+                  <note>Worked on scenery...possibly John Fanigan page 7 of 48 in pdf of macedonian musters<bibl>
+                        <author><persName>Lessig, Lawrence</persName></author>. <title>Free Culture</title>: <title type="sub">How Big Media Uses
+                           Technology and the Law to Lock Down Culture and Control Creativity</title>. <publisher>The Penguin Press</publisher>,
+                           <pubPlace>New York</pubPlace>; <date when="2004"/>. <idno type="ISBN">1-59420-006-8</idno>
+                     </bibl></note>
+               </person>
+               <person xml:id="Horton">
+                  <note>of the foretop, played Briefwit<bibl>
+                     <author><persName>Lessig, Lawrence</persName></author>. <title>Free Culture</title>: <title type="sub">How Big Media Uses
+                        Technology and the Law to Lock Down Culture and Control Creativity</title>. <publisher>The Penguin Press</publisher>,
+                     <pubPlace>New York</pubPlace>; <date when="2004"/>. <idno type="ISBN">1-59420-006-8</idno>
+                  </bibl></note>
+               </person>
+            </listPerson>
+            <listOrg>
+               <org xml:id="Macedonian">
+                  <note>What can we know about Macedonian</note>
+               </org>
+               <org xml:id="Congress">
+                  <note>What can we know about Congress</note>
+               </org>
+            </listOrg>
+         </particDesc>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>format of book retained; not much else to say</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <pb n="15"/>
+         <div>
+            <head>20th</head>
+            <p>Much rain during the 24 hours the crew employed washing their clothes. <!--  Lat. Ob 30. 11.S Long: by d:r. 42.44'W. Thermo: 74-->
+               Written hand bills were distributed about the ship this afternoon, giving notice that a play called the "Weather Cock," with an after
+               piece <hi rend="underline">entitled</hi> the Sailor's Fortune, would be performed in the evening. The author<pb n="16"/>Authorship of the latter
+               piece, is claimed by David C. Bunnel, Carpenter's Yeoman of the Macedonian, who, having previously obtained permission of our
+               Commander, and assisted by a few of his shipmates, had got up the aforenamed pieces for the treble purpose of, in the first place,
+               giving amusement to the Officers &amp; crew of the ship, Secondly, <add>of</add>his <hi rend="underline">faculties</hi> or <hi rend="underline">powers</hi> of
+               the mind, as an Author, and Thirdly, to show his <hi rend="underline">merit</hi> as an Actor, in all of which, except the former, he failed most
+               egregiously. Every necessary preparation being made, the Curtain rose at 7 <hi rend="superscript">o</hi>Clock, when the Play was
+               commenced, <hi rend="underline">middled</hi> and ended, so was the Farce, and, to say a great deal in a few words, the Audiences were treated with
+               the combined talent of the <hi rend="underline">Crew</hi> of the Macedonian, the Officers laughed heartily, and were much amused with the novelty of
+               the scene. every encouragement, consistent with the discipline of the Ship, will be given towards promoting this species of amuseument;
+               it has, I think, a tendency to create contentment among the crew, which is of some consideration, when it is known, that we are bound
+               on a cruise of three years.</p>
+            <p>[details about weather on intervening days 26th, 27th, 28th<pb n="17"/></p>
+         </div>
+         <div>
+            <head>29th</head>
+            <p>Commences with moderate winds &amp; pleasant, at 3 made sail, found the sea, considerably discolored. Sounded with 60
+               fathoms of line no bottom
+               <!-- I'm not including all of the underlinings, but there are some--><!-- Lat: Ob: 35. 59'S. Long: d.r. 50
+                  03' W Co: S 35 W.-->The
+               crew employed this day in getting below all the heavy articles, bot from the tops and spar deck, such as kedge anchors, round shot,
+               grape &amp; canister, spare spars, arm chests, &amp; this preparation was considered necessary before the ship reached, the formidable,
+               Cape Horn, so represented by some navigators.</p>
+         </div>
+         <div>
+            <head>Dec: 30</head>
+            <p>Lat. Ob: 37 44; South Long: by d.r. 51 31' w. Co: S.S'NW Long: by Lunar Ob: 50. 41' 45" W.</p>
+         </div>
+         <div>
+            <head>Dec: 31st.</head>
+            <p>Set steering sails. Weather pleasant at 1/2 past 12 oClock a.m. discovered a light bearing N.E. ends fresh winds &amp; cloudy.
+               Latitutde Ob: 39. 00' South. Long: by d.r. 53. 35' W. Long: by Lunar Ob: 52 42' 30: W. Thermor: 62. 30'</p>
+         </div>
+         <div>
+            <head>January 1st</head>
+            <p>The New Year commenced with fresh winds from the N.W. Set steering sails. At 3h 30m p.m. carried away the main top gallant mast near
+               the Cap. Took in steering sails &amp; stay sails. Sent down top gallant yards &amp; top gallant masts. got up <hi rend="underline">stump</hi> top
+               gallt masts top gallt yards &amp; set top gallant sails. rigged in flying jib boom &amp; set steering sails at meridian. Ends clear
+               &amp; pleasant. Lat: Ob: 40. 57' S. Long: by d.r. 54. 25' W. by L. O. 53. 50' w. Thermometer 62. 30'</p>
+         </div>
+         <div>
+            <head>2d</head>
+            <p>took in steering sails. lowered the quarter boat to try the Current &amp; found it setting 1/4 of a mile per hour West. Lat: ob: 42.
+               30;S. Long: d.r. 55. 43; W. therm: 62. 30; Course S. by W 1/2 W.<pb n="18"/></p>
+         </div>
+         <div type="entry">
+            <head>3d</head>
+            <p>On New Years evening the Play of the "Weathercock" was again performed, with the afterpiece called the "Cob<add>b</add>ler &amp; his
+               daughter," with songs &amp; the whole got up and the farce written, by our indefatigable <hi rend="underline">author</hi> &amp; <hi rend="underline">actor</hi>
+               David C. Bunnel (carpenter's Yeoman) for the information of those who may chance to read these remarks, as well as to please my own
+               fancy, I herein copy from the "Thespian Critic and Theatrical Review"' (a paper edited &amp; written on board) the following criticism
+               of the play above mentioned.</p>
+            <div source="Thespian_Critic" type="quotation">
+               <head><hi rend="underline">Theatrical_January 2d 1819.</hi></head>
+               <p>The Thespian Theatre was opened last evening for the second time with the following entertainment of the Weathercock and the
+                     Cob<add>b</add>ler &amp; his Daughter. Tristram by <persName ref="#Bunnell">Mr D.G.B.</persName> from the Theatre Royal. As
+                  expectation is always on tiptoe at the debut of a new performer, &amp; his merits or demerits occasion much animadversion, we have
+                  taken the troubel of minutely observing this new Performer's commencement to give our friends an impartial account of him; and we
+                  must say, that our expectations were much disappointed, particularly so with regard to his tautology &amp; his gesticulation. In act
+                  1st Scene 1st for saying did You never hear of Demosthenes the Athenian Orator &amp;c he repeats "did you never hear of De_mo_thens
+                  the A_the_an orator_certainly the most vulgar pronunciation_In his next speech of_"I think I see him now awaking"_his gesticulations
+                  were so violent that it reminded us of a frantic Bedlamite, and seemed [unreadable] with the idea that the more noise there was, the
+                  more admirable<pb n="19"/>ble his performance._again he says_one soul "a_ni_ha_mates &amp;c for animates_where he picked this
+                  jargon, or whether in his deep researches after literature, he conceives he has found a more correct manner of pronunciation than
+                  his cotemporaries_Johnson or Walker, we must leave the Public to judge_again while conversing with Sneer (<persName
+                     ref="#Williams_Sneer"><hi rend="underline">Mr</hi> Williams</persName>) to personate Juliet, in saying Oh that I were a glove upon that hand
+                  &amp;c his grimace is so intolerable that it was painful to observe him and he either forgot or was ignorant that in addressing
+                  Juliet, he ought to have bended one knee_but no, he stood half bent, with one arm extended, &amp; the other with his finger pointed
+                  as if to command silence of his Juliet that she may hear his rhapsody. _But of all the canting noisey Billingsgate slang, his speech
+                  of A soldier, a General &amp;c &amp;c is made to represent it to a hair._His eyes roll, his chest is extended, his limbs compressed
+                  into the form of a letter S and he makes the whole house tremble while he wars it out_and at intervals, bellowing like a child
+                  crying for a piece of bread and butter; but when he takes his sword_then_then comes the tug of war, and he fancies that admiration
+                  sits on every countenance, and he dances from one end of the stage to the other like a dancing Bear._Again_ in the scene between
+                  Tristram &amp; the Gardener,_for vile Habiliments he repeats_Vile Ha_bit_a_ments. What he meant no one could form an idea, unless it
+                  was by the action of throwing off his<pb n="20"/>his clothes._but enough for the present, we could point out a number of other
+                  material instances of defect; but hope that these will suffuse into him a wish to correct his manners and pronunciation_</p>
+               <p>Old Fickle by <del>M</del>
+                  <persName ref="#franey">Franey</persName>, (steerage servant) a veteran_ on the whole, we were much entertained by him &amp; the
+                  performance of the character, <del>pretty well</del> &amp; though we hope, he will be rather less forgetful on another night; and we
+                  sincerely believe, that he will be a valuable acquisition to our Theatre_</p>
+               <p>Miss Variella, by <persName ref="#Williams_carpenter">Williams</persName> (of the Carpenters crew) "grace in all <hi rend="underline">her</hi>
+                  steps, Heaven in her eye, In every gesture, dignity and love."_</p>
+               <p>Briefwit, <persName ref="#Horton"><hi rend="underline">Mr</hi> H.</persName>
+                  <del>as</del>a stiff <del>a</del> piece of machinery &amp; greater than the author intended I dare say, for he was both Briefwit and
+                  Briefless. Sneer, <persName ref="#Williams_Sneer"><hi rend="underline">Mr</hi> Williams</persName>, with a little improvement will do well in the
+                  characters_ The piece went off without either many marks of approbation or disapprobation, and we hope, that the piece will not be
+                  resumed without some attention being paid to the errors &amp; defects pointed out.</p>
+               <p>The Pantomime was so wretchedly performed, that even the name of it would have been incomprehensible, unless we had seen it in the
+                  Play Bills_</p>
+               <p>The songs were, however, very well, but the subject of some were too pointed, tho we believe unintentionally so by the Author._ We
+                  were glad to see a full house on the commencement, as without that, the expense could not be<pb n="21"/> be continued,_We saw the
+                  side Boxes were filled wtih the Naval Heroes_some of distinction &amp; rank_ We have been thus particular with the faults of
+                     <persName ref="#Bunnell"><hi rend="underline">Mr</hi> D.C.B.</persName> not with the wish to dihearten him, but to lead him to improvement,
+                  that he may thereby reap the reward of his exertion &amp; talents &amp; we sincerely hope he may_"</p>
+            </div>
+            <div type="account">
+               <p> About this time, an opposition Paper appeared, called the "Macedonian Scourge," The following remarks are taken from Paper No.
+                  7_</p>
+            </div>
+            <div type="quotation">
+               <div type="Editorial">
+                  <head><hi rend="underline">_Editorial_</hi></head>
+                  <p>"The Editor of this paper is really sorry that the remarks contained in his paper of January the third, should have been of such
+                     a nature as to draw forth the "Ire" of the gentleman who heads the Thespian Band, That a gentleman of his qualifications should
+                     have recourse to caricature for the purpose of defaming him (who would be the last to injure the Thespian Throng,) is really
+                     astonishing_ With pleasure do we appeal to an enlightened Public for an opinion of the following, which was made with no other
+                     view than to maintain the dignity of the stage, and that lustre which spreads it refulgent beams around the personage of this
+                     Modern Othello."_</p>
+               </div>
+               <div type="article">
+                  <head>
+                     <hi rend="underline">"Theatrical Entertainment Jany 2d 1819"</hi></head>
+                  <p>Last Evening the crew of the Macedonian frigate were politely favoured with a rich repast of Theatrical labour in the display of
+                     the "Weathercock" and a Pantomime of the Cobbler &amp; his Daughter_ We hope our Subscribers will excuse us for a digression from
+                     our accustomed mode of issuing this paper in noticing the "Dramatis Personae" of those celebrated pieces,_Tristram,that most
+                        imp<pb n="22"/>important part of the Weathercock, was assigned to the <hi rend="underline">Natural</hi> and <hi rend="underline">acquired</hi>abilities
+                     of <persName ref="#Bunnell"><hi rend="underline">Mr</hi> David C. Bunnel</persName>, who has for a length of time appeared, with so much honor to himself and advantage to the
+                     community, upon the Theatre of the Congress and Macedonian Frigates. He is not however, without his imperfections, and in
+                     reminding him of them, we have not only the reputation of the stage at heart, but that of his own welfare on this stage, and that
+                     to which he may be translated. In that part which relates to his having arrived to the acme of perfection in the study of the
+                     Law, and the learned speech which he makes to prove that he possesses that fund of knowledge, we discover that his pronunciation
+                     is totally incorrect, as he differs from Johnson, Walker &amp; others, In pronouncing Demosthenes, he says Demosthenes, which
+                     must be disgusting to those who are familiar with pointing and diction</p>
+                  <p>In another part he says the Ane_than instead ofthe Athenean Orator, We hope that he will make it his study to repair the damages
+                     done to the King's English</p>
+               </div>
+            </div>
+         </div>
+
+
+
+
+      </body>
+   </text>
+</TEI>
