@@ -53,21 +53,148 @@
       </encodingDesc>
       <profileDesc>
          <!-- This will be determined by the Editor-In-Chief. -->
-        <abstract>
-           <p>Context for the extracted text. This will indlude historical information and information about the text as a whole. Format is dependent on the text. Example: Outline of issues and article titles from a newspaper.</p>
-        </abstract>
+         <abstract>
+            <p>Context for the extracted text. This will indlude historical information and information about the text as a whole. Format is dependent
+               on the text. Example: Outline of issues and article titles from a newspaper.</p>
+         </abstract>
       </profileDesc>
       <revisionDesc>
-         <change>See versions of this file at the <ref target="https://github.com/MaryIsbell/ShipboardTheatricals">GitHub</ref> for this project.</change>
+         <change>See versions of this file at the <ref target="https://github.com/MaryIsbell/ShipboardTheatricals">GitHub</ref> for this
+            project.</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <div type="article">
             <head>The Theatre</head>
-            <p>The"Calcuta Lyric Theatre", as it is grandly called is but a poor building, constructed entirely of bamboo &amp; palm leaf staffing. Standing as it does in the Esplanade, under the shadow of the Ochterbury Monument, &amp; in sight of the Government House, &amp; other magnificent buildings, it looks a deal <!-- individual? --> more like some country <del><gap reason = "indecipherable"></gap></del> <!-- This is like a cross out and fix, is that a deletion and a corr? --> farm <!-- I think this looks more like bpom but that doesn't make much sense --> or temporary shed. It <gap reason="indecipherable" quantity="3" unit="chars"></gap> a permanent temple of the Muses. We should conclude, <!-- &amp; ?? --> rightly, that the Calcutta people are but <!-- not? --> admitted to public Evening amusement, but <!-- and? --> are fonder of resting at home after <pb/>the business if the day than of venturing abroad to the venus of hisoronic efforts.</p>
-            <p>Taking this circumstance into consideration, we write <!-- were? -->glad to see <del>to</del> so fair an audience apemled <!-- Are we sure that is a dubble s? It looks like a p --> together on <del><gap reason = "indecipherable"></gap></del>Thursday Evening, to witness the first performance of the "Sailors from the Chesapeke". The Theatre, on entering is far from unpleasing in appearance; the decorations of pained cancas, assisted by the lighted lamps, gave to it an air of decided taste and beauty, <del>at</del>which on the present occation was heightened by the female faces, dark &amp; fair, who occupied the front circle of raised seats. The little semicircular box was chiefly filled by Naval <del><gap reason = "indecipherable"></gap></del>Officers from the Chesapeake, and a select number of our own Bluejackets.</p>
-            <!-- Geo should be expanded to George --> <gap reason="indecipherable" quantity="7" unit="chars"></gap>
+            <!-- The
+                                "Calcutta Lyric Theatre," as it is grandly called is but a poor
+                                building, constructed entirely of bamboos &amp; palm-leaf staffing.
+                                Standing as it does, in the Esplanade, under the shadow of the
+                                Ochterbury Monument, &amp; in sight of the Government House, &amp;
+                                other magnificent buildings, it looks a deal more like some country
+                                    <del>farm</del> barn or temporary shed, <gap
+                                    reason="indecipherable"/> a permanent temple of the Muses. We
+                                should conclude, &amp; rightly, that the Calcutta people are not
+                                admitted to public Evening amusements, &amp; are fonder of resting
+                                at home after the business of the day than of venturing abroad to
+                                the venue of histrionic efforts.<lb/>Taking this circumstance into
+                                consideration, we were glad to see so fair an audience assembled
+                                together on Thursday evening to witness the first performance of the
+                                "Sailors from the Chesapeake." The Theatre, on entering is far from
+                                unpleasing in appearance; the decorations of painted canvas,
+                                assisted by the lighted lamps, gave to it an air of decided taste
+                                and beauty, which on the present occasion was heightened by the
+                                female faces, dark &amp; fair, who occupied the front circle of
+                                raised seats. The little semicircular box was chiefly filled by
+                                Naval Officers from the Chesapeake, and a select number of our own
+                                Bluejackets. The Orchestra contained the Chesapeake band, which if
+                                somewhat too noisy from the predominance of brass instruments, at
+                                least contributed much to the pleasure of the Evening. The "Royal"
+                                Box, in the center of the raised seats, was on this occasion
+                                occupied by Commodore Watson, &amp; other patrons of the
+                                entertainment, on whose entrance the audience rose, the Band playing
+                                our National Anthem. <lb/>But we must now speak of our Actors &amp;
+                                give the Dramatis Personae, &amp; the names of those who sustained
+                                them.<lb/>"The Seven Clerks Dramatis Personae" <lb/>"The Seven
+                                Clerks." <lb/>(or the Thief &amp; the Denouncer) <lb/>Claude Darnaud
+                                (the Miser) Geo. Horner <lb/>Count Adolphe Chas. Stewart
+                                <lb/>Gustavus (his friend) Thos. Walshe <lb/>Larosse (a Merchant)
+                                Robt. Wilkinson <lb/>Simon Siggel, the Miser's Tenant Henry
+                                Underhill <lb/>Hans, a Dutchman Jno. Walshe <lb/>Matteo, an Italian
+                                (robbers) Henry Montagu <lb/>Jno. Brown, an Englishman Isaac Wright
+                                <lb/>Pierre Henry Hamilton <lb/>Antoine Jas. Browne <lb/>Victorine,
+                                the Miser's daughter Miss Connell <lb/>Peasantry, &amp;c &amp;c.
+                                <lb/>Nautical Hornpipe Thomas Walshe <lb/>Comic Duet, &amp;c Henry
+                                Underhill and William Connell <lb/>"Bombastes Furioso Dramatis
+                                Personae" <lb/>"Bombastes Furioso" <lb/>Artaxominus, the King Henry
+                                Montagu <lb/>Fusbas, Prime Minister Charles Stewart <lb/>General
+                                Bombastes Henry Underhill <lb/>Distaffina Miss Connell <lb/>The
+                                "Seven Clerks", a legend of Marseilles, was admirably revised to
+                                develop the various talents of the actors. Geo Horner, as the old
+                                Miser, sustained his tragic part most admirably, while St Underhill,
+                                as Simon Siggel, in the hunger which he so well pourtrayed, not only
+                                called down roars of laughter from the house, but produced a
+                                sympathetic feeling, which we were under the necessity of allaying
+                                directly the Theatre closed. J. Walshe, as the Dutch Robber, was
+                                very clever, &amp; Isaac Wright as the English robber from S. Giles,
+                                was no less droll. Great credit also must be given to <choice>
+                                    <abbr>Chs</abbr>
+                                    <expan>Charles</expan>
+                                </choice> Stewart, &amp; <choice>
+                                    <abbr>Wm</abbr>
+                                    <expan>William</expan>
+                                </choice> Connell, who maintained the 2 characters around which the
+                                others centered, namely those of Adolphe, &amp; Victorine. Stewart
+                                spoke nobly &amp; manfully, &amp; Connell looked and spoke the
+                                woman's part, with a grace &amp; tenderness we cd scarcely expect.
+                                The various tableaux, &amp; short strains of music, with which the
+                                Drama is interspersed, were very pleasing. <lb/>The Nautical
+                                Hornpipe, by <choice>
+                                    <abbr>Thos</abbr>
+                                    <expan>Thomas</expan>
+                                </choice> Walshe, that followed, was certainly not so good as one cd
+                                hoipe to see from H.M.S. "Chesapeake" &amp; we <choice>
+                                    <expan>should</expan>
+                                    <abbr>shd</abbr>
+                                </choice> have preferred the promised "Comic Duet" to the Solo song
+                                given us by Wm Connell:-but the Calcutta audience were well pleased,
+                                both with the dance &amp; song. <lb/>In "Bombastes Furioso," we will
+                                content ourselves by saying that all sustained their parts
+                                admirably, &amp; that roars of laughter resounded thro' the house.
+                                As this was the first time that our Chesapeake Amateurs have
+                                appeared before a public audience, we must say that the highest
+                                credit is due. <lb/>We close our notice by publishing the excellent
+                                Prologue, by Henry Montagu, which was written expressly for this
+                                occasion, &amp; spoken by him before the Curtain rose.
+                                <lb/>Prologue By Hy Montagu <lb/>Friends, Patrons of the "Thespian"
+                                art; I stand, <lb/>as spokesman for our little stage-struck band;
+                                <lb/>I come kind friends, respectfully to pray <lb/>Indulgent smiles
+                                for this our little play <lb/>Think not that we aspire to win a
+                                "Name" <lb/>In the high path of Histrionic fame: <lb/>Or that misled
+                                by fierce dramatic rage, <lb/>We hope like "Lear" to strut upon the
+                                stage: <lb/>No 'tis the aim of our most <del>humble</del> modest
+                                Muse <lb/>To please our patrons, and ourselves amuse, <lb/>Just
+                                this, no more, as Amateurs we come <lb/>Let this avowal strike the
+                                critics dumb. <lb/>Tonight, then, if our humble skill avails <lb/>We
+                                represent a legend of "Marseilles" <lb/>"Bombastes," next with love
+                                and fame elate, <lb/>Shall claim your laughter and your mirth
+                                create: <lb/>Joy, pathos, fun, e'en murder's sanguine strain
+                                <lb/>Mingle and follow in our motley train <lb/>Thus at the
+                                "Clerk's" sad fate, droops pity's eye, <lb/>Yet "Simon's" suppers,
+                                funds of mirth supply, <lb/>With horror "Darnaud's" vices now regard
+                                <lb/>And yield to Adolpho's love its due reward <lb/>Then comes
+                                "Bombastes" may he please you all <lb/>And may you laugh until the
+                                curtain fall <lb/>Well, then, my friends, scare not our sailor's
+                                muse <lb/>Nor to our first trial, applause refuse, <lb/>So shall our
+                                tread each moment firmer grow <lb/>And the dramatic fire more warmly
+                                glow. <lb/>Encourage this our unfledg'd wings first flight
+                                <lb/>We'll strive and please you more another night, <lb/>With
+                                grateful pride, I cast around my gaze <lb/>And see a host of varied
+                                beauty blaze <lb/>Soft beaming eyes, sweet lips, in smiles arrayed
+                                <lb/>Which might have well Herculean toils repaid <lb/>Their praise
+                                we covet, may we win the meed <lb/>Our labor's light, the guerdon
+                                great indeed <lb/>But hark! (Bell rings) our little troop impatient
+                                rage, <lb/>Anxious to "strut their hour" upon the stage. <lb/>And
+                                now my friends with Avon's Bard, I pray <lb/>Gently you'll judge,
+                                kindly you'll hear our play. -->
+            <p>The"Calcuta Lyric Theatre", as it is grandly called is but a poor building, constructed entirely of bamboo &amp; palm leaf staffing.
+               Standing as it does in the Esplanade, under the shadow of the Ochterbury Monument, &amp; in sight of the Government House, &amp; other
+               magnificent buildings, it looks a deal <!-- individual? --> more like some country <del><gap reason="indecipherable"/></del>
+               <!-- This is like a cross out and fix, is that a deletion and a corr? --> farm
+               <!-- I think this looks more like bpom but that doesn't make much sense --> or temporary shed. It <gap reason="indecipherable"
+                  quantity="3" unit="chars"/> a permanent temple of the Muses. We should conclude, <!-- &amp; ?? --> rightly, that the Calcutta people
+               are but <!-- not? --> admitted to public Evening amusement, but <!-- and? --> are fonder of resting at home after <pb/>the business if
+               the day than of venturing abroad to the venus of hisoronic efforts.</p>
+            <p>Taking this circumstance into consideration, we write <!-- were? -->glad to see <del>to</del> so fair an audience apemled
+               <!-- Are we sure that is a dubble s? It looks like a p --> together on <del><gap reason="indecipherable"/></del>Thursday Evening, to
+               witness the first performance of the "Sailors from the Chesapeke". The Theatre, on entering is far from unpleasing in appearance; the
+               decorations of pained cancas, assisted by the lighted lamps, gave to it an air of decided taste and beauty, <del>at</del>which on the
+               present occation was heightened by the female faces, dark &amp; fair, who occupied the front circle of raised seats. The little
+               semicircular box was chiefly filled by Naval <del><gap reason="indecipherable"/></del>Officers from the Chesapeake, and a select number
+               of our own Bluejackets.</p>
+            <!-- Geo should be expanded to George -->
+            <gap reason="indecipherable" quantity="7" unit="chars"/>
          </div>
       </body>
    </text>
