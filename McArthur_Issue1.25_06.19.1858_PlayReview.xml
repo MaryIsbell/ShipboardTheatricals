@@ -40,7 +40,7 @@
                         <ref type="address">170 Fleet Street, London, England</ref>
                         <name type="publisher">Paul Jerrard &amp; Son</name>
                      </biblScope>
-                     <note type="project">outline of issues published off the coast of Jeddah</note>
+                     <note type="project">Diamond Harbour Performance</note>
                   </imprint>
                </monogr>
             </biblStruct>
@@ -120,9 +120,10 @@
                   </note>
                </person>
                <person xml:id="John_Welsh">
-                  <note>John Welsh, an ordinary seaman, joined the Chesapeake on February 20, 1857. He was born in Mayo<bibl>Muster Book of Her
-                        Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
-                        38/2884)</bibl></note>
+                  <note>Though the first playbill lists this performer as "John Walshe," making it possible that this actor is the person represented
+                     by the "John Welsh" in the muster log. John Welsh is an ordinary seaman who joined the Chesapeake on February 20, 1857. He was
+                     born in Mayo<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the
+                        National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
                <person xml:id="Henry_Montagu">
                   <note>Henry Montagu, yeoman of signals, joined the Chesapeake on July 28, 1857 after serving aboard HMS President. He was born in
@@ -203,33 +204,89 @@
    </teiHeader>
    <text>
       <body>
-         <pb n="TYI2033" facs="https://farm2.staticflickr.com/1754/40668619260_625db61c72_k_d.jpg"/>
-         <head>Our Christmas Play<note>Bampfield's trancription of this article attributes it to "W"; the review is very similar to the one published
-               in this lithograph edition.</note></head>
-         <p>Our Christmas play came off in right merry style on Wednesday Evening (29 Decr). Our quarter deck, roofed in with flags of all nations,
-            presented as gay a Theatre as one would wish to see, while the rising tiers of benches from the deck to the bridge abaft, accommodated a
-            large and happy audience, not only of our own bluejackets, but of those from the "<orgName ref="#Pelorus">Pelorus</orgName>", the
-            "DuChayla" and the "<orgName ref="#Roebuck">Roebuck</orgName>".</p>
-         <p>We are proud of our Amateur Performers, who have this time surpassed themselves. The comedy of King Charles the Second" being cast as on
-            the last occasion, we need say little, except to compliment the fair "<persName ref="#James_Hammond">Mary</persName>" the Wapping beauty,
-            around whom the whole plot clusters, on the increasing ease, &amp; freedom with which she plays her part. "<persName ref="#George_Horner"
-               >Charles</persName>" was as royal, "<persName ref="#Charles_Stewart">Rochester</persName>" as Manly, and old "<persName
-               ref="#Thomas_Walsh">Copp</persName>" as jolly hearted as ever.</p>
-         <p>The two farces which followed kept the audience in a state of continual laughter and applause. <persName ref="#Thomas_Walsh">Thos
-               Walsh</persName>, as "Paddy Carey" was indeed a "broth of a boy", speaking with a rich brogue, whirling his shillelah in true Hibernian
-            spirit, touching the hearts of the audience by the generous <pb n="TYI2034"
-               facs="https://farm2.staticflickr.com/1743/27606331227_4931573b8b_k_d.jpg"/>nature of the deeds represented, and winding up with a song,
-            and a "jig" which brought down thunders of applause. The other characters of the piece were all good, but "Widow Leary" the landlady
-            deserves special mention. She was the yielding widow, and the Irish landlady in perfection.<note>It is not clear here who played Widow
-               Leary and the information is not provided in Bampfield's transcription either</note></p>
-         <p>In the "Man about Town" the chief burden of the piece rested upon <persName ref="#Isaac_Wright">Isaac Wright</persName> as "Skirts", and
-            well did he sustain it. Coming in which his two large placards of the "Learned Pig," he at once moved our muscles to a state of
-            risibility, which we found it difficult to pause from, such was the continued succession of funny deeds, and speeches. <persName
-               ref="#George_Horner">Horner</persName> as "Dr Mandible" the physician <persName ref="#Thomas_Walsh">Walsh</persName> as "Topps" the
-            Tiger, and indeed all the minor characters, played up to him well, and the curtain fell amidst loud and long applause.</p>
-         <p>We may safely say that all Officers &amp; men present, whether French or English, were delighted with their Evening's amusement, and we
-            were glad to observe our newly arrived Commodore, tho' rather late for the first piece, thoroughly enjoying the fun of the two Farces.</p>
-         <p>A supper was laid out on the Main Deck after the performance; for the Amateurs</p>
+         <pb n="IMG_1453" facs="https://farm2.staticflickr.com/1754/40668619260_625db61c72_k_d.jpg"/>
+         <div>
+            <head>Theatricals.<note>(The article is very similar though a little less detailed in Bampfield in Bampfield. Bampfield attributes the
+                  prologue (or perhaps the whole review) to "B." He also includes, after the prologue, "Many Officers &amp; men from the <orgName
+                     ref="#Roebuck">Roebuck</orgName> honoured our performance with their presence. A supper was spread for the actors in the
+                  fore-Cabin.</note></head>
+            <p>On Wednesday Evening (June 9) our Theatrical Amateurs gave their first performance on board our ship. The pieces being the same as
+               those which were performed in the Calcutta Theatre in February last, we may say little more than that they all did their parts well
+               &amp; gave universal satisfaction to their audience. The disadvantages, however under which they laboured were very great. The
+               construction of a ship being so unfavourable to sound, &amp; a strong breeze blowing at the time, their voices when at all lowered
+               became almost inaudible to those at a distance. Hence much of the intent &amp; point of the pieces was entirely lost Even the old<pb
+                  n="IMG_1453l" facs="https://farm8.staticflickr.com/7829/32123610697_2ef4b4690a_k_d.jpg"/>miser's tragic acting became much of it
+               dumb show. <persName ref="#Henry_Underhill">"Simon Siggels</persName> amusing hunger could hardly be appreciated and the "fair one" of
+               the play <persName ref="#William_Connell">"Victorine"</persName> with her feminine tones, could scarcely be heard in any part of her
+               speech The fault was not that of the actors, &amp; we would hope that judicious management, another time would render a second
+               performance much more attractive. The robbers <persName ref="#John_Welsh">"Hans"</persName> &amp; <persName ref="#Isaac_Wright">"John
+                  Brown"</persName> were as amusing as ever, &amp; perhaps were better heard than any. The light thrown on the stage was so
+               indifferent that the play of the actor's features was completely lost</p>
+            <p>"Bombastes" went off very well &amp; caused much laughter; but we are of opinion, that neither the polished drama, nor the refined
+               burlesque will overtake so well with a ship's audience, as a good, broad, roaring comedy, in which comic action may supply the loss of
+               words. We hope the managers will take our advice</p>
+            <p>The "Irish Jig" by <persName ref="#Thomas_Walsh">T. Walsh</persName> was capital &amp; was loudly encored. A Gentleman who announced
+               himself as "a rummy old Cadger" &amp; whom we fancy to have seen occasionally in our private circles, made his appearance on the stage
+               between the acts, &amp; obtained great applause by his humorous singing; on being encored he gave an account of his sad fall from
+               riches to poverty, but concluded with the poetic sentiment, a man's a man for a' "that"!!!<note>probably "Is There for Honest Poverty",
+                  commonly known as "A Man's a Man for A' That" or "For a' That and a' That", 1795 song by Robert Burns</note></p>
+            <p>On the whole we believe that our "Play" has given an amusing diversion to the ships company &amp; made a pleasant break in our stay at
+               Diamond Harbour.</p>
+            <lg>
+               <head>PROLOGUE written expressly for the occasion</head>
+               <lg>
+                  <l>When Thespis first with modest skill began</l>
+                  <l>To pain in glowing Verse the deeds of Man,</l>
+                  <l>Green waving boughs were all the "scene" he tried</l>
+                  <l>And Nature's sword a ready "stage" supplied.</l>
+                  <l>so when our little Thespian band, essays</l>
+                  <l>To win the guerdon of a shipmate's praise,</l>
+                  <l>These pine plank decks shall be the stage we tread</l>
+                  <l>These varied flags their simple scenery spread.</l>
+               </lg>
+               <lg>
+                  <l>A shipmate's praise is all the boon we claim</l>
+                  <l>A shipmate's pleasure is our highest aim</l>
+                  <l>'Tis ours to soothe the heart, to raise the smile,</l>
+                  <l>And with gay thoughts your evening hours beguile;</l>
+                  <l>'Tis ours to move at joyous mirth's behest,</l>
+                  <l>call the light laugh, &amp; hail the merry jest;</l>
+                  <l>'Tis ours to cheer the spririt dash'd with care,</l>
+                  <l>To aid the drooping heart its woes to bear,</l>
+                  <l>And while, beneath these sultry climes we roam,</l>
+                  <l>To banish sorrow from our floating home.</l>
+               </lg>
+               <lg>
+                  <l>Tonight again we bring before the scene</l>
+                  <l>The noble <persName ref="#Charles_Stewart">"Adolphe"</persName> and fair <persName ref="#William_Connell"
+                     >"Victorine"</persName></l>
+                  <l>Once more the stern &amp; miserly <persName ref="#George_Horner">"Darnaud"</persName></l>
+                  <l>Shall tell his tale of checquered care and woe.</l>
+                  <l>Once more the merry <persName ref="#John_Welsh">"Hans"</persName> &amp; brave <persName ref="#Isaac_Wright">"John
+                        Brown."</persName></l>
+                  <l>Shall play their midnight pranks about the town</l>
+                  <l>And <persName ref="#Henry_Underhill">"Simon Siggel"</persName> still record how nice</l>
+                  <l>His soup &amp; beef &amp; "weal" boiled down with rice</l>
+               </lg>
+               <lg>
+                  <l><persName ref="#Henry_Montagu">King "Artaxominus"</persName> [y'clept?] the great</l>
+                  <l>shall then be seen in all his regal state,</l>
+                  <l><persName ref="#Charles_Stewart">"Fusbos"</persName> shall still with prudent art advise,</l>
+                  <l>and <persName ref="#William_Connell">"Distaffina"</persName> charm the coldest eyes</l>
+                  <l>While brave <persName ref="#Henry_Underhill">"Bombastes"</persName> burning deep with rage</l>
+                  <l>shall wield his flashing sword, &amp; strut the stage</l>
+               </lg>
+               <lg>
+                  <l>Tonight, no unjust critic need we fear</l>
+                  <l>No envious "Ditchers" find an entrance here</l>
+                  <l>But honest faces smile upon our muse</l>
+                  <l>And kindly hearts our largest faults excuse</l>
+                  <l>so shall our Play to you more pleasing prove,</l>
+                  <l>And while kind voices gen'rous praise award</l>
+                  <l>Your heards approving, may your hands applaud.</l>
+               </lg>
+            </lg>
+         </div>
 
       </body>
    </text>

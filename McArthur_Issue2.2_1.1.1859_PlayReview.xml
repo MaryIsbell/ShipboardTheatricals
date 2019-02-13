@@ -40,7 +40,7 @@
                         <ref type="address">170 Fleet Street, London, England</ref>
                         <name type="publisher">Paul Jerrard &amp; Son</name>
                      </biblScope>
-                     <note type="project">Diamond Harbour Performance</note>
+                     <note type="project">outline of issues published off the coast of Jeddah</note>
                   </imprint>
                </monogr>
             </biblStruct>
@@ -120,7 +120,8 @@
                   </note>
                </person>
                <person xml:id="John_Welsh">
-                  <note>John Welsh, an ordinary seaman, joined the Chesapeake on February 20, 1857. He was born in Mayo<bibl>Muster Book of Her
+                  <note>Though the first playbill lists this performer as "John Walshe," making it possible that this actor is the person represented
+                     by the "John Welsh" in the muster log. John Welsh is an ordinary seaman who joined the Chesapeake on February 20, 1857. He was born in Mayo<bibl>Muster Book of Her
                         Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
                         38/2884)</bibl></note>
                </person>
@@ -203,27 +204,33 @@
    </teiHeader>
    <text>
       <body>
-         <pb n="IMG_1453" facs="https://farm2.staticflickr.com/1754/40668619260_625db61c72_k_d.jpg"/>
-         <head>Theatricals.<note>(what does Bampfield do with this article? where does it appear and who is it attributed to?</note></head>
-         <p>On Wednesday Evening (June 9) our Theatrical Amateurs gave their first performance on board our ship. The pieces being the same as those
-            which were performed in teh Calcutta Theatre in February last, we may say little more than that they all did their parts well &amp; gave
-            universal satisfaction to their audience. The disadvantages, however under which they laboured were very great. The construction of a ship
-            being so unfavourable to sound, &amp; a strong breeze blowing at the time, their voices when at all lowered became almost inaudible to
-            those at a distance. Hence much of teh intent &amp; point of the pieces was entirely lost Even the old<pb n="IMG_1453l"
-               facs="https://farm8.staticflickr.com/7829/32123610697_2ef4b4690a_k_d.jpg"/>miser's tragic acting became much of it dumb show. "Simon
-            Siggels amusing hunger could hardly be appreciated and the "fair one" of the play "Victorine" with her feminine tones, could scarcely be
-            heard in any part of her speech The fault was not that of the actors, &amp; we would hope that judicious management, another time would
-            render a second performance much more attractive. The robbers "Hans" $amp; "John Brown" were as amusing as ever, &amp; perhaps were better
-            heard than any. The light thrown on the stage was so indifferent that the play of the actor's features was completely lost</p>
-         <p>"Bombastes" went off very well &amp; caused much laughter; but we are of opinion, that neither the polished drama, nor the refined
-            burlesque will overtake so well with a ship's audience, as a good, broad, roaring comedy, in which comic action may supply the loss of
-            words. We hope the managers will take our advice</p><p>The "Irish Jig" by T. Walsh was capital &amp; was loudly encored. A Gentleman who
-               announced himself as "a nummy old Cadger" &amp; whom we facy to have seen occasionally in our private circles, made his appearance on
-               the stage between the acts, &amp; obtained great applause by his humorous singing; on being encored he gave an account of his sad fall
-               from riches to poverty, but concluded with the poetic sentiment, a man's a man for a' "that"!!!</p><p>On the whole we believe that our
-                  "Play" has given an amusing diversion to the ships company &amp; made a pleasant break in our stay at Diamond
-                  Harbour.</p><lg><head>PROLOGUE written expressly for the occasion</head><l>When Thespis first with modest skill began</l><l>To pain
-                     in glowing Verse the deeds of Man,</l><l>Green waving boughs were all the "scene" he tried</l><l>[more things...stopped for now]</l></lg>
+         <pb n="TYI2033" facs="https://farm2.staticflickr.com/1754/40668619260_625db61c72_k_d.jpg"/>
+         <head>Our Christmas Play<note>Bampfield's trancription of this article attributes it to "W"; the review is very similar to the one published
+               in this lithograph edition.</note></head>
+         <p>Our Christmas play came off in right merry style on Wednesday Evening (29 Decr). Our quarter deck, roofed in with flags of all nations,
+            presented as gay a Theatre as one would wish to see, while the rising tiers of benches from the deck to the bridge abaft, accommodated a
+            large and happy audience, not only of our own bluejackets, but of those from the "<orgName ref="#Pelorus">Pelorus</orgName>", the
+            "DuChayla" and the "<orgName ref="#Roebuck">Roebuck</orgName>".</p>
+         <p>We are proud of our Amateur Performers, who have this time surpassed themselves. The comedy of King Charles the Second" being cast as on
+            the last occasion, we need say little, except to compliment the fair "<persName ref="#James_Hammond">Mary</persName>" the Wapping beauty,
+            around whom the whole plot clusters, on the increasing ease, &amp; freedom with which she plays her part. "<persName ref="#George_Horner"
+               >Charles</persName>" was as royal, "<persName ref="#Charles_Stewart">Rochester</persName>" as Manly, and old "<persName
+               ref="#Thomas_Walsh">Copp</persName>" as jolly hearted as ever.</p>
+         <p>The two farces which followed kept the audience in a state of continual laughter and applause. <persName ref="#Thomas_Walsh">Thos
+               Walsh</persName>, as "Paddy Carey" was indeed a "broth of a boy", speaking with a rich brogue, whirling his shillelah in true Hibernian
+            spirit, touching the hearts of the audience by the generous <pb n="TYI2034"
+               facs="https://farm2.staticflickr.com/1743/27606331227_4931573b8b_k_d.jpg"/>nature of the deeds represented, and winding up with a song,
+            and a "jig" which brought down thunders of applause. The other characters of the piece were all good, but "Widow Leary" the landlady
+            deserves special mention. She was the yielding widow, and the Irish landlady in perfection.<note>It is not clear here who played Widow
+               Leary and the information is not provided in Bampfield's transcription either</note></p>
+         <p>In the "Man about Town" the chief burden of the piece rested upon <persName ref="#Isaac_Wright">Isaac Wright</persName> as "Skirts", and
+            well did he sustain it. Coming in which his two large placards of the "Learned Pig," he at once moved our muscles to a state of
+            risibility, which we found it difficult to pause from, such was the continued succession of funny deeds, and speeches. <persName
+               ref="#George_Horner">Horner</persName> as "Dr Mandible" the physician <persName ref="#Thomas_Walsh">Walsh</persName> as "Topps" the
+            Tiger, and indeed all the minor characters, played up to him well, and the curtain fell amidst loud and long applause.</p>
+         <p>We may safely say that all Officers &amp; men present, whether French or English, were delighted with their Evening's amusement, and we
+            were glad to observe our newly arrived Commodore, tho' rather late for the first piece, thoroughly enjoying the fun of the two Farces.</p>
+         <p>A supper was laid out on the Main Deck after the performance; for the Amateurs</p>
 
       </body>
    </text>
