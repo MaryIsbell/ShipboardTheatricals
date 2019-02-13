@@ -3198,15 +3198,45 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
-         <div n="__" type="issue">
+         <pb n="IMG_1456" facs="___"/>
+         <div n="27" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
-            <head type="sub">__________</head>
-            <head type="sub">Vol 1. No __</head>
+            <head type="sub">Saturday 3rd July 1858</head>
+            <head type="sub">Vol 1. No 27</head>
+            <div type="article">             
+               <p>en route to Trincomalie--SO glad to be leaving the sweltering heat of India</p>
+            </div>
             <div type="__">
                <head>______</head>
                <p>________</p>
+            </div>
+            <div type="naval_intelligence">
+               <head>Naval Intelligence</head>
+               <p>_____</p>
+            </div>
+            <div type="epitome">
+               <head>Epitome</head>
+               <p>____</p>
+            </div>
+            <div type="facetiae">
+               <head>FACETIAE</head>
+               <p>________</p>
+            </div>
+            <div type="Conundrums">
+               <head>Conundrums</head>
+               <p>________</p>
+            </div>
+         </div>
+         <pb n="IMG_1458" facs="___"/>
+         <div n="28" type="issue">
+            <head type="main">"The Young Idea"</head>
+            <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+            <head type="sub">Saturday 17th July 1858</head>
+            <head type="sub">Vol 1. No 28</head>
+            <div type="article">             
+               <p>[the voyage has ended and we are in Trincomalie...some interesting speculation about being sent back to England "the settlement of
+                  our question with America"</p>
             </div>
             <div type="__">
                <head>______</head>
@@ -3230,54 +3260,31 @@
             </div>
          </div>
          <pb n="_____" facs="___"/>
-         <div n="__" type="issue">
+         <div n="29" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
-            <head type="sub">__________</head>
-            <head type="sub">Vol 1. No __</head>
-            <div type="__">
-               <head>______</head>
-               <p>________</p>
+            <head type="sub">24th July 1858</head>
+            <head type="sub">Vol 1. No 29</head>
+            <div type="article">
+               <p>[the commodore is leaving]</p>
             </div>
-            <div type="__">
-               <head>______</head>
-               <p>________</p>
+            <div type="article">
+               <head>Farewell Dinner to Commdore Watson</head>
+               <p>________</p></div>
+               <div type="poem">
+                  <head>"The Bay of Bengal"</head>
+                  <p>a song to the tune of something specific</p>
+               
+            </div>
+            <div type="article">
+               <head>Our Ship's Pets</head>
+               <p>_____</p>
             </div>
             <div type="naval_intelligence">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
-               <head>Epitome</head>
-               <p>____</p>
-            </div>
-            <div type="facetiae">
-               <head>FACETIAE</head>
-               <p>________</p>
-            </div>
-            <div type="Conundrums">
-               <head>Conundrums</head>
-               <p>________</p>
-            </div>
-         </div>
-         <pb n="_____" facs="___"/>
-         <div n="__" type="issue">
-            <head type="main">"The Young Idea"</head>
-            <head type="main">Chesapeake Chronicle and Weekly Journal</head>
-            <head type="sub">__________</head>
-            <head type="sub">Vol 1. No __</head>
-            <div type="__">
-               <head>______</head>
-               <p>________</p>
-            </div>
-            <div type="__">
-               <head>______</head>
-               <p>________</p>
-            </div>
-            <div type="naval_intelligence">
-               <head>Naval Intelligence</head>
-               <p>_____</p>
-            </div>
+            
             <div type="epitome">
                <head>Epitome</head>
                <p>____</p>
