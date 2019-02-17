@@ -289,6 +289,13 @@
                         31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
                <person>
+                  <persName xml:id="Faustino">Juan I. Faustino</persName>
+                  <note>Juan I. Faustino, bandmaster, joined the Chesapeake on September 14th 1857 after serving aboard HMS Imperieuse. He was born in
+                     1820 in Allicante, Portugal, making him 37 when he joined the ship's company.<bibl>Muster Book of Her Majesty's Ship Chesapeake
+                        Commencing 1st September 1857 Ending
+                        30th September 1857, held by the National Archives at Kew (ADM 38/2883)</bibl></note>
+               </person>
+               <person>
                   <persName xml:id="Namik_Pacha">Namik Pacha</persName>
                   <note>cite one of the articles on the uprising</note>
                </person>
@@ -2702,7 +2709,7 @@
                <p>________</p>
             </div>
             <div type="facetiae">
-               <head>Facetiae</head>
+               <head>Faceti&#198;</head>
                <p>________</p>
             </div>
             <div type="conundrum">
