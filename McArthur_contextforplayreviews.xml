@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="m" type="main">McArthur Context for Play Reviews</title>
+            <title level="m" type="main">McArthur Lithograph Edition of The Young Idea</title>
             <author>A.D. McArthur</author>
             <editor>Mary Isbell</editor>
             <respStmt>
@@ -16,7 +16,7 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <date>2018</date>
+               <date>2019</date>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -31,8 +31,8 @@
                <monogr>
                   <editor>A.D. McArthur</editor>
                   <title>The Young Idea: A Naval Journal Edited on Board the H.M.S. Chesapeake in 1857, 1858 &amp; 1859 </title>
-                  <idno type="callno">Edition created from copy in editor's private collection, only other known copy held at British Library:
-                     1757.a.20/</idno>
+                  <idno type="callno">Edition created from copy in editor's private collection. Other copies held at British Library:
+                     1757.a.20/ and Beinecke Library: ______</idno>
                   <imprint>
                      <date>1867</date>
                      <biblScope>
@@ -40,8 +40,7 @@
                         <ref type="address">170 Fleet Street, London, England</ref>
                         <name type="publisher">Paul Jerrard &amp; Son</name>
                      </biblScope>
-                     <note type="project">outline of issues published to find context for play reviews [including full text of sections from
-                        Calcutta]</note>
+                     <note type="project">An in-process transcription of the entire run of The Young Idea</note>
                   </imprint>
                </monogr>
             </biblStruct>
