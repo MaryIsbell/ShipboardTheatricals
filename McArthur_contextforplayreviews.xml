@@ -355,8 +355,219 @@
    </teiHeader>
    <text>
       <body>
-         <pb n="TYI1071" facs="TYI1071"/>
+
          <!-- it may be quicker to keep these images as is and link to them in my own transformation -->
+         <pb n="IMG_1406.JPG" facs="___"/>
+         <div n="1" type="issue">
+            <head type="main">"The Young Idea"</head>
+            <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+            <head type="sub">Saturday-December 12, 1857</head>
+            <head type="sub">No 1.</head>
+            <div type="editorial">
+               <head>Our Opening Column</head>
+               <p>________</p>
+            </div>
+            <div type="letter">
+               <head>from our Correspondent</head>
+               <head>Grand Dinner Party in celebration of hoisting the Broad Pendant</head>
+               <!-- don't forget to format this as a letter...just transcribing the body for now -->
+               <p>On Wednesday the 9th a grand dinner party was given by the Ward Room Officers of H.M.S. Chesapeake to their commodore, in honor of
+                  his having on that day hoisted his Broad Pendant</p>
+               <pb n="IMG_1406l.JPG" facs="___"/>
+               <p>I will not encroach too much on your valuable time, by entering fully into minute details, but proceed to describe, as well, and
+                  briefly, as I am able, one of the great features of the week. There is little occasion to name the Bill of Fare, as it might make
+                  sundry people's mouths water to no purpose; suffice it to say the table was served in a most "recherche<!-- the e is accented -->"
+                  style; the good looking and well dressed sailor boys, being remarkably attentive; the whole being under the able management of Mr.
+                  Geo Hoadley, the Mess Steward.</p>
+               <p>Scandal, says, that several cries were heard from the background, much resembling the noise that boys make when under punishment,
+                  and therefore avers, that the boys' good conduct arose from the fact of a Corporal, having been seen to enter the ward room previous
+                  to dinner, with what sailors call a "persuader" in his hand. But as I make it a practice to turn a deaf ear to scandal, (altho'
+                  readers may draw their own conclusions) still I am of opinion that they (the boys) have been too well drilled, and the system too
+                  good, to allow such a derogatory report to gain ground in any right minded person's opinion. You must pardon me, for having thus
+                  digressed from my subject, but as calumnious reports quickly get abroad, and such an one might prove detrimental to that well
+                  regulated mess. I take this opportunity of nipping it in the bud: -to proceed:-The culinary department, under the care of Mons: do
+                  Blanchearde, (who bids fair to outrival Mr Soyer) gave every satisfaction and the well satisfied look that rested on everyone's
+                  face, on the removal of the cloth, would, could he only have seen it, have repaid him well for his unremitting zeal.</p><p>Dessert
+                     on the table, and the glasses filled, the usual loyal toast was drunk to the splendid band of the ship, under their leader,
+                     Signor Faustine, playing "God save the Queen" followed immediately by "The return of the Admiral". Some slight mistake appears to
+                  have been made, in the time appointed for the playing of this Air; but to the fact of the Bandmaster being a foreigner, and as yet,
+                  not initiated into English customs, must this mistake be attributed</p><p>After the strains of music had ceased the President Capt.
+                     Piers, in an appropriate speech proposed the health of Commodore Watson CB which was drunk with enthusiasm, and no heel tops
+                     <note>"no heel tops" is a call made when one has not emptied their glass after a toast</note>, the band playing as before, the
+                     "Return of the Admiral" ...</p>
+            </div>
+            <div type="naval_intelligence">
+               <head>Naval Intelligence</head>
+               <p>_____</p>
+            </div>
+            <div type="epitome">
+               <head>Epitome</head>
+               <p>____</p>
+            </div>
+            <div type="facetiae">
+               <head>FACETIAE</head>
+               <p>________</p>
+            </div>
+            <div type="Conundrums">
+               <head>Conundrums</head>
+               <p>________</p>
+            </div>
+         </div>
+         <pb n="_____" facs="___"/>
+         <div n="__" type="issue">
+            <head type="main">"The Young Idea"</head>
+            <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+            <head type="sub">__________</head>
+            <head type="sub">Vol 1. No __</head>
+            <div type="__">
+               <head>______</head>
+               <p>________</p>
+            </div>
+            <div type="__">
+               <head>______</head>
+               <p>________</p>
+            </div>
+            <div type="naval_intelligence">
+               <head>Naval Intelligence</head>
+               <p>_____</p>
+            </div>
+            <div type="epitome">
+               <head>Epitome</head>
+               <p>____</p>
+            </div>
+            <div type="facetiae">
+               <head>FACETIAE</head>
+               <p>________</p>
+            </div>
+            <div type="Conundrums">
+               <head>Conundrums</head>
+               <p>________</p>
+            </div>
+         </div>
+         <pb n="_____" facs="___"/>
+         <div n="__" type="issue">
+            <head type="main">"The Young Idea"</head>
+            <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+            <head type="sub">__________</head>
+            <head type="sub">Vol 1. No __</head>
+            <div type="__">
+               <head>______</head>
+               <p>________</p>
+            </div>
+            <div type="__">
+               <head>______</head>
+               <p>________</p>
+            </div>
+            <div type="naval_intelligence">
+               <head>Naval Intelligence</head>
+               <p>_____</p>
+            </div>
+            <div type="epitome">
+               <head>Epitome</head>
+               <p>____</p>
+            </div>
+            <div type="facetiae">
+               <head>FACETIAE</head>
+               <p>________</p>
+            </div>
+            <div type="Conundrums">
+               <head>Conundrums</head>
+               <p>________</p>
+            </div>
+         </div>
+         <pb n="_____" facs="___"/>
+         <div n="__" type="issue">
+            <head type="main">"The Young Idea"</head>
+            <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+            <head type="sub">__________</head>
+            <head type="sub">Vol 1. No __</head>
+            <div type="__">
+               <head>______</head>
+               <p>________</p>
+            </div>
+            <div type="__">
+               <head>______</head>
+               <p>________</p>
+            </div>
+            <div type="naval_intelligence">
+               <head>Naval Intelligence</head>
+               <p>_____</p>
+            </div>
+            <div type="epitome">
+               <head>Epitome</head>
+               <p>____</p>
+            </div>
+            <div type="facetiae">
+               <head>FACETIAE</head>
+               <p>________</p>
+            </div>
+            <div type="Conundrums">
+               <head>Conundrums</head>
+               <p>________</p>
+            </div>
+         </div>
+         <pb n="_____" facs="___"/>
+         <div n="__" type="issue">
+            <head type="main">"The Young Idea"</head>
+            <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+            <head type="sub">__________</head>
+            <head type="sub">Vol 1. No __</head>
+            <div type="__">
+               <head>______</head>
+               <p>________</p>
+            </div>
+            <div type="__">
+               <head>______</head>
+               <p>________</p>
+            </div>
+            <div type="naval_intelligence">
+               <head>Naval Intelligence</head>
+               <p>_____</p>
+            </div>
+            <div type="epitome">
+               <head>Epitome</head>
+               <p>____</p>
+            </div>
+            <div type="facetiae">
+               <head>FACETIAE</head>
+               <p>________</p>
+            </div>
+            <div type="Conundrums">
+               <head>Conundrums</head>
+               <p>________</p>
+            </div>
+         </div>
+         <pb n="_____" facs="___"/>
+         <div n="__" type="issue">
+            <head type="main">"The Young Idea"</head>
+            <head type="main">Chesapeake Chronicle and Weekly Journal</head>
+            <head type="sub">__________</head>
+            <head type="sub">Vol 1. No __</head>
+            <div type="__">
+               <head>______</head>
+               <p>________</p>
+            </div>
+            <div type="__">
+               <head>______</head>
+               <p>________</p>
+            </div>
+            <div type="naval_intelligence">
+               <head>Naval Intelligence</head>
+               <p>_____</p>
+            </div>
+            <div type="epitome">
+               <head>Epitome</head>
+               <p>____</p>
+            </div>
+            <div type="facetiae">
+               <head>FACETIAE</head>
+               <p>________</p>
+            </div>
+            <div type="Conundrums">
+               <head>Conundrums</head>
+               <p>________</p>
+            </div>
+         </div>
          <div n="7" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">"Chesapeake" Chronicle and Weekly Journal</head>
@@ -2882,24 +3093,25 @@
             <div type="article">
                <head>Coming into Trincomalee</head>
                <p>The remnant of the Ava's wreck, the huts of her officers, and of our own comrades whom we have left on shore the rocks that rise in
-                  various spots near the shore, are fast lost sight of as we steam towards Trincomalee.</p><p>Pigeon Island itself, on which our eyes
-                     have so long rested, recedes from our view, as we come in sight of the Rocky eminence and flagstaff of Fort Frederick. The shore
-                     behind it is low, with a deep fringe of palms and cocoa huts along the sandy beach and low, round, treeclad hills, behind them.
-                     But the Rock itself stands out bold and rugged, advancing, isolated, into the sea, reddish in hue, with only scanty bushes
-                     springing from among the crevices, the signal staff rising high on the summit, with two or three guns, and some low buildings
-                     beside it, which we believe to be the Soldier's Hospital</p><p>As we round the Rock, we see more buildings belonging to the Fort,
-                        and more protecting guns; While the Village of Trincomalee, standing amidst palm trees on the level plain rapidly came into
-                        sight; it is a pretty picture.</p><p>We see obelisks rising among the bushes at the Cemetery, various colonnaded houses,
-                           partly concealed<pb n="IMG_1439" facs="__"/>by trees, humbler dwellings of the natives, overshadowed by palm trees; a few
-                           dark figures, crossing the common that intervenes between the village &amp; the sea. Then a rough rocky promontory meets
-                           our view, with small rounded hills, clothed with wild trees and bushes down to the waters' edge. We wind our way round it,
-                           and see a harbour opening before us with smooth water receding in various directions among the green, bush covered hills.
-                           There is a rough eminence to our right with a small fort on the summit, and a low rocky point jutting out beneath, armed
-                           wtih two or three guns. Still we wind round it; we lose sight of the open sea, and the water seems everywhere landlocked,
-                           in ever direction there are the low, rocky, but bushy hills, with the bright blue water running into the various windings
-                           &amp; inlets, which seem to be interminable.</p><p>We have so wound our way in that we are now at the very back of Fort
-                              Frederick, and we see its flagstaff in the distance rising right ahead of us, we are abreast of the little Dock Yard,
-                              and here for a time we are made fast to the shore, to coal, and our ship rests in perfect stillness.</p>
+                  various spots near the shore, are fast lost sight of as we steam towards Trincomalee.</p>
+               <p>Pigeon Island itself, on which our eyes have so long rested, recedes from our view, as we come in sight of the Rocky eminence and
+                  flagstaff of Fort Frederick. The shore behind it is low, with a deep fringe of palms and cocoa huts along the sandy beach and low,
+                  round, treeclad hills, behind them. But the Rock itself stands out bold and rugged, advancing, isolated, into the sea, reddish in
+                  hue, with only scanty bushes springing from among the crevices, the signal staff rising high on the summit, with two or three guns,
+                  and some low buildings beside it, which we believe to be the Soldier's Hospital</p>
+               <p>As we round the Rock, we see more buildings belonging to the Fort, and more protecting guns; While the Village of Trincomalee,
+                  standing amidst palm trees on the level plain rapidly came into sight; it is a pretty picture.</p>
+               <p>We see obelisks rising among the bushes at the Cemetery, various colonnaded houses, partly concealed<pb n="IMG_1439" facs="__"/>by
+                  trees, humbler dwellings of the natives, overshadowed by palm trees; a few dark figures, crossing the common that intervenes between
+                  the village &amp; the sea. Then a rough rocky promontory meets our view, with small rounded hills, clothed with wild trees and
+                  bushes down to the waters' edge. We wind our way round it, and see a harbour opening before us with smooth water receding in various
+                  directions among the green, bush covered hills. There is a rough eminence to our right with a small fort on the summit, and a low
+                  rocky point jutting out beneath, armed wtih two or three guns. Still we wind round it; we lose sight of the open sea, and the water
+                  seems everywhere landlocked, in ever direction there are the low, rocky, but bushy hills, with the bright blue water running into
+                  the various windings &amp; inlets, which seem to be interminable.</p>
+               <p>We have so wound our way in that we are now at the very back of Fort Frederick, and we see its flagstaff in the distance rising
+                  right ahead of us, we are abreast of the little Dock Yard, and here for a time we are made fast to the shore, to coal, and our ship
+                  rests in perfect stillness.</p>
             </div>
             <div type="article">
                <head>A trip to Sober Island</head>
@@ -2910,7 +3122,8 @@
                   determination to admire the scenery which delighted the eye on every side, instead of rowing, and they required some stirring up
                   from those who performed the more pleasant task of steering, to give way the required distance, but as the landing place broke upon
                   their sight a hearty cheer escaped from their lips and they plied their oars so vigorously that we began to entertain fears that the
-                  oars would be broken. However we got safely to land, and having made fast the boat, <pb n="IMG_1439l" facs="__"/> and coming back]</p>
+                  oars would be broken. However we got safely to land, and having made fast the boat, <pb n="IMG_1439l" facs="__"/> and coming
+                  back]</p>
             </div>
             <div type="article">
                <head>Our Naval Brigades.</head>
