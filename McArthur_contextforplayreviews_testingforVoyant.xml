@@ -371,11 +371,11 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday-December 12, 1857</head>
             <head type="sub">No 1.</head>
-            <div type="editorial">
+            <div type="section">
                <head>Our Opening Column</head>
                <p>________</p>
             </div>
-            <div type="letter">
+            <div type="section">
                <head>from our Correspondent</head>
                <head>Grand Dinner Party in celebration of hoisting the Broad Pendant</head>
                <!-- don't forget to format this as a letter...just transcribing the body for now -->
@@ -404,19 +404,19 @@
                      <note>"no heel tops" is a call made when one has not emptied their glass after a toast</note>, the band playing as before, the
                      "Return of the Admiral" ...</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -427,27 +427,27 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -458,27 +458,27 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -489,27 +489,27 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -520,27 +520,27 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -551,27 +551,27 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -582,7 +582,7 @@
             <head type="sub">Saturday 23rd January 1858</head>
             <head type="sub">No. 7</head>
             
-            <div type="article">
+            <div type="section">
                <p>
                   <!-- Find a way to present information about differences between McArthur and Bampfield (likely a note instead of a ref tag) and then make the change throughout --><ref
                      target="variants.youngidea.xml#TYI7.01">Our long voyage has now come to a close, we may consider that we have arrived at our
@@ -607,7 +607,7 @@
                   termination to the disturbances in India.</p>
             </div>
 
-            <div type="article">
+            <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI7.02">Calcutta!</ref>
                </head>
@@ -653,7 +653,7 @@
             </div>
             
 
-            <div type="article">
+            <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI7.03">Up the Hooghly</ref>
                </head>
@@ -686,7 +686,7 @@
                   whirring through the watches of the night.</p>
             </div>
 
-            <div type="article">
+            <div type="section">
                <head>[No Title]</head>
 
                <p><ref target="variants.youngidea.xml#TYI7.04">The capture of <placeName ref="placeography.xml#Delhi">Delhi</placeName>, &amp; the
@@ -702,7 +702,7 @@
                </bibl>
             </div>
 
-            <div type="naval_intelligence">
+            <div type="section">
 
                <list type="simple">
                   <head>
@@ -721,7 +721,7 @@
                </list>
             </div>
 
-            <div type="article">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI7.06">A Swarm of Centipedes</ref>
@@ -734,7 +734,7 @@
                   they are carefully retained, and will be coiled round each man's blanket in the event of a campaign on shore.</p>
             </div>
 
-            <div type="conundrum">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI7.07">Conundrums</ref>
@@ -745,7 +745,7 @@
                </list>
             </div>
 
-            <div type="rebus">
+            <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI7.08">Answer to Rebus</ref>
                </head>
@@ -755,7 +755,7 @@
                <l>As we think of our last "Farewell</l>
             </div>
 
-            <div type="rebus">
+            <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI7.09">Unanswered</ref>
                </head>
@@ -764,7 +764,7 @@
                   <item n="11">Because he's quite down in the mouth and nearly going to blubber</item>
                </list>
             </div>
-            <div type="publication_info">
+            <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI7.10">The Young Idea</ref>
                </head>
@@ -781,7 +781,7 @@
             <head type="sub">Saturday 30th January 1858</head>
             <head type="sub">No. 8</head>
             
-            <div type="article">
+            <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI8.01">Try Again</ref>
                </head>
@@ -806,7 +806,7 @@
                   Architects, and the "Young Idea" shall gain the support and interest of all.</p>
             </div>
 
-            <div type="article">
+            <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI8.02">A Bird's Eye View of Calcutta</ref>
                </head>
@@ -824,7 +824,7 @@
                   for themselves, and to describe with more accurate pen or pencil the scene which we have attempted to de-pict.</p>
             </div>
 
-            <div type="article">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI8.03">Launching the "Leviathan"</ref>
@@ -840,7 +840,7 @@
                   cutter, instead of a ponderous structure of iron weighing upwards of 12,000 tons</p>
             </div>
 
-            <div type="article">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI8.04">The Special Thanksgiving At St. Paul's Cathedral</ref>
@@ -878,7 +878,7 @@
                <p>We left the cathedral deeply impressed, with the solemnity, and applicability of the service we had witnessed.</p>
             </div>
 
-            <div type="naval_intelligence">
+            <div type="section">
 
                <list type="simple">
                   <head>
@@ -893,7 +893,7 @@
                </list>
             </div>
 
-            <div type="promotions_and_appointments">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI8.06">Promotions and Appointments</ref>
@@ -908,7 +908,7 @@
                      we must state that our pleasure is tinged with regret at losing so good a messmate.</item>
                </list>
             </div>
-            <div type="epitome">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI8.07">Epitome</ref>
@@ -926,7 +926,7 @@
                </list>
             </div>
 
-            <div type="letter">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI8.08">First appearance of an Enemy.</ref>
@@ -947,7 +947,7 @@
                
             </div>
 
-            <div type="conundrum">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI8.09">Answers to Conundrums. 12 &amp; 13</ref>
@@ -961,7 +961,7 @@
                </list>
             </div>
 
-            <div type="publication_info">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI8.10">The Young Idea</ref>
@@ -979,7 +979,7 @@
             <head type="sub">Saturday 6th February 1858</head>
             <head type="sub">No. 9</head>
             
-            <div type="article">
+            <div type="section">
 
                <p>
                   <ref target="variants.youngidea.xml#TYI9.01">Already one twelfth of the New Year has flown, and we find ourselves rapidly entering
@@ -1011,7 +1011,7 @@
                <p>May we know little of this latter.</p>
             </div>
 
-            <div type="article">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI9.02">The Lucknow Tigers.</ref>
@@ -1034,7 +1034,7 @@
                   when the poor beast sets off at a canter.</p>
             </div>
 
-            <div type="article">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI9.03">"India"</ref>
@@ -1063,7 +1063,7 @@
                   home, and perchance to take part in those transactions, which are yet destined to become matters of history.</p>
             </div>
 
-            <div type="conundrum">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI9.04">Con.</ref>
@@ -1073,7 +1073,7 @@
                </list>
             </div>
 
-            <div type="naval_intelligence">
+            <div type="section">
 
                <list type="simple">
                   <head>
@@ -1097,7 +1097,7 @@
                </list>
             </div>
 
-            <div type="epitome">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI9.06">Epitome</ref>
@@ -1118,7 +1118,7 @@
                      their juvenile ardour.</item>
                </list>
             </div>
-            <div type="pun">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI9.07">"Mind your P's and Q's. (By a Calcutta Billiard Player).</ref>
@@ -1126,7 +1126,7 @@
                <p>Take care of your ru<hi rend="underlined">pees</hi>, and avoid the Billiard <hi rend="underlined">cues</hi>.</p>
             </div>
 
-            <div type="letter">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI9.08">To the Editor of the "Young Idea"</ref>
@@ -1145,7 +1145,7 @@
 
                <p>Ed. our answer is given below</p>
             </div>
-            <div type="rebus">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI9.09">Rebus &amp;c.</ref>
@@ -1205,7 +1205,7 @@
                   after a night of dissipation?</p>
             </div>
 
-            <div type="publication_info">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI9.10">The Young Idea</ref>
@@ -1223,7 +1223,7 @@
             <head type="sub">Saturday February 13 1858</head>
             <head type="sub">No. 10</head>
             
-            <div type="article">
+            <div type="section">
 
                <p>
                   <ref target="variants.youngidea.xml#TYI10.01">The Past Week has certainly been productive of more excitement, and enjoyment, than
@@ -1245,7 +1245,7 @@
                <p>We can only hope that we shall not be excluded from a participation of whatever may take place in that quarter.</p>
 
             </div>
-            <div type="letter">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI10.02">A Savage from the Andaman Islands</ref>
@@ -1280,7 +1280,7 @@
                   
                
             </div>
-            <div type="article">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI10.03">Se(a)-poys and Sea-devils,</ref>
@@ -1293,7 +1293,7 @@
                   all; they never speak a word, and when they attack they can never be driven back; they are cannibals, and eat sepoys when they have
                   salted them down, sepoy bullets cannot kill them."</p>
             </div>
-            <div type="previously_published">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI10.04">Extracts from a Personal Narrative of the Siege of Lucknow</ref>
@@ -1365,7 +1365,7 @@
                <p>It was near 4 o'clock in the morning when we heard the English challenge "Who comes there?" We had reached a British cavalry
                   outpost. My eyes filled with joyful tears, and I thanked God for having safely conducted one through this dangerous enterprize. </p>
             </div>
-            <div type="regatta_report">
+            <div type="section">
 
                <head type="main">
                   <ref target="variants.youngidea.xml#TYI10.05">"The Young Idea"</ref>
@@ -1540,7 +1540,7 @@
                <p>The arrival of this day had been eagerly anticipated, and we are certain that all will agree that it passed off with entire
                   satisfaction, altho' we could not but feel regret at the dancing being broken off at the early hour it was.</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI10.06">Naval Intelligence</ref>
@@ -1554,7 +1554,7 @@
                      coaling. She will sail for Sydney early next week.</item>
                </list>
             </div>
-            <div type="epitome">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI10.07">Epitome.</ref>
@@ -1571,14 +1571,14 @@
                   <item>We hear that the Royal Navy are likely to be challenged to a match at Cricket by the Officers of the P. and O. Company.</item>
                </list>
             </div>
-            <div type="pun">
+            <div type="section">
                <head>[No Title]</head>
 
                <p>
                   <ref target="variants.youngidea.xml#TYI10.08">Motto for a Tiger's Den. "Mangling done here."</ref>
                </p>
             </div>
-            <div type="conundrum">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI10.09">Conundrums</ref>
@@ -1590,7 +1590,7 @@
                   <item n="18">When does an insolent Debtor become a Navy man?</item>
                </list>
             </div>
-            <div type="enigma">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI10.10">What letters of the Alphabet will represent?</ref>
@@ -1601,7 +1601,7 @@
                   <item>(4 Letters) A little of honour? Ability? (5 Letters) haste?</item>
                </list>
             </div>
-            <div type="charade">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI10.11">Answer to Last Week's Charade.</ref>
@@ -1618,7 +1618,7 @@
                   <l>C.</l>
                </lg>
             </div>
-            <div type="enigma">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI10.12">Answer to Alphabetical Enigmas</ref>
@@ -1627,7 +1627,7 @@
                   (Empty) my home in D.K. (decay) How I N.V. (Envy) the rich in their gorgeous R.A. (array) I have sold my F.X. (effects) and am
                   thoroughly needy. No wonder I feel most uncommonly C.D. (seedy).</p>
             </div>
-            <div type="conundrum">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI10.13">Unanswered from last week</ref>
@@ -1637,7 +1637,7 @@
                </list>
                <p>Rebus. Doldrum</p>
             </div>
-            <div type="publication_info">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI10.14">The Young Idea</ref>
@@ -1653,7 +1653,7 @@
             <head type="sub">Saturday February 20th 1858</head>
             <head type="sub">No. 11</head>
             
-            <div type="article">
+            <div type="section">
 
                <p><ref target="variants.youngidea.xml#TYI11.01">Rumours are now flying about, purporting to remove us from our present snug anchorage
                      at Calcutta for some time;</ref> that we are destined to convey Lady <persName ref="#Charlotte_Canning">Canning</persName> to
@@ -1672,7 +1672,7 @@
                   "City of Palaces" has not begun to succumb; having been disappointed in the hopes we had entertained on arrival </p>
             </div>
 
-            <div type="previously_published">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI11.02">"Origin of the Name of Delhi</ref>
@@ -1695,7 +1695,7 @@
                </p>
             </div>
 
-            <div type="article">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI11.03">Our Naval Brigade</ref>
@@ -1737,7 +1737,7 @@
                <p>We have told our tale to the best of our knowledge, but if any of our readers possess or can procure more accurate information, we
                   shall be deeply indebted to them for making it public in our</p>
             </div>
-            <div type="cricket_report">
+            <div type="section">
 
                <head type="main">
                   <ref target="variants.youngidea.xml#TYI11.04">Sporting Intelligence</ref>
@@ -1986,7 +1986,7 @@
                </table>
             </div>
 
-            <div type="pun">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI11.05">"The Great Mo-gul"</ref>
@@ -1998,7 +1998,7 @@
                <p>Several young gulls were caught in the same nest, but from their ferocity, were immediately destroyed. </p>
             </div>
 
-            <div type="naval_intelligence">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI11.06">Naval and Military Intelligence</ref>
@@ -2019,7 +2019,7 @@
                      all night.</item>
                </list>
             </div>
-            <div type="article">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI11.07">The "Calcutta Englishman" convicted of a Pun.</ref>
@@ -2033,7 +2033,7 @@
                   cannot help writing pungently, and making a stir about a pun from such a punster.</p>
             </div>
 
-            <div type="epitome">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI11.08">Epitome</ref>
@@ -2049,7 +2049,7 @@
                      amusements. Tickets 5rs each. reserved seats.</item>
                </list>
             </div>
-            <div type="pun">
+            <div type="section">
                <head>[No Title]</head>
 
                <p>
@@ -2060,7 +2060,7 @@
                <p>Maxim for a <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> Storekeeper. <ref
                      target="variants.youngidea.xml#TYIappendix">"If you wish to go up in the world, stick well to your go-down.</ref></p>
             </div>
-            <div type="conundrum">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI11.10">Conundrums</ref>
@@ -2071,7 +2071,7 @@
                   <item n="21">Supposing a number of bottles were broken by the fall of a tree, what ejaculation would they give vent to?</item>
                </list>
             </div>
-            <div type="rebus">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI11.11">Rebus &amp;c.</ref>
@@ -2091,7 +2091,7 @@
                </lg>
 
             </div>
-            <div type="conundrum">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI11.12">Unanswered from last week</ref>
@@ -2108,7 +2108,7 @@
                   S.X. A Foe N.M.E. An Image F.E.G. A Hollow place K.V.T. A Title of honour X.L.N.C. Ability F.E.K.C. Haste X.P.D.N.C.</p>
             </div>
 
-            <div type="publication_info">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI11.13">The Young Idea</ref>
@@ -2125,7 +2125,7 @@
             <head type="sub">Saturday February 27th 1858</head>
             <head type="sub">No. 12</head>
             
-            <div type="article">
+            <div type="section">
 
                <p><ref target="variants.youngidea.xml#TYI12.01">The Past Week has been extraordinarily productive of events of interest &amp;
                      amusement</ref>, and we feel bound to afford all the space we can for the same The Rajah's dinner, &amp; marriage of his juvenile
@@ -2141,7 +2141,7 @@
                   proposes."</p>
             </div>
 
-            <div type="article">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI12.02">Dinner Party at Cossipore &amp; Marriage of the Granddaughter of Rajah Behadoor</ref>
@@ -2284,7 +2284,7 @@
             </div>
 
 
-            <div type="cricket_report">
+            <div type="section">
 
                <head type="main">
                   <ref target="variants.youngidea.xml#TYI12.03">Sporting Intelligence</ref>
@@ -2461,7 +2461,7 @@
                </table>
             </div>
 
-            <div type="play_review">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI12.04">The Theatre</ref>
@@ -2494,7 +2494,7 @@
                <p>We were very glad to see the front circles so well filled, the ladies appearing to enjoy the novel scene, especially, and we may say
                   that the whole passed off most satisfactorily.</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI12.05">Naval Intelligence</ref>
@@ -2510,12 +2510,12 @@
                      </choice> Stanley, &amp; Attendants.</item>
                </list>
             </div>
-            <div type="pun">
+            <div type="section">
 
                <p><ref target="variants.youngidea.xml#TYI12.06">"Can I offer you any aid"?</ref> said a polite gentleman to a lady who was overcome by
                   the heat, "O! yes, Sir, if you please," replied the fainting beauty "a little lemon-ade."</p>
             </div>
-            <div type="conundrum">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI12.07">Conundrums</ref>
@@ -2525,7 +2525,7 @@
                   <item n="23">When is a noise like a troublesome creditor?</item>
                </list>
             </div>
-            <div type="conundrum">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI12.08">Answer to Conundrums</ref>
@@ -2536,14 +2536,14 @@
                      (Tremendous)<lb/></item>
                </list>
             </div>
-            <div type="rebus">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI12.09">Unanswered from last Week</ref>
                </head>
                <p>Rebus. Ba boo</p>
             </div>
-            <div type="conundrum">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI12.10">Conundrums</ref>
@@ -2553,7 +2553,7 @@
                   <item n="20">When does a good idea resemble a bone of a fowl? When its a merry thought.</item>
                </list>
             </div>
-            <div type="publication_info">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI12.11">The Young Idea</ref>
@@ -2572,7 +2572,7 @@
             <head type="sub">Saturday March 6th 1858</head>
             <head type="sub">No. 13</head>
             
-            <div type="article">
+            <div type="section">
 
                <p><ref target="variants.youngidea.xml#TYI13.01">Once more we thread our pathless track across the waters of the Bay of Bengal; once
                      more our gallant craft obeys the impulse of her wondrous motive power.</ref> Once more the fresh sea breezes fan our heated
@@ -2593,7 +2593,7 @@
                   affords.</p>
             </div>
 
-            <div type="letter">
+            <div type="section">
 
                <head>
                   <ref target="variants.youngidea.xml#TYI13.02">To the Editor of "The Young Idea"</ref>
@@ -2622,7 +2622,7 @@
             </div>
 
 
-            <div type="letter">
+            <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI13.03">The Chesapeake Brigade</ref>
                </head>
@@ -2669,7 +2669,7 @@
                
             </div>
 
-            <div type="article">
+            <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI13.04">The Chesapeake Amateurs</ref>
                </head>
@@ -2736,7 +2736,7 @@
                <p>As <persName ref="#Henry_Montagu">Montagu</persName> was the composer of this really creditable piece. We are glad to say that the
                   other <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> Journals, gave a very good account of the performance.</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI13.05">Naval Intelligence</ref>
                </head>
@@ -2759,7 +2759,7 @@
                      the Gun Room Mess, much to their regret.</item>
                </list>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI13.06">Facetiae</ref>
                </head>
@@ -2769,7 +2769,7 @@
                   presented was an "Avalanche"<lb/> A correspondent has sent us the following Riddle. What country in Africa is like fresh brewed malt
                   liquour? Answer Nubia (New Beer) Really after this we must exclaim "What next?"</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI13.07">Epitome</ref>
                </head>
@@ -2784,7 +2784,7 @@
                   <item>H.M.S. <orgName ref="#Pylades">Pylades</orgName> goes shortly to Suez</item>
                </list>
             </div>
-            <div type="rebus">
+            <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI13.08">Rebus</ref>
                </head>
@@ -2808,7 +2808,7 @@
                </lg>
             </div>
 
-            <div type="enigma">
+            <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI13.09">Illustrated Enigmas</ref>
                </head>
@@ -2834,7 +2834,7 @@
                   </item>
                </list>
             </div>
-            <div type="conundrum">
+            <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI13.10">Answers to 22 &amp; 23 not received</ref>
                </head>
@@ -2843,7 +2843,7 @@
                   <item n="23">When its a dun</item>
                </list>
             </div>
-            <div type="publication_info">
+            <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI13.11">The Young Idea</ref>
                </head>
@@ -2857,7 +2857,7 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday March 13th 1858</head>
             <head type="sub">No 14</head>
-            <div type="__">
+            <div type="section">
 
                <p>The question has often been asked "What caused the Mutiny in India? and is yet often asked. This query has been the subject of much
                   dissertation, and various have been the replies given; still, we fancy public opinion has not received a satisfactory answer. The
@@ -2881,34 +2881,34 @@
                   men were the first to mutiny and the writer of the piece explains "Can we wonder at the mutiny, when we are made aware of facts like
                   these?"]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Dreadful Suicide</head>
                <p>[details given about the way the man, Richard Kendall A.B, was found and remarks on the fact that "the unhappy man had always been
                   one of the dirtiest men in the ship, and on that account was always in trouble." Perhaps the ship's logs or musters will have
                   something about what punishment for "dirtiness" looks like]</p>
             </div>
-            <div type="letter">
+            <div type="section">
                <head>Calcutta in consternation</head>
                <p>[a letter to the editor about the threat of violence erupting in Calcutta: "the report flew thro' Calcutta that the Barrackpore
                   Sepoys, were in full march upon the town, that they were to find arms at the house of a certain Nawab, on the road, that the jail
                   prisoners were to be let loose, the mob of Calcutta to rise, and join them, the Christian inhabitants slaughtered, and their house
                   given to pillage" the report goes on to explain that "the Nawabs arms turned out to be two rusty muskets"]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Madras</head>
                <p>[notes about the experiences of Madras, beginning with the boat, rowed by singing men. Then the Clarendon Hotel, and an Indian
                   juggler (who also converted a snakeskin into a cobra), bazaars "broader and cleaner" than Calcutta, "natives are marked deeper and
                   plainer than those in Calcutta" passed a Hindoo burial ground, where a body was consumed by flames</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>The Pearl's Brigade</head>
                <p>________</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>Faceti&#198;</head>
                <p>________</p>
             </div>
-            <div type="conundrum">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -2919,38 +2919,38 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday March 20th 1858</head>
             <head type="sub">No 15</head>
-            <div type="article">
+            <div type="section">
                <p>[Princess Victoria Adelaide and prince Frederick getting married]</p>
             </div>
-            <div type="letter">
+            <div type="section">
                <head>An Intruder</head>
                <p>[letter from the ship's cats with response from the editor]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Funeral of the Queen of Oude.</head>
                <p>[thoughts on the death of a Hindu monarch]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>The "Ava" Wreck</head>
                <p>[long article about providing assistance to the Ava]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>A sketch from H.M.S. "Chesapeake"</head>
                <p>[an account of the arrival of items recovered from the Ava]</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>[typical things for this section]</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>Facetiae</head>
                <p>[typical things for this section]</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>[typical things for this section]</p>
             </div>
-            <div type="Rebus">
+            <div type="section">
                <head>Rebus</head>
                <p>[typical things for this section]</p>
             </div>
@@ -2961,38 +2961,38 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday March 27th 1858</head>
             <head type="sub">No 16</head>
-            <div type="article">
+            <div type="section">
                <p>[detailed account of attempts to recover treasure from the Ava, and especially the purchase of a new diving suit from Madras that,
                   upon first use, proved "fatal to one of our best men." Sent off some of the Ava with a P and O ship, <orgName ref="#Bentinck"
                      >Bentinck</orgName> and got news and letters from home]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>The "Ava"'s Encampment</head>
                <p>[description of the officers of the Ava, who were staying on shore in white tents. Many little details shared, including the fact
                   that there were "Mahometan divers, who thought they would never succeed unless they had a white flag flying. </p>
-               <div type="article">
+               <div type="section">
                   <head>Diving Operations</head>
                   <head type="sub"><hi rend="underline">at the Wreck of the "Ava"</hi></head>
                   <p>[a day-by-day accounting of operations at the Ava, with details about items brought up and the events surrounding the death of Jn
                      Withers, Captain of the afterguard]</p>
                </div>
-               <div type="article">
+               <div type="section">
                   <head>Our First Funeral on the Shore</head>
                   <p>________</p>
                </div>
-               <div type="naval_intelligence">
+               <div type="section">
                   <head>Naval Intelligence</head>
                   <p>many details, including notice that the Chesapeake will sail for Trincomalee and leave behind the pinnace and diving party</p>
                </div>
-               <div type="epitome">
+               <div type="section">
                   <head>Epitome</head>
                   <p>________</p>
                </div>
-               <div type="facetiae">
+               <div type="section">
                   <head>FACETIAE</head>
                   <p>________</p>
                </div>
-               <div type="Conundrums">
+               <div type="section">
                   <head>Conundrums</head>
                   <p>________</p>
                </div>
@@ -3004,13 +3004,13 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">April 3rd 1858</head>
             <head type="sub">No 17</head>
-            <div type="article">
+            <div type="section">
                <p>Comments on leaving the wreck and heading to Trincomalee, where things will be peaceful. "For ourselves, we have little to trouble
                   us in the quietness and repose which we have hitherto found in this harbour: separated as we are from other ships, our duties are
                   not such as to detain us from enjoying the pleasures which are boutifully spread around us, and we hope to be able to record in our
                   Journal, many an amusing or instructive incident, many a picnic, watering or shooting party; [etc.]"</p>
             </div>
-            <div type="reprinted">
+            <div type="section">
                <head>The Penal Colony<lb/>in the Andaman Islands</head>
                <p>[Extracts from a "Scinde paper" explaining how some 300 rebels are being transported. The tone is sarcastic and jubilant about their
                   departure--I quote just a bit:] "The Indian government has been extremely liberal to the rascally mutineers. The steamer "Semiramis"
@@ -3019,33 +3019,33 @@
                   of the natives. The men on their arrival, will have their fetters struck off, and be partially armed, so as to be a match for the
                   Cannibals and their poisoned arrows</p>
             </div>
-            <div type="letter">
+            <div type="section">
                <head>Sporting on Pigeon Island</head>
                <p>[a report of landing, finding tons of pigeons, killing some, and then also catching some fish. Also includes report of one in the
                   party who shot a bird that dropped into the sea, but was captured by a shark before he could get to it]</p>
             </div>
-            <div type="letter">
+            <div type="section">
                <head>Mining Intelligence</head>
                <head type="sub">from our own Commissioner</head>
                <p>[I think this is just meant to be punny]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Diving Operations at the Wreck<lb/>of the "Ava"</head>
                <p>[reports of things being brought up]</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="riddles">
+            <div type="section">
                <head>Riddles &amp;c.</head>
                <p>________</p>
             </div>
@@ -3056,7 +3056,7 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday April 10th 1858</head>
             <head type="sub">No 18</head>
-            <div type="article">
+            <div type="section">
                <p>Here we are again:--Trincomalee Harbour once more resounds to the heavy splash of our ponderous anchor, as it drops from our bows,
                   and finds its resting place at the bottom, where it firmly grasps with its strong arms, aught that will give it a good hold. Now we
                   are moored alongside the Dock yard, and look around us and think a little</p>
@@ -3073,7 +3073,7 @@
                <p>Here we would willingly rest ourselves for some time, but we understand that our days are numbered for this visit, and that we shall
                   shortly convey the treasure recovered from the wreck of the "Ava" to Calcutta; and may not visit Trincomalee again for some time</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Coming into Trincomalee</head>
                <p>The remnant of the Ava's wreck, the huts of her officers, and of our own comrades whom we have left on shore the rocks that rise in
                   various spots near the shore, are fast lost sight of as we steam towards Trincomalee.</p>
@@ -3096,7 +3096,7 @@
                   right ahead of us, we are abreast of the little Dock Yard, and here for a time we are made fast to the shore, to coal, and our ship
                   rests in perfect stillness.</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>A trip to Sober Island</head>
                <p>We shoved off from the ship about 4 P.M. in the gig with as good a crew as we could possibly have desired, Men who had evidently
                   made up their minds to a good pull, and to enjoy themselves, and whose merry laughter gave evidence to the universal good humour
@@ -3108,24 +3108,24 @@
                   oars would be broken. However we got safely to land, and having made fast the boat,  and coming
                   back]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Our Naval Brigades.</head>
                <p>[reports on the Shannon assisting at Lucknow and a request that readers contribute extracts from any letters they've received that
                   might be of interest to the general readership]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>An extraordinary (S)cuttle-fish</head>
                <p>[warning readers that fish and snakes can come in through the scuttles left open</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Diving Operations at the Wreck of the <lb/>"Ava</head>
                <p>_____</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
@@ -3136,27 +3136,27 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -3167,27 +3167,27 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -3198,27 +3198,27 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -3229,27 +3229,27 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -3260,27 +3260,27 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -3291,27 +3291,27 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -3322,11 +3322,11 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 19th June 1858</head>
             <head type="sub">No 25</head>
-            <div type="article">
+            <div type="section">
 
                <p>[explanation for why The Young Idea did not appear on the last three Saturdays (McArthur had been ill]</p>
             </div>
-            <div type="poem">
+            <div type="section">
                <head>Diamond Harbour.</head>
                <lg>
                   <l>[a long poem that mentions Kali, just including the final stanza for now]</l>
@@ -3344,7 +3344,7 @@
                <p>Calcutta derives its name from the Goddess Kali whose worship is of the most horrible description Some say its Indian name was "Kali
                   Cuttah" that is, the "Temple of Kali," others "Kali Ghant", the river steps of Kali</p>
             </div>
-            <div type="letter">
+            <div type="section">
                <head>A Ramble in Diamond Harbour</head>
                <p>an account of Diamond Harbour contributed to the paper since the editor has been sick  as the writer
                   describes the plant of interest, he describes asking a native who spoke English what the Hindoo name was: "but he could only tell me
@@ -3354,23 +3354,23 @@
                   acquaints the Chesapeake men about the impossibility of learning the truth about this. Very detailed description given of the sights
                   and the account is seemingly written during the trip. </p>
             </div>
-            <div type="play_review">
+            <div type="section">
                <head>Theatricals.</head>
                <p>transcribed in a separate file</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="extract">
+            <div type="section">
                <head>Extract from a private letter dated "Ava Camp" 30 May.</head>
                <p>detailed account from Ava camp, including news about boa constrictor</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -3381,27 +3381,27 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -3412,27 +3412,27 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -3443,26 +3443,26 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 3rd July 1858</head>
             <head type="sub">Vol 1. No 27</head>
-            <div type="article">
+            <div type="section">
                <p>en route to Trincomalie--SO glad to be leaving the sweltering heat of India</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -3473,27 +3473,27 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 17th July 1858</head>
             <head type="sub">Vol 1. No 28</head>
-            <div type="article">
+            <div type="section">
                <p>[the voyage has ended and we are in Trincomalie...some interesting speculation about being sent back to England "the settlement of
                   our question with America"</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -3504,36 +3504,36 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">24th July 1858</head>
             <head type="sub">Vol 1. No 29</head>
-            <div type="article">
+            <div type="section">
                <p>[the commodore is leaving]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Farewell Dinner to Commdore Watson</head>
                <p>________</p>
             </div>
-            <div type="poem">
+            <div type="section">
                <head>"The Bay of Bengal"</head>
                <p>a song to the tune of something specific</p>
 
             </div>
-            <div type="article">
+            <div type="section">
                <head>Our Ship's Pets</head>
                <p>_____</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
 
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -3544,36 +3544,36 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 31st July 1858</head>
             <head type="sub">Vol 1. No 30</head>
-            <div type="article">
+            <div type="section">
 
                <p>[The commodore has left--reflections on the many experiences of the first year (using a theatrical metaphor to call it "the first
                   act")</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>The "Chesapeake" at Point de Galle.<lb/>Departure of Commdore Watson</head>
                <p>________</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Point de Galle</head>
                <p>[an account of this area--very long and detailed--worth attention]</p>
             </div>
-            <div type="poem">
+            <div type="section">
                <head>India's Lament</head>
                <p>____</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums &amp;c.</head>
                <p>____</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -3584,16 +3584,16 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="__">
+            <div type="section">
                <p>[Two other ships of war have arrived and the Chesapeake is temporarily not the flagship of the squadron. The ship is also getting
                   spruced up in preparation for the new commodore] </p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Bathing at Sober Island</head>
                <figure/>
                <p>________</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Making glad the Ship</head>
                <figure/>
                <p>Never does our excellent Bandmaster Signor Faustino, look so much in his element as when at close of day, when all the duties of the
@@ -3609,32 +3609,32 @@
                <p>Long may our Jack tars continue to dance away their day's fatigue &amp; often may Signor Faustino, with his little circle of
                   Clarionets and Trombones, strike up his merry dance times in harbour &amp; at sea, and still "make glad the ship."</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>The Wreck Party</head>
                <figure/>
                <p>[description of men from Ava singing songs, including "Ethiopian Serenades" and the "nigger melody banjo and bones"]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Our Geological Researches</head>
                <p>[a continuation of the punniness in an earlier number</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>The Rogue Elephant</head>
                <p>[a story about rogue elephants that seems an allegory for colonial rule???]</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Pictorial_Rebus">
+            <div type="section">
                <head>Pictorial Rebus</head>
                <p>________</p>
             </div>
@@ -3645,13 +3645,13 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 14th August 1858</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="article">
+            <div type="section">
                <p>[Lots of things have been going on and "the incidents we have to record, have been divided amongst so many of us, that each will be
                   glad to read a detailed account of the proceedings of the other
                   <!--here is excellent evidence that the paper is created by and for
                      hthe officers only --></p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
@@ -3662,7 +3662,7 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 21st August 1858</head>
             <head type="sub">Vol 1. No 33</head>
-            <div type="article">
+            <div type="section">
                <head>No Title</head>
                <p>[...]Rumour speaks strongly of our near departure from Trincomalie for the Read Sea; on account of the recent massacre of the
                   European population of Jeddah: the change will no doubt be pleasant for a short time, whilst we are enjoying the novelty of the new
@@ -3677,7 +3677,7 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 28th August 1858</head>
             <head type="sub">Vol 1. No 34</head>
-            <div type="article">
+            <div type="section">
                <head>No Title</head>
                <p>Our present stay in Trincomalee harbour, has bidden fair to terminate with scenes far less peaceful than those with which it
                   commenced. Sticks have been prepared, revolvers loaded, and threats passed to &amp; fro between some of ourselves on board and our
@@ -3696,17 +3696,17 @@
 
 
             </div>
-            <div type="article">
+            <div type="section">
                <head>Shooting Trip to Candligar</head>
                <p>[...]</p>
             </div>
-            <div type="sporting_intelligence">
+            <div type="section">
 
                <head>Cricket Match between the "Cheseapeake, and "Army and Pelorus"</head>
 
                <p>[...]</p>
             </div>
-            <div type="play_review">
+            <div type="section">
                <head>Theatre Royal<lb/>H.M.S. "CHESAPEAKE <note>The review included in Bampfield's transcription from The Young Idea is more detailed
                      than the one in the 1867 edition. It offers a description of precisely how the quarter deck was arranged and who attended the
                      performance. It also includes a cast of characters</note></head>
@@ -3777,7 +3777,7 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 28th August 1858</head>
             <head type="sub">No 34</head>
-            <div type="article">
+            <div type="section">
                <p>Our present stay in Trincomalie Harbour, has bidden fair to terminate with scenes far less peaceful than those with which it
                   commenced. Sticks have been prepared, revolvers loaded, and threats passed to &amp; fro between some of ourselves on board and our
                   dusky Gentoo neighbours on the shore. We must honestly confess, that the first offence seems to have proceeded from some of our own
@@ -3791,19 +3791,19 @@
                   of compassion, &amp; kindness, rather than onen of oppression &amp; contempt</p>
                <note>In Bampfield's copy of the article, he attributes it to "B"</note>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Trincomalie</head>
                <head type="sub">Latest Intelligence-Storming of the Hindoo Temple. Genl Plainclothes Despatches.</head>
                <p>Our readers are aware that a Telegram had been received reporting an outbreak at Trincomalie, in which it was stated that two
@@ -3831,7 +3831,7 @@
                   severely wounded on this occasion; &amp; I beg to forward to you herewith a return of the forced engaged (Enclosure No 2) together
                   with the casualties which have occurred. The Enemy loass is reported to be severe.</p>
             </div>
-            <div type="Pictorial_Rebus">
+            <div type="section">
                <head>Pictorial Rebus</head>
                <p>________</p>
             </div>
@@ -3841,27 +3841,27 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -3873,7 +3873,7 @@
             <head type="sub">Saturday 11th September 1858</head>
             <head type="sub">Vol. 1 No. 36<!-- add the volume in for all othersI was missing it!!--></head>
 
-            <div type="article">
+            <div type="section">
                <p>We are now about to cross the Equator for a the third time since leaving England, and as we have a great many on board who have not
                   been subjected to the usual ceremonies of initiation; Father Neptune will perhaps regard us with an angry eye, on our again entering
                   his domains. </p>
@@ -3888,7 +3888,7 @@
                   probability, be sent there to meet us.</p>
 
             </div>
-            <div type="poem">
+            <div type="section">
                <head>The Burial at Sea</head>
                <lg>
                   <l>a poem about burying a boy, 17, who was killed by a fall from aloft 8 September 1858 poem written by McArthur (and signed in the
@@ -3896,7 +3896,7 @@
                </lg>
             </div>
             
-            <div type="letter">
+            <div type="section">
                <head>The Gentoo Procession at Trincomalie</head>
                <note>Bampfield offers no initial to provide insight into the author of this contribution</note>
                <head type="sub">and attack in Lieutenant Cheson</head>
@@ -3950,23 +3950,23 @@
                   well known, &amp; few will regret that under the able guidance of our respect Genl Plainclothes, the insult to a British officer
                   was, on the following Evening, so speedily visited with just retribution. Believe me to be Dear Sir Yours Sincerely "Spectator"</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -3976,27 +3976,27 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
             <head type="sub">Vol 1. No __</head>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="__">
+            <div type="section">
                <head>______</head>
                <p>________</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>_____</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>____</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>FACETIAE</head>
                <p>________</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>________</p>
             </div>
@@ -4007,19 +4007,19 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 20th November 1858</head>
             <head type="sub">Vol 1. No 42</head>
-            <div type="article">
+            <div type="section">
                <head>No Title</head>
                <p> Our stay at Jeddah has worn a very monotonous aspect. Strangers, to the shore, we have only been able to gaze from our bulwarks on
                   the far spreading sands, and barren hills of Arabia, and sigh to don the garment of some Mecca pilgrim, mount on the hump of some
                   fleet camel, and all Christian as we are, penetrate into the holiest shrines, and sanctuaries of Islam. [...][...]
                </p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Sailing up the Red Sea.</head>
                <p>Sunday Morning 17 Octr. Having sailed with a fair breeze from Aden yesterday afternoon, we are this morning in sight of the straits
                   of Babel-Mandel. [...details the ship approaching Jeddah with the help of a Arab pilot named Abdullah...] [...]</p>
             </div>
-            <div type="poem">
+            <div type="section">
                <head>Tuesday 19 Octr 1858</head>
                <lg>
                   <l>The sun had past his highest point, the sea was calm &amp; bright</l>
@@ -4027,44 +4027,44 @@
                   <l>[...9 quatrains of verse describing a shark eating a midshipman's jacket and then being caught and eaten by the crew]</l>
                </lg>
             </div>
-            <div type="article">
+            <div type="section">
                <head>The Late Comet.</head>
                <p>We are sorry that the very brief notes taken by "our own Observer", will not permit us to give any elaborate or scientific account
                   of this beautiful heavenly visitor. It was on the Evening of Septr 30th after dropping anchor at Aden, that our attention was first
                   called to see the bright stranger, which had made its appearance, unpredicted, &amp; unannounced among the celestial bodies of the
                   Northern Hemisphere.[...][...]</p>
             </div>
-            <div type="Naval_Intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>22nd Octr. H.M.S. Chesapeake arrived at Jeddah on Friday 22nd at 5 P.M. having been piloted in through the outer reefs by Mr Mayes
                   Master of the Cyclops. [...]</p>
             </div>
-            <div type="Epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>On Monday Oct 25 preparations were made for the reception of His Excellency Nemuk Pacha, and the English &amp; French Commissioners,
                   but his Excellency being indiscposed after visiting the "<orgName ref="#Pelorus">Pelorus</orgName>" was unable to visit us. The
                   Commissioners however came on board and inspected the ship.[...general reports of storms and boredom]</p>
             </div>
-            <div type="Facetiae">
+            <div type="section">
                <head>Facetiae</head>
                <p>A shocking punster, hearing that Jeddah was celebrated for Turquoise, said that if Turks &amp; Arabs were on unfriendly terms, no
                   doubt plenty of "Turk Wars" would be the result. [...other puns]</p>
             </div>
-            <div type="Enigma">
+            <div type="section">
                <head>Enigma</head>
                <lg>
                   <l>Bone on the wing of yon dark plumag'd bird</l>
                   <l>High o'er the earth how oft I took my flight:[...three quatrains of a riddle]</l>
                </lg>
             </div>
-            <div type="Answer_Rebus">
+            <div type="section">
                <head/>
                <lg>
                   <l>!Tis the Emerald Isle where the rough jaunting "car".</l>
                   <l>Will bear you in country or town [in verse explaining that the answer is "carnation"]</l>
                </lg>
             </div>
-            <div type="Publication_Information">
+            <div type="section">
                <head>The Young Idea</head>
                <lg>
                   <l>Published at the office No 1 Port St Chesapeake, every Saturday[...]</l>
@@ -4076,13 +4076,13 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 27th November 1858</head>
             <head type="sub">Vol 1. No 43</head>
-            <div type="article">
+            <div type="section">
                <head>No Title</head>
                <p>Our past week has produced one circumstance which had caused some little excitement amongst the squadron, and has for a short period
                   dispeled the monotony of our life; we refer to the race between our Barge and the "<orgName ref="#Pelorus">Pelorus</orgName>'s"
                      Cutter.[...][...]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Jeddah, our Visit to Namik Pacha.</head>
                <head type="sub">Tuesday 26 Octr 1858</head>
                <p>We left our ship, a large party of us, in three Boats at half past 8 a.m., and after various difficulties in avoiding coral rocks,
@@ -4111,12 +4111,12 @@
                   Pasha saying it was "good for the gums" and his inquiries about the men in black, who it turns out where the chaplains, described by
                   Parkin as "the two professors who instructed the youths in theology &amp; navigation"...will continue in next number]</p>
             </div>
-            <div type="sporting_intelligence">
+            <div type="section">
                <head type="main">SPORTING INTELLIGENCE</head>
                <head type="sub">Boat Race between the Chesapeakes Barge and <orgName ref="#Pelorus">Pelorus</orgName>'s Cutter.></head>
                <p>[...]</p>
             </div>
-            <div type="song">
+            <div type="section">
                <head type="main">(Song)</head>
                <head type="main">The Cheasapeake's Barge</head>
                <head type="sub">Air (Yankee doodle)</head>
@@ -4126,14 +4126,14 @@
                   
                </lg>
             </div>
-            <div type="Article">
+            <div type="section">
                <head>Namik Pacha, &amp; the Merchants of Jeddah</head>
                <p>It is said that Namik Pacha being fearful that the rich Merchants of Jeddah would remove their wealth at the sight of our English
                   ships, invited them to a friendly entertainment, and in true Eastern spirit then detained them in safe custody. eleven in number. We
                   hear also that the new Sheriff has in a similar way detained several at Mecca, with the view of procuring from them the fine which
                   is supposed will be exacted by the English and French Governments</p>
             </div>
-            <div type="Epitome">
+            <div type="section">
                <head type="main">Epitome</head>
                <head type="sub">Festivities in the Ward room.</head>
                <p>On Wednesday Evening 25th Inst several officers from "<orgName ref="#Cyclops">Cyclops</orgName>" and "<orgName ref="#Pelorus"
@@ -4141,15 +4141,15 @@
                   retired to the Ward room to finish the Evening with a bowl of punch, and a few concomitant songs [more details about celebrations
                   and such...]</p>
             </div>
-            <div type="Facetiae">
+            <div type="section">
                <head>Facetiae</head>
                <p>[...]</p>
             </div>
-            <div type="rebus">
+            <div type="section">
                <head>Rebus</head>
                <p>[...]</p>
             </div>
-            <div type="Publication_Info">
+            <div type="section">
                <head>The Young Idea</head>
                <p>[...]</p>
 
@@ -4161,44 +4161,44 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 4th December 1858</head>
             <head type="sub">Vol 1. No 44</head>
-            <div type="article">
+            <div type="section">
                <head>No Title</head>
                <p>[...]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Jeddah, and our Visit to Namik Pacha</head>
                <head type="sub">continued from last week</head>
                <p>[...][...]</p>
             </div>
-            <div type="sporting_intelligence">
+            <div type="section">
                <head>SPORTING INTELLIGENCE</head>
                <p>[...]</p>
             </div>
-            <div type="letter">
+            <div type="section">
                <head>The Editor of The "Young Idea" to his friends on closing the first Year of Publication.</head>
                <p>[...][...]</p>
             </div>
-            <div type="published_elsewhere">
+            <div type="section">
                <head>The Red Sea</head>
                <p>[...]</p>
             </div>
-            <div type="Naval_Intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>[...][...]</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>[...]</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>Facetiae</head>
                <p>[...]</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>[...]</p>
             </div>
-            <div type="publication_info">
+            <div type="section">
                <head>The Young Idea</head>
                <p>[...]</p>
             </div>
@@ -4209,55 +4209,55 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 18th December 1858</head>
             <head type="sub">Vol 2. An accident to the Editor prevented last weeks no. from appearing No 1.</head>
-            <div type="article">
+            <div type="section">
                <head>No Title</head>
                <p>[...]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>A visit to the Sheriffe of Mecca</head>
                <p>[...]</p>
             </div>
-            <div type="letter">
+            <div type="section">
                <head>From the Readers to the Editor on commencing his New Volume</head>
                <p>[...]</p>
             </div>
             
-            <div type="article">
+            <div type="section">
                <head>The Tricolor and Union Jack</head>
                <p>[...socializing between British and French sailors]</p>
             </div>
-            <div type="song">
+            <div type="section">
                <head>Christmas 1858</head>
                <lg>
                   <l>[...][...]</l>
                </lg>
             </div>
-            <div type="article">
+            <div type="section">
                <head>The Garbarry</head>
                <p>[...interesting story of assisting a ship that got stuck on the reef. Parkin assisted and the Du Chayle sent a boat as well...when
                   the job was done some of the men drank too much]</p>
             </div>
-            <div type="Naval_Intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>[...]</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>[...]</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>Facetiae</head>
                <p>[...]</p>
             </div>
-            <div type="rebus">
+            <div type="section">
                <head>Rebus</head>
                <p>[...]</p>
             </div>
-            <div type="answers">
+            <div type="section">
                <head>Answers to Conundrums Nos. 60 &amp; 61</head>
                <p>[...]</p>
             </div>
-            <div type="publication_info">
+            <div type="section">
                <head>The Young Idea</head>
                <p>[...]</p>
             </div>
@@ -4268,32 +4268,32 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 25th December 1858</head>
             <head type="sub">Vol 2. No 2.</head>
-            <div type="article">
+            <div type="section">
                <head>No Title</head>
                <p>[...]</p>
             </div>
             
-            <div type="poem">
+            <div type="section">
                <head>Chesapeake's Greeting to "<orgName ref="#Pelorus">Pelorus</orgName></head>
                <lg>
                   <l>We've pull'd and we've sail'd together</l>
                   <l>[...]</l>
                </lg>
             </div>
-            <div type="rough_yarns">
+            <div type="section">
                <head>Rough Yarns No 1. "The Boutswains Christmas Dinner"</head>
                <p>[...] [...]</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>[...]</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>Facetiae</head>
                <p>[...]</p>
             </div>
             
-            <div type="illustration">
+            <div type="section">
                <head>[...]</head>
                <p>[...]</p>
             </div>
@@ -4306,44 +4306,44 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 4th December 1858</head>
             <head type="sub">Vol 1. No 44</head>
-            <div type="article">
+            <div type="section">
                <head>No Title</head>
                <p>[...]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Jeddah, and our Visit to Namik Pacha</head>
                <head type="sub">continued from last week</head>
                <p>[...][...]</p>
             </div>
-            <div type="sporting_intelligence">
+            <div type="section">
                <head>SPORTING INTELLIGENCE</head>
                <p>[...]</p>
             </div>
-            <div type="letter">
+            <div type="section">
                <head>The Editor of The "Young Idea" to his friends on closing the first Year of Publication.</head>
                <p>[...][...]</p>
             </div>
-            <div type="published_elsewhere">
+            <div type="section">
                <head>The Red Sea</head>
                <p>[...]</p>
             </div>
-            <div type="Naval_Intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>[...][...]</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>[...]</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>Facetiae</head>
                <p>[...]</p>
             </div>
-            <div type="Conundrums">
+            <div type="section">
                <head>Conundrums</head>
                <p>[...]</p>
             </div>
-            <div type="publication_info">
+            <div type="section">
                <head>The Young Idea</head>
                <p>[...]</p>
             </div>
@@ -4354,55 +4354,55 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 18th December 1858</head>
             <head type="sub">Vol 2. An accident to the Editor prevented last weeks no. from appearing No 1.</head>
-            <div type="article">
+            <div type="section">
                <head>No Title</head>
                <p>[...]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>A visit to the Sheriffe of Mecca</head>
                <p>[...]</p>
             </div>
-            <div type="letter">
+            <div type="section">
                <head>From the Readers to the Editor on commencing his New Volume</head>
                <p>[...]</p>
             </div>
             
-            <div type="article">
+            <div type="section">
                <head>The Tricolor and Union Jack</head>
                <p>[...socializing between British and French sailors]</p>
             </div>
-            <div type="song">
+            <div type="section">
                <head>Christmas 1858</head>
                <lg>
                   <l>[...][...]</l>
                </lg>
             </div>
-            <div type="article">
+            <div type="section">
                <head>The Garbarry</head>
                <p>[...interesting story of assisting a ship that got stuck on the reef. Parkin assisted and the Du Chayle sent a boat as well...when
                   the job was done some of the men drank too much]</p>
             </div>
-            <div type="Naval_Intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>[...]</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>[...]</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>Facetiae</head>
                <p>[...]</p>
             </div>
-            <div type="rebus">
+            <div type="section">
                <head>Rebus</head>
                <p>[...]</p>
             </div>
-            <div type="answers">
+            <div type="section">
                <head>Answers to Conundrums Nos. 60 &amp; 61</head>
                <p>[...]</p>
             </div>
-            <div type="publication_info">
+            <div type="section">
                <head>The Young Idea</head>
                <p>[...]</p>
             </div>
@@ -4413,32 +4413,32 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 25th December 1858</head>
             <head type="sub">Vol 2. No 2.</head>
-            <div type="article">
+            <div type="section">
                <head>No Title</head>
                <p>[...]</p>
             </div>
             
-            <div type="poem">
+            <div type="section">
                <head>Chesapeake's Greeting to "<orgName ref="#Pelorus">Pelorus</orgName></head>
                <lg>
                   <l>We've pull'd and we've sail'd together</l>
                   <l>[...]</l>
                </lg>
             </div>
-            <div type="rough_yarns">
+            <div type="section">
                <head>Rough Yarns No 1. "The Boutswains Christmas Dinner"</head>
                <p>[...] [...]</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>[...]</p>
             </div>
-            <div type="facetiae">
+            <div type="section">
                <head>Facetiae</head>
                <p>[...]</p>
             </div>
             
-            <div type="illustration">
+            <div type="section">
                <head>[...]</head>
                <p>[...]</p>
             </div>
@@ -4450,20 +4450,20 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 1st January 1859</head>
             <head type="sub">Vol 2. No 3.</head>
-            <div type="article">
+            <div type="section">
                <head>No Title</head>
                <p>[...]</p>
             </div>
             
-            <div type="article">
+            <div type="section">
                <head>Christmas Day 1858</head>
                <p>[...]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Farewell Dinner to Capt Parkin</head>
                <p>[...][...]</p>
             </div>
-            <div type="article">
+            <div type="section">
 
                <head>Our Christmas Play<note>Bampfield's trancription of this article attributes it to "W"; the review is very similar to the one
                      published in this lithograph edition. </note></head>
@@ -4491,19 +4491,19 @@
                   Farces.</p>
                <p>A supper was laid out on the Main Deck after the performance; for the Amateurs</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>A Night Alarm</head>
                <p>[...]</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>[...]</p>
             </div>
-            <div type="answer">
+            <div type="section">
                <head>Answer to Rebus in No 1</head>
                <p>[...]</p>
             </div>
-            <div type="publication_info">
+            <div type="section">
                <head>The Young Idea</head>
                <p>[...]</p>
             </div>
@@ -4514,50 +4514,50 @@
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 8th January 1859</head>
             <head type="sub">Vol 2. No 4.</head>
-            <div type="article">
+            <div type="section">
                <head>No Title</head>
                <p>[...]</p>
             </div>
             
-            <div type="previously_published">
+            <div type="section">
                <head>Notes about Mecca (from Sale's Koran)</head>
                <p>[...]</p>
             </div>
-            <div type="article">
+            <div type="section">
                <head>"Jack</head>
                <p>[...][...]</p>
             </div>
-            <div type="song">
+            <div type="section">
                <head>Song on the Death of Capt. Sir William Peel KCB R.N.</head>
                <lg>
                   <l>[...]</l>
                </lg>
             </div>
-            <div type="article">
+            <div type="section">
                <head>Sand Squalls &amp; Rain Squalls</head>
                <p>[...][...]</p>
             </div>
-            <div type="naval_intelligence">
+            <div type="section">
                <head>Naval Intelligence</head>
                <p>[...]</p>
             </div>
-            <div type="epitome">
+            <div type="section">
                <head>Epitome</head>
                <p>[...]</p>
             </div>
-            <div type="rebus">
+            <div type="section">
                <head>Rebus</head>
                <p>[...]</p>
             </div>
-            <div type="advertisement">
+            <div type="section">
                <head>Cheseapeake Amateur Theatricals</head>
                <p>[...requesting funding from voluntary contributions]</p>
             </div>
-            <div type="answers">
+            <div type="section">
                <head>Answer to Pictorial Rebus in No 3 Vol 2</head>
                <p>[...]</p>
             </div>
-            <div type="publication_info">
+            <div type="section">
                <head>The Young Idea</head>
                <p>[...]</p>
             </div>
@@ -4567,7 +4567,7 @@
                <head type="main">Chesapeake Chronicle and Weekly Journal</head>
                <head type="sub">Saturday 15th January 1859</head>
                <head type="sub">Vol 2. No 5.</head>
-               <div type="article">
+               <div type="section">
                   <head>No Title</head>
                   <p>A tardy act of justice has at length been accomplished, and two of the prime instigators of the "Jeddah Massacre" have paid with
                      their lives the penalty of their murderous deed. We know not who may have been those Eleven wretched Arabs, who on a former
@@ -4586,7 +4586,7 @@
                      is now speeding on her way to Suez tho', we believe to return again: let us hope that soon we may have to record how the
                      "Chesapeake" also has let fall her long-furled canvass, &amp; is far on her way to Aden &amp; the waters of the East.</p>
                </div>
-               <div type="letter">
+               <div type="section">
                   <head type="main">The Jeddah Massacre</head>
                   <head type="sub">Execution of Mahtesil and Amoudi.</head>
                   
@@ -4662,28 +4662,28 @@
                      
                   
                </div>
-               <div type="poem">
+               <div type="section">
                   <head>Jeddah.</head>
                   <lg>
                      <l>Ah! Jeddah's towers are gleaming bright</l>
                      <l>[...]</l>
                   </lg>
                </div>
-               <div type="naval_intelligence">
+               <div type="section">
                   <head>Naval Intelligence</head>
                   <p>[...]</p>
                </div>
-               <div type="epitome">
+               <div type="section">
                   <head>Epitome</head>
                   <p>[...]</p>
                   <p>Peeping under a screen erected on the main deck, we have ascertained the creation of several new scenes, at which two or three
                      hands were busily paining. We anticipate much pleasure from the production of a new play on our arrival at Aden</p>
                </div>
-               <div type="rebus">
+               <div type="section">
                   <head>Rebus</head>
                   <p>[...]</p>
                </div>
-               <div type="publication_info">
+               <div type="section">
                   <head>"The Young Idea"</head>
                   <p>[...]</p>
                </div>
@@ -4694,7 +4694,7 @@
                <head type="main">Chesapeake Chronicle and Weekly Journal</head>
                <head type="sub">Saturday 29th January 1859</head>
                <head type="sub">Vol 2. No 6.</head>
-               <div type="article">
+               <div type="section">
                   <head>No Title</head>
                   <p>Only the total absence of all circumstances of note, has for a while, caused our weekly sheet to remain unstained with ink; our
                      pen to be useuless on the desk before us. "The Young Idea" professes to record events, not to invent fiction; but here at Jeddah
@@ -4707,7 +4707,7 @@
                      the while, have been idly lying amongst the reefs of Jeddah, our minds gleaning no fresh idea from scenes before us, but
                      wandering vacantly into the future or the past.</p>
                </div>
-               <div type="letter">
+               <div type="section">
                   <head>Arabic Numberals</head>
                   
                      
@@ -4718,7 +4718,7 @@
                      
                   
                </div>
-               <div type="letter">
+               <div type="section">
                   <head>Arabic Numberals</head>
                   
                      
@@ -4730,15 +4730,15 @@
                   
                   <p>Ed. We regret exceedingly [...] careless of our "devil."</p>
                </div>
-               <div type="previously_published">
+               <div type="section">
                   <head>More Notes about Mecca. <lb/>(chiefly from Sale's Koran).</head>
                   <p>[...][...]</p>
                </div>
-               <div type="enigma">
+               <div type="section">
                   <head>Historical Enigmas<lb/>No. 1</head>
                   <p>[...][...]</p>
                </div>
-               <div type="letter">
+               <div type="section">
                   <head>The last New Riddle from England.</head>
                   
                      
@@ -4749,11 +4749,11 @@
                      
                   
                </div>
-               <div type="naval_intelligence">
+               <div type="section">
                   <head>Naval Intelligence</head>
                   <p>[...]</p>
                </div>
-               <div type="epitome">
+               <div type="section">
                   <head>Epitome.</head>
                   <p>[...]On Monday (24th) when shifting Topsails Isaac Wright Ordy fell backwards from the main Topsail Yard, but was happily brought
                      up by his knife lanyard hitching, which gave him time to grasp the rigging: we should indeed have been very sorry had anything
@@ -4765,18 +4765,18 @@
                      Namik Pacha (a passenger in one of the Dhows) whose astonishment at various tricks with cards was of the most grotesque
                      description.</p>
                </div>
-               <div type="facetiae">
+               <div type="section">
                   <head>Facetiae.</head>
                   <p>A remark being made on the long line of "dhows" lying off Jeddah, [...]</p>
                </div>
-               <div type="rebus">
+               <div type="section">
                   <head>REBUS</head>
                   <p>[...]</p>
                </div>
-               <div type="answer">
+               <div type="section">
                   <head>Answer to Rebus in No. 5. Expostulation.</head>
                </div>
-               <div type="publication_info">
+               <div type="section">
                   <head>"The Young Idea"</head>
                   <p>[...]</p>
                </div>
@@ -4787,7 +4787,7 @@
                <head type="main">Chesapeake Chronicle and Weekly Journal</head>
                <head type="sub">Saturday 26 February 1859</head>
                <head type="sub">Vol 2. No 7.</head>
-               <div type="article">
+               <div type="section">
                   <head>No Title</head>
                   <p>Our readers will hardly require an excuse for the nonappearance of our Weekly Journal, on the last three Saturdays, (alas' it is
                      now weekly only in name) for all must have felt how monotonously the past-three or four weeks have flet: - unchequered by a
@@ -4805,60 +4805,60 @@
                      to its deep blue waters, and coral reefs, farewell to its desert borne breezes, adn san ladet atmostphere, adn with us our
                      readers all gladly echo "Farewell"!!!</p>
                </div>
-               <div type="letter">
+               <div type="section">
                   <head>The "Great Eastern" Steamship &amp; the Future of Trincomalie</head>
                   <p>[...][...]</p>
                </div>
-               <div type="article">
+               <div type="section">
                   <head>Notes about Jeddah</head>
                   <p>[...very interesting anecdotes about a visit ashore!]</p>
                </div>
-               <div type="enigma">
+               <div type="section">
                   <head>Historical Enigma</head>
                   <p>[...]</p>
                </div>
-               <div type="naval_intelligence">
+               <div type="section">
                   <head>Naval Intelligence</head>
                   <p>[...]</p>
                </div>
-               <div type="epitome">
+               <div type="section">
                   <head>Epitome.</head>
                   <p>[...]</p>
                </div>
-               <div type="promotionsandappointments">
+               <div type="section">
                   <head>Promotions &amp; Appointments</head>
                   <p>[...]8th <persName ref="#A_D_McArthur">Mr A.D. McArthur</persName> Clerk having passed provisionally before Mr Hayward Paymaster
                      to be Act Asst Paymr[...]</p>
                </div>
-               <div type="charade">
+               <div type="section">
                   <head>The Sailor's Charade.</head>
                   <p>[...]</p>
                </div>
-               <div type="answer">
+               <div type="section">
                   <head>Answer to REbus in No 6. Pomegranate</head>
                   <p>[...]</p>
                </div>
-               <div type="publication_info">
+               <div type="section">
                   <head>-</head>
                   <p>[...]</p>
                </div>
-               <div type="_">
+               <div type="section">
                   <head>-</head>
                   <p>[...]</p>
                </div>
-               <div type="_">
+               <div type="section">
                   <head>-</head>
                   <p>[...]</p>
                </div>
-               <div type="_">
+               <div type="section">
                   <head>-</head>
                   <p>[...]</p>
                </div>
-               <div type="_">
+               <div type="section">
                   <head>-</head>
                   <p>[...]</p>
                </div>
-               <div type="_">
+               <div type="section">
                   <head>-</head>
                   <p>[...]</p>
                </div>
