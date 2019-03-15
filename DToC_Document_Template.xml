@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="http://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Young Idea: A Naval Journal Edited on Board the H.M.S. Chesapeake in 1857, 1858 &amp; 1859</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <!-- The type attribute in the <div> tags determines how DToC will read that section. The general DToC document structure includes multiple chapers followed by an index. However, you can add forward, afterwords, etc. by chaging the <div> type attribute -->
+            <div type="chapter">
+                <head>
+                    <bibl>
+                        <title>No. 1</title>
+                        <author>A.D.
+                        McArthur</author><!-- want to try to change <author> to <editor> and add a date, but I won't try that at first in
+                        case it causes a glitch -->
+                    </bibl>
+                </head>
+                <div type="section" xml:id="editorial">
+                    <head>Our Opening Column</head>
+                    <p>________</p>
+                </div>
+                <div type="section" xml:id="letter">
+                    <head>from our Correspondent</head>
+                    <head>Grand Dinner Party in celebration of hoisting the Broad Pendant</head>
+                    <!-- don't forget to format this as a letter...just transcribing the body for now -->
+                    <p>On Wednesday the 9th a grand dinner party was given by the Ward Room Officers of H.M.S. Chesapeake to their commodore, in honor
+                        of his having on that day hoisted his Broad Pendant</p>
+                    <pb n="IMG_1406l.JPG" facs="___"/>
+                    <p>I will not encroach too much on your valuable time, by entering fully into minute details, but proceed to describe, as well,
+                        and briefly, as I am able, one of the great features of the week. There is little occasion to name the Bill of Fare, as it
+                        might make sundry people's mouths water to no purpose; suffice it to say the table was served in a most
+                        "recherche<!-- the e is accented -->" style; the good looking and well dressed sailor boys, being remarkably attentive; the
+                        whole being under the able management of Mr. Geo Hoadley, the Mess Steward.</p>
+                    <p>Scandal, says, that several cries were heard from the background, much resembling the noise that boys make when under
+                        punishment, and therefore avers, that the boys' good conduct arose from the fact of a Corporal, having been seen to enter the
+                        ward room previous to dinner, with what sailors call a "persuader" in his hand. But as I make it a practice to turn a deaf ear
+                        to scandal, (altho' readers may draw their own conclusions) still I am of opinion that they (the boys) have been too well
+                        drilled, and the system too good, to allow such a derogatory report to gain ground in any right minded person's opinion. You
+                        must pardon me, for having thus digressed from my subject, but as calumnious reports quickly get abroad, and such an one might
+                        prove detrimental to that well regulated mess. I take this opportunity of nipping it in the bud: -to proceed:-The culinary
+                        department, under the care of Mons: do Blanchearde, (who bids fair to outrival Mr Soyer) gave every satisfaction and the well
+                        satisfied look that rested on everyone's face, on the removal of the cloth, would, could he only have seen it, have repaid him
+                        well for his unremitting zeal.</p>
+                    <p>Dessert on the table, and the glasses filled, the usual loyal toast was drunk to the splendid band of the ship, under their
+                        leader, Signor Faustine, playing "God save the Queen" followed immediately by "The return of the Admiral". Some slight mistake
+                        appears to have been made, in the time appointed for the playing of this Air; but to the fact of the Bandmaster being a
+                        foreigner, and as yet, not initiated into English customs, must this mistake be attributed</p>
+                    <p>After the strains of music had ceased the President Capt. Piers, in an appropriate speech proposed the health of Commodore
+                        Watson CB which was drunk with enthusiasm, and no heel tops <note>"no heel tops" is a call made when one has not emptied their
+                            glass after a toast</note>, the band playing as before, the "Return of the Admiral" ...</p>
+                </div>
+                <div type="section" xml:id="naval_intelligence">
+                    <head>Naval Intelligence</head>
+                    <p>_____</p>
+                </div>
+                <div type="section" xml:id="epitome"><!-- it will be easy to change these throughout the whole document once I've tested -->
+                    <head>Epitome</head>
+                    <p>____</p>
+                </div>
+                <div type="section" xml:id="facetiae">
+                    <head>FACETIAE</head>
+                    <p>________</p>
+                </div>
+                <div type="section" xml:id="conundrums">
+                    <head>Conundrums</head>
+                    <p>________</p>
+                </div>
+                
+                    <!-- I don't understand why these individual paragraphs
+                    get an xml id. it might be functionality I don't need, but I'll leave it to see how it transforms. Oh, I actually think this is
+                    labeling things with a specific tag that will show up in the index? This is what Anna would use to create her narrative blocks,
+                    but I won't really need it for the things I'm tagging, since I'm tagging individual words or phrases, not entire paragraphs (at
+                    this point) and my tags really just need to be revealed through the list of tags. The header here does not specific that only TEI
+                    tags are available, which allows me to create my own. There are many fewer restrictions here, which is helpful in teaching xml
+                    separate from TEI. Actually, I can use the subsection functionality. It will actually help me create a more detailed index because
+                    it will show which types of contributions are in each issue. It will allow me to create a list of these types of contributions in
+                    the index (while the table of contents will show everything in the proper order, displaying the headings, I think)-->
+                    
+
+            </div>
+            <div type="chapter">
+                <head>
+                    <bibl>
+                        <title>No. 2</title>
+                        <author>A.D. McArthur</author>
+                    </bibl>
+                </head>
+                <p xml:id="P3">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+            
+            <!-- To add an index --><!-- This one is still confusing me...but I think right now that I need to put xml ids on divs at the chapter
+                level??? -->
+            <div type="index">
+                <list>
+                    <item xml:id="I1"><ref target="P2">term</ref></item>
+                    <item xml:id="I2"><ref target="P2 P3">term</ref></item>
+                    <item xml:id="I3"><ref target="P4">term</ref></item>
+
+                    <!-- To create a subsection of terms -->
+                    <item xml:id="I4"><ref target="P1">term</ref>
+                        <list>
+                            <item><ref target="editorial">Editorial</ref></item>
+                            <item><ref target="letter">Letter</ref></item>
+                            <item><ref target="naval_intelligence">subterm</ref></item>
+                            <item><ref target="epitome">epitome</ref></item>
+                            <item><ref target="naval_intelligence">subterm</ref></item>
+                            <item><ref target="naval_intelligence">subterm</ref></item>
+                        </list>
+                    </item>
+
+                    <!-- To create index cross references -->
+                    <item xml:id="I5">
+                        <ref target="P4">term</ref>
+                        <list>
+                            <head>
+                                <hi rend="italic">See also</hi>
+                            </head>
+                            <item><ref target="I1">associated term</ref></item>
+                            <item><ref target="I1">associated term</ref></item>
+                        </list>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>
