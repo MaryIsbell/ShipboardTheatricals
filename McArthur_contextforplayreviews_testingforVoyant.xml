@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="http://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="TEI_knl_ytj_chb">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Young Idea: A Naval Journal Edited on Board the H.M.S. Chesapeake in 1857, 1858 &amp; 1859</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text><body>
+      
+         <!--  <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -35,11 +55,7 @@
                      Beinecke Library: ______</idno>
                   <imprint>
                      <date>1867</date>
-                     <biblScope>
-                        <!-- type="pubPlace" -->
-                        <ref type="address">170 Fleet Street, London, England</ref>
-                        <name type="publisher">Paul Jerrard &amp; Son</name>
-                     </biblScope>
+                     
                      <note type="project">An in-process transcription of the entire run of The Young Idea</note>
                   </imprint>
                </monogr>
@@ -58,14 +74,7 @@
                      aged 27), a son Henry (a clerk in the wine trade, aged 17), a son Alexander D (a scholar, aged 15), a son Hanibal (no occupation,
                      aged 13), and a servant Esther Johnson (aged 20).</note>
 
-                  <!--<bibl><<msIdentifier><msName>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858</msName>
-                        <institution>National Archives at Kew</institution>
-                     <idno>ADM 38/2884</idno>
-                     </msIdentifier></bibl>
-                  <bibl>
-                  <bibl><msIdentifier><msName>Census Returns of England and Wales, 1851. Kew, Surrey, England</msName><institution>The National Archives of the
-                     UK (TNA): Public Record Office (PRO)</institution>                       
-                     </msIdentifier></bibl>-->
+                  
                </person>
 
 
@@ -352,13 +361,12 @@
                header.</p>
          </editorialDecl>
       </encodingDesc>
-   </teiHeader>
-   <text>
-      <body>
+      </teiHeader>-->
+
 
          <!-- it may be quicker to keep these images as is and link to them in my own transformation -->
-         <pb n="IMG_1406.JPG" facs="___"/>
-         <div n="1" type="issue">
+         
+         <div n="1" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday-December 12, 1857</head>
@@ -373,7 +381,7 @@
                <!-- don't forget to format this as a letter...just transcribing the body for now -->
                <p>On Wednesday the 9th a grand dinner party was given by the Ward Room Officers of H.M.S. Chesapeake to their commodore, in honor of
                   his having on that day hoisted his Broad Pendant</p>
-               <pb n="IMG_1406l.JPG" facs="___"/>
+               
                <p>I will not encroach too much on your valuable time, by entering fully into minute details, but proceed to describe, as well, and
                   briefly, as I am able, one of the great features of the week. There is little occasion to name the Bill of Fare, as it might make
                   sundry people's mouths water to no purpose; suffice it to say the table was served in a most "recherche<!-- the e is accented -->"
@@ -413,8 +421,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
-         <div n="__" type="issue">
+         
+         <div n="__" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
@@ -444,8 +452,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
-         <div n="__" type="issue">
+         
+         <div n="__" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
@@ -475,8 +483,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
-         <div n="__" type="issue">
+         
+         <div n="__" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
@@ -506,8 +514,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
-         <div n="__" type="issue">
+         
+         <div n="__" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
@@ -537,8 +545,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
-         <div n="__" type="issue">
+         
+         <div n="__" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
@@ -568,17 +576,17 @@
                <p>________</p>
             </div>
          </div>
-         <div n="7" type="issue">
+         <div n="7" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">"Chesapeake" Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 23rd January 1858</head>
             <head type="sub">No. 7</head>
-            <cb n="1"/>
+            
             <div type="article">
                <p>
                   <!-- Find a way to present information about differences between McArthur and Bampfield (likely a note instead of a ref tag) and then make the change throughout --><ref
                      target="variants.youngidea.xml#TYI7.01">Our long voyage has now come to a close, we may consider that we have arrived at our
-                     destination, that our future prospects centre in <placeName ref="placeography.xml#Kolkata" facs="Colton_Kolkata"
+                     destination, that our future prospects centre in <placeName ref="placeography.xml#Kolkata"
                         >Calcutta</placeName>.</ref>
                </p>
                <p>What these prospects may be, we are unable to determine at present, although, we may almost dispel the idea of seeing service before
@@ -586,14 +594,13 @@
                   unremunerative.</p>
                <p>But, at this, we must not repine, for, as <persName ref="#Watson">our gallant Commodore</persName> expressed in his speech last
                   Sunday, we do as much good, in assisting the arrival, or departure of vessels, in provisioning, storing, repairing, conveying troops
-                  or other equally tame work, as though we were in the field; no doubt, some may be inclined to say, that this<cb n="2"/> is merely a
+                  or other equally tame work, as though we were in the field; no doubt, some may be inclined to say, that this is merely a
                   propitiatory view of the case, but, we say, it is the fact, and although our inclination leads us to think otherwise and to feel
                   dissatisfied with the failure of our dearest hopes, yet, this should not lessen our zeal in the exercise of our various duties, and
                   hope must brighten our path with the expectation, of not always having such unsatisfactory employment.</p>
                <p>We cannot disguise the fact that we are "too late for the fair," but yet an old adage says "better late than never" and who knows,
                   or who can foretell, what fortunate circumstances may occur, to reward us for our present disappointment.</p>
-               <p>Of the present state of the rebellion we cannot venture to say much; on shore, one heard little or <pb n="TYI1072" facs="TYI1072"
-                     /><fw>The Young Idea" Saturday 23<hi rend="superscript">rd</hi> January 1858</fw><cb n="1"/> nothing of it, although we cannot
+               <p>Of the present state of the rebellion we cannot venture to say much; on shore, one heard little or  nothing of it, although we cannot
                   fancy that the hearts of English men and women, can wholly forget the perils of their country people.</p>
                <p>Our information of what is proceeding is therefore very limited, but we hope that next week we may be able to procure intelligence
                   of the successful career of that gallant soldier <persName ref="#Campbell">Sir Colin Campbell</persName>, as well as of a speedy
@@ -611,7 +618,7 @@
                   extended up the river, the hum of distant voices, the strange figures, carriages &amp; vehicles of various descriptions passing
                   along the Esplanade, all united to excite us with their novelty, and we were forced to satisfy our curiosity by visiting the
                   shore.</p>
-               <p>On landing we were assailed by numbers of importunate palanquin<cb n="2"/> bearers, who would hardly listen to the negatives we
+               <p>On landing we were assailed by numbers of importunate palanquin bearers, who would hardly listen to the negatives we
                   returned to their vociferations of "Palankie Sail" However we managed to escape in safety, and were pursuing our course towards the
                   town when young lad came forward with an umbrella, and notwithstanding our decisive refusals of his services, he persisted in
                   following and shading us from the sun.</p>
@@ -625,9 +632,9 @@
                   expose himself; the touting of the vendors, who, with salaams, begged us to walk into, each, his particular shop, and become their
                   customers, all this and many other circumstances which struck us at the time, brought back very strongly to our memories the streets
                   and bazaars of <placeName ref="placeography.xml#Istanbul">Constantinople</placeName></p>
-               <pb n="TYI1073" facs="TYI1073"/>
-               <fw>"The Young Idea" Saturday 23 January 1858.</fw>
-               <cb n="1"/>
+               
+               
+               
                <p>After purchasing what we required, and we found that the prices first demanded were high but easily beaten down, we determined to
                   visit now the Esplanade, and see what was going on there. We dismissed our guide with a fee with which he appeared very well
                   pleased, &amp; having refreshed ourselves with an ice at Browne's Hotel, we left our purchases there and strolled forth upon the
@@ -644,7 +651,7 @@
                <p>The shades of night falling fast and thick, and not wishing to remain any longer on shore, we returned on board, not as well
                   satisfied with <placeName ref="placeography.xml#Kolkata">Calcutta</placeName>, at first sight, as we had hoped to be.</p>
             </div>
-            <cb n="2"/>
+            
 
             <div type="article">
                <head>
@@ -665,8 +672,7 @@
                   at the anchorage. The water which on the previous day had been of a greenish hue, now became very thick and muddy. Objects on shore
                   now became more distinct as the river lessened in width, the banks were still low &amp; level, not an outline of any distant hills
                   to be seen, here &amp; there a rice plantation varied the jungle Native villages, generally clustered about some creek, where a
-                  smaller stream <pb n="TYI1074" facs="TYI1074"/><fw>The Young Idea Saturday 23<hi rend="superscript">rd</hi> January 1858.</fw><cb
-                     n="1"/> joined the main river, now, and then called our attention. In the stream, we passed many vessels, less favoured than
+                  smaller stream  joined the main river, now, and then called our attention. In the stream, we passed many vessels, less favoured than
                   ourselves, taking advantage of the tide to move up the river; others in their downward course, lying at anchor till the tide should
                   turn. <ref target="variants.youngidea.xml#BETYI7.01">Now we observed traces of the European settler</ref>, the tall factory of red
                   brick, the neat white house with green blinds drawn down over the windows, the regular avenue of trees, the cultivated patches of
@@ -688,7 +694,7 @@
                      as our national thanksgiving…….</ref>.In every shape which war could take, has the ascendancy of the British race been
                   established. We have succeeded in capturing a strong position &amp; we have succeeded in defending a weak one. As besiegers at
                      <placeName ref="placeography.xml#Delhi">Delhi</placeName>, as besieged at <placeName ref="placeography.xml#Lucknow"
-                     >Lucknow</placeName>, we have been equally triumphant, while the advance of our column to the<cb n="2"/> capital of insurgent
+                     >Lucknow</placeName>, we have been equally triumphant, while the advance of our column to the capital of insurgent
                      <placeName ref="placeography.xml#Ayodhya">Oude</placeName>, presents little less than a miracle of determination &amp;
                   courage.</p>
                <bibl>
@@ -766,15 +772,15 @@
 
             </div>
          </div>
-         <pb n="TYI1081" facs="TYI1081"/>
+         
 
 
-         <div n="8" type="issue">
+         <div n="8" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">"Chesapeake" Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 30th January 1858</head>
             <head type="sub">No. 8</head>
-            <cb n="1"/>
+            
             <div type="article">
                <head>
                   <ref target="variants.youngidea.xml#TYI8.01">Try Again</ref>
@@ -787,7 +793,7 @@
                   down, or that the Great Eastern "refuses to move from the spot where it has been built. A second attempt was made to induce this
                   monster of the deep, to take to its aquatic elements; but a second time, it resisted all arguments whether of force or
                   persuasion.</p>
-               <p>A fair lady bestowed its name, and called it<cb n="2"/> "Leviathan" but "Leviathan was as resolute as "Great Eastern" and still
+               <p>A fair lady bestowed its name, and called it "Leviathan" but "Leviathan was as resolute as "Great Eastern" and still
                   remained upon the shore. "Try again" must be the motto of the builders.</p>
                <p>Again, we read in an other part of our news that "Big Ben,"-the huge Bell that is to swing in the Clock tower of the Palace of
                   Westminster,-"Big Ben" is cracked, his metal was too thin, or his tongue was too thick, and he will now have to be broken up, and
@@ -795,8 +801,7 @@
                <p>But all these failures, we say, might reasonably be expected; whenever we attempt anything great and noble and unprecedented,
                   neither a first, nor a second, nor a third failure must daunt us. "Try again" must be our motto, and success will eventually crown
                   our perseverance.</p>
-               <p>The "Atlantic Telegraph" shall yet exchange the thoughts of John Bull with those of <pb n="TYI1082" facs="TYI1082"/><fw>"The Young
-                     Idea" Saturday 30<hi rend="superscript">th</hi> January 1858.</fw><cb n="1"/> Brother Jonathan, "Big Ben" shall yet sound his
+               <p>The "Atlantic Telegraph" shall yet exchange the thoughts of John Bull with those of Brother Jonathan, "Big Ben" shall yet sound his
                   notes of warning to the denizens of our Metropolis, "Leviathan" shall yet float on the waters, the glory and triumph of our Naval
                   Architects, and the "Young Idea" shall gain the support and interest of all.</p>
             </div>
@@ -813,7 +818,7 @@
                   carriages, palanquine-bearers, riders galloping over the turf, soldiers at their Canteen, and the swarms of dark natives, the
                   handsome European houses, intermingled with the low, dingy-roofed bazaars of the natives, the spires of the Christian Churches, the
                   Moslem mosque, the massive pile, the palace of the Governor General, the large tanks cut in the soil, human habitations interspersed
-                  with trees, extend<cb n="2"/>ing to the verge of the horizon of this flat alluvial district, these are but a few, of the object that
+                  with trees, extending to the verge of the horizon of this flat alluvial district, these are but a few, of the object that
                   delight the eye.</p>
                <p>It is not our wish to enter upon an elaborate description but simply to recommend others to attempt the same ascent, to look around
                   for themselves, and to describe with more accurate pen or pencil the scene which we have attempted to de-pict.</p>
@@ -840,8 +845,7 @@
                <head>
                   <ref target="variants.youngidea.xml#TYI8.04">The Special Thanksgiving At St. Paul's Cathedral</ref>
                </head>
-               <p>Last Thursday week the 21st Inst. a special Thanksgiving service was held in St. Paul's Ca<pb n="TYI1083" facs="TYI1083"/><fw>The
-                     Young Idea Saturday 30<hi rend="superscript">th</hi> January 1858.</fw><cb n="1"/>thedral, to return thanks for the relief of
+               <p>Last Thursday week the 21st Inst. a special Thanksgiving service was held in St. Paul's Cathedral, to return thanks for the relief of
                      <placeName ref="placeography.xml#Lucknow">Lucknow</placeName>.</p>
                <p>As it was understood that most of the <placeName ref="placeography.xml#Lucknow">Lucknow</placeName> people would be present the
                   occasion presented too much interest for us to neglect witnessing it, and partaking in the ceremony.</p>
@@ -852,7 +856,7 @@
                <p>After leaving the fort we emerged upon the race course, the grand stand &amp; swimming post suggesting to our minds the exciting
                   scenes, which we had unfortunately missed witnessing, by not reaching this place at an earlier season.</p>
                <p>It was not long now ere we arrived at the cathedral, although had it not been for a sharp look out kept on our driver, he would most
-                  probably have taken us out into the country, as he did not appear to under<cb n="2"/>stand perfectly where we were desirous of being
+                  probably have taken us out into the country, as he did not appear to understand perfectly where we were desirous of being
                   driven to, and was taking a course very different to that we wished. </p>
                <p>On entering the sacred edifice we found that we were very late, but yet managed to obtain seats, although the position was not good
                   being behind the pulpit.</p>
@@ -864,8 +868,7 @@
                   these are intended for the use of punkahs during the hot weather</p>
                <p>Over the altar a fine large painted window, representing the Crucifixion, attracted our attention. The Pulpit, choir, Altar &amp;
                   reading Desks, were draped in black, and noticing that a large number of the congregation were also arrayed in the sable garments of
-                  mourning, we were painfully re<pb n="TYI1084" facs="TYI1084"/><fw>"The Young Idea" Saturday 30<hi rend="superscript">th</hi> January
-                     1858.</fw><cb n="1"/> minded of the heartrending losses, and bloodshed, which have characterized late times.</p>
+                  mourning, we were painfully re minded of the heartrending losses, and bloodshed, which have characterized late times.</p>
                <p>From our position in the rear of the Preacher (<persName ref="#Pratt">Archdeacon Pratt</persName>) we were unfortunately unable to
                   hear his discourse fully, but its main design was to show the great mercy of Almighty God in thus relieving a people who had deemed
                   themselves lost, and had made up their minds to die, as well as to teach us how grateful we should be for all His Mercies, and to
@@ -928,20 +931,20 @@
                <head>
                   <ref target="variants.youngidea.xml#TYI8.08">First appearance of an Enemy.</ref>
                </head>
-               <floatingText>
-                  <body>
-                     <opener>To the Editor of the "Young Idea"<lb/>Dear Sir,</opener>
+               
+                  
+                     <p>To the Editor of the "Young Idea"<lb/>Dear Sir,</p>
                      <p>While walking the Deck by moonlight, in a contemplative mood, on Thursday Evening, two animals of the order "Rodentia,"
                         usually called "rats" were observed by the Quartermaster near the main mast. Being much troubled by the apparition, and having
                         an intense aversion to anything in the shape of a rat, (except the rat-tat of the postman's knock) I hasten to inform you of
                         the approach of these formidable foes. I sincerely hope, that our smart, though juvenile members of the feline tribe may now
                         be duly trained and disciplined to meet the foe, and I doubt not that a whole host of asiatic rats will soon be made to fly
                         before the sharp claws of a few brave British cats.</p>
-                     <closer>I am, Dear Sir,<lb/>Yours very truly</closer>
-                     <signed>"Night Watch"</signed>
-                     <dateline>"Chesapeake" 29 Jan 1858</dateline>
-                  </body>
-               </floatingText>
+                     <p>I am, Dear Sir,<lb/>Yours very truly</p>
+                     <p>"Night Watch"</p>
+                     <p>"Chesapeake" 29 Jan 1858</p>
+                  
+               
             </div>
 
             <div type="conundrum">
@@ -968,14 +971,14 @@
 
             </div>
          </div>
-         <pb n="TYI1091" facs="TYI1091"/>
+         
 
-         <div n="9" type="issue">
+         <div n="9" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">"Chesapeake" Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 6th February 1858</head>
             <head type="sub">No. 9</head>
-            <cb n="1"/>
+            
             <div type="article">
 
                <p>
@@ -987,16 +990,15 @@
                   diorama of a sailor's life</p>
                <p>We have received our long looked for, eagerly anticipated letters, we have heard from those at home, at the very sight of whose
                   handwriting, we have felt our breasts thrill with emotions of pleasure, and joy, and if such feelings are experienced by a mere
-                  knowledge of the characters of the address, we can readily fathom the happiness<cb n="2"/> the glow of exultation, the interest with
+                  knowledge of the characters of the address, we can readily fathom the happiness the glow of exultation, the interest with
                   which we break the seal, and first with rapid glance devour the contents, abstracting the news greedily, in order to learn all in a
                   moment.</p>
                <p>Then comes the second reading, and now we ponder over every word, we digest every sentence, and carefully peruse every line,
                   receiving fresh pleasure from every perusal, and being borne back in memory to our happy homes, where we can fancy we
                   see<lb/>"++++++++" the light<lb/>"of household fires gleam warm &amp; bright"<lb/>we fancy we can hear the joyous laugh of merry
                   friends, the hearty gratulations of the season; we fancy we can feel the warm grasp of friendly recognition, the endearing embrace
-                  of parents, sisters, wives, or sweethearts; we read their wishes, their soul breathed <pb n="TYI1092" facs="TYI1092"/><fw>The Young
-                     Idea Saturday 6<hi rend="superscript">th</hi> February 1858.</fw>
-                  <cb n="1"/> wishes for our happiness, and welfare; and as we close the pages which have expanded our hearts with more real
+                  of parents, sisters, wives, or sweethearts; we read their wishes, their soul breathed 
+                   wishes for our happiness, and welfare; and as we close the pages which have expanded our hearts with more real
                   enjoyment, than we have experienced since we parted from the oft remembered writers, we come back to the cold stern reality of
                   distance, of our separation.</p>
                <p>But, stop! We have only spoken of pleasure, as derived from the receipt of letters from our homes; there is yet another view of the
@@ -1004,7 +1006,7 @@
                <p>Note! Some poor comrade receives a letter whose sable edges bespeak the contents; see! with what trembling hand, and bursting heart
                   he retires into some corner, where in secret he can trace with tearful eyes, the lines which convey the sad intelligence of the
                   death of some dear relative, or friend.</p>
-               <p>Tis thus that each mail must produce different emotions amongst a body of men, and while some are filled with joy,<cb n="2"/> others
+               <p>Tis thus that each mail must produce different emotions amongst a body of men, and while some are filled with joy, others
                   are drooping with pain and trouble.</p>
                <p>May we know little of this latter.</p>
             </div>
@@ -1025,8 +1027,7 @@
                      ref="placeography.xml#Lucknow">Lucknow</placeName> lamented when they saw it put into a cage, to be carried away.</p>
                <p>There are 6 or 7 others, of which we recollect two particularly, one because of its ferocious growl, the only savage one, and the
                   other as being the largest of all, and distinguished for the beauty of its stripes, which, it will be observed, are all double.</p>
-               <p>There is a leopard, which is rather too apt to put its paws through the cage, and a chetah <pb n="TYI1093" facs="TYI1093"/><fw>The
-                     Young Idea Saturday 6<hi rend="superscript">th</hi> February 1858.</fw><cb n="1"/> or hunting leopard, which is only confined by
+               <p>There is a leopard, which is rather too apt to put its paws through the cage, and a chetah or hunting leopard, which is only confined by
                   a chain, and seems perfectly tame, licking its keeper's hand, and making a gruff, purring, sound, like a cat with a sore throat.</p>
                <p>There is also a fine Giraffe, perfectly tame, and we recommend visitors to beg the Sikh attendant to take a ride on its back. The
                   man, though full sized, seems quite a pigmy when mounted on the tall quadruped; and we defy any one to keep himself from laughing,
@@ -1047,8 +1048,7 @@
                   views from india, and illustrations of Hindoo customs, now meet us in every page: when we open our Magazines, we find historical
                   papers, tracing the rise of the British dominion in India, dissertations on the variety of races, or essays on the religious, and
                   various forms of feeling which are to be found in this remarkable Asiatic Peninsula.</p>
-               <p>"We spared our readers," says the Times, "as much as we could the pain of revolting and horrible "images; we have no objection<cb
-                     n="2"/> that they should know, that there are the most terrible details in the background of outrages perpetrated upon English
+               <p>"We spared our readers," says the Times, "as much as we could the pain of revolting and horrible "images; we have no objection that they should know, that there are the most terrible details in the background of outrages perpetrated upon English
                   men and English women." </p>
                <p>"Christianity," writes the same paper in another article, "is not a religion to be propagated by violence, but it is essentially a
                   religion to be diffused by preaching and teaching. Christians may not make converts by the sword, but they are bound, where they
@@ -1069,8 +1069,7 @@
                   <ref target="variants.youngidea.xml#TYI9.04">Con.</ref>
                </head>
                <list type="ordered">
-                  <item n="14">When is an Editor like a coachman driving a restive tandem?<pb n="TYI1094" facs="TYI1094"/><fw>The Young Idea Saturday
-                           6<hi rend="superscript">th</hi> February 1858.</fw><cb n="1"/></item>
+                  <item n="14">When is an Editor like a coachman driving a restive tandem?</item>
                </list>
             </div>
 
@@ -1114,7 +1113,7 @@
                         <expan>Captain</expan>
                         <abbr>Capt.</abbr>
                      </choice> Piers, &amp; a prosperous voyage to the <orgName ref="#Himalaya">Himalaya</orgName>."</item>
-                  <item>The mail for England will<cb n="2"/> start on Monday next the 8th Inst.</item>
+                  <item>The mail for England will start on Monday next the 8th Inst.</item>
                   <item>We have noticed some young sportsmen have been out with their fowling pieces, but very little success appears to have awarded
                      their juvenile ardour.</item>
                </list>
@@ -1132,17 +1131,17 @@
                <head>
                   <ref target="variants.youngidea.xml#TYI9.08">To the Editor of the "Young Idea"</ref>
                </head>
-               <floatingText>
-                  <body>
-                     <opener>Dear Mr Editor"</opener>
+               
+                  
+                     <p>Dear Mr Editor"</p>
                      <p>Do give us more riddles this week, for tho' I could not for my life start one out of my own nozzle, yet I greatly enjoy
                         puzzling over what others have started, and though I never wish to be riddled with shot, yet I always like to be peppered with
                         riddles, and in fact the "Young Idea" seems quite imperfect without them.</p>
-                     <closer>So, believe me, Dear Mr. Editor<lb/>Your constant reader</closer>
-                     <signed>"Puzzlehead"</signed>
-                     <dateline><orgName ref="#Chesapeake">Chesapeake</orgName> 4 Feb. 1858</dateline>
-                  </body>
-               </floatingText>
+                     <p>So, believe me, Dear Mr. Editor<lb/>Your constant reader</p>
+                     <p>"Puzzlehead"</p>
+                     <p><orgName ref="#Chesapeake">Chesapeake</orgName> 4 Feb. 1858</p>
+                  
+               
 
                <p>Ed. our answer is given below</p>
             </div>
@@ -1216,14 +1215,14 @@
 
             </div>
          </div>
-         <pb n="TYI1101" facs="TYI1101"/>
+         
 
-         <div n="10" type="issue">
+         <div n="10" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">"Chesapeake" Chronicle and Weekly Journal</head>
             <head type="sub">Saturday February 13 1858</head>
             <head type="sub">No. 10</head>
-            <cb n="1"/>
+            
             <div type="article">
 
                <p>
@@ -1235,8 +1234,7 @@
                <p>Although on this important occasion, our men did not acquit themselves in the manner we had hoped, yet it is a source of deep
                   gratification, to know that the reigning prize of the day, the acme of ambition, the "Prize Cup" was won by our men.</p>
                <p>Elsewhere we shall find a detailed account of the circumstances which marked the day, which we must say could not have been finer or
-                  more agreeable, nor can we drop this subject without paying our tribute of admiration to the "fair sex," the bright colours<cb n="2"
-                  /> of whose tasteful array, enlivened our decks, and gave the ship a holiday appearance,</p>
+                  more agreeable, nor can we drop this subject without paying our tribute of admiration to the "fair sex," the bright colours of whose tasteful array, enlivened our decks, and gave the ship a holiday appearance,</p>
                <p>Our news this week is somewhat general and extensive; we have news of the movements of the Naval Brigade and the probability of
                   intelligence arriving soon of an attack upon <placeName ref="placeography.xml#Lucknow">Lucknow</placeName>: from <placeName
                      ref="placeography.xml#Yangon">Rangoon</placeName>, accounts would lead us to believe that the disturbances there are not likely
@@ -1252,12 +1250,11 @@
                <head>
                   <ref target="variants.youngidea.xml#TYI10.02">A Savage from the Andaman Islands</ref>
                </head>
-               <floatingText>
-                  <body>
-                     <opener>Dear Sir,</opener>
+               
+                  
+                     <p>Dear Sir,</p>
                      <p>The following account which was given me by a gentleman of <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> may
-                        perhaps, prove interesting <pb n="TYI1102" facs="TYI1102"/><fw>The "Young Idea" Saturday 13<hi rend="superscript">th</hi>
-                           February 1858</fw><cb n="1"/> to the Readers of the "Young Idea"</p>
+                        perhaps, prove interesting to the Readers of the "Young Idea"</p>
                      <p>An exploring party was recently sent from <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> to visit the
                            <placeName ref="placeography.xml#Andaman_Islands">Andaman Islands</placeName> in the Bay of Bengal with the view of
                         selecting a site to establish a penal colony, and to banish thither the captive King of <placeName
@@ -1274,14 +1271,14 @@
                         little child also. On one occasion, wishing to show his gratitude to Mrs. ..... &amp; following the custom of his country on
                         such occasions, he took the lady's hand within both his own, raised it solemnly to his lips, and with the deepest respect,
                         spat into it.</p>
-                     <signed>
+                     <p>
                         <figure>
                            <figDesc>hand-drawn triangle</figDesc>
                            <graphic url="TYI1102a.jpg"/>
                         </figure>
-                     </signed>
-                  </body>
-               </floatingText>
+                     </p>
+                  
+               
             </div>
             <div type="article">
 
@@ -1292,7 +1289,7 @@
                   English "men" say the sepoys. "Nor men, at all, but sea-devils who have come up out of the sea to fight for the Englishmen They do
                   not walk like men, but in a rolling way that shows they have claws upon their feet. They are dressed in a way quite different from
                   Englishmen, they are not tall, but very broad, in fact they are about 5 feet high, by 4 feet broad; they can carry big guns on their
-                  shoulders, or under their<cb n="2"/> arms; six of them can bring a gun up a hill, which it would take 200 or 300 sepoys to move at
+                  shoulders, or under their arms; six of them can bring a gun up a hill, which it would take 200 or 300 sepoys to move at
                   all; they never speak a word, and when they attack they can never be driven back; they are cannibals, and eat sepoys when they have
                   salted them down, sepoy bullets cannot kill them."</p>
             </div>
@@ -1326,8 +1323,7 @@
                   not hear us, but we went on increasing our noisy joy, and shaking handkerchiefs and caps as they neared the Gate; The sight of that
                   gallant little band, piercing thro' thousands to our rescue, affected many of us to tears. Such devotion!!! Such bravery!!!</p>
                <p><hi rend="underlined">"Adventure in the Mines"</hi>. The enemy were detected mining towards us, as on the previous occasion, and I
-                  lay a long time waiting for <pb n="TYI1103" facs="TYI1103"/><fw>The Young Idea" Saturday 13<hi rend="superscript">th</hi> February
-                     1858</fw><cb n="1"/> them to break into our gallery. we were suddenly confronted by a strong blow of the Miner's hoe, which
+                  lay a long time waiting for them to break into our gallery. we were suddenly confronted by a strong blow of the Miner's hoe, which
                   brought down the slip of earth dividing us. The man spread out his arms &amp; screamed as I put the muzzle of my pistol to his
                   breast, and shot him. There was a great noise at the top of the shaft; and they called to each other to go, and bring out the dying
                   miner, and his tools. A Sepoy leapt swearing to the bottom; I shot him in the stomach, in the act of firing at me: the commotion now
@@ -1349,7 +1345,7 @@
                   provided with a small double barrelled pistol, and a pair of broad pyjamahs over the tight trousers, I proceeded with Kunrigee Lall
                   to the banks of the <placeName ref="placeography.xml#Gomati_River">river Goomtee</placeName>. We undressed and quickly forded the
                   river, which was about 4 1/2 ft. deep, and about 100 yards wide at this point. My courage failed me while in the water, and if my
-                  guide had been within reach, I should perhaps have pulled him back and abandoned the<cb n="2"/> enterprize **** With my <gap
+                  guide had been within reach, I should perhaps have pulled him back and abandoned the enterprize **** With my <gap
                      reason="indecipherable"/> resting on my shoulder, we advanced among the huts in front, where I accosted a matchlock man, "The
                   night is cold"; he answered to my remark "It is very cold"*** We passed unnoticed thro' a number of Sepoys and matchlock men, some
                   of whom, were escorting persons of rank in palanquins, preceded by torches. I jostled against several armed men in the street, but
@@ -1395,8 +1391,7 @@
                   Ghant. Visitors speedily arrived of whom we may safely say the "gentler sex" were the most numerous, and our bridge presented a
                   brilliant spectacle when all the ladies had taken their stations thereon. The scene all round was now most enlivening, the "<orgName
                      ref="#Chesapeake">Chesapeake</orgName>" &amp; <orgName ref="#Proserpine">Proserpine</orgName> both gaily dressed in flags, the
-                  lines of boats filled with well dressed spectators, stretching along the Watery Race-<pb n="TYI1104" facs="TYI1104"/><fw>The "Young
-                     Idea" Saturday 13<hi rend="superscript">th</hi> February 1858.</fw><cb n="1"/>course, and the Ghant and its neighbourhood thickly
+                  lines of boats filled with well dressed spectators, stretching along the Watery Race-course, and the Ghant and its neighbourhood thickly
                   lined with people of all classes. The "<orgName ref="#Proserpine">Proserpine</orgName>" was the starting point and from this the
                   boats proceeded downwards round certain buoys marked with flags and then came up again passing on the shore side of the "<orgName
                      ref="#Chesapeake">Chesapeake</orgName>" back to the "<orgName ref="#Proserpine">Proserpine</orgName>". The whole distance to be
@@ -1543,7 +1538,7 @@
                   over, dancing commenced, and was kept up with great spirit until 6 o'clock. little or no attention being paid to the ensuing
                   races.</p>
                <p>The arrival of this day had been eagerly anticipated, and we are certain that all will agree that it passed off with entire
-                  satisfaction, altho' we could not but feel regret at the dancing being broken off at the early hour it was.<cb n="2"/></p>
+                  satisfaction, altho' we could not but feel regret at the dancing being broken off at the early hour it was.</p>
             </div>
             <div type="naval_intelligence">
 
@@ -1651,13 +1646,13 @@
 
             </div>
          </div>
-         <pb n="TYI1111" facs="TYI1111"/>
-         <div n="11" type="issue">
+         
+         <div n="11" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">"Chesapeake" Chronicle and Weekly Journal</head>
             <head type="sub">Saturday February 20th 1858</head>
             <head type="sub">No. 11</head>
-            <cb n="1"/>
+            
             <div type="article">
 
                <p><ref target="variants.youngidea.xml#TYI11.01">Rumours are now flying about, purporting to remove us from our present snug anchorage
@@ -1668,14 +1663,13 @@
                   after all, there is nothing like constant change of air, of scenery, and position for enhancing the excitement and monotony of a sea
                   life.: two varied sentiments, which, however, are most peculiarly our own. </p>
                <p><placeName ref="placeography.xml#Yangon">Rangoon</placeName> we have been informed offers no advantages or inducements as a place of
-                  pleasure, and no amusements are to be obtained, wherewith<cb n="2"/> to assist the laggard hours, as each day "draws its slow length
+                  pleasure, and no amusements are to be obtained, wherewith to assist the laggard hours, as each day "draws its slow length
                   along" but then we shall return in a riper mood for the enjoyment of the few recreations <placeName ref="placeography.xml#Kolkata"
                      >Calcutta</placeName> affords.</p>
                <p>Besides, we are unable to foresee what other seaport we may visit, what circumstances, may befall us, what fortune may be our lot,
                   and in the fresh kindled sensations of excitement &amp; wonder, which stir our hearts, when visiting strange shores, and towns, and
                   people; we shall find an agreeable relief to the feeling of satiety, to which the interest, we originally felt in this the so-called
-                  "City of Palaces" has not begun to succumb; having been disappointed in the hopes we had entertained on arrival <pb n="TYI1112"
-                     facs="TYI1112"/><fw>The Young Idea. Saturday 20 February 1858</fw><cb n="1"/></p>
+                  "City of Palaces" has not begun to succumb; having been disappointed in the hopes we had entertained on arrival </p>
             </div>
 
             <div type="previously_published">
@@ -1718,7 +1712,7 @@
                         <expan>Captain</expan>
                         <abbr>Capt</abbr>
                      </choice> Peel</persName> taking the greater portion of the "<orgName ref="#Shannon">Shannon</orgName>'s" Crew, and raising a
-                  considerable addition from the merchant<cb n="2"/> seamen, numbering in all about 500 men.</p>
+                  considerable addition from the merchant seamen, numbering in all about 500 men.</p>
                <p>These ascending the river to <placeName ref="placeography.xml#Allahabad">Allahabad</placeName> with several of their heavy guns,
                   advanced afterwards to <placeName ref="placeography.xml#Kanpur">Cawnpore</placeName>, where they rendered almost unprecedented
                   service, and are now stationed at Futty ghur, ready to advance upon <placeName ref="placeography.xml#Lucknow">Lucknow</placeName>
@@ -1755,8 +1749,7 @@
                      Ochterbury monument</placeName> between the Officers of H.M.S. "<orgName ref="#Chesapeake">Chesapeake</orgName>, and the Petty
                   Officers, assisted by Messrs Mereweather, Budding, &amp; Edwards of <orgName ref="#Pylades">Pylades</orgName>. Having received a
                   good account of the game with the scoring made on this occasion, and this being the first time our club has done battle with other
-                  players, we feel bound to give it a place in our columns. <pb n="TYI1113" facs="TYI1113"/><fw>The Young Idea Saturday 20 February
-                     1858.</fw><cb n="1"/> The P.O.'s had the first lead, and here we must notice the free batting of <persName ref="#Taylor"
+                  players, we feel bound to give it a place in our columns. The P.O.'s had the first lead, and here we must notice the free batting of <persName ref="#Taylor"
                      >Taylor</persName>, who made some capital hits till a "ripper" from <persName ref="#Brownrigg">Mr Brownrigg</persName> levelled
                   his stirrups to the tune of 24 runs. Of the remainder only three managed to make scores, and amongst them, we may mention a good
                   stroke for 5 of <persName ref="#Reynolds">Reynolds</persName>. Owing to the excellent fielding of <persName ref="#Shortt">Mr.
@@ -1782,7 +1775,7 @@
                      ref="#Bew">Bew</persName> rattled the bails off <persName ref="#Wilkinson">Mr Wilkinson's</persName> stumps, and came out with
                   his flushing honours thick upon him.</p>
                <p><persName ref="#A_D_McArthur">Mr McArthur</persName> took his bat, but after adding 15 to the score, amongst which were two good
-                  hits for 5 and 4, was run out: <persName ref="#Theobald">Mr Theobald</persName> succeeded him, but what<cb n="2"/> the others had
+                  hits for 5 and 4, was run out: <persName ref="#Theobald">Mr Theobald</persName> succeeded him, but what the others had
                   apparently gained in play he appeared to have lost for <persName ref="#Cooper">Cooper</persName> soon gained an opening into his
                   wicket. <persName ref="#Chute">Mr Chute</persName> and Mr Moore quickly followed and <persName ref="#Oxley">Mr Oxley</persName> now
                   took vis-a-vis to <persName ref="#Brownrigg">Mr Brownrigg</persName>, and played well and steadily, when darkness coming on the
@@ -2002,8 +1995,7 @@
                   existed for several centuries It is the largest gull known, as well as the most destructive, and truculent. In fact those who have
                   effected its capture deserve the gratitude of the world, as Hercules did for destroying the great Hydra. It is supposed that the
                   species will soon be extinct. Its plumage is said to have been very gorgeous, but is now considerably tarnished </p>
-               <p>Several young gulls were caught in the same nest, but from their ferocity, were immediately destroyed. <pb n="TYI1114"
-                     facs="TYI1114"/><fw>The Young Idea Saturday 20 February 1858</fw><cb n="1"/></p>
+               <p>Several young gulls were caught in the same nest, but from their ferocity, were immediately destroyed. </p>
             </div>
 
             <div type="naval_intelligence">
@@ -2038,7 +2030,7 @@
                   crowded with human denizens." And this vile pun has actually gone home to England. What shall we do to the man who punned it? Shall
                   we enroll him at once among the Pundits of Hindoostan? or shall we condemn him to stand forever fanning us with the Punkah? or shall
                   we consign him to eternal punishment, in the far distant regions of the Punjaab? Altho many would say "Gently with this pun," we
-                  cannot help writing pungently, and making a stir about a pun from such a punster.<cb n="2"/></p>
+                  cannot help writing pungently, and making a stir about a pun from such a punster.</p>
             </div>
 
             <div type="epitome">
@@ -2126,13 +2118,13 @@
 
             </div>
          </div>
-         <pb n="TYI1121" facs="TYI1121"/>
-         <div n="12" type="issue">
+         
+         <div n="12" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday February 27th 1858</head>
             <head type="sub">No. 12</head>
-            <cb n="1"/>
+            
             <div type="article">
 
                <p><ref target="variants.youngidea.xml#TYI12.01">The Past Week has been extraordinarily productive of events of interest &amp;
@@ -2144,7 +2136,7 @@
                   the distance, which will soon be placed between us &amp; <placeName ref="placeography.xml#Kolkata">Calcutta</placeName>, for we are
                   desirous to know of the operations at <placeName ref="placeography.xml#Lucknow">Lucknow</placeName>, and it is most likely we shall
                   not hear of the events which will take place in that quarter until some time after their occurrence. We earnestly hope that the blow
-                  may be struck speedily, &amp; let us<cb n="2"/> not forget, in our regret for our absence that it is certain to be "all for the
+                  may be struck speedily, &amp; let us not forget, in our regret for our absence that it is certain to be "all for the
                   best":- for our actions and movements are under the wise ordinance of One who knows more than we can, and who "disposes, when man
                   proposes."</p>
             </div>
@@ -2171,8 +2163,7 @@
                   evening meal was cooking, whilst the flare of the lambent flame as it shot up from under, would for an instant light up his dim
                   countenance &amp; the surrounding objects, and then as instantly subsiding would render the obscurity more intense than ever.</p>
                <p>As we speeded along and left the suburbs of the city, emerging into more open country, the notes of warning our driver had been
-                  repeatedly uttering, gradually ceased, and we found ourselves passing extensive gardens, with an occa<pb n="TYI1122" facs="TYI1122"
-                     /><fw>The Young Idea" Saturday 27<hi rend="superscript">th</hi>February 1858.</fw><cb n="1"/>sional hut here, &amp; there. At
+                  repeatedly uttering, gradually ceased, and we found ourselves passing extensive gardens, with an occasional hut here, &amp; there. At
                   last we arrived at a place where four roads met, &amp; most likely would have proceeded straight on, had not a figure which stood in
                   the road acquainted our driver that his proper course was the turning to the right.</p>
                <p>Shortly after a blaze of light on our left hand told us that we were approaching our goal, a few minutes more and we entered the
@@ -2205,7 +2196,7 @@
                <p>On entering the room from which the nautch music had proceeded, we found that we were just too late, as we caught a stern view of
                   the musicians, as they passed out of the door opposite to that we entered by. The interior presented a very gay appearance, for here
                   we saw the various garbs and picturesque dresses of the native visitors, who were seated on a cushioned seat which went all round
-                  the room. Some were arrayed most magnificently <cb n="2"/>in shawls woven with gold, velvet embroiderd with gold, in fact all the
+                  the room. Some were arrayed most magnificently in shawls woven with gold, velvet embroiderd with gold, in fact all the
                   garments were heavy and thick with gold. The Rajah himself wore round his neck a diamond necklace valued at £200,000 and almost all
                   wore heavy massive gold chains.</p>
                <p>The sharp whiz of a rocket announced to us that the fireworks were commencing. We immediately allied forth and found ourselves in
@@ -2232,8 +2223,7 @@
                <p>After a short time the performers entered. They consisted of a girl, dressed in a dark brown gauze dress, and scarf trimmed &amp;
                   embroidered profusely with gold, and particoloured trousers, made very full so as to hide the feet. Her headdress consisted of a
                   frontlet, hanging over the forehead with side pieces and a backpiece, all of gold or imitation and studded with various coloured
-                  stones. Her hands were adorned with rings &amp; from one on each finger a chain communicated with a circular <pb n="TYI1123"
-                     facs="TYI1123"/><fw>The Young Idea" Saturday 27<hi rend="superscript">th</hi>February 1858.</fw><cb n="1"/> plate of gold, as
+                  stones. Her hands were adorned with rings &amp; from one on each finger a chain communicated with a circular plate of gold, as
                   also from the bracelets, the back of the hand being thus covered with gold. Her personal appearance was not in the least attractive
                   in fact she looked most remarkably like a monkey dressed up Four musicians accompanied her in her song, which was perfectly
                   unintelligible, altho' good taste was exhibited in the instrumental sound being commanded by the vocal of the musicians two played
@@ -2263,7 +2253,7 @@
                <p>We had not long to wait before a change took place. The Bridegroom rose from his luxurious seat and the priests arrayed him in snow
                   white linen garments; he now took his station upon a square piece of sandalwood, painted and ornamented in a pretty device, and
                   squatted down in Hindoo fashion upon his haunches: a very strange looking white turban was not placed on his head and in front of
-                  this was fastened a high frontlet, made of worked silver wire (and presenting in a front <cb n="2"/> view, the appearance of a
+                  this was fastened a high frontlet, made of worked silver wire (and presenting in a front  view, the appearance of a
                   parish beadle's cocked hat), with two enormous tassels depending from each end.</p>
                <p>He sat, or rather squatted in this position for about half an hour, when the priests again disrobed him and redressed him in red
                   silk leaving the right shoulder &amp; arm bare, again he squatted down, &amp; the large fronlet was removed, &amp; a smaller but
@@ -2312,8 +2302,7 @@
                   wickets first. The play was remarkably good, but we consider that the high score made by Mr. <persName ref="#Hope">Hope</persName>
                   was the cause of the Squadron proving the winners. We must give due credit to them, they played beautifully, and owing to their good
                   fielding, the <orgName ref="#Chesapeake">Chesapeake</orgName>'s were sadly cut up for runs.</p>
-               <p>The <orgName ref="#Chesapeake">Chesapeake</orgName>'s batted much better <pb n="TYI1124" facs="TYI1124"/><fw>The Young Idea Saturday
-                        27<hi rend="superscript">th</hi>February 1858.</fw><cb n="1"/> than they fielded, indeed, it was a strange fact, that those
+               <p>The <orgName ref="#Chesapeake">Chesapeake</orgName>'s batted much better  than they fielded, indeed, it was a strange fact, that those
                   from whom little was expected, played well and steadily, and did much to the augmentation of the score. They were greatly dispirited
                   at the early overthrow of their best man Mr <persName ref="#Brownrigg">Brownrigg</persName>, who striking at a ball which was
                   pitched high over his head, tipped the ball right into the hands of mid-wicket.</p>
@@ -2487,7 +2476,7 @@
                      permitted to appear in print; the more especially as we consider that jealousy, that greeneyed monster: was the cause of the
                      unwarrantable attack upon the labours of our men.</ref></p>
                <p>The purely acrimonious composition and illiberal manner in which the several "dramatis personae" are pulled to pieces could not have
-                  proceeded from any other source, than that of<cb n="2"/> envy and vexation at the successful result of the entertainment, which the
+                  proceeded from any other source, than that of envy and vexation at the successful result of the entertainment, which the
                   writer who is doubtless a member of the <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> Amateur Performers, never
                   before witnessed, when himself and fellow players have acted.</p>
                <p>But we can afford to take no more notice of him.</p>
@@ -2576,13 +2565,13 @@
             </div>
          </div>
 
-         <pb n="TYI1131" facs="TYI1131"/>
-         <div n="13" type="issue">
+         
+         <div n="13" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday March 6th 1858</head>
             <head type="sub">No. 13</head>
-            <cb n="1"/>
+            
             <div type="article">
 
                <p><ref target="variants.youngidea.xml#TYI13.01">Once more we thread our pathless track across the waters of the Bay of Bengal; once
@@ -2590,15 +2579,14 @@
                   brows, and we feel their invigorating influence; again in the quiet routine of a sea life we can sit down to peruse our latest
                   intelligence from home, to dream over the past, to form conjectures on the future; again we partake of the pleasures of quiescence,
                   after the excitement attendant upon our stay at <placeName ref="placeography.xml#Kolkata">Calcutta</placeName>.</p>
-               <p>We can now look back and ponder upon all we have seen and done, fixing the past scenes and events firm<cb n="2"/> ly in our
+               <p>We can now look back and ponder upon all we have seen and done, fixing the past scenes and events firm ly in our
                   memories, in that handy memorandum-book, whence in future days we may glean pleasure to ourselves and others by drawing forth from
                   the hidden stores, with which it is enriched: many any interesting account of the "City of Palaces" and other places we have
                   visited, and yet may visit.</p>
                <p>In our present trip we are happily not Entirely debarred from the generous influence, which is ever cast over man by the presence
                   and society of the "fair sex", and even the knowledge that we are conveying to <placeName ref="placeography.xml#Chennai"
                      >Madras</placeName>, the <persName ref="#Charlotte_Canning">Viscountess Canning</persName> and Honble Mrs Stuart, deprives us of
-                  the general laxity which cha<pb n="TYI1132" facs="TYI1132"/><fw>The Young Idea" Saturday 6<hi rend="superscript">th</hi>March
-                     1858.</fw><cb n="1"/>racterizes us at sea, and causes us to pay more regard to the higher essentials of good breeding, casting
+                  the general laxity which characterizes us at sea, and causes us to pay more regard to the higher essentials of good breeding, casting
                   aside the ordinary roughness which we assume as soon as the anchor is weighed.</p>
                <p>We hope that a speedy passage may be our fortune, and that it may be our lot to drop anchor once more in the quiet, peaceful harbour
                   of <placeName ref="placeography.xml#Trincomalee">Trincomalee</placeName>, there to enjoy the many pleasures which this little spot
@@ -2610,25 +2598,25 @@
                <head>
                   <ref target="variants.youngidea.xml#TYI13.02">To the Editor of "The Young Idea"</ref>
                </head>
-               <floatingText>
-                  <body>
-                     <opener>Dear Sir.</opener>
+               
+                  
+                     <p>Dear Sir.</p>
                      <p>Accept the congratulations of a friend on the completion of your 12th number and the inauguration of your 13th.</p>
                      <p>The "Young Idea" has now passed triumphant thro' those various dangers to which infancy is subject:- it is in its "teens", and
                         its growing strength and vigour may give good hope that it is not intended to come to an early end.</p>
                      <p>Breathing manly and generous sentiments, enriched with an undercurrent of quiet humour, free from all those personalities,
-                        which at first were dreaded, faithfully re<cb n="2"/>cording the thoughts and actions of those on board the "<orgName
+                        which at first were dreaded, faithfully recording the thoughts and actions of those on board the "<orgName
                            ref="#Chesapeake">Chesapeake</orgName>"</p>
                      <p>"The Young Idea" is now established amongst us as a welcome weekly visitor, and as such I trust it may appear before us each
                         Saturday, and only cease its visits with the return of our floating home to England, and the separation, and dispersion of the
                            "<orgName ref="#Chesapeake">Chesapeake</orgName>s"</p>
-                     <closer>Believe me<lb/> Dear Sir<lb/> Yours Truly</closer>
-                     <signed>
+                     <p>Believe me<lb/> Dear Sir<lb/> Yours Truly</p>
+                     <p>
                         <hi rend="underlined">"Shipmate"</hi>
-                     </signed>
-                     <dateline><orgName ref="#Chesapeake">Chesapeake</orgName><lb/> 4 March 1858.</dateline>
-                  </body>
-               </floatingText>
+                     </p>
+                     <p><orgName ref="#Chesapeake">Chesapeake</orgName><lb/> 4 March 1858.</p>
+                  
+               
                <p>Ed. We feel highly flattered, and can only say that our success is our reward.</p>
 
             </div>
@@ -2638,9 +2626,9 @@
                <head>
                   <ref target="variants.youngidea.xml#TYI13.03">The Chesapeake Brigade</ref>
                </head>
-               <floatingText>
-                  <body>
-                     <opener>To the Editor of the "Young Idea"<lb/>Dear Sir</opener>
+               
+                  
+                     <p>To the Editor of the "Young Idea"<lb/>Dear Sir</p>
                      <p>Much disappointment has been caused by your passing over with so slight a mention, what we have considered one of the
                         principal events in our nautical existence; namely the landing of our Bluejackets, and Marines on the morning of the 19th
                         February, for exercise on the <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> Esplanade. All performed their
@@ -2649,8 +2637,7 @@
                         he sees everything and that nothing can escape his keep observation</p>
                      <p>I will not stop to comment on the glass of medicinal liquid which was served out to us on deck before we started, and which I
                         think they called Quinine Wine, and will only suggest to the Doctor that most of us thought a little drop of Rum (neat) would
-                        have comforted our inner man much more to our satisfaction.<pb n="TYI1133" facs="TYI1133"/><fw>"The Young Idea" Saturday 6<hi
-                              rend="superscript">th</hi>March 1858.</fw><cb n="1"/></p>
+                        have comforted our inner man much more to our satisfaction.</p>
                      <p>Our boats were quickly manned, and no time was lost in reaching the shore, and scrambling up the river's bank. It was but just
                         daylight when we were drawn up in order, and commenced our march along the river side. Our pioneers led the way armed with
                         crowbars, and shovels, under the guidance of two Engineers, and showed that they would be as serviceable in the trenches as in
@@ -2661,7 +2648,7 @@
                         pieces, while we remained exercising in the field: it would weary your readers, Mr. Editor to describe the whole course of our
                         proceedings, how we prepared to resist cavalry, formed into square &amp;c-&amp;c:- suffice it to say that great satisfaction
                         was caused to ourselves, and great wonderment to the native niggers, and we only wished that a few hundred Sepoys were there
-                        to practice upon in real earnest. As for the Marine Light Infantry they went right away all over the <cb n="2"/>field and I
+                        to practice upon in real earnest. As for the Marine Light Infantry they went right away all over the field and I
                         did not wonder at their having a jolly good run - skirmishing they called it - after being so long penned up on board
                         ship.</p>
                      <p>The "bang, bang", of our field pieces, now drew the attention of all <placeName ref="placeography.xml#Kolkata"
@@ -2674,20 +2661,19 @@
                      <p>It would be unjust not to mention how these wooden walls were guarded in our absence, and how gallantly the Idlers on board
                         prepared to repel boarders in case of invasion:- Those who saw the ship's tailor, doing sentry's duty, with his shears laid
                         aside, and his cutlass girded round him, saw what is not seen every day in Her Majesty's Service.</p>
-                     <closer>Believe me,<lb/> Dear Sir,<lb/>
-                        <hi rend="underlined">Yours Respectfully</hi></closer>
-                     <signed>Bluejacket</signed>
-                     <dateline><orgName ref="#Chesapeake">Chesapeake</orgName><lb/>5 March/58</dateline>
-                  </body>
-               </floatingText>
+                     <p>Believe me,<lb/> Dear Sir,<lb/>
+                        <hi rend="underlined">Yours Respectfully</hi></p>
+                     <p>Bluejacket</p>
+                     <p><orgName ref="#Chesapeake">Chesapeake</orgName><lb/>5 March/58</p>
+                  
+               
             </div>
 
             <div type="article">
                <head>
                   <ref target="variants.youngidea.xml#TYI13.04">The Chesapeake Amateurs</ref>
                </head>
-               <p>There is nothing spoken, done, written or effected in this world, but the ever ready <pb n="TYI1134" facs="TYI1134"/><fw>The Young
-                     Idea" Saturday 6 March 1858.</fw><cb n="1"/>tongue of criticism is prepared to weaken or destroy its effect. We certainly
+               <p>There is nothing spoken, done, written or effected in this world, but the ever ready tongue of criticism is prepared to weaken or destroy its effect. We certainly
                   expected that our Amateurs would not come off scatheless, but we were totally unprepared for such an egregious attack as has been
                   made upon them in the Bengal Hurkaru. It was with mingled feelings of astonishment, anger, and amusement we perused the
                   inconsiderate critique upon their endeavours. The whole when carefully weighed forms a "tout ensemble" of the most ridiculous
@@ -2739,7 +2725,7 @@
                   <l>And see a host of English beauty blaze</l>
                   <l>Soft beaming eyes, sweet lips, in smiles arrayed</l>
                   <l>Which might have well Herculean toils repaid</l>
-                  <cb n="2"/>
+                  
                   <l>Their praise we covet, may we win the meed</l>
                   <l>Our labor's light, the guerdon great indeed</l>
                   <l>But hark! (Bell rings) our little troop impatient rage,</l>
@@ -2865,8 +2851,8 @@
                   1858.</p>
             </div>
          </div>
-         <pb n="IMG_1430" facs="___"/>
-         <div n="14" type="issue">
+         
+         <div n="14" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday March 13th 1858</head>
@@ -2886,7 +2872,7 @@
                   answer was, that they had been for years in a deplorable state, that commanding officers of Regiments, had little or no authority to
                   punish, and that punishments awarded by courts martial, were even set aside, and reprieved by the appeal of the culprit. As an
                   instance, we were informed, that about six months prior to the outbreak, a young English Officer was despatched on detached tudy in
-                  command of 200 men, and a native officer<pb n="IMG_1431" facs="__"/>When they reached the station they were ordered to occupy, the
+                  command of 200 men, and a native officerWhen they reached the station they were ordered to occupy, the
                   two companies were told off for their respective barracks, which were built in two parallel rows, each row capable of containing 100
                   men, and each company was ordered to occupy one. At the order "To your lines, march." both companies made a simultaneous rush, at
                   one of these barracks and began fighting for its occupancy; the bone of contention being its supposed superiority to the other. The
@@ -2912,7 +2898,7 @@
                <head>Madras</head>
                <p>[notes about the experiences of Madras, beginning with the boat, rowed by singing men. Then the Clarendon Hotel, and an Indian
                   juggler (who also converted a snakeskin into a cobra), bazaars "broader and cleaner" than Calcutta, "natives are marked deeper and
-                  plainer than those in Calcutta" passed a Hindoo burial ground, where a body was consumed by flames<pb n="IMG_143l" facs="__"/></p>
+                  plainer than those in Calcutta" passed a Hindoo burial ground, where a body was consumed by flames</p>
             </div>
             <div type="article">
                <head>The Pearl's Brigade</head>
@@ -2927,8 +2913,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="IMG_1432" facs="___"/>
-         <div n="15" type="issue">
+         
+         <div n="15" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday March 20th 1858</head>
@@ -2946,7 +2932,7 @@
             </div>
             <div type="article">
                <head>The "Ava" Wreck</head>
-               <p>[long article about providing assistance to the Ava]<pb n="IMG_1433l" facs="_"/></p>
+               <p>[long article about providing assistance to the Ava]</p>
             </div>
             <div type="article">
                <head>A sketch from H.M.S. "Chesapeake"</head>
@@ -2969,8 +2955,8 @@
                <p>[typical things for this section]</p>
             </div>
          </div>
-         <pb n="IMG_1434" facs="___"/>
-         <div n="16" type="issue">
+         
+         <div n="16" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday March 27th 1858</head>
@@ -2983,13 +2969,12 @@
             <div type="article">
                <head>The "Ava"'s Encampment</head>
                <p>[description of the officers of the Ava, who were staying on shore in white tents. Many little details shared, including the fact
-                  that there were "Mahometan divers, who thought they would never succeed unless they had a white flag flying. <pb n="IMG_1435"
-                     facs="___"/></p>
+                  that there were "Mahometan divers, who thought they would never succeed unless they had a white flag flying. </p>
                <div type="article">
                   <head>Diving Operations</head>
                   <head type="sub"><hi rend="underline">at the Wreck of the "Ava"</hi></head>
                   <p>[a day-by-day accounting of operations at the Ava, with details about items brought up and the events surrounding the death of Jn
-                     Withers, Captain of the afterguard]<pb n="1435l" facs="__"/></p>
+                     Withers, Captain of the afterguard]</p>
                </div>
                <div type="article">
                   <head>Our First Funeral on the Shore</head>
@@ -3013,8 +2998,8 @@
                </div>
             </div>
          </div>
-         <pb n="IMG_1436" facs="___"/>
-         <div n="17" type="issue">
+         
+         <div n="17" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">April 3rd 1858</head>
@@ -3023,8 +3008,7 @@
                <p>Comments on leaving the wreck and heading to Trincomalee, where things will be peaceful. "For ourselves, we have little to trouble
                   us in the quietness and repose which we have hitherto found in this harbour: separated as we are from other ships, our duties are
                   not such as to detain us from enjoying the pleasures which are boutifully spread around us, and we hope to be able to record in our
-                  Journal, many an amusing or instructive incident, many a picnic, watering or shooting party; <pb n="IMG_1436l" facs="__"
-                  />[etc.]"</p>
+                  Journal, many an amusing or instructive incident, many a picnic, watering or shooting party; [etc.]"</p>
             </div>
             <div type="reprinted">
                <head>The Penal Colony<lb/>in the Andaman Islands</head>
@@ -3038,13 +3022,12 @@
             <div type="letter">
                <head>Sporting on Pigeon Island</head>
                <p>[a report of landing, finding tons of pigeons, killing some, and then also catching some fish. Also includes report of one in the
-                  party who shot a bird that dropped into the sea, but was captured by a shark before he could get to it]<pb n="IMG_1437" facs="__"
-                  /></p>
+                  party who shot a bird that dropped into the sea, but was captured by a shark before he could get to it]</p>
             </div>
             <div type="letter">
                <head>Mining Intelligence</head>
                <head type="sub">from our own Commissioner</head>
-               <p>[I think this is just meant to be punny]<pb n="IMG_1437l" facs="__"/></p>
+               <p>[I think this is just meant to be punny]</p>
             </div>
             <div type="article">
                <head>Diving Operations at the Wreck<lb/>of the "Ava"</head>
@@ -3067,8 +3050,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="IMG_1438" facs="___"/>
-         <div n="18" type="issue">
+         
+         <div n="18" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday April 10th 1858</head>
@@ -3082,7 +3065,7 @@
                   repose. The dark umbrageous hollows in the thickly wooded islands, showing where some little bay is formed, in which the clear
                   water, ripples musically among stones and rocks, mingling with the echoing notes of some water bird, as it wings its way from rock
                   to rock in pursuit of food; or the quiet plash of a fish, which disturbs for a moment the surface of the water, with his leap after
-                  a dainty fly;<pb n="IMG_1438l" facs="__"/>the bright waves which dance merrily along as the cool refreshing sea breeze sweeps up the
+                  a dainty fly;the bright waves which dance merrily along as the cool refreshing sea breeze sweeps up the
                   bay; the Commodore's house embowered among trees, the tree clad hill above us, overhanging the white buildings of teh dockyard, and
                   surmounted with the solid walls of teh fort; all are the same look the same, and are felt as the same.</p>
                <p>We draw comparisons between, the muddy stream, the crowded anchorage, the dusty roads, the commercial bustle, and compact buildings
@@ -3101,7 +3084,7 @@
                   and some low buildings beside it, which we believe to be the Soldier's Hospital</p>
                <p>As we round the Rock, we see more buildings belonging to the Fort, and more protecting guns; While the Village of Trincomalee,
                   standing amidst palm trees on the level plain rapidly came into sight; it is a pretty picture.</p>
-               <p>We see obelisks rising among the bushes at the Cemetery, various colonnaded houses, partly concealed<pb n="IMG_1439" facs="__"/>by
+               <p>We see obelisks rising among the bushes at the Cemetery, various colonnaded houses, partly concealedby
                   trees, humbler dwellings of the natives, overshadowed by palm trees; a few dark figures, crossing the common that intervenes between
                   the village &amp; the sea. Then a rough rocky promontory meets our view, with small rounded hills, clothed with wild trees and
                   bushes down to the waters' edge. We wind our way round it, and see a harbour opening before us with smooth water receding in various
@@ -3122,7 +3105,7 @@
                   determination to admire the scenery which delighted the eye on every side, instead of rowing, and they required some stirring up
                   from those who performed the more pleasant task of steering, to give way the required distance, but as the landing place broke upon
                   their sight a hearty cheer escaped from their lips and they plied their oars so vigorously that we began to entertain fears that the
-                  oars would be broken. However we got safely to land, and having made fast the boat, <pb n="IMG_1439l" facs="__"/> and coming
+                  oars would be broken. However we got safely to land, and having made fast the boat,  and coming
                   back]</p>
             </div>
             <div type="article">
@@ -3147,8 +3130,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
-         <div n="__" type="issue">
+         
+         <div n="__" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
@@ -3178,8 +3161,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
-         <div n="__" type="issue">
+         
+         <div n="__" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
@@ -3209,8 +3192,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
-         <div n="__" type="issue">
+         
+         <div n="__" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
@@ -3240,8 +3223,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
-         <div n="__" type="issue">
+         
+         <div n="__" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
@@ -3271,8 +3254,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
-         <div n="__" type="issue">
+         
+         <div n="__" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
@@ -3302,8 +3285,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
-         <div n="__" type="issue">
+         
+         <div n="__" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
@@ -3333,8 +3316,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="IMG_1452" facs="___"/>
-         <div n="25" type="issue">
+         
+         <div n="25" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 19th June 1858</head>
@@ -3363,7 +3346,7 @@
             </div>
             <div type="letter">
                <head>A Ramble in Diamond Harbour</head>
-               <p>an account of Diamond Harbour contributed to the paper since the editor has been sick <pb n="IMG_1453" facs="___"/> as the writer
+               <p>an account of Diamond Harbour contributed to the paper since the editor has been sick  as the writer
                   describes the plant of interest, he describes asking a native who spoke English what the Hindoo name was: "but he could only tell me
                   it was a thorn flower and a weed; he did not understand that the weeds of Bengal became choice flowers in the conservatories of
                   England" next is a description of a woman begging and a journey in a dirty boat to a slimy shore, and then the discovery of a
@@ -3392,8 +3375,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
-         <div n="__" type="issue">
+         
+         <div n="__" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
@@ -3423,8 +3406,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
-         <div n="__" type="issue">
+         
+         <div n="__" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
@@ -3454,8 +3437,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="IMG_1456" facs="___"/>
-         <div n="27" type="issue">
+         
+         <div n="27" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 3rd July 1858</head>
@@ -3484,8 +3467,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="IMG_1458" facs="___"/>
-         <div n="28" type="issue">
+         
+         <div n="28" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 17th July 1858</head>
@@ -3515,8 +3498,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
-         <div n="29" type="issue">
+         
+         <div n="29" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">24th July 1858</head>
@@ -3555,8 +3538,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="IMG_1462" facs="___"/>
-         <div n="30" type="issue">
+         
+         <div n="30" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 31st July 1858</head>
@@ -3595,8 +3578,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="1464" facs="___"/>
-         <div n="31" type="issue">
+         
+         <div n="31" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
@@ -3620,7 +3603,7 @@
                   is his recreation; his hands may be tired, but his toes are fresh and the Hornpipe, the Polka, or the self invented Country Dance
                   are performed with untried energy to the sound of the fiddle or the horn. Theh smartest sailor is often the best dancer, &amp; he
                   who has worked hardest with his hands by day, will be the nimblest on his feet by night. In the hard work that has been done this
-                  week, stripping the<pb n="IMG_1465" facs="__"/>ship, painting, watering, &amp; refitting, we have watched with much pleasure the
+                  week, stripping theship, painting, watering, &amp; refitting, we have watched with much pleasure the
                   spirit with which the Evening dance has been sustained. The dancing in many cases has been such as would not disgrace an English
                   Ball room &amp; there is a reality &amp; life in a sailor Dancing, which a Ball room rarely presents.</p>
                <p>Long may our Jack tars continue to dance away their day's fatigue &amp; often may Signor Faustino, with his little circle of
@@ -3656,8 +3639,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="1466" facs="___"/>
-         <div n="32" type="issue">
+         
+         <div n="32" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 14th August 1858</head>
@@ -3673,8 +3656,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="IMG_1468" facs="___"/>
-         <div n="33" type="issue">
+         
+         <div n="33" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 21st August 1858</head>
@@ -3688,8 +3671,8 @@
                   now]</p>
             </div>
          </div>
-         <pb n="TYI1341"/>
-         <div n="33" type="issue">
+         
+         <div n="33" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 28th August 1858</head>
@@ -3706,7 +3689,7 @@
                   vengeance thus to propagate itself; but we would hope that here it may end.</p>
                <p>While we admire the true English spirit, which has led our youthful Crusaders, to view a mob of infuriated "niggers" with more
                   indifference, than they would the same number of cats, or monkeys, we would yet hope, that no unnecessary animosity may be
-                     raised,<pb n="TYI1341"/>and that in our dealing as Christians, with these Gentoo natives, we may be guided always by a spirit of
+                     raised,and that in our dealing as Christians, with these Gentoo natives, we may be guided always by a spirit of
                   compassion, &amp; kindness, rather than one of oppression, &amp; contempt.<note>Bampfield's extracts include the initial "B" at the
                      end of this article</note></p>
 
@@ -3788,8 +3771,8 @@
                <p>[rest of the issue not relevant now]</p>
             </div>
          </div>
-         <pb n="IMG_1470" facs="__"/>
-         <div n="34" type="issue">
+         
+         <div n="34" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 28th August 1858</head>
@@ -3804,8 +3787,7 @@
                   cleared the heathen temple of its worshippers. More desperate vengeance is now threatended by the natives for it is the nature of
                   vengeance thus to propagate itself; but we would hope that here it may end.</p>
                <p>While we admire the true English spirit, which has led our youthful Crusaders, to view a mob of infuriated "niggers" with more
-                  indifference, than they would the same number of cats, or monkeys, we would yet hope, that no unnecessary animosity may be raised<pb
-                     n="IMG_1470l" facs="__"/>and that in our dealings as Christians, with these Gentoo natives, we may be guided always by a spirit
+                  indifference, than they would the same number of cats, or monkeys, we would yet hope, that no unnecessary animosity may be raisedand that in our dealings as Christians, with these Gentoo natives, we may be guided always by a spirit
                   of compassion, &amp; kindness, rather than onen of oppression &amp; contempt</p>
                <note>In Bampfield's copy of the article, he attributes it to "B"</note>
             </div>
@@ -3854,7 +3836,7 @@
                <p>________</p>
             </div>
          </div>
-         <div n="35" type="issue">
+         <div n="35" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
@@ -3884,8 +3866,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="IMG_1474" facs="___"/>
-         <div n="36" type="issue">
+         
+         <div n="36" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 11th September 1858</head>
@@ -3899,7 +3881,7 @@
                   them as a Peace offering, in the event of his showing his displeasure by bad weather or otherwise</p>
                <p>How many more times our gallant ship will have to pass the line before she again sees the shores of old England, it is impossible to
                   guess, but before that time arrives, we shall have doubtless visited many fresh places and gone thro' a variety of adventures. Aden
-                  our present destination is a place<pb n="IMG_1474l" facs="__"/>very seldom visited by ships of War, &amp; will be therefore quite a
+                  our present destination is a placevery seldom visited by ships of War, &amp; will be therefore quite a
                   novelty to nearly the whole of us. What may be our subsequent rendezvous, we cannot at present conjecture, but we shall in all
                   probability enter the Red Sea, and shew our Force to the disaffected tribes on the coast.</p>
                <p>As we are going there in pursuance of Admiralty orders, we shall very likely receive our new Commodore, who will, in all
@@ -3913,7 +3895,7 @@
                      lithograph edition, which is rare)</l>
                </lg>
             </div>
-            <pb n="IMG_1475" facs="__"/>
+            
             <div type="letter">
                <head>The Gentoo Procession at Trincomalie</head>
                <note>Bampfield offers no initial to provide insight into the author of this contribution</note>
@@ -3956,7 +3938,7 @@
                   moonlight shining over groves of Palm trees added solemnity to the surrounding scene.</p>
                <p>The dark Gentoo worshippers, so far from expressing any signs of aversion to our being present at the spectacle, seemed rather to
                   greet us with smiles as they passed the spot where we were standing. As the gorgeous shrine moved on to reenter the temple, Lieut.
-                  Nelson and two or three of our younger Companions moved with the crowd, hoping to catch a sight<pb n="1475l" facs="___"/>of the
+                  Nelson and two or three of our younger Companions moved with the crowd, hoping to catch a sightof the
                   interior of the building. They had already entered the outer enclosure, &amp; were about approaching the vestibule of the temple, (a
                   temporary shed thatched with palm leaves), when, as I understand they were warned not to infringe in the part appropriated to the
                   women. On this they moved to the other side, only catching a glimpse thro' the open gate of the illuminatted interior of the temple,
@@ -3989,7 +3971,7 @@
                <p>________</p>
             </div>
          </div>
-         <div n="__" type="issue">
+         <div n="__" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">__________</head>
@@ -4019,8 +4001,8 @@
                <p>________</p>
             </div>
          </div>
-         <pb n="TYI1421" facs="https://farm2.staticflickr.com/1740/40668620790_f4ce895caa_k_d.jpg"/>
-         <div n="42" type="issue">
+         
+         <div n="42" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 20th November 1858</head>
@@ -4029,13 +4011,13 @@
                <head>No Title</head>
                <p> Our stay at Jeddah has worn a very monotonous aspect. Strangers, to the shore, we have only been able to gaze from our bulwarks on
                   the far spreading sands, and barren hills of Arabia, and sigh to don the garment of some Mecca pilgrim, mount on the hump of some
-                  fleet camel, and all Christian as we are, penetrate into the holiest shrines, and sanctuaries of Islam. [...]<pb n="TYI1422"/>[...]
+                  fleet camel, and all Christian as we are, penetrate into the holiest shrines, and sanctuaries of Islam. [...][...]
                </p>
             </div>
             <div type="article">
                <head>Sailing up the Red Sea.</head>
                <p>Sunday Morning 17 Octr. Having sailed with a fair breeze from Aden yesterday afternoon, we are this morning in sight of the straits
-                  of Babel-Mandel. [...details the ship approaching Jeddah with the help of a Arab pilot named Abdullah...] <pb n="TYI1423"/>[...]</p>
+                  of Babel-Mandel. [...details the ship approaching Jeddah with the help of a Arab pilot named Abdullah...] [...]</p>
             </div>
             <div type="poem">
                <head>Tuesday 19 Octr 1858</head>
@@ -4050,7 +4032,7 @@
                <p>We are sorry that the very brief notes taken by "our own Observer", will not permit us to give any elaborate or scientific account
                   of this beautiful heavenly visitor. It was on the Evening of Septr 30th after dropping anchor at Aden, that our attention was first
                   called to see the bright stranger, which had made its appearance, unpredicted, &amp; unannounced among the celestial bodies of the
-                  Northern Hemisphere.[...]<pb n="TYI1424"/>[...]</p>
+                  Northern Hemisphere.[...][...]</p>
             </div>
             <div type="Naval_Intelligence">
                <head>Naval Intelligence</head>
@@ -4089,7 +4071,7 @@
                </lg>
             </div>
          </div>
-         <div n="43" type="issue">
+         <div n="43" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 27th November 1858</head>
@@ -4098,7 +4080,7 @@
                <head>No Title</head>
                <p>Our past week has produced one circumstance which had caused some little excitement amongst the squadron, and has for a short period
                   dispeled the monotony of our life; we refer to the race between our Barge and the "<orgName ref="#Pelorus">Pelorus</orgName>'s"
-                     Cutter.[...]<pb n="TYI1432"/>[...]</p>
+                     Cutter.[...][...]</p>
             </div>
             <div type="article">
                <head>Jeddah, our Visit to Namik Pacha.</head>
@@ -4141,7 +4123,7 @@
                <lg>
                   <l>of the "Chesapeake's of old,</l>
                   <l>[...]</l>
-                  <pb n="?????"/>
+                  
                </lg>
             </div>
             <div type="Article">
@@ -4173,8 +4155,8 @@
 
             </div>
          </div>
-         <pb n="TYI1441"/>
-         <div n="44" type="issue">
+         
+         <div n="44" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 4th December 1858</head>
@@ -4186,7 +4168,7 @@
             <div type="article">
                <head>Jeddah, and our Visit to Namik Pacha</head>
                <head type="sub">continued from last week</head>
-               <p>[...]<pb n="TYI1442"/>[...]</p>
+               <p>[...][...]</p>
             </div>
             <div type="sporting_intelligence">
                <head>SPORTING INTELLIGENCE</head>
@@ -4194,7 +4176,7 @@
             </div>
             <div type="letter">
                <head>The Editor of The "Young Idea" to his friends on closing the first Year of Publication.</head>
-               <p>[...]<pb n="TYI1443"/>[...]</p>
+               <p>[...][...]</p>
             </div>
             <div type="published_elsewhere">
                <head>The Red Sea</head>
@@ -4202,7 +4184,7 @@
             </div>
             <div type="Naval_Intelligence">
                <head>Naval Intelligence</head>
-               <p>[...]<pb n="TYI1444"/>[...]</p>
+               <p>[...][...]</p>
             </div>
             <div type="epitome">
                <head>Epitome</head>
@@ -4221,8 +4203,8 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="TYI2011"/>
-         <div n="1" type="issue">
+         
+         <div n="1" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 18th December 1858</head>
@@ -4233,13 +4215,13 @@
             </div>
             <div type="article">
                <head>A visit to the Sheriffe of Mecca</head>
-               <p>[...]<pb n="TYI2012"/></p>
+               <p>[...]</p>
             </div>
             <div type="letter">
                <head>From the Readers to the Editor on commencing his New Volume</head>
                <p>[...]</p>
             </div>
-            <pb n="TYI2013"/>
+            
             <div type="article">
                <head>The Tricolor and Union Jack</head>
                <p>[...socializing between British and French sailors]</p>
@@ -4247,7 +4229,7 @@
             <div type="song">
                <head>Christmas 1858</head>
                <lg>
-                  <l>[...]<pb n="TYI2014"/>[...]</l>
+                  <l>[...][...]</l>
                </lg>
             </div>
             <div type="article">
@@ -4280,8 +4262,8 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="TYI2021"/>
-         <div n="2" type="issue">
+         
+         <div n="2" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 25th December 1858</head>
@@ -4290,7 +4272,7 @@
                <head>No Title</head>
                <p>[...]</p>
             </div>
-            <pb n="TYI2022"/>
+            
             <div type="poem">
                <head>Chesapeake's Greeting to "<orgName ref="#Pelorus">Pelorus</orgName></head>
                <lg>
@@ -4300,7 +4282,7 @@
             </div>
             <div type="rough_yarns">
                <head>Rough Yarns No 1. "The Boutswains Christmas Dinner"</head>
-               <p>[...] <pb n="TYI2023"/>[...]</p>
+               <p>[...] [...]</p>
             </div>
             <div type="epitome">
                <head>Epitome</head>
@@ -4310,7 +4292,7 @@
                <head>Facetiae</head>
                <p>[...]</p>
             </div>
-            <pb n="TYI2024"/>
+            
             <div type="illustration">
                <head>[...]</head>
                <p>[...]</p>
@@ -4318,8 +4300,8 @@
          </div>
 
 
-         <pb n="TYI1441"/>
-         <div n="44" type="issue">
+         
+         <div n="44" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 4th December 1858</head>
@@ -4331,7 +4313,7 @@
             <div type="article">
                <head>Jeddah, and our Visit to Namik Pacha</head>
                <head type="sub">continued from last week</head>
-               <p>[...]<pb n="TYI1442"/>[...]</p>
+               <p>[...][...]</p>
             </div>
             <div type="sporting_intelligence">
                <head>SPORTING INTELLIGENCE</head>
@@ -4339,7 +4321,7 @@
             </div>
             <div type="letter">
                <head>The Editor of The "Young Idea" to his friends on closing the first Year of Publication.</head>
-               <p>[...]<pb n="TYI1443"/>[...]</p>
+               <p>[...][...]</p>
             </div>
             <div type="published_elsewhere">
                <head>The Red Sea</head>
@@ -4347,7 +4329,7 @@
             </div>
             <div type="Naval_Intelligence">
                <head>Naval Intelligence</head>
-               <p>[...]<pb n="TYI1444"/>[...]</p>
+               <p>[...][...]</p>
             </div>
             <div type="epitome">
                <head>Epitome</head>
@@ -4366,8 +4348,8 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="TYI2011"/>
-         <div n="1" type="issue">
+         
+         <div n="1" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 18th December 1858</head>
@@ -4378,13 +4360,13 @@
             </div>
             <div type="article">
                <head>A visit to the Sheriffe of Mecca</head>
-               <p>[...]<pb n="TYI2012"/></p>
+               <p>[...]</p>
             </div>
             <div type="letter">
                <head>From the Readers to the Editor on commencing his New Volume</head>
                <p>[...]</p>
             </div>
-            <pb n="TYI2013"/>
+            
             <div type="article">
                <head>The Tricolor and Union Jack</head>
                <p>[...socializing between British and French sailors]</p>
@@ -4392,7 +4374,7 @@
             <div type="song">
                <head>Christmas 1858</head>
                <lg>
-                  <l>[...]<pb n="TYI2014"/>[...]</l>
+                  <l>[...][...]</l>
                </lg>
             </div>
             <div type="article">
@@ -4425,8 +4407,8 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="TYI2021"/>
-         <div n="2" type="issue">
+         
+         <div n="2" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 25th December 1858</head>
@@ -4435,7 +4417,7 @@
                <head>No Title</head>
                <p>[...]</p>
             </div>
-            <pb n="TYI2022"/>
+            
             <div type="poem">
                <head>Chesapeake's Greeting to "<orgName ref="#Pelorus">Pelorus</orgName></head>
                <lg>
@@ -4445,7 +4427,7 @@
             </div>
             <div type="rough_yarns">
                <head>Rough Yarns No 1. "The Boutswains Christmas Dinner"</head>
-               <p>[...] <pb n="TYI2023"/>[...]</p>
+               <p>[...] [...]</p>
             </div>
             <div type="epitome">
                <head>Epitome</head>
@@ -4455,15 +4437,15 @@
                <head>Facetiae</head>
                <p>[...]</p>
             </div>
-            <pb n="TYI2024"/>
+            
             <div type="illustration">
                <head>[...]</head>
                <p>[...]</p>
             </div>
          </div>
 
-         <pb n="TYI2031"/>
-         <div n="3" type="issue">
+         
+         <div n="3" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 1st January 1859</head>
@@ -4472,14 +4454,14 @@
                <head>No Title</head>
                <p>[...]</p>
             </div>
-            <pb n="TYI2032"/>
+            
             <div type="article">
                <head>Christmas Day 1858</head>
                <p>[...]</p>
             </div>
             <div type="article">
                <head>Farewell Dinner to Capt Parkin</head>
-               <p>[...]<pb n="TYI2033" facs="https://farm2.staticflickr.com/1754/40668619260_625db61c72_k_d.jpg"/>[...]</p>
+               <p>[...][...]</p>
             </div>
             <div type="article">
 
@@ -4495,7 +4477,7 @@
                   "Copp" as jolly hearted as ever.</p>
                <p>The two farces which followed kept the audience in a state of continuoual laughter and applause. Thos Walsh, as "Paddy Carey" was
                   indeed a "broth of a boy", speaking with a rich brogue, whirling his shillelah in true Hibernian spirit, touching the hearts of the
-                  audience by the generous<pb n="TYI2034" facs="https://farm2.staticflickr.com/1743/27606331227_4931573b8b_k_d.jpg"/>nature of the
+                  audience by the generousnature of the
                   deeds represented, and winding up with a song, and a "jig" which brought down thunders of applause. The other characters of the
                   piece were all good, but "widow Leary" the landlady deserves special mention. She was the yielding widow, and the Irish landlady is
                   perfection.</p>
@@ -4526,8 +4508,8 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="TYI2041"/>
-         <div n="4" type="issue">
+         
+         <div n="4" type="chapter">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 8th January 1859</head>
@@ -4536,14 +4518,14 @@
                <head>No Title</head>
                <p>[...]</p>
             </div>
-            <pb n="TYI2042"/>
+            
             <div type="previously_published">
                <head>Notes about Mecca (from Sale's Koran)</head>
                <p>[...]</p>
             </div>
             <div type="article">
                <head>"Jack</head>
-               <p>[...]<pb n="TYI2043"/>[...]</p>
+               <p>[...][...]</p>
             </div>
             <div type="song">
                <head>Song on the Death of Capt. Sir William Peel KCB R.N.</head>
@@ -4553,7 +4535,7 @@
             </div>
             <div type="article">
                <head>Sand Squalls &amp; Rain Squalls</head>
-               <p>[...]<pb n="TYI2044"/>[...]</p>
+               <p>[...][...]</p>
             </div>
             <div type="naval_intelligence">
                <head>Naval Intelligence</head>
@@ -4579,8 +4561,8 @@
                <head>The Young Idea</head>
                <p>[...]</p>
             </div>
-            <pb n="TYI2051" facs="https://farm2.staticflickr.com/1724/27606330737_ca86ec2427_k_d.jpg"/>
-            <div n="5" type="issue">
+            
+            <div n="5" type="chapter">
                <head type="main">"The Young Idea"</head>
                <head type="main">Chesapeake Chronicle and Weekly Journal</head>
                <head type="sub">Saturday 15th January 1859</head>
@@ -4596,7 +4578,7 @@
                      victims; the third guilty man, the late Kaima Khan of Jeddah, is, we hear to be sent to Constantinople, to await the Sultan's
                      decree, &amp; tho' we have sipped his coffee, &amp; smoked his pipes, we can scarcely regret that he too should meet with a like
                      fate. To the firmness of the French Commissioner, we believe this act of just retriubution may be attributed. Bombardment or the
-                        execu<pb n="TYI2052" facs="https://farm2.staticflickr.com/1729/27606327217_e263448a59_k_d.jpg"/>tion of the guilty men were
+                        execution of the guilty men were
                      the only alternatives offered, and Namik Pacha, at the last moment, with grief &amp; reluctance signed their death warrant.</p>
                   <p>We may now perhaps consider that the first great objects of the Jeddah Commission, &amp; of our own visit here, has been
                      accomplished, &amp; tho we hear that much still remains to be settled, in the way of indemnification, yet we would indulge a hope
@@ -4607,9 +4589,9 @@
                <div type="letter">
                   <head type="main">The Jeddah Massacre</head>
                   <head type="sub">Execution of Mahtesil and Amoudi.</head>
-                  <floatingText>
-                     <body>
-                        <opener>To the Editor of the "Young Idea"<lb/>Dear Sir,</opener>
+                  
+                     
+                        <p>To the Editor of the "Young Idea"<lb/>Dear Sir,</p>
                         <p>As one of those whose duty it was to witness the Execution on Wednesday last (12th), I beg to send you some slight account
                            of what took place, tho' indeed I write even now with a feeling of horror at the spectacle At 4 am, as you know, we were
                            all astir, coffee being served out to the Marines and Boats' crews who were to attend. At One Bell we shoved off from the
@@ -4627,8 +4609,7 @@
                            soldiers, perhaps 100 in number, a similar company of Albanians occupied the left; while a third side was formed of the
                            English Marines &amp; French Sailors, each fifty in nuber, with their backs against the wall of the town. The French
                            occupied theright of our position, their right thus touching the plank of the Turks, and between us waved, side by side,
-                           the flags of our two countries, those flags which had been dishonoured, &amp;<pb n="TYI2053"
-                              facs="https://farm2.staticflickr.com/1755/40668618580_b0b4e0fdab_k_d.jpg"/>insulted on that fearful night of the
+                           the flags of our two countries, those flags which had been dishonoured, &amp;insulted on that fearful night of the
                            Christian massacre. It wasa picturesque sight, though we stood in shadow, there were the Turks in their red Fez caps, dark
                            brown jackets, with red pipings and black accoutrements, muskets with long shining barrels, the men themselves of fair
                            height but somewhat dingy, and dirty looking. There were the Albanians, light in hue, tall and dressed in white, white
@@ -4667,7 +4648,7 @@
                         <p>I could look no longer: a sickening sensation came over me: one of the French Sailors, a powerful man, fainted away: I saw
                            not the second execution; the gleam only of a decending sword seemed to flash before my eyes, and in another moment, I
                            heared that all was over: the head of the second prisoner had been severed at a single blow.</p>
-                        <pb n="TYI2054"/>
+                        
                         <p>The Turkish authorities now advanced and flung over each of the bodies a white sheet; but this made the seem almost more
                            ghastly than before, for you could see the blood spouting from the arteries against the underside of the sheet, and with
                            each gush dying it afresh.</p>
@@ -4676,10 +4657,10 @@
                         <p>Captain Seymour, H.M.S. "<orgName ref="#Pelorus">Pelorus</orgName>" commanded our force, and was present inside the Square,
                            attended by the Commodore's Secretary and an Aide-de-camp, while Capt Tricault of "Duchayla" remained in charge of the boat
                            squadron.</p>
-                        <closer>I remain Dear Sir<lb/>Yours truly</closer>
-                        <signed>"Eye Witness"</signed>
-                     </body>
-                  </floatingText>
+                        <p>I remain Dear Sir<lb/>Yours truly</p>
+                        <p>"Eye Witness"</p>
+                     
+                  
                </div>
                <div type="poem">
                   <head>Jeddah.</head>
@@ -4707,8 +4688,8 @@
                   <p>[...]</p>
                </div>
             </div>
-            <pb n="TYI2061" facs="https://farm2.staticflickr.com/1733/27606330287_1fc7c08300_k_d.jpg"/>
-            <div n="6" type="issue">
+            
+            <div n="6" type="chapter">
                <head type="main">"The Young Idea"</head>
                <head type="main">Chesapeake Chronicle and Weekly Journal</head>
                <head type="sub">Saturday 29th January 1859</head>
@@ -4728,45 +4709,45 @@
                </div>
                <div type="letter">
                   <head>Arabic Numberals</head>
-                  <floatingText>
-                     <body>
-                        <opener>Dear Sir,</opener>
-                        <p>It is well known how much European civilization owes to the influence of<pb n="TYI2062"/>the Arabian mind [...]</p>
-                        <closer>Dear Sir, Yours very sincerely</closer>
-                        <signed>Arithmeticus</signed>
-                     </body>
-                  </floatingText>
+                  
+                     
+                        <p>Dear Sir,</p>
+                        <p>It is well known how much European civilization owes to the influence ofthe Arabian mind [...]</p>
+                        <p>Dear Sir, Yours very sincerely</p>
+                        <p>Arithmeticus</p>
+                     
+                  
                </div>
                <div type="letter">
                   <head>Arabic Numberals</head>
-                  <floatingText>
-                     <body>
-                        <opener>To the Editor of the "Young Idea"<lb/>Dear Sir</opener>
+                  
+                     
+                        <p>To the Editor of the "Young Idea"<lb/>Dear Sir</p>
                         <p>I must call your attention to mistakes which are frequently made in our Rebuses [...]</p>
-                        <closer>I remain<lb/>Yours very truly</closer>
-                        <signed>"Sphynx"</signed>
-                     </body>
-                  </floatingText>
+                        <p>I remain<lb/>Yours very truly</p>
+                        <p>"Sphynx"</p>
+                     
+                  
                   <p>Ed. We regret exceedingly [...] careless of our "devil."</p>
                </div>
                <div type="previously_published">
                   <head>More Notes about Mecca. <lb/>(chiefly from Sale's Koran).</head>
-                  <p>[...]<pb n="TYI2063"/>[...]</p>
+                  <p>[...][...]</p>
                </div>
                <div type="enigma">
                   <head>Historical Enigmas<lb/>No. 1</head>
-                  <p>[...]<pb n="TYI2064" facs="https://farm2.staticflickr.com/1742/27606329597_eaa576cf96_k_d.jpg"/>[...]</p>
+                  <p>[...][...]</p>
                </div>
                <div type="letter">
                   <head>The last New Riddle from England.</head>
-                  <floatingText>
-                     <body>
-                        <opener>To the Editor of the Yg Idea<lb/>Dear Sir</opener>
+                  
+                     
+                        <p>To the Editor of the Yg Idea<lb/>Dear Sir</p>
                         <p>[...]</p>
-                        <closer>I have the honor to be, Sir<lb/>Yours sincerely,</closer>
-                        <signed>"Sphynx"</signed>
-                     </body>
-                  </floatingText>
+                        <p>I have the honor to be, Sir<lb/>Yours sincerely,</p>
+                        <p>"Sphynx"</p>
+                     
+                  
                </div>
                <div type="naval_intelligence">
                   <head>Naval Intelligence</head>
@@ -4800,8 +4781,8 @@
                   <p>[...]</p>
                </div>
             </div>
-            <pb n="TYI2071" facs="https://farm2.staticflickr.com/1742/40668617730_1d75c894e3_k_d.jpg"/>
-            <div n="7" type="issue">
+            
+            <div n="7" type="chapter">
                <head type="main">"The Young Idea"</head>
                <head type="main">Chesapeake Chronicle and Weekly Journal</head>
                <head type="sub">Saturday 26 February 1859</head>
@@ -4815,8 +4796,7 @@
                      entirely at a loss to provide amusement.</p>
                   <p>But we cannot let this, our last week at Jeddah pass, without commemorating our release from its influence wihtout hailing our
                      approaching departure, without rendering our last days more cheery by the production of a "Young Idea." Four Months have rolled
-                     past quickly beholding us lying inactively in these <pb n="TYI2072"
-                        facs="https://farm2.staticflickr.com/1731/27606329307_09ac843bfd_k_d.jpg"/>waters; our anchors rusting in their coral beds,
+                     past quickly beholding us lying inactively in these waters; our anchors rusting in their coral beds,
                      and our minds rusting in the no less corroding bed of sluggish, unvarying, inaction .The change already commences to exercise its
                      beneficial effects, faces begin to brighten, minds begin to expand at the thoughts of the rocky steeps of Aden, of again
                      careering swiftly over the bright waters of the Arabian Sea, of the pleasant verdure of Point de Galle, of the probably
@@ -4827,11 +4807,11 @@
                </div>
                <div type="letter">
                   <head>The "Great Eastern" Steamship &amp; the Future of Trincomalie</head>
-                  <p>[...]<pb n="TYI2073"/>[...]</p>
+                  <p>[...][...]</p>
                </div>
                <div type="article">
                   <head>Notes about Jeddah</head>
-                  <p>[...very interesting anecdotes about a visit ashore!]<pb n="TYI2074"/></p>
+                  <p>[...very interesting anecdotes about a visit ashore!]</p>
                </div>
                <div type="enigma">
                   <head>Historical Enigma</head>
@@ -4862,28 +4842,28 @@
                   <head>-</head>
                   <p>[...]</p>
                </div>
-               <div type="-">
+               <div type="_">
                   <head>-</head>
                   <p>[...]</p>
                </div>
-               <div type="-">
+               <div type="_">
                   <head>-</head>
                   <p>[...]</p>
                </div>
-               <div type="-">
+               <div type="_">
                   <head>-</head>
                   <p>[...]</p>
                </div>
-               <div type="-">
+               <div type="_">
                   <head>-</head>
                   <p>[...]</p>
                </div>
-               <div type="-">
+               <div type="_">
                   <head>-</head>
                   <p>[...]</p>
                </div>
             </div>
          </div>
-      </body>
+   </body>
    </text>
 </TEI>

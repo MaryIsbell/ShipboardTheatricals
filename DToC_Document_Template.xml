@@ -2,7 +2,7 @@
 
 <?xml-model href="http://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="TEI_knl_ytj_chb">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -19,7 +19,7 @@
     <text>
         <body>
             <!-- The type attribute in the <div> tags determines how DToC will read that section. The general DToC document structure includes multiple chapers followed by an index. However, you can add forward, afterwords, etc. by chaging the <div> type attribute -->
-            <div type="chapter">
+            <div type="chapter" xml:id="div_u4l_ytj_chb">
                 <head>
                     <bibl>
                         <title>No. 1</title>
@@ -91,7 +91,7 @@
                     
 
             </div>
-            <div type="chapter">
+            <div type="chapter" xml:id="div_v4l_ytj_chb">
                 <head>
                     <bibl>
                         <title>No. 2</title>
@@ -103,8 +103,8 @@
             </div>
             
             <!-- To add an index --><!-- This one is still confusing me...but I think right now that I need to put xml ids on divs at the chapter
-                level??? -->
-            <div type="index">
+                level??? Actually, no...that would just recreate the table of contents and that's not the point of an index.  -->
+            <div type="index" xml:id="div_w4l_ytj_chb">
                 <list>
                     <item xml:id="I1"><ref target="P2">term</ref></item>
                     <item xml:id="I2"><ref target="P2 P3">term</ref></item>
