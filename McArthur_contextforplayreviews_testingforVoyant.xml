@@ -587,12 +587,12 @@
                <p>
                   <!-- Find a way to present information about differences between McArthur and Bampfield (likely a note instead of a ref tag) and then make the change throughout --><ref
                      target="variants.youngidea.xml#TYI7.01">Our long voyage has now come to a close, we may consider that we have arrived at our
-                     destination, that our future prospects centre in <ref target="#Kolkata">Calcutta</ref>.</ref>
+                     destination, that our future prospects centre in <ref target="Kolkata">Calcutta</ref>.</ref>
                </p>
                <p>What these prospects may be, we are unable to determine at present, although, we may almost dispel the idea of seeing service before
                   the enemy, as we had hoped, our proceedings will most likely consist in various kinds of extra duties, as unpleasant as they are
                   unremunerative.</p>
-               <p>But, at this, we must not repine, for, as <ref target="#Watson">our gallant Commodore</ref> expressed in his speech last Sunday, we
+               <p>But, at this, we must not repine, for, as <ref target="Watson">our gallant Commodore</ref> expressed in his speech last Sunday, we
                   do as much good, in assisting the arrival, or departure of vessels, in provisioning, storing, repairing, conveying troops or other
                   equally tame work, as though we were in the field; no doubt, some may be inclined to say, that this is merely a propitiatory view of
                   the case, but, we say, it is the fact, and although our inclination leads us to think otherwise and to feel dissatisfied with the
@@ -603,7 +603,7 @@
                <p>Of the present state of the rebellion we cannot venture to say much; on shore, one heard little or nothing of it, although we cannot
                   fancy that the hearts of English men and women, can wholly forget the perils of their country people.</p>
                <p>Our information of what is proceeding is therefore very limited, but we hope that next week we may be able to procure intelligence
-                  of the successful career of that gallant soldier <ref target="#Campbell">Sir Colin Campbell</ref>, as well as of a speedy
+                  of the successful career of that gallant soldier <ref target="Campbell">Sir Colin Campbell</ref>, as well as of a speedy
                   termination to the disturbances in India.</p>
             </div>
 
@@ -623,7 +623,7 @@
                   young lad came forward with an umbrella, and notwithstanding our decisive refusals of his services, he persisted in following and
                   shading us from the sun.</p>
                <p>We found him useful, and intelligent, and had no cause to regret making his acquaintance; he guided us to the bazaars, which
-                  reminded us forcibly of the like places for vending goods and merchandize in <ref target="#Istanbul">Constantinople</ref>. The small
+                  reminded us forcibly of the like places for vending goods and merchandize in <ref target="Istanbul">Constantinople</ref>. The small
                   low shops and dirty lanes, for we cannot designate them streets, the various costumes of the natives, yellow, blue, red and white,
                   the most part clothed in little save their tawny skins, all meeting the eye in a variegated mass, as the whole extent of the bazaar
                   was comprehended at a glance, the creaking of the drays, or waggons, drawn by two small buffaloes, and made of bamboos, with most
@@ -631,7 +631,7 @@
                   gentleman, who perhaps, entertained the opinion that the sun might melt him, were he to expose himself; the touting of the vendors,
                   who, with salaams, begged us to walk into, each, his particular shop, and become their customers, all this and many other
                   circumstances which struck us at the time, brought back very strongly to our memories the streets and bazaars of <ref
-                     target="#Istanbul">Constantinople</ref></p>
+                     target="Istanbul">Constantinople</ref></p>
 
 
 
@@ -649,7 +649,7 @@
                   millinery, and bonnet establishments which with open doors and temptingly displayed head dresses, robes, mantles, &amp;c, &amp;c
                   invited the victims to enter and become an easy prey.</p>
                <p>The shades of night falling fast and thick, and not wishing to remain any longer on shore, we returned on board, not as well
-                  satisfied with <ref target="#Kolkata">Calcutta</ref>, at first sight, as we had hoped to be.</p>
+                  satisfied with <ref target="Kolkata">Calcutta</ref>, at first sight, as we had hoped to be.</p>
             </div>
 
 
@@ -658,15 +658,15 @@
                   <ref target="variants.youngidea.xml#TYI7.03">Up the Hooghly</ref>
                </head>
                <p>On Saturday evening last (Jan 16) although no land was in sight, we found ourselves nearing the channels of the <ref
-                     target="#Hugli_River">Hooghly</ref>. At 6 P.M. we obtained soundings with the deep sea lead and two hours afterwards judging
+                     target="Hugli_River">Hooghly</ref>. At 6 P.M. we obtained soundings with the deep sea lead and two hours afterwards judging
                   ourselves to be sufficiently near the Pilot station, we anchored for the night in 17 fathoms water, our anchor was again weighed at
                   daylight &amp; about 9 A.M. we passed the first large Buoy that marks the approach to the Eastern channel. At noon we were nearing
                   the Pilot Brig, and the Pilot shortly afterwards came on board. We now ran in till 3 P.M. when the strong tide turning against us,
                   we were again anchored for the night in 7 fathoms water. At Evening Quarters we moved several of the after guns forward to bring the
                   vessel to an even keel: still no land in sight, though the red haze in the Evening horizon seemed to tell of its vicinity.</p>
-               <p>Daylight again found us under way and about 10 A.M. we descried the low banks of the <ref target="#Hugli_River">Hooghly</ref>,
+               <p>Daylight again found us under way and about 10 A.M. we descried the low banks of the <ref target="Hugli_River">Hooghly</ref>,
                   opening on either side of us. With the strong tide in our favor, and our engines working at full power, we now advanced very
-                  rapidly; the river banks drew nearer to us; <ref target="#Sāgar_Island">Saugar</ref> appeared on our right <ref target="#Khejuri"
+                  rapidly; the river banks drew nearer to us; <ref target="Sāgar_Island">Saugar</ref> appeared on our right <ref target="Khejuri"
                      >Kedgeree</ref> on our left, with a little cluster of shipping at the anchorage. The water which on the previous day had been of
                   a greenish hue, now became very thick and muddy. Objects on shore now became more distinct as the river lessened in width, the banks
                   were still low &amp; level, not an outline of any distant hills to be seen, here &amp; there a rice plantation varied the jungle
@@ -677,7 +677,7 @@
                   over the windows, the regular avenue of trees, the cultivated patches of sugar cane, the brick field with piles of bricks, furnished
                   from the dark alluvial clay, of which doubtless, the whole Delta of the Ganges is composed. As we moved swiftly up, the banks of the
                   river glided past like a moving panorama, and the eye could never tire of watching the beautiful scene.</p>
-               <p>At sunset we came to an anchor in the <ref target="#Garden_Reach">Garden Reach</ref>, 2 miles below <ref target="#Kolkata"
+               <p>At sunset we came to an anchor in the <ref target="Garden_Reach">Garden Reach</ref>, 2 miles below <ref target="Kolkata"
                      >Calcutta</ref>, one or two pretty houses decked the banks, a forest of masts marked the position of the great capital. a deep
                   red tinge, suffused the sky as the sun sank, and was reflected streakily in the ebbing tide, soon darkness came, the river's banks
                   were left to the howling jackal, or the crickets and toads, that made a ceaseless whirring through the watches of the night.</p>
@@ -686,12 +686,12 @@
             <div type="section">
                <head>[No Title]</head>
 
-               <p><ref target="variants.youngidea.xml#TYI7.04">The capture of <ref target="#Delhi">Delhi</ref>, &amp; the relief of <ref
-                        target="#Lucknow">Lucknow</ref> are exploits which challenge our national pride, as well as our national
+               <p><ref target="variants.youngidea.xml#TYI7.04">The capture of <ref target="Delhi">Delhi</ref>, &amp; the relief of <ref
+                        target="Lucknow">Lucknow</ref> are exploits which challenge our national pride, as well as our national
                   thanksgiving…….</ref>.In every shape which war could take, has the ascendancy of the British race been established. We have
-                  succeeded in capturing a strong position &amp; we have succeeded in defending a weak one. As besiegers at <ref target="#Delhi"
-                     >Delhi</ref>, as besieged at <ref target="#Lucknow">Lucknow</ref>, we have been equally triumphant, while the advance of our
-                  column to the capital of insurgent <ref target="#Ayodhya">Oude</ref>, presents little less than a miracle of determination &amp;
+                  succeeded in capturing a strong position &amp; we have succeeded in defending a weak one. As besiegers at <ref target="Delhi"
+                     >Delhi</ref>, as besieged at <ref target="Lucknow">Lucknow</ref>, we have been equally triumphant, while the advance of our
+                  column to the capital of insurgent <ref target="Ayodhya">Oude</ref>, presents little less than a miracle of determination &amp;
                   courage.</p>
                <bibl>
                   <title>The Evening Mail</title>
@@ -704,15 +704,15 @@
                   <head>
                      <ref target="variants.youngidea.xml#TYI7.05">Naval Intelligence</ref>
                   </head>
-                  <item>Tuesday 19th H.M.S. <ref target="#Chesapeake"/>Chesapeake weighed early this morning and took up swinging moorings off the
+                  <item>Tuesday 19th H.M.S. <ref target="Chesapeake"/>Chesapeake weighed early this morning and took up swinging moorings off the
                      Esplanade. She saluted the Governor General, which was returned by the fort.</item>
-                  <item>Wednesday 20th Sailed H.M. Steam Vessels "<ref target="#Assurance">Assurance</ref>" and "<ref target="#Pelorus">Pelorus</ref>"
-                     for <ref target="#Yangon">Rangoon</ref>.</item>
-                  <item>Thursday 21st Arrived H.M.S.V. "<ref target="#Mohawk">Mohawk</ref>" from <ref target="#Trincomalee">Trincomalee</ref> having
+                  <item>Wednesday 20th Sailed H.M. Steam Vessels "<ref target="Assurance">Assurance</ref>" and "<ref target="Pelorus">Pelorus</ref>"
+                     for <ref target="Yangon">Rangoon</ref>.</item>
+                  <item>Thursday 21st Arrived H.M.S.V. "<ref target="Mohawk">Mohawk</ref>" from <ref target="Trincomalee">Trincomalee</ref> having
                      made a very quick passage of four days.</item>
-                  <item>H.M.S. "<ref target="#Himalaya">Himalaya</ref>" is about to proceed to England having broken her main shaft, and being very
+                  <item>H.M.S. "<ref target="Himalaya">Himalaya</ref>" is about to proceed to England having broken her main shaft, and being very
                      leaky.</item>
-                  <item>The "<ref target="#Mohawk">Mohawk</ref>" is to go to <ref target="#Yangon">Rangoon</ref> to join the squadron there.</item>
+                  <item>The "<ref target="Mohawk">Mohawk</ref>" is to go to <ref target="Yangon">Rangoon</ref> to join the squadron there.</item>
                </list>
             </div>
 
@@ -722,7 +722,7 @@
                   <ref target="variants.youngidea.xml#TYI7.06">A Swarm of Centipedes</ref>
                </head>
 
-               <p>It appears that since leaving <ref target="#Trincomalee">Trincomalee</ref>, a great number of <ref
+               <p>It appears that since leaving <ref target="Trincomalee">Trincomalee</ref>, a great number of <ref
                      target="variants.youngidea.xml#TYIappendix2">Centipedes</ref> have been produced on board, so much so that recently at Evening
                   Quarters, each man was required to appear with a Centipede in his possession. We certainly should have thought that such noxious
                   reptiles, and such unpleasant bedfellows would have been flung overboard at the earliest opportunity but learn with surprize that
@@ -735,7 +735,7 @@
                   <ref target="variants.youngidea.xml#TYI7.07">Conundrums</ref>
                </head>
                <list type="ordered">
-                  <item n="12">Why is <ref target="#Kolkata">Calcutta</ref> like the letter "I."?</item>
+                  <item n="12">Why is <ref target="Kolkata">Calcutta</ref> like the letter "I."?</item>
                   <item n="13">What the slight difference between a lazy Clerk, and an old retired Seaman?</item>
                </list>
             </div>
@@ -763,7 +763,7 @@
                <head>
                   <ref target="variants.youngidea.xml#TYI7.10">The Young Idea</ref>
                </head>
-               <p>Published at the Office No. 1 Port St. <ref target="#Chesapeake">Chesapeake</ref> every Saturday<lb/> Saturday 23 Jan. 1858</p>
+               <p>Published at the Office No. 1 Port St. <ref target="Chesapeake">Chesapeake</ref> every Saturday<lb/> Saturday 23 Jan. 1858</p>
 
             </div>
          </div>
@@ -805,10 +805,10 @@
                <head>
                   <ref target="variants.youngidea.xml#TYI8.02">A Bird's Eye View of Calcutta</ref>
                </head>
-               <p>Those who wish for a birds eye view of <ref target="#Kolkata">Calcutta</ref>, we would strongly recommend to ascend the <ref
-                     target="#Ochterlony_Monument">the Ochterbury monument</ref> on the Esplanade.</p>
+               <p>Those who wish for a birds eye view of <ref target="Kolkata">Calcutta</ref>, we would strongly recommend to ascend the <ref
+                     target="Ochterlony_Monument">the Ochterbury monument</ref> on the Esplanade.</p>
                <p>They will be amply repaid for the labouring ascent of the dark winding staircase by the glorious view, which awaits them on emerging
-                  at the top. The whole city lies at their feet, spread out before their gaze like a vast map. The winding <ref target="#Hugli_River"
+                  at the top. The whole city lies at their feet, spread out before their gaze like a vast map. The winding <ref target="Hugli_River"
                      >Hooghly</ref> with its shipping; the Esplanade, with its mixed multitude of European carriages, palanquine-bearers, riders
                   galloping over the turf, soldiers at their Canteen, and the swarms of dark natives, the handsome European houses, intermingled with
                   the low, dingy-roofed bazaars of the natives, the spires of the Christian Churches, the Moslem mosque, the massive pile, the palace
@@ -840,8 +840,8 @@
                   <ref target="variants.youngidea.xml#TYI8.04">The Special Thanksgiving At St. Paul's Cathedral</ref>
                </head>
                <p>Last Thursday week the 21st Inst. a special Thanksgiving service was held in St. Paul's Cathedral, to return thanks for the relief
-                  of <ref target="#Lucknow">Lucknow</ref>.</p>
-               <p>As it was understood that most of the <ref target="#Lucknow">Lucknow</ref> people would be present the occasion presented too much
+                  of <ref target="Lucknow">Lucknow</ref>.</p>
+               <p>As it was understood that most of the <ref target="Lucknow">Lucknow</ref> people would be present the occasion presented too much
                   interest for us to neglect witnessing it, and partaking in the ceremony.</p>
                <p>Accordingly at 1/4 to 10 a.m. we left the ship and engaged a buggy at the landing place, into which four of us were speedily stowed:
                   the driver took us through Fort William and we were thus enabled to take a cursory view of the interior.</p>
@@ -863,7 +863,7 @@
                <p>Over the altar a fine large painted window, representing the Crucifixion, attracted our attention. The Pulpit, choir, Altar &amp;
                   reading Desks, were draped in black, and noticing that a large number of the congregation were also arrayed in the sable garments of
                   mourning, we were painfully re minded of the heartrending losses, and bloodshed, which have characterized late times.</p>
-               <p>From our position in the rear of the Preacher (<ref target="#Pratt">Archdeacon Pratt</ref>) we were unfortunately unable to hear his
+               <p>From our position in the rear of the Preacher (<ref target="Pratt">Archdeacon Pratt</ref>) we were unfortunately unable to hear his
                   discourse fully, but its main design was to show the great mercy of Almighty God in thus relieving a people who had deemed
                   themselves lost, and had made up their minds to die, as well as to teach us how grateful we should be for all His Mercies, and to
                   put our trust in Him alone.</p>
@@ -878,10 +878,10 @@
                   <head>
                      <ref target="variants.youngidea.xml#TYI8.05">Naval Intelligence</ref>
                   </head>
-                  <item>26th HMS "<ref target="#Chesapeake">Chesapeake</ref>" left her swinging moorings off the Esplanade and moored off Baboo
-                     Ghant<lb/>H.M.S. "<ref target="#Mohawk">Mohawk</ref>" sailed for <ref target="#Yangon">Rangoon</ref></item>
-                  <item>29th H.M.S. "<ref target="#Pearl">Pearl</ref>" hauled out into the stream.</item>
-                  <item>30th H.M.St.V. "<ref target="#Sparrowhawk">Sparrowhawk</ref>" sailed this afternoon for <ref target="#Yangon">Rangoon</ref>,
+                  <item>26th HMS "<ref target="Chesapeake">Chesapeake</ref>" left her swinging moorings off the Esplanade and moored off Baboo
+                     Ghant<lb/>H.M.S. "<ref target="Mohawk">Mohawk</ref>" sailed for <ref target="Yangon">Rangoon</ref></item>
+                  <item>29th H.M.S. "<ref target="Pearl">Pearl</ref>" hauled out into the stream.</item>
+                  <item>30th H.M.St.V. "<ref target="Sparrowhawk">Sparrowhawk</ref>" sailed this afternoon for <ref target="Yangon">Rangoon</ref>,
                      having completed her objects</item>
                </list>
             </div>
@@ -892,11 +892,11 @@
                   <ref target="variants.youngidea.xml#TYI8.06">Promotions and Appointments</ref>
                </head>
                <list type="simple">
-                  <item><ref target="#Kelly">Lieut.t Edw.d Kelly</ref> (additional) took passage in H.M.S. "<ref target="#Pelorus">Pelorus</ref>" to
+                  <item><ref target="Kelly">Lieut.t Edw.d Kelly</ref> (additional) took passage in H.M.S. "<ref target="Pelorus">Pelorus</ref>" to
                      which ship he is lent to do duty until further orders.</item>
-                  <item><ref target="#Piers">Commander Shute B. Piers</ref> to the "<ref target="#Himalaya">Himalaya</ref>" <ref target="#Haswell"
+                  <item><ref target="Piers">Commander Shute B. Piers</ref> to the "<ref target="Himalaya">Himalaya</ref>" <ref target="Haswell"
                         >vice Captain Haswell</ref> Invalided.</item>
-                  <item><ref target="#Brownrigg">Charles I. Brownrigg</ref> Mate to be Lieutenant. The official intimation of this promotion has not
+                  <item><ref target="Brownrigg">Charles I. Brownrigg</ref> Mate to be Lieutenant. The official intimation of this promotion has not
                      been yet received, but as it is announced in the Gazette, we feel much pleasure in announcing it also. At the same time we must
                      state that our pleasure is tinged with regret at losing so good a messmate.</item>
                </list>
@@ -909,11 +909,11 @@
                <list type="simple">
                   <item>A Regatta is announced to come off on the 10th Prosc.s but we have not received any information as to the terms or
                      arrangements</item>
-                  <item>The Boats crews of H.M.S. <ref target="#Chesapeake">Chesapeake</ref> have been sent away every evening for half an hour, in
+                  <item>The Boats crews of H.M.S. <ref target="Chesapeake">Chesapeake</ref> have been sent away every evening for half an hour, in
                      order to get into training for the coming Regatta.</item>
                   <item>Cricket has been in vogue during the past week amongst our officers but there has not been any game worthy of being
                      noted.</item>
-                  <item>Leave is now granted to the crew of H.M.S. "<ref target="#Chesapeake">Chesapeake</ref>" to visit the shore in certain
+                  <item>Leave is now granted to the crew of H.M.S. "<ref target="Chesapeake">Chesapeake</ref>" to visit the shore in certain
                      proportions at a time. Several of those who have been allowed to go, have shown so little regard for liberty as to be imprisoned
                      for the night.</item>
                </list>
@@ -947,8 +947,8 @@
                </head>
                <p>To answer your two riddles, Sir, I'll try:</p>
                <list type="ordered">
-                  <item n="12">Why is <ref target="#Kolkata">Calcutta</ref> like the letter "I."? "I" is the capital of India--true? <lb/> So is "<ref
-                        target="#Kolkata">Calcutta</ref>"--won't my answer do?</item>
+                  <item n="12">Why is <ref target="Kolkata">Calcutta</ref> like the letter "I."? "I" is the capital of India--true? <lb/> So is "<ref
+                        target="Kolkata">Calcutta</ref>"--won't my answer do?</item>
                   <item n="13">The Sailor old a "Pensioner" may be, am I not right?<lb/>The early clock, a sad "Pin mummer" he, and so good
                      night.</item>
                </list>
@@ -1009,13 +1009,13 @@
                   <ref target="variants.youngidea.xml#TYI9.02">The Lucknow Tigers.</ref>
                </head>
                <p>As we believe that many of our readers have availed themselves of our recommendation last week to ascend the Monument on the
-                  Esplanade, we will venture to call attention in like manner to the beautiful <ref target="#Lucknow">Lucknow</ref> tigers which may
+                  Esplanade, we will venture to call attention in like manner to the beautiful <ref target="Lucknow">Lucknow</ref> tigers which may
                   be seen on the payment of one Rupee in Wood Street, Chowringhee.</p>
-               <p>They have been lately brought from <ref target="#Lucknow">Lucknow</ref>, where they formed a portion of the Royal Menagerie which
-                  the Kings of <ref target="#Ayodhya">Oude</ref> have been in the habit of maintaining. </p>
-               <p>The first Tiger you see on entering is a beautiful creature most remarkable for its tameness. At <ref target="#Lucknow"
+               <p>They have been lately brought from <ref target="Lucknow">Lucknow</ref>, where they formed a portion of the Royal Menagerie which
+                  the Kings of <ref target="Ayodhya">Oude</ref> have been in the habit of maintaining. </p>
+               <p>The first Tiger you see on entering is a beautiful creature most remarkable for its tameness. At <ref target="Lucknow"
                      >Lucknow</ref> it had been brought up by hand, and led about with only a chain round its neck. It would allow little children to
-                  play with it in passing along the streets, and the people of <ref target="#Lucknow">Lucknow</ref> lamented when they saw it put into
+                  play with it in passing along the streets, and the people of <ref target="Lucknow">Lucknow</ref> lamented when they saw it put into
                   a cage, to be carried away.</p>
                <p>There are 6 or 7 others, of which we recollect two particularly, one because of its ferocious growl, the only savage one, and the
                   other as being the largest of all, and distinguished for the beauty of its stripes, which, it will be observed, are all double.</p>
@@ -1035,7 +1035,7 @@
                <p>Our papers, and our Reviews, our periodicals, have all one absorbing topic, and that is India. Fresh details of the horrible
                   sufferings which our countrymen &amp; women underwent in the earlier part of the insurrection, further particulars of the movements
                   of our gallant army, praises of those heroic spirits who have fought and perchance have fallen, before the gates of <ref
-                     target="#Delhi">Delhi</ref>, or within the walls of <ref target="#Lucknow">Lucknow</ref>, comments on the past misgovernment of
+                     target="Delhi">Delhi</ref>, or within the walls of <ref target="Lucknow">Lucknow</ref>, comments on the past misgovernment of
                   the country, suggestions towards its better management for the future; these seem to form the staple of what we have received by our
                   two last mails; pictorial papers take up the same subject, and views from india, and illustrations of Hindoo customs, now meet us in
                   every page: when we open our Magazines, we find historical papers, tracing the rise of the British dominion in India, dissertations
@@ -1073,14 +1073,14 @@
                   <head>
                      <ref target="variants.youngidea.xml#TYI9.05">Naval Intelligence</ref>
                   </head>
-                  <item>4th Feb. H.M.S. "<ref target="#Himalaya">Himalaya</ref>" hauled out into the stream, and is preparing for her departure for
-                     England. She will convey refugees from <ref target="#Lucknow">Lucknow</ref>; and other places.</item>
-                  <item>A working party under JW Worsley second master, have been employed onboard the "<ref target="#Pearl">Pearl</ref>" during the
+                  <item>4th Feb. H.M.S. "<ref target="Himalaya">Himalaya</ref>" hauled out into the stream, and is preparing for her departure for
+                     England. She will convey refugees from <ref target="Lucknow">Lucknow</ref>; and other places.</item>
+                  <item>A working party under JW Worsley second master, have been employed onboard the "<ref target="Pearl">Pearl</ref>" during the
                      past week, stowing holds and provisioning her from the Barque "Oceanica"</item>
-                  <item>The crew of H.M.S. "<ref target="#Chesapeake">Chesapeake</ref>" have been employed turning in the rigging afresh and rattling
+                  <item>The crew of H.M.S. "<ref target="Chesapeake">Chesapeake</ref>" have been employed turning in the rigging afresh and rattling
                      down.</item>
                   <item>The mail steamer from China arrived this morning. By Advices from that part of the world, we learn of the storming of <ref
-                        target="#Canton">Canton</ref>, and the capture of <ref target="#Ye_Mingchen">Commisioner Yeh</ref>, who is now on board the
+                        target="Canton">Canton</ref>, and the capture of <ref target="Ye_Mingchen">Commisioner Yeh</ref>, who is now on board the
                      "Inflexible." Our loss was 118 killed, and wounded; amongst the former we regret to find the name of <choice>
                         <expan>Captain</expan>
                         <abbr>Capt.</abbr>
@@ -1098,13 +1098,13 @@
                   <item>On Wednesday, our late Commander <choice>
                         <expan>Captain</expan>
                         <abbr>Capt</abbr>
-                     </choice> Piers, was received at a farewell dinner in the Ward Room preparatory to his sailing in the "<ref target="#Himalaya"
-                        >Himalaya</ref>". The entertainment was of a strictly private character, but the "<ref target="#Chesapeake">Chesapeake</ref>"
+                     </choice> Piers, was received at a farewell dinner in the Ward Room preparatory to his sailing in the "<ref target="Himalaya"
+                        >Himalaya</ref>". The entertainment was of a strictly private character, but the "<ref target="Chesapeake">Chesapeake</ref>"
                      band was in attendance, and played a succession of airs, when the cloth was removed. "Auld Lang Syne" followed the proposal of
                      the special toast of the day, namely, "The Health of <choice>
                         <expan>Captain</expan>
                         <abbr>Capt.</abbr>
-                     </choice> Piers, &amp; a prosperous voyage to the <ref target="#Himalaya">Himalaya</ref>."</item>
+                     </choice> Piers, &amp; a prosperous voyage to the <ref target="Himalaya">Himalaya</ref>."</item>
                   <item>The mail for England will start on Monday next the 8th Inst.</item>
                   <item>We have noticed some young sportsmen have been out with their fowling pieces, but very little success appears to have awarded
                      their juvenile ardour.</item>
@@ -1131,7 +1131,7 @@
                   in fact the "Young Idea" seems quite imperfect without them.</p>
                <p>So, believe me, Dear Mr. Editor<lb/>Your constant reader</p>
                <p>"Puzzlehead"</p>
-               <p><ref target="#Chesapeake">Chesapeake</ref> 4 Feb. 1858</p>
+               <p><ref target="Chesapeake">Chesapeake</ref> 4 Feb. 1858</p>
 
 
 
@@ -1222,17 +1222,17 @@
                      any we remember to have witnessed since our departure from England.</ref>
                </p>
                <p>One great event at least, has been its chief characteristic, one day at least, called forth more interest than the others, we speak
-                  of the Regatta day, and the attendant entertainment onboard the "<ref target="#Chesapeake">Chesapeake</ref>."</p>
+                  of the Regatta day, and the attendant entertainment onboard the "<ref target="Chesapeake">Chesapeake</ref>."</p>
                <p>Although on this important occasion, our men did not acquit themselves in the manner we had hoped, yet it is a source of deep
                   gratification, to know that the reigning prize of the day, the acme of ambition, the "Prize Cup" was won by our men.</p>
                <p>Elsewhere we shall find a detailed account of the circumstances which marked the day, which we must say could not have been finer or
                   more agreeable, nor can we drop this subject without paying our tribute of admiration to the "fair sex," the bright colours of whose
                   tasteful array, enlivened our decks, and gave the ship a holiday appearance,</p>
                <p>Our news this week is somewhat general and extensive; we have news of the movements of the Naval Brigade and the probability of
-                  intelligence arriving soon of an attack upon <ref target="#Lucknow">Lucknow</ref>: from <ref target="#Yangon">Rangoon</ref>,
+                  intelligence arriving soon of an attack upon <ref target="Lucknow">Lucknow</ref>: from <ref target="Yangon">Rangoon</ref>,
                   accounts would lead us to believe that the disturbances there are not likely to be settled either quickly or quietly, as, by the
-                     <ref target="#Kolkata">Calcutta</ref> "Englishman" it is reported that Captain Beauchamp <ref target="#Beauchamp_Seymour"
-                     >Seymour</ref> has landed the crew of the "<ref target="#Pelorus">Pelorus</ref>" with a view of forming a Naval Brigade, but we
+                     <ref target="Kolkata">Calcutta</ref> "Englishman" it is reported that Captain Beauchamp <ref target="Beauchamp_Seymour"
+                     >Seymour</ref> has landed the crew of the "<ref target="Pelorus">Pelorus</ref>" with a view of forming a Naval Brigade, but we
                   must not place implicit reliance upon this latter report, as it is as yet unauthenticated.</p>
                <p>We can only hope that we shall not be excluded from a participation of whatever may take place in that quarter.</p>
 
@@ -1245,16 +1245,16 @@
 
 
                <p>Dear Sir,</p>
-               <p>The following account which was given me by a gentleman of <ref target="#Kolkata">Calcutta</ref> may perhaps, prove interesting to
+               <p>The following account which was given me by a gentleman of <ref target="Kolkata">Calcutta</ref> may perhaps, prove interesting to
                   the Readers of the "Young Idea"</p>
-               <p>An exploring party was recently sent from <ref target="#Kolkata">Calcutta</ref> to visit the <ref target="#Andaman_Islands">Andaman
+               <p>An exploring party was recently sent from <ref target="Kolkata">Calcutta</ref> to visit the <ref target="Andaman_Islands">Andaman
                      Islands</ref> in the Bay of Bengal with the view of selecting a site to establish a penal colony, and to banish thither the
-                  captive King of <ref target="#Delhi">Delhi</ref> and his rebel Sepoys. It is remarkable that this group of Islands, tho' so near to
+                  captive King of <ref target="Delhi">Delhi</ref> and his rebel Sepoys. It is remarkable that this group of Islands, tho' so near to
                   the Asiatic Continent, are inhabited by a race of savages, no way akin to the Asiatic tribes, but apparently much nearer allied to
                   the African Negroes. They live in a perfect state of nature, without the slightest vestige of a garment; their huts are mere dens or
                   kennels under which they crawl at night; in fact they seem to be among the most degraded forms of humanity.</p>
                <p>The first salutation our explorers received was a flight of arrows, but a few musket shots soon dispersed the natives. Two of them
-                  were killed, and one captured. This savage has been brought to <ref target="#Kolkata">Calcutta</ref> by Dr. ..... and both he and
+                  were killed, and one captured. This savage has been brought to <ref target="Kolkata">Calcutta</ref> by Dr. ..... and both he and
                   Mrs...... have done their best to humanize him by kind treatment. He was introduced to several Negroes of different tribes, but none
                   of them could understand his language.</p>
                <p>He shews himself not insensible to kindness, and was pleased with Dr. .....,'s little child, making signs, that he had a little
@@ -1294,18 +1294,18 @@
                <p>Some sat patiently, others ran from room to room, thinking the shot pursued them, some cried and beat their chests, others dragged
                   their children from one side of the room to the other, as the roar of the cannon disturbed them, some prayed as they had never
                   prayed before, while others laughed at the fear &amp; confusion of the rest.</p>
-               <p><hi rend="underlined">"Relief of <ref target="#Lucknow">Lucknow</ref> by <ref target="#Sir_Henry_Havelock"><choice>
+               <p><hi rend="underlined">"Relief of <ref target="Lucknow">Lucknow</ref> by <ref target="Sir_Henry_Havelock"><choice>
                            <expan>General></expan>
                            <abbr>Genl.</abbr>
-                        </choice>Havelock</ref>"</hi>. Sir James <ref target="#Outram">Outram</ref> and <ref target="#Sir_Henry_Havelock"><choice>
+                        </choice>Havelock</ref>"</hi>. Sir James <ref target="Outram">Outram</ref> and <ref target="Sir_Henry_Havelock"><choice>
                         <expan>General></expan>
                         <abbr>Genl.</abbr>
                      </choice>Havelock</ref> came on the 25th September, and we saw the vast crowns going out of the city to oppose that brave little
                   force for three days we heard the firing of artillery coming closer and closer; On the last day there was a great stir, detachments
                   of the enemy in retreat passed by; onwards came the British Troops, driving the cowards in terror before them. Elephants, camels,
-                  carts, horses, bullocks, and men made in masses for the bridge of boats over the <ref target="#Gomati_River">Goomtee</ref>. They
+                  carts, horses, bullocks, and men made in masses for the bridge of boats over the <ref target="Gomati_River">Goomtee</ref>. They
                   crowded on to it, and it broke, sending some to the bottom of the stream, and the rest running up and down the banks in a panic.
-                  About 8 o'clock in the Evening we saw Sir J <ref target="#Outram">Outram</ref> and <ref target="#Sir_Henry_Havelock">General
+                  About 8 o'clock in the Evening we saw Sir J <ref target="Outram">Outram</ref> and <ref target="Sir_Henry_Havelock">General
                      Havelock</ref> and staff enter the street facing us, leading the 78th Highlanders &amp; Ferozepore Regiment of sikhs.
                   Instantaneously the entrenchments shook with Hurrahs: they could not hear us, but we went on increasing our noisy joy, and shaking
                   handkerchiefs and caps as they neared the Gate; The sight of that gallant little band, piercing thro' thousands to our rescue,
@@ -1325,13 +1325,13 @@
                   speak." I challenged the Havildar to come down himself, and then said I would bring him some woman's apparel, this retort caused him
                   to swear, and the others to laugh at him. They now commenced filling up the shaft, and I retired to my own gallery. </p>
                <p><hi rend="underlined">"Escaping in disguise"</hi>. On the 9th November I sought out the spy Kunrigee Lall who - was going back with
-                  despatches to <ref target="#Campbell">Sir Colin Campbell</ref> and imparted to him my desire to venture in disguise in his company
+                  despatches to <ref target="Campbell">Sir Colin Campbell</ref> and imparted to him my desire to venture in disguise in his company
                   My attire was soon completed; I was dressed as a Budmash, or Irregular soldier of the city, with sword and shield, native made
                   shoes, tight trousers, a yellow silk koortah over a close fitting white muslin shirt, a yellow coloured chintz sheet thrown round my
                   shoulders, a cream coloured turban, and a white waistband or "Kummerbund", My face and neck down to the shoulders, and my hands to
                   the wrists, were coloured with lampblack, the cork used being dipped in oil to cause the colour to adhere. After being provided with
                   a small double barrelled pistol, and a pair of broad pyjamahs over the tight trousers, I proceeded with Kunrigee Lall to the banks
-                  of the <ref target="#Gomati_River">river Goomtee</ref>. We undressed and quickly forded the river, which was about 4 1/2 ft. deep,
+                  of the <ref target="Gomati_River">river Goomtee</ref>. We undressed and quickly forded the river, which was about 4 1/2 ft. deep,
                   and about 100 yards wide at this point. My courage failed me while in the water, and if my guide had been within reach, I should
                   perhaps have pulled him back and abandoned the enterprize **** With my <gap reason="indecipherable"/> resting on my shoulder, we
                   advanced among the huts in front, where I accosted a matchlock man, "The night is cold"; he answered to my remark "It is very
@@ -1339,12 +1339,12 @@
                   preceded by torches. I jostled against several armed men in the street, but was not spoken to. **** I was in great spirits when we
                   reached the green fields, into which I had not been for five months Everything around us smelt sweet, and a carrot I took from the
                   roadside, was, the most delicious I ever tasted. I gave vent to my feelings in a conversation with Kenrigee Lall, who joined in my
-                  admiration of the province of <ref target="#Ayodhya">Oudh</ref>, and lamented that it was now in the hands of wretches, whose
+                  admiration of the province of <ref target="Ayodhya">Oudh</ref>, and lamented that it was now in the hands of wretches, whose
                   misgovernment and rapacity was ruining it.</p>
                <p><hi rend="underlined">"Arrival at the British Camp"</hi>. By 3 o'clock in the morning we arrived at a grove of mango trees, in which
                   a man was singing at the top of his voice! He was alarmed at hearing us approach, and astonished us also, by calling out a guard of
                   25 Sepoys, all of whom asked questions. Kunrigee Lall lost heart for the first time, and threw away the letter entrusted to him for
-                     <ref target="#Campbell">Sir Colin Campbell</ref> I kept mine safe in my turban. We satisfied the guard that we were poor men
+                     <ref target="Campbell">Sir Colin Campbell</ref> I kept mine safe in my turban. We satisfied the guard that we were poor men
                   travelling to <choice>
                      <orig>Umrona</orig>
                      <reg>Umroula</reg>
@@ -1360,8 +1360,8 @@
                <head type="sub">
                   <ref target="variants.youngidea.xml#TYI10.05">The Regatta</ref>
                </head>
-               <p>The <ref target="#Kolkata">Calcutta</ref> Regatta of this season took place on Wednesday last the 10th Ist. &amp; went off very
-                  successfully, under the patronage of Commodore <ref target="#Watson">Watson</ref>, C.B. &amp; the Officers of the Royal Navy, as
+               <p>The <ref target="Kolkata">Calcutta</ref> Regatta of this season took place on Wednesday last the 10th Ist. &amp; went off very
+                  successfully, under the patronage of Commodore <ref target="Watson">Watson</ref>, C.B. &amp; the Officers of the Royal Navy, as
                   also the Judges of the Supreme Court. The Judges on the occasion were <choice>
                      <expan>Lieutenant</expan>
                      <abbr>Lieutt.</abbr>
@@ -1374,14 +1374,14 @@
                   </choice> Lovell P.&amp;O. <choice>
                      <expan>Company</expan>
                      <abbr>Compy</abbr>
-                  </choice>. These gentlemen were onboard the H.C.'s steamer "<ref target="#Proserpine">Proserpine</ref>" which lay off Baboo's Ghant.
+                  </choice>. These gentlemen were onboard the H.C.'s steamer "<ref target="Proserpine">Proserpine</ref>" which lay off Baboo's Ghant.
                   Visitors speedily arrived of whom we may safely say the "gentler sex" were the most numerous, and our bridge presented a brilliant
                   spectacle when all the ladies had taken their stations thereon. The scene all round was now most enlivening, the "<ref
-                     target="#Chesapeake">Chesapeake</ref>" &amp; <ref target="#Proserpine">Proserpine</ref> both gaily dressed in flags, the lines of
+                     target="Chesapeake">Chesapeake</ref>" &amp; <ref target="Proserpine">Proserpine</ref> both gaily dressed in flags, the lines of
                   boats filled with well dressed spectators, stretching along the Watery Race-course, and the Ghant and its neighbourhood thickly
-                  lined with people of all classes. The "<ref target="#Proserpine">Proserpine</ref>" was the starting point and from this the boats
+                  lined with people of all classes. The "<ref target="Proserpine">Proserpine</ref>" was the starting point and from this the boats
                   proceeded downwards round certain buoys marked with flags and then came up again passing on the shore side of the "<ref
-                     target="#Chesapeake">Chesapeake</ref>" back to the "<ref target="#Proserpine">Proserpine</ref>". The whole distance to be pulled
+                     target="Chesapeake">Chesapeake</ref>" back to the "<ref target="Proserpine">Proserpine</ref>". The whole distance to be pulled
                   being about a mile and a half.</p>
                <table rows="3" cols="3">
                   <head>1st Race. Ships Gigs 6 oars 1st Prize 100 Rs. 2nd Prize 50 Rs. 3rd prize save entrance.</head>
@@ -1455,36 +1455,36 @@
                      <cell role="data">1</cell>
                   </row>
                   <row role="data">
-                     <cell role="label"><ref target="#Chesapeake">Chesapeake</ref>Barge</cell>
+                     <cell role="label"><ref target="Chesapeake">Chesapeake</ref>Barge</cell>
                      <cell role="data">Blue</cell>
                      <cell role="data">2</cell>
                   </row>
                   <row role="data">
-                     <cell role="label"><ref target="#Chesapeake">Chesapeake</ref> 2d Cutter</cell>
+                     <cell role="label"><ref target="Chesapeake">Chesapeake</ref> 2d Cutter</cell>
                      <cell role="data">White</cell>
                      <cell role="data">3</cell>
                   </row>
                </table>
-               <p>The following also started <ref target="#Chesapeake">Chesapeake</ref> 1st Cutter, and Brenda the latter boat being manned by marines
-                  from the "<ref target="#Chesapeake">Chesapeake</ref>" Immediately on Semiramis passing the winning point, one of the oarsmen (who
+               <p>The following also started <ref target="Chesapeake">Chesapeake</ref> 1st Cutter, and Brenda the latter boat being manned by marines
+                  from the "<ref target="Chesapeake">Chesapeake</ref>" Immediately on Semiramis passing the winning point, one of the oarsmen (who
                   had evidently made up his mind that his boat was to win) struck up a tune of triumph on the bagpipes, much to the amusement of the
                   spectators.</p>
                <table rows="2" cols="3">
                   <head>5th Race. Launches. 14 to 18 oars. 1st Prize 100Rs 2d Prize. save entrance.</head>
                   <row role="data">
                      <cell role="label">
-                        <ref target="#Pylades">Pylades</ref>
+                        <ref target="Pylades">Pylades</ref>
                      </cell>
                      <cell role="data">Green</cell>
                      <cell role="data">1</cell>
                   </row>
                   <row role="data">
-                     <cell role="label"><ref target="#Chesapeake">Chesapeake</ref> 1st launch</cell>
+                     <cell role="label"><ref target="Chesapeake">Chesapeake</ref> 1st launch</cell>
                      <cell role="data">Red</cell>
                      <cell role="data">2</cell>
                   </row>
                </table>
-               <p>The following also started. <ref target="#Chesapeake">Chesapeake</ref>'s 2d Launch &amp; Pinnace</p>
+               <p>The following also started. <ref target="Chesapeake">Chesapeake</ref>'s 2d Launch &amp; Pinnace</p>
 
                <table rows="2" cols="3">
                   <head>6th Race Covered Pancies. 1st Prize 30 Rs. 2d Prize 10 Rs</head>
@@ -1519,8 +1519,8 @@
                </table>
                <p>Six dinghees started of which only three arrived at the winning point, after a smartly contested race</p>
                <p>The Race for screw steamers did not come off, as was announced in the programme.</p>
-               <p>Commodore <ref target="#Watson">Watson</ref> had a first rate tiffin prepared in his cabin, to which the ladies repaired after the
-                  second race was over. The band of the <ref target="#Chesapeake">Chesapeake</ref> aided in the pleasure of the day by playing several
+               <p>Commodore <ref target="Watson">Watson</ref> had a first rate tiffin prepared in his cabin, to which the ladies repaired after the
+                  second race was over. The band of the <ref target="Chesapeake">Chesapeake</ref> aided in the pleasure of the day by playing several
                   selections and airs from our finest operas. After the Gentlemen had refreshed themselves, and the fifth race was over, dancing
                   commenced, and was kept up with great spirit until 6 o'clock. little or no attention being paid to the ensuing races.</p>
                <p>The arrival of this day had been eagerly anticipated, and we are certain that all will agree that it passed off with entire
@@ -1532,11 +1532,11 @@
                   <ref target="variants.youngidea.xml#TYI10.06">Naval Intelligence</ref>
                </head>
                <list type="simple">
-                  <item>H.M.S. <ref target="#Himalaya">Himalaya</ref> sailed for England on Friday the 12th Instant, with invalids and refugees from
-                        <ref target="#Lucknow">Lucknow</ref>. We hope next week to be able to present our readers with a slight account of her
+                  <item>H.M.S. <ref target="Himalaya">Himalaya</ref> sailed for England on Friday the 12th Instant, with invalids and refugees from
+                        <ref target="Lucknow">Lucknow</ref>. We hope next week to be able to present our readers with a slight account of her
                      arrangements. </item>
-                  <item>Commodore <ref target="#Watson">Watson</ref> C.B. inspected her previous to her departure.</item>
-                  <item>H.M.S. Megoera has taken the berth lately occupied by the "<ref target="#Himalaya">Himalaya</ref>" and has commenced coaling.
+                  <item>Commodore <ref target="Watson">Watson</ref> C.B. inspected her previous to her departure.</item>
+                  <item>H.M.S. Megoera has taken the berth lately occupied by the "<ref target="Himalaya">Himalaya</ref>" and has commenced coaling.
                      She will sail for Sydney early next week.</item>
                </list>
             </div>
@@ -1550,7 +1550,7 @@
                      which fell on this occasion is to say that in size and shape, though not in colour or taste, they resembled very large
                      "acidulated drops" The lightning was very vivid and of a beautiful pale blue color.</item>
                   <item>Messrs Palmer, Weatherstone and Smithers. Second Class Boys, have taken their departure for England in the "<ref
-                        target="#Himalaya">Himalaya</ref>" <ref target="variants.youngidea.xml#TYIappendix3">much regretted by the Master at Arms, and
+                        target="Himalaya">Himalaya</ref>" <ref target="variants.youngidea.xml#TYIappendix3">much regretted by the Master at Arms, and
                         by their respective Masters.</ref></item>
                   <item>A Cricket Ball is announced to take place on Monday the 15th Inst. to which the officers have received a general
                      invitation.</item>
@@ -1642,14 +1642,14 @@
             <div type="section">
 
                <p><ref target="variants.youngidea.xml#TYI11.01">Rumours are now flying about, purporting to remove us from our present snug anchorage
-                     at Calcutta for some time;</ref> that we are destined to convey Lady <ref target="#Charlotte_Canning">Canning</ref> to <ref
-                     target="#Chennai">Madras</ref>, and from these, it is said, we steer to <ref target="#Yangon">Rangoon</ref>.</p>
+                     at Calcutta for some time;</ref> that we are destined to convey Lady <ref target="Charlotte_Canning">Canning</ref> to <ref
+                     target="Chennai">Madras</ref>, and from these, it is said, we steer to <ref target="Yangon">Rangoon</ref>.</p>
                <p>This will of course involve an absence of some two or three months, and will we hope, be found to prove a beneficial change, for,
                   after all, there is nothing like constant change of air, of scenery, and position for enhancing the excitement and monotony of a sea
                   life.: two varied sentiments, which, however, are most peculiarly our own. </p>
-               <p><ref target="#Yangon">Rangoon</ref> we have been informed offers no advantages or inducements as a place of pleasure, and no
+               <p><ref target="Yangon">Rangoon</ref> we have been informed offers no advantages or inducements as a place of pleasure, and no
                   amusements are to be obtained, wherewith to assist the laggard hours, as each day "draws its slow length along" but then we shall
-                  return in a riper mood for the enjoyment of the few recreations <ref target="#Kolkata">Calcutta</ref> affords.</p>
+                  return in a riper mood for the enjoyment of the few recreations <ref target="Kolkata">Calcutta</ref> affords.</p>
                <p>Besides, we are unable to foresee what other seaport we may visit, what circumstances, may befall us, what fortune may be our lot,
                   and in the fresh kindled sensations of excitement &amp; wonder, which stir our hearts, when visiting strange shores, and towns, and
                   people; we shall find an agreeable relief to the feeling of satiety, to which the interest, we originally felt in this the so-called
@@ -1661,20 +1661,20 @@
                <head>
                   <ref target="variants.youngidea.xml#TYI11.02">"Origin of the Name of Delhi</ref>
                </head>
-               <p>The city of <ref target="#Delhi">Delhi</ref> originally bore the name of Indraprasthe, and was the royal capital of the aboriginal
+               <p>The city of <ref target="Delhi">Delhi</ref> originally bore the name of Indraprasthe, and was the royal capital of the aboriginal
                   Pandoos. After falling into decay and lying desolate for a period of eight centuries, it was revived again (about A.D. 792) by a
                   descendant of the ancient Kings, entitled Bulwan Deo.</p>
-               <p>It was he who changed the name from Indraprasthe to <ref target="#Delhi">Delhi</ref>, the origin of which is related as
+               <p>It was he who changed the name from Indraprasthe to <ref target="Delhi">Delhi</ref>, the origin of which is related as
                   follows:-</p>
                <p>"There was in one part of the city an iron "kheel" or pillar, said to have been left standing by the ancient "Pandoos" Tradition
                   attached a sacred import to this pillar, and alleged it to be based upon a pedestal fixed in the regions of hell. As Bulwan Deo
                   doubted the truth of the legend, the sceptic monarch determined to test the depth, and he caused the pillar to be violently shaken.
                   A stream of blood immediately gushed up from the earth's centre, and the pillar from that time became loose or in their own language
                   "dheli"</p>
-               <p>This was the original of the name of <ref target="#Delhi">Delhi</ref></p>
+               <p>This was the original of the name of <ref target="Delhi">Delhi</ref></p>
                <p>
                   <bibl>
-                     <title><ref target="#Kolkata">Calcutta</ref> Englishman</title>
+                     <title><ref target="Kolkata">Calcutta</ref> Englishman</title>
                   </bibl>
                </p>
             </div>
@@ -1686,35 +1686,35 @@
                </head>
                <p>We have as yet said little or nothing about the movements of our Naval Brigade up the country, being ourselves very much in the dark
                   concerning them. But such information as we possess, we are happy to communicate to our Readers.</p>
-               <p>We have in fact two separate Brigades, one under <ref target="#Sir_William_Peel"><choice>
+               <p>We have in fact two separate Brigades, one under <ref target="Sir_William_Peel"><choice>
                         <expan>Captain</expan>
                         <abbr>Capt</abbr>
-                     </choice> Peel</ref>, the other under <ref target="#Edward_Southwell_Sotheby"><choice>
+                     </choice> Peel</ref>, the other under <ref target="Edward_Southwell_Sotheby"><choice>
                         <expan>Captain</expan>
                         <abbr>Capt</abbr>
-                     </choice> Sotheby</ref>: <ref target="#Sir_William_Peel"><choice>
+                     </choice> Sotheby</ref>: <ref target="Sir_William_Peel"><choice>
                         <expan>Captain</expan>
                         <abbr>Capt</abbr>
-                     </choice> Peel</ref> taking the greater portion of the "<ref target="#Shannon">Shannon</ref>'s" Crew, and raising a considerable
+                     </choice> Peel</ref> taking the greater portion of the "<ref target="Shannon">Shannon</ref>'s" Crew, and raising a considerable
                   addition from the merchant seamen, numbering in all about 500 men.</p>
-               <p>These ascending the river to <ref target="#Allahabad">Allahabad</ref> with several of their heavy guns, advanced afterwards to <ref
-                     target="#Kanpur">Cawnpore</ref>, where they rendered almost unprecedented service, and are now stationed at Futty ghur, ready to
-                  advance upon <ref target="#Lucknow">Lucknow</ref> from the N.W.</p>
-               <p><ref target="#Edward_Southwell_Sotheby"><choice>
+               <p>These ascending the river to <ref target="Allahabad">Allahabad</ref> with several of their heavy guns, advanced afterwards to <ref
+                     target="Kanpur">Cawnpore</ref>, where they rendered almost unprecedented service, and are now stationed at Futty ghur, ready to
+                  advance upon <ref target="Lucknow">Lucknow</ref> from the N.W.</p>
+               <p><ref target="Edward_Southwell_Sotheby"><choice>
                         <expan>Captain</expan>
                         <abbr>Capt</abbr>
-                     </choice>Sotheby</ref>, shortly after, having landed his little crew from the "<ref target="#Pearl">Pearl</ref>,' increased his
-                  numbers from other sources to about 250 men. These advanced up the river, we believe, as far as <ref target="#Chhapra">Chupra</ref>,
-                  and then took to the land: they have marched through <ref target="#Gorakhpur">Goruckpoor</ref> and <ref target="#Faizabad"
+                     </choice>Sotheby</ref>, shortly after, having landed his little crew from the "<ref target="Pearl">Pearl</ref>,' increased his
+                  numbers from other sources to about 250 men. These advanced up the river, we believe, as far as <ref target="Chhapra">Chupra</ref>,
+                  and then took to the land: they have marched through <ref target="Gorakhpur">Goruckpoor</ref> and <ref target="Faizabad"
                      >Fyzabad</ref>, at each place encountering the enemy and rendering good service with their long guns: several companies of <choice>
                      <orig>bra</orig>
                      <reg>brave</reg>
-                  </choice> little Ghookas are attached to <ref target="#Edward_Southwell_Sotheby"><choice>
+                  </choice> little Ghookas are attached to <ref target="Edward_Southwell_Sotheby"><choice>
                         <expan>Captain</expan>
                         <abbr>Capt</abbr>
                      </choice>Sotheby</ref>'s division but our bluejackets have charge of the Artillery; they are now ready to advance upon <ref
-                     target="#Lucknow">Lucknow</ref> from the Eastward, and we may hope therefore, that under the walls of this stronghold, our brave
-                  comrades of the "<ref target="#Pearl">Pearl</ref>" and "<ref target="#Shannon">Shannon</ref>" may again meet in victory, and assist
+                     target="Lucknow">Lucknow</ref> from the Eastward, and we may hope therefore, that under the walls of this stronghold, our brave
+                  comrades of the "<ref target="Pearl">Pearl</ref>" and "<ref target="Shannon">Shannon</ref>" may again meet in victory, and assist
                   in crushing out the last sparks of the rebellion in India.</p>
                <p>We have told our tale to the best of our knowledge, but if any of our readers possess or can procure more accurate information, we
                   shall be deeply indebted to them for making it public in our</p>
@@ -1727,42 +1727,42 @@
                <head type="sub">
                   <ref target="variants.youngidea.xml#TYI11.04">Cricket</ref>
                </head>
-               <p>On Wednesday the 17th Inst. a match took place on the ground near the <ref target="#Ochterlony_Monument">the Ochterbury
-                     monument</ref> between the Officers of H.M.S. "<ref target="#Chesapeake">Chesapeake</ref>, and the Petty Officers, assisted by
-                  Messrs Mereweather, Budding, &amp; Edwards of <ref target="#Pylades">Pylades</ref>. Having received a good account of the game with
+               <p>On Wednesday the 17th Inst. a match took place on the ground near the <ref target="Ochterlony_Monument">the Ochterbury
+                     monument</ref> between the Officers of H.M.S. "<ref target="Chesapeake">Chesapeake</ref>, and the Petty Officers, assisted by
+                  Messrs Mereweather, Budding, &amp; Edwards of <ref target="Pylades">Pylades</ref>. Having received a good account of the game with
                   the scoring made on this occasion, and this being the first time our club has done battle with other players, we feel bound to give
-                  it a place in our columns. The P.O.'s had the first lead, and here we must notice the free batting of <ref target="#Taylor"
-                     >Taylor</ref>, who made some capital hits till a "ripper" from <ref target="#Brownrigg">Mr Brownrigg</ref> levelled his stirrups
+                  it a place in our columns. The P.O.'s had the first lead, and here we must notice the free batting of <ref target="Taylor"
+                     >Taylor</ref>, who made some capital hits till a "ripper" from <ref target="Brownrigg">Mr Brownrigg</ref> levelled his stirrups
                   to the tune of 24 runs. Of the remainder only three managed to make scores, and amongst them, we may mention a good stroke for 5 of
-                     <ref target="#Reynolds">Reynolds</ref>. Owing to the excellent fielding of <ref target="#Shortt">Mr. Shortt</ref> as Longstop,
+                     <ref target="Reynolds">Reynolds</ref>. Owing to the excellent fielding of <ref target="Shortt">Mr. Shortt</ref> as Longstop,
                   they only managed to score 2 Byes.</p>
-               <p>The officers now went in, but did not make as much play as was expected: <ref target="#A_D_McArthur">Mr. McArthur's</ref> wicket
-                  being laid low by a "daisy clipper" from Bew at the very first ball. This, and the retiring of our <ref target="#Brownrigg"
+               <p>The officers now went in, but did not make as much play as was expected: <ref target="A_D_McArthur">Mr. McArthur's</ref> wicket
+                  being laid low by a "daisy clipper" from Bew at the very first ball. This, and the retiring of our <ref target="Brownrigg"
                      >Brownrigg</ref> (to whom all looked for a large score) soon after, by one of the same puzzlers, damped the spirits of the
-                  Gentlemen, but the good play of <ref target="#Theobald">Mr. Theobald</ref>, who kept the field alive till he was caught out by <ref
-                     target="#Cooper">Cooper</ref>: and of <ref target="#Shortt">Mr Shortt</ref>, who was finally run out, gave them renewed
+                  Gentlemen, but the good play of <ref target="Theobald">Mr. Theobald</ref>, who kept the field alive till he was caught out by <ref
+                     target="Cooper">Cooper</ref>: and of <ref target="Shortt">Mr Shortt</ref>, who was finally run out, gave them renewed
                   ardour.</p>
                <p>At the conclusion of the first innings which was a close struggle, both parties scored the same, and bets were now freely offered of
                   3 to 1 upon the Gentlemen.</p>
-               <p>The P.O's now went in again, and now <ref target="#Brownrigg">Mr. Brownrigg</ref> shone forth in his true light as a first rate
+               <p>The P.O's now went in again, and now <ref target="Brownrigg">Mr. Brownrigg</ref> shone forth in his true light as a first rate
                   Bowler: their best man soon had his wicket rattled down, and in one over three batsmen took their places and as quickly retired to
                   his well delivered balls which kept the umpire continually employed in repitching the wickets. The result was the P.O's second
                   innings only amounted to 41 runs, making a total of 90.</p>
-               <p><ref target="#Brownrigg">Mr Brownrigg</ref> and <ref target="#Shortt">Mr Shortt</ref> now took their places, and the play became
-                  remarkably good and lively, until <ref target="#Shortt">Mr Shortt</ref> unfortunately delivered a ball back to the bowler, and was
+               <p><ref target="Brownrigg">Mr Brownrigg</ref> and <ref target="Shortt">Mr Shortt</ref> now took their places, and the play became
+                  remarkably good and lively, until <ref target="Shortt">Mr Shortt</ref> unfortunately delivered a ball back to the bowler, and was
                   thus caught out.</p>
-               <p><ref target="#Wilkinson">Mr Wilkinson</ref> relieved him, and "fast and furious" was the game. Mr Brownrigg serving out 4s &amp; 5s,
-                  &amp; 3s to all parts of the field, <ref target="#Wilkinson">Mr Wilkinson</ref> backing him up with steady play, and some first rate
-                  forward drives. These two remained in for upwards of an hour together, till at last a "disturber" from <ref target="#Bew">Bew</ref>
-                  rattled the bails off <ref target="#Wilkinson">Mr Wilkinson's</ref> stumps, and came out with his flushing honours thick upon
+               <p><ref target="Wilkinson">Mr Wilkinson</ref> relieved him, and "fast and furious" was the game. Mr Brownrigg serving out 4s &amp; 5s,
+                  &amp; 3s to all parts of the field, <ref target="Wilkinson">Mr Wilkinson</ref> backing him up with steady play, and some first rate
+                  forward drives. These two remained in for upwards of an hour together, till at last a "disturber" from <ref target="Bew">Bew</ref>
+                  rattled the bails off <ref target="Wilkinson">Mr Wilkinson's</ref> stumps, and came out with his flushing honours thick upon
                   him.</p>
-               <p><ref target="#A_D_McArthur">Mr McArthur</ref> took his bat, but after adding 15 to the score, amongst which were two good hits for 5
-                  and 4, was run out: <ref target="#Theobald">Mr Theobald</ref> succeeded him, but what the others had apparently gained in play he
-                  appeared to have lost for <ref target="#Cooper">Cooper</ref> soon gained an opening into his wicket. <ref target="#Chute">Mr
-                     Chute</ref> and Mr Moore quickly followed and <ref target="#Oxley">Mr Oxley</ref> now took vis-a-vis to <ref target="#Brownrigg"
-                     >Mr Brownrigg</ref>, and played well and steadily, when darkness coming on the wickets were drawn, <ref target="#Brownrigg">Mr
+               <p><ref target="A_D_McArthur">Mr McArthur</ref> took his bat, but after adding 15 to the score, amongst which were two good hits for 5
+                  and 4, was run out: <ref target="Theobald">Mr Theobald</ref> succeeded him, but what the others had apparently gained in play he
+                  appeared to have lost for <ref target="Cooper">Cooper</ref> soon gained an opening into his wicket. <ref target="Chute">Mr
+                     Chute</ref> and Mr Moore quickly followed and <ref target="Oxley">Mr Oxley</ref> now took vis-a-vis to <ref target="Brownrigg"
+                     >Mr Brownrigg</ref>, and played well and steadily, when darkness coming on the wickets were drawn, <ref target="Brownrigg">Mr
                      Brownrigg</ref> carrying his bat out with a score of 102, and there being yet four wickets to go down.<lb/>The following is the
-                  score.<lb/>Officers v. Petty Officers<lb/><hi rend="underlined">"H.M.S. <ref target="#Chesapeake">Chesapeake</ref>"</hi></p>
+                  score.<lb/>Officers v. Petty Officers<lb/><hi rend="underlined">"H.M.S. <ref target="Chesapeake">Chesapeake</ref>"</hi></p>
                <table rows="13" cols="5">
                   <head>Petty Officers</head>
                   <row role="label">
@@ -1972,7 +1972,7 @@
                <head>
                   <ref target="variants.youngidea.xml#TYI11.05">"The Great Mo-gul"</ref>
                </head>
-               <p>This remarkable species of gull has lately been captured at <ref target="#Delhi">Delhi</ref> where it has existed for several
+               <p>This remarkable species of gull has lately been captured at <ref target="Delhi">Delhi</ref> where it has existed for several
                   centuries It is the largest gull known, as well as the most destructive, and truculent. In fact those who have effected its capture
                   deserve the gratitude of the world, as Hercules did for destroying the great Hydra. It is supposed that the species will soon be
                   extinct. Its plumage is said to have been very gorgeous, but is now considerably tarnished </p>
@@ -1985,15 +1985,15 @@
                   <ref target="variants.youngidea.xml#TYI11.06">Naval and Military Intelligence</ref>
                </head>
                <list type="simple">
-                  <item>On Monday the 15th Inst. H.M. Steam troop ship "Megoera" after being inspected by Commodore R.B. <ref target="#Watson"
+                  <item>On Monday the 15th Inst. H.M. Steam troop ship "Megoera" after being inspected by Commodore R.B. <ref target="Watson"
                         >Watson</ref> C.B, sailed for Sydney.</item>
                   <item>On Friday morning the small arm companies, field piece parties, and marines of the Squadron landed and performed a variety of
                      evolutions, returning on board at 7:30 A.M.</item>
-                  <item>H.M.S. <ref target="#Shannon">Shannon</ref> arrived at <ref target="#Garden_Reach">Garden Reach</ref> from Point De Galle on
-                     Thursday Evening and on Friday morning came up to <ref target="#Kolkata">Calcutta</ref> mooring ahead of the "<ref
-                        target="#Chesapeake">Chesapeake</ref>." She brings the 6th Regiment of Infantry, consisting of 22 officers 580 non
+                  <item>H.M.S. <ref target="Shannon">Shannon</ref> arrived at <ref target="Garden_Reach">Garden Reach</ref> from Point De Galle on
+                     Thursday Evening and on Friday morning came up to <ref target="Kolkata">Calcutta</ref> mooring ahead of the "<ref
+                        target="Chesapeake">Chesapeake</ref>." She brings the 6th Regiment of Infantry, consisting of 22 officers 580 non
                      commissioned officers and Rank and file, and 22 women and 60 children.</item>
-                  <item>H.M.S. "<ref target="#Chesapeake">Chesapeake</ref>" commenced provisioning on Friday. The launch laden with provisions, was
+                  <item>H.M.S. "<ref target="Chesapeake">Chesapeake</ref>" commenced provisioning on Friday. The launch laden with provisions, was
                      returning to her on Friday evening when she got aground and notwithstanding the strenuous efforts of W. Worsley, remained firmly
                      aground till the following morning at flood. Mr Shortt having volunteered to relieve Mr Worsley, remained in charge of her all
                      night.</item>
@@ -2004,7 +2004,7 @@
                <head>
                   <ref target="variants.youngidea.xml#TYI11.07">The "Calcutta Englishman" convicted of a Pun.</ref>
                </head>
-               <p>The <ref target="#Kolkata">Calcutta</ref> Englishman has actually been delivered of a pun. Hear it! Oh ye punsters of the earth, and
+               <p>The <ref target="Kolkata">Calcutta</ref> Englishman has actually been delivered of a pun. Hear it! Oh ye punsters of the earth, and
                   say what shall be done to our poor shore going contemporary. Describing the Military Review on the Espalanade (Novr 24) "They
                   halted" says the Englishman "near the Peepul tree, and People's tree it ought to be called for it was crowded with human denizens."
                   And this vile pun has actually gone home to England. What shall we do to the man who punned it? Shall we enroll him at once among
@@ -2019,12 +2019,12 @@
                   <ref target="variants.youngidea.xml#TYI11.08">Epitome</ref>
                </head>
                <list type="simple">
-                  <item>On Monday night the annual Ball given by the <ref target="#Kolkata">Calcutta</ref> Cricket Club came off. It was numerously
+                  <item>On Monday night the annual Ball given by the <ref target="Kolkata">Calcutta</ref> Cricket Club came off. It was numerously
                      attended and passed off most satisfactorily.</item>
                   <item>Our officers have been practising Cricket nearly every day of the past week as it was expected that they would be engaged to
                      play the P. and Os but the latter declined to accept the challenge.</item>
-                  <item>On Thursday Evening next the Amateurs of the H.M.S. <ref target="#Chesapeake">Chesapeake</ref> will perform at the <ref
-                        target="#Kolkata">Calcutta</ref> Lyric Theatre for the Benefit of the Indian Relief fund. The pieces named are "The Seven
+                  <item>On Thursday Evening next the Amateurs of the H.M.S. <ref target="Chesapeake">Chesapeake</ref> will perform at the <ref
+                        target="Kolkata">Calcutta</ref> Lyric Theatre for the Benefit of the Indian Relief fund. The pieces named are "The Seven
                      Clerks" and "Bombastes Furiosa" between which, nautical songs, hornpipes, &amp;c, will vary the amusements. Tickets 5rs each.
                      reserved seats.</item>
                </list>
@@ -2037,7 +2037,7 @@
                      her.</ref>
                </p>
                <p>"There are more ways out of the woods than one," as the rum said when saw a spile coming through the cask.</p>
-               <p>Maxim for a <ref target="#Kolkata">Calcutta</ref> Storekeeper. <ref target="variants.youngidea.xml#TYIappendix">"If you wish to go
+               <p>Maxim for a <ref target="Kolkata">Calcutta</ref> Storekeeper. <ref target="variants.youngidea.xml#TYIappendix">"If you wish to go
                      up in the world, stick well to your go-down.</ref></p>
             </div>
             <div type="section">
@@ -2111,10 +2111,10 @@
                      amusement</ref>, and we feel bound to afford all the space we can for the same The Rajah's dinner, &amp; marriage of his juvenile
                   granddaughter, the Cricket match between our Club &amp; the Squadron and our defeat; the success of our Amateurs in their
                   performance on Thursday night; all afford a supply of intelligence upon the requisite space for which we are loath to encroach. A
-                  few days more and we shall look back upon <ref target="#Kolkata">Calcutta</ref> and all the pleasures it has afforded us, as a
+                  few days more and we shall look back upon <ref target="Kolkata">Calcutta</ref> and all the pleasures it has afforded us, as a
                   mem'ry of the past, &amp; fresh scenes will meet us, and in turn give way to others. We shall almost regret the distance, which will
-                  soon be placed between us &amp; <ref target="#Kolkata">Calcutta</ref>, for we are desirous to know of the operations at <ref
-                     target="#Lucknow">Lucknow</ref>, and it is most likely we shall not hear of the events which will take place in that quarter
+                  soon be placed between us &amp; <ref target="Kolkata">Calcutta</ref>, for we are desirous to know of the operations at <ref
+                     target="Lucknow">Lucknow</ref>, and it is most likely we shall not hear of the events which will take place in that quarter
                   until some time after their occurrence. We earnestly hope that the blow may be struck speedily, &amp; let us not forget, in our
                   regret for our absence that it is certain to be "all for the best":- for our actions and movements are under the wise ordinance of
                   One who knows more than we can, and who "disposes, when man proposes."</p>
@@ -2275,20 +2275,20 @@
                   <ref target="variants.youngidea.xml#TYI12.03">Match between the Chesapeake &amp; Squadron</ref>
                </head>
 
-               <p>On Thursday afternoon a Cricket Match took place between the "<ref target="#Chesapeake">Chesapeake</ref>" eleven, and the Squadron
+               <p>On Thursday afternoon a Cricket Match took place between the "<ref target="Chesapeake">Chesapeake</ref>" eleven, and the Squadron
                   eleven, which resulted we are sorry to say in the defeat of the former. The wickets were pitched at 2 P.M. on the ground near <ref
-                     target="#Ochterlony_Monument">the Ochterbury monument</ref>, the squadron eleven going into the wickets first. The play was
-                  remarkably good, but we consider that the high score made by Mr. <ref target="#Hope">Hope</ref> was the cause of the Squadron
+                     target="Ochterlony_Monument">the Ochterbury monument</ref>, the squadron eleven going into the wickets first. The play was
+                  remarkably good, but we consider that the high score made by Mr. <ref target="Hope">Hope</ref> was the cause of the Squadron
                   proving the winners. We must give due credit to them, they played beautifully, and owing to their good fielding, the <ref
-                     target="#Chesapeake">Chesapeake</ref>'s were sadly cut up for runs.</p>
-               <p>The <ref target="#Chesapeake">Chesapeake</ref>'s batted much better than they fielded, indeed, it was a strange fact, that those
+                     target="Chesapeake">Chesapeake</ref>'s were sadly cut up for runs.</p>
+               <p>The <ref target="Chesapeake">Chesapeake</ref>'s batted much better than they fielded, indeed, it was a strange fact, that those
                   from whom little was expected, played well and steadily, and did much to the augmentation of the score. They were greatly dispirited
-                  at the early overthrow of their best man Mr <ref target="#Brownrigg">Brownrigg</ref>, who striking at a ball which was pitched high
+                  at the early overthrow of their best man Mr <ref target="Brownrigg">Brownrigg</ref>, who striking at a ball which was pitched high
                   over his head, tipped the ball right into the hands of mid-wicket.</p>
-               <p>The <ref target="#Chesapeake">Chesapeake</ref>'s were very anxious to finish the game (only one innings having been played) by a
+               <p>The <ref target="Chesapeake">Chesapeake</ref>'s were very anxious to finish the game (only one innings having been played) by a
                   second innings on the following day, but the squadron, anxious perhaps to retain the victory, appeared unwilling &amp; finally
                   stated that circumstances would prevent them from playing, and they also declined playing this afternoon, much to the <ref
-                     target="#Chesapeake">Chesapeake</ref>'s regret.</p>
+                     target="Chesapeake">Chesapeake</ref>'s regret.</p>
 
                <table rows="14" cols="3">
                   <head>Squadron Eleven</head>
@@ -2445,8 +2445,8 @@
                <head>
                   <ref target="variants.youngidea.xml#TYI12.04">The Theatre</ref>
                </head>
-               <p>On Thursday evening the Amateurs of HMS <ref target="#Chesapeake">Chesapeake</ref> performed for the first time at the <ref
-                     target="#Kolkata">Calcutta</ref> Lyric Theatre. The Drama performed was <ref rend="new"
+               <p>On Thursday evening the Amateurs of HMS <ref target="Chesapeake">Chesapeake</ref> performed for the first time at the <ref
+                     target="Kolkata">Calcutta</ref> Lyric Theatre. The Drama performed was <ref rend="new"
                      target="http://victorian.nuigalway.ie/modx/assets/docs/pdf/Vol40ixSeven.pdf">The Seven Clerks" or the Thief &amp; the
                      Denouncer.</ref></p>
                <p>We cannot speak too highly of the creditable manner in which the performers acted, although a shore going paper has been pleased to
@@ -2456,18 +2456,18 @@
                      unwarrantable attack upon the labours of our men.</ref></p>
                <p>The purely acrimonious composition and illiberal manner in which the several "dramatis personae" are pulled to pieces could not have
                   proceeded from any other source, than that of envy and vexation at the successful result of the entertainment, which the writer who
-                  is doubtless a member of the <ref target="#Kolkata">Calcutta</ref> Amateur Performers, never before witnessed, when himself and
+                  is doubtless a member of the <ref target="Kolkata">Calcutta</ref> Amateur Performers, never before witnessed, when himself and
                   fellow players have acted.</p>
                <p>But we can afford to take no more notice of him.</p>
-               <p>The Drama was ably supported by the various characters, <ref target="#George_Horner"/>Geo Horner as the Miser, Claude Darnaud was
-                  perfect, and <ref target="#Henry_Underhill"/>Hy Underhill as Simon Siggel, in the hunger which he so well portrayed, produced a
+               <p>The Drama was ably supported by the various characters, <ref target="George_Horner"/>Geo Horner as the Miser, Claude Darnaud was
+                  perfect, and <ref target="Henry_Underhill"/>Hy Underhill as Simon Siggel, in the hunger which he so well portrayed, produced a
                   sympathetic feeling, which we were under the necessity of allaying directly the theatre closed. We unfortunately cannot spare the
                   space to bring all of the actors to notice, but it will be enough to say that they gave general satisfaction with the exception of
                   our rancorous friend.</p>
-               <p>The conclusion, the laughable burlesque tragic opera Bombastes Furioso, was ably sustained and to <ref target="#Henry_Underhill"
+               <p>The conclusion, the laughable burlesque tragic opera Bombastes Furioso, was ably sustained and to <ref target="Henry_Underhill"
                      >Henry Underhill</ref> as General Bombastes, we must here give the palm for the inimitable manner in which he carried out his
                   part.</p>
-               <p>The band of the <ref target="#Chesapeake">Chesapeake</ref> attended and contributed largely to the entertainment, a prologue written
+               <p>The band of the <ref target="Chesapeake">Chesapeake</ref> attended and contributed largely to the entertainment, a prologue written
                   expressly for the occasion by one of the performers was highly thought of and a hornpipe by Thomas Walsh was enthusiastically
                   encored.</p>
                <p>We were very glad to see the front circles so well filled, the ladies appearing to enjoy the novel scene, especially, and we may say
@@ -2479,10 +2479,10 @@
                   <ref target="variants.youngidea.xml#TYI12.05">Naval Intelligence</ref>
                </head>
                <list type="simple">
-                  <item>H.M. Gunboat Roebuck arrived on Wednesday afternoon bringing <ref target="#Parkin">Commander G. H. Parkin</ref> to join the
-                        "<ref target="#Chesapeake">Chesapeake</ref>."</item>
-                  <item>H.M.S. <ref target="#Chesapeake">Chesapeake</ref> is to sail on Monday for <ref target="#Chennai">Madras</ref>, whither she
-                     will convey Viscountess <ref target="#Charlotte_Canning">Canning</ref>. The Hon. Mrs Stuart, the Hon <choice>
+                  <item>H.M. Gunboat Roebuck arrived on Wednesday afternoon bringing <ref target="Parkin">Commander G. H. Parkin</ref> to join the
+                        "<ref target="Chesapeake">Chesapeake</ref>."</item>
+                  <item>H.M.S. <ref target="Chesapeake">Chesapeake</ref> is to sail on Monday for <ref target="Chennai">Madras</ref>, whither she
+                     will convey Viscountess <ref target="Charlotte_Canning">Canning</ref>. The Hon. Mrs Stuart, the Hon <choice>
                         <expan>Captain</expan>
                         <abbr>Capt</abbr>
                      </choice> Stanley, &amp; Attendants.</item>
@@ -2556,18 +2556,18 @@
                      more our gallant craft obeys the impulse of her wondrous motive power.</ref> Once more the fresh sea breezes fan our heated
                   brows, and we feel their invigorating influence; again in the quiet routine of a sea life we can sit down to peruse our latest
                   intelligence from home, to dream over the past, to form conjectures on the future; again we partake of the pleasures of quiescence,
-                  after the excitement attendant upon our stay at <ref target="#Kolkata">Calcutta</ref>.</p>
+                  after the excitement attendant upon our stay at <ref target="Kolkata">Calcutta</ref>.</p>
                <p>We can now look back and ponder upon all we have seen and done, fixing the past scenes and events firm ly in our memories, in that
                   handy memorandum-book, whence in future days we may glean pleasure to ourselves and others by drawing forth from the hidden stores,
                   with which it is enriched: many any interesting account of the "City of Palaces" and other places we have visited, and yet may
                   visit.</p>
                <p>In our present trip we are happily not Entirely debarred from the generous influence, which is ever cast over man by the presence
-                  and society of the "fair sex", and even the knowledge that we are conveying to <ref target="#Chennai">Madras</ref>, the <ref
-                     target="#Charlotte_Canning">Viscountess Canning</ref> and Honble Mrs Stuart, deprives us of the general laxity which
+                  and society of the "fair sex", and even the knowledge that we are conveying to <ref target="Chennai">Madras</ref>, the <ref
+                     target="Charlotte_Canning">Viscountess Canning</ref> and Honble Mrs Stuart, deprives us of the general laxity which
                   characterizes us at sea, and causes us to pay more regard to the higher essentials of good breeding, casting aside the ordinary
                   roughness which we assume as soon as the anchor is weighed.</p>
                <p>We hope that a speedy passage may be our fortune, and that it may be our lot to drop anchor once more in the quiet, peaceful harbour
-                  of <ref target="#Trincomalee">Trincomalee</ref>, there to enjoy the many pleasures which this little spot affords.</p>
+                  of <ref target="Trincomalee">Trincomalee</ref>, there to enjoy the many pleasures which this little spot affords.</p>
             </div>
 
             <div type="section">
@@ -2582,16 +2582,16 @@
                <p>The "Young Idea" has now passed triumphant thro' those various dangers to which infancy is subject:- it is in its "teens", and its
                   growing strength and vigour may give good hope that it is not intended to come to an early end.</p>
                <p>Breathing manly and generous sentiments, enriched with an undercurrent of quiet humour, free from all those personalities, which at
-                  first were dreaded, faithfully recording the thoughts and actions of those on board the "<ref target="#Chesapeake"
+                  first were dreaded, faithfully recording the thoughts and actions of those on board the "<ref target="Chesapeake"
                   >Chesapeake</ref>"</p>
                <p>"The Young Idea" is now established amongst us as a welcome weekly visitor, and as such I trust it may appear before us each
                   Saturday, and only cease its visits with the return of our floating home to England, and the separation, and dispersion of the "<ref
-                     target="#Chesapeake">Chesapeake</ref>s"</p>
+                     target="Chesapeake">Chesapeake</ref>s"</p>
                <p>Believe me<lb/> Dear Sir<lb/> Yours Truly</p>
                <p>
                   <hi rend="underlined">"Shipmate"</hi>
                </p>
-               <p><ref target="#Chesapeake">Chesapeake</ref><lb/> 4 March 1858.</p>
+               <p><ref target="Chesapeake">Chesapeake</ref><lb/> 4 March 1858.</p>
 
 
                <p>Ed. We feel highly flattered, and can only say that our success is our reward.</p>
@@ -2608,7 +2608,7 @@
                <p>To the Editor of the "Young Idea"<lb/>Dear Sir</p>
                <p>Much disappointment has been caused by your passing over with so slight a mention, what we have considered one of the principal
                   events in our nautical existence; namely the landing of our Bluejackets, and Marines on the morning of the 19th February, for
-                  exercise on the <ref target="#Kolkata">Calcutta</ref> Esplanade. All performed their part so well, all returned to the ship so
+                  exercise on the <ref target="Kolkata">Calcutta</ref> Esplanade. All performed their part so well, all returned to the ship so
                   pleased at their own performance, that I hope, Mr. Editor you will not consider me too obtrusive if I beg for a little longer
                   notice. Everybody knows that the soul of an Editor is everywhere present and that he sees everything and that nothing can escape his
                   keep observation</p>
@@ -2627,11 +2627,11 @@
                   caused to ourselves, and great wonderment to the native niggers, and we only wished that a few hundred Sepoys were there to practice
                   upon in real earnest. As for the Marine Light Infantry they went right away all over the field and I did not wonder at their having
                   a jolly good run - skirmishing they called it - after being so long penned up on board ship.</p>
-               <p>The "bang, bang", of our field pieces, now drew the attention of all <ref target="#Kolkata">Calcutta</ref> upon us, and the
+               <p>The "bang, bang", of our field pieces, now drew the attention of all <ref target="Kolkata">Calcutta</ref> upon us, and the
                   fashionable ladies and gentlemen who were out riding, came flocking round us to see so novel a spectacle. The artillery did as
                   beautifully as all the rest of us, and even the small guns worked by small boys, made a very considerable noise on this eventful
                   occasion. But everything must have an end, Mr Editor, so had our field practice, &amp; so also must my letter. See us again drawn up
-                  in the line of march, again the lively strains of the "Cheasapeake's" band float over the <ref target="#Kolkata">Calcutta</ref>
+                  in the line of march, again the lively strains of the "Cheasapeake's" band float over the <ref target="Kolkata">Calcutta</ref>
                   Esplanade, &amp; crowds of Hindoo niggers flock round to see the Regiment of British Tars returning to their "Wooden Walls"</p>
                <p>It would be unjust not to mention how these wooden walls were guarded in our absence, and how gallantly the Idlers on board prepared
                   to repel boarders in case of invasion:- Those who saw the ship's tailor, doing sentry's duty, with his shears laid aside, and his
@@ -2639,7 +2639,7 @@
                <p>Believe me,<lb/> Dear Sir,<lb/>
                   <hi rend="underlined">Yours Respectfully</hi></p>
                <p>Bluejacket</p>
-               <p><ref target="#Chesapeake">Chesapeake</ref><lb/>5 March/58</p>
+               <p><ref target="Chesapeake">Chesapeake</ref><lb/>5 March/58</p>
 
 
             </div>
@@ -2656,11 +2656,11 @@
                   merely upon a sentence extracted here and there but upon the general sentiment it contains. It opens with a personal cut at Mr. Van
                   Gelder, thereby evincing that a wish to bring him before the public as a laughing stock, was a prominent feature in the desire to
                   ridicule, which animated the narrow mind, which presumed to judge of our Amateurs performance. The writer then proceeds to state
-                  that "he trembled for the fate of those of Neptune's Hardy Sons"—for why? because "the beauty and fashion of <ref target="#Kolkata"
+                  that "he trembled for the fate of those of Neptune's Hardy Sons"—for why? because "the beauty and fashion of <ref target="Kolkata"
                      >Calcutta</ref> were present," most likely he imagined the "hardy sons of Neptune" could never stand a battery of bright eyes,
                   however brave when confronting a battery of heavy guns. But we cannot afford space to pull him to pieces in the manner he deserves,
                   but we must notice one thing. The word "Ditchers." such is the very euphonious appellation which the Histrionic Critic of the
-                  Hurkaru claims for himself and his copeers of <ref target="#Kolkata">Calcutta</ref>. We will not now enquire into the origin of the
+                  Hurkaru claims for himself and his copeers of <ref target="Kolkata">Calcutta</ref>. We will not now enquire into the origin of the
                   name, but simply observe that such being the title of our assailant, we need not feel surprised to find him such an adept in the art
                   of "flinging mud." We close this article by publishing the Prologue which was read and written expressly for the occasion.</p>
                <lg>
@@ -2707,29 +2707,29 @@
                   <l>And now my friends with Avon's Bard, I pray</l>
                   <l>Gently you'll judge, kindly you'll hear our play.</l>
                </lg>
-               <p>As <ref target="#Henry_Montagu">Montagu</ref> was the composer of this really creditable piece. We are glad to say that the other
-                     <ref target="#Kolkata">Calcutta</ref> Journals, gave a very good account of the performance.</p>
+               <p>As <ref target="Henry_Montagu">Montagu</ref> was the composer of this really creditable piece. We are glad to say that the other
+                     <ref target="Kolkata">Calcutta</ref> Journals, gave a very good account of the performance.</p>
             </div>
             <div type="section">
                <head>
                   <ref target="variants.youngidea.xml#TYI13.05">Naval Intelligence</ref>
                </head>
                <list type="simple">
-                  <item>1st March H.M.S. <ref target="#Chesapeake">Chesapeake</ref> unmoored this morning &amp; proceeded down the <ref
-                        target="#Hugli_River">Hooghly</ref>. She came to anchor at 3.</item>
+                  <item>1st March H.M.S. <ref target="Chesapeake">Chesapeake</ref> unmoored this morning &amp; proceeded down the <ref
+                        target="Hugli_River">Hooghly</ref>. She came to anchor at 3.</item>
                   <item>2d Weighed at 12.10 and proceeded, anchoring at half past 4. On letting go the Port Anchor when the strain came on the cable
                      it parted close to the bitts. Let go starboard anchor.</item>
-                  <item>3d Weighed at 10.30 and proceeded, anchored at 4.30 off <ref target="#Khejuri">Kedgeree</ref>.</item>
-                  <item>4th Weighed at 9.20 a.m. and anchored at 12.30 p.m. The Steamer <ref target="#Canning">Canning</ref> arrived from <ref
-                        target="#Kolkata">Calcutta</ref>, and anchored alongside about 3 bringing down Viscountess <ref target="#Charlotte_Canning"
+                  <item>3d Weighed at 10.30 and proceeded, anchored at 4.30 off <ref target="Khejuri">Kedgeree</ref>.</item>
+                  <item>4th Weighed at 9.20 a.m. and anchored at 12.30 p.m. The Steamer <ref target="Canning">Canning</ref> arrived from <ref
+                        target="Kolkata">Calcutta</ref>, and anchored alongside about 3 bringing down Viscountess <ref target="Charlotte_Canning"
                         >Canning</ref>, the Honble Mr rs Stuart and attendants. The</item>
                   <item>Commodore went for her ladyship in his barge, and was received on her coming on board, with a guard of Marines, the band,
                      &amp; the officers in undress.</item>
-                  <item>5th Weighed this morning at 11. Lady <ref target="#Charlotte_Canning">Canning</ref> &amp; retinue on board for <ref
-                        target="#Chennai">Madras</ref>.</item>
-                  <item>The Chinese mail was boarded and by it Commodore <ref target="#Watson">Watson</ref> received despatches from Adm l <ref
-                        target="#Beauchamp_Seymour">Seymour</ref>.</item>
-                  <item><ref target="#Brownrigg">Mr Brownrigg</ref> received official intimation of his promotion to Lieutenant, &amp; leaves the Gun
+                  <item>5th Weighed this morning at 11. Lady <ref target="Charlotte_Canning">Canning</ref> &amp; retinue on board for <ref
+                        target="Chennai">Madras</ref>.</item>
+                  <item>The Chinese mail was boarded and by it Commodore <ref target="Watson">Watson</ref> received despatches from Adm l <ref
+                        target="Beauchamp_Seymour">Seymour</ref>.</item>
+                  <item><ref target="Brownrigg">Mr Brownrigg</ref> received official intimation of his promotion to Lieutenant, &amp; leaves the Gun
                      Room Mess, much to their regret.</item>
                </list>
             </div>
@@ -2739,7 +2739,7 @@
                </head>
                <p>A human specimen of the Vegetable Kingdom. A man with carrotty locks, reddish cheeks, a turn up nose, and a sage expression of
                   countenance. When we add a mouth enclosed by two lips (tulips) we think we have described a decided link between the animal and
-                  vegetable kingdom.<lb/> A friend enquires whether, when the unfortunate "<ref target="#Ava">Ava</ref>" was launched, the scene
+                  vegetable kingdom.<lb/> A friend enquires whether, when the unfortunate "<ref target="Ava">Ava</ref>" was launched, the scene
                   presented was an "Avalanche"<lb/> A correspondent has sent us the following Riddle. What country in Africa is like fresh brewed malt
                   liquour? Answer Nubia (New Beer) Really after this we must exclaim "What next?"</p>
             </div>
@@ -2748,14 +2748,14 @@
                   <ref target="variants.youngidea.xml#TYI13.07">Epitome</ref>
                </head>
                <list type="simple">
-                  <item>The <ref target="#Ava">Ava</ref> P.&amp;O Co.'s steam packet has been totally wrecked near <ref target="#Trincomalee"
+                  <item>The <ref target="Ava">Ava</ref> P.&amp;O Co.'s steam packet has been totally wrecked near <ref target="Trincomalee"
                         >Trincomalee</ref> with 25 lakhs of rupees &amp; the mails on board.</item>
                   <item>The Leviathan is afloat.</item>
-                  <item><ref target="#Sir_William_Peel"><choice>
+                  <item><ref target="Sir_William_Peel"><choice>
                            <expan>Captain</expan>
                            <abbr>Capt</abbr>
                         </choice> Peel</ref> has been rewarded with a K.C.B.</item>
-                  <item>H.M.S. <ref target="#Pylades">Pylades</ref> goes shortly to Suez</item>
+                  <item>H.M.S. <ref target="Pylades">Pylades</ref> goes shortly to Suez</item>
                </list>
             </div>
             <div type="section">
@@ -2936,7 +2936,7 @@
             <head type="sub">No 16</head>
             <div type="section">
                <p>[detailed account of attempts to recover treasure from the Ava, and especially the purchase of a new diving suit from Madras that,
-                  upon first use, proved "fatal to one of our best men." Sent off some of the Ava with a P and O ship, <ref target="#Bentinck"
+                  upon first use, proved "fatal to one of our best men." Sent off some of the Ava with a P and O ship, <ref target="Bentinck"
                      >Bentinck</ref> and got news and letters from home]</p>
             </div>
             <div type="section">
@@ -4014,7 +4014,7 @@
             <div type="section">
                <head>Epitome</head>
                <p>On Monday Oct 25 preparations were made for the reception of His Excellency Nemuk Pacha, and the English &amp; French Commissioners,
-                  but his Excellency being indiscposed after visiting the "<ref target="#Pelorus">Pelorus</ref>" was unable to visit us. The
+                  but his Excellency being indiscposed after visiting the "<ref target="Pelorus">Pelorus</ref>" was unable to visit us. The
                   Commissioners however came on board and inspected the ship.[...general reports of storms and boredom]</p>
             </div>
             <div type="section">
@@ -4051,7 +4051,7 @@
             <div type="section">
                <head>No Title</head>
                <p>Our past week has produced one circumstance which had caused some little excitement amongst the squadron, and has for a short period
-                  dispeled the monotony of our life; we refer to the race between our Barge and the "<ref target="#Pelorus">Pelorus</ref>'s"
+                  dispeled the monotony of our life; we refer to the race between our Barge and the "<ref target="Pelorus">Pelorus</ref>'s"
                   Cutter.[...][...]</p>
             </div>
             <div type="section">
@@ -4085,7 +4085,7 @@
             </div>
             <div type="section">
                <head type="main">SPORTING INTELLIGENCE</head>
-               <head type="sub">Boat Race between the Chesapeakes Barge and <ref target="#Pelorus">Pelorus</ref>'s Cutter.></head>
+               <head type="sub">Boat Race between the Chesapeakes Barge and <ref target="Pelorus">Pelorus</ref>'s Cutter.></head>
                <p>[...]</p>
             </div>
             <div type="section">
@@ -4108,7 +4108,7 @@
             <div type="section">
                <head type="main">Epitome</head>
                <head type="sub">Festivities in the Ward room.</head>
-               <p>On Wednesday Evening 25th Inst several officers from "<ref target="#Cyclops">Cyclops</ref>" and "<ref target="#Pelorus"
+               <p>On Wednesday Evening 25th Inst several officers from "<ref target="Cyclops">Cyclops</ref>" and "<ref target="Pelorus"
                      >Pelorus</ref>" assembled on board the "Chesapeake" and after much merry dancing while the Band was playing on the Main Deck,
                   retired to the Ward room to finish the Evening with a bowl of punch, and a few concomitant songs [more details about celebrations
                   and such...]</p>
@@ -4246,7 +4246,7 @@
             </div>
 
             <div type="section">
-               <head>Chesapeake's Greeting to "<ref target="#Pelorus">Pelorus</ref></head>
+               <head>Chesapeake's Greeting to "<ref target="Pelorus">Pelorus</ref></head>
                <lg>
                   <l>We've pull'd and we've sail'd together</l>
                   <l>[...]</l>
@@ -4391,7 +4391,7 @@
             </div>
 
             <div type="section">
-               <head>Chesapeake's Greeting to "<ref target="#Pelorus">Pelorus</ref></head>
+               <head>Chesapeake's Greeting to "<ref target="Pelorus">Pelorus</ref></head>
                <lg>
                   <l>We've pull'd and we've sail'd together</l>
                   <l>[...]</l>
@@ -4441,7 +4441,7 @@
                      published in this lithograph edition. </note></head>
                <p>Our Christmas play came off in right merry style on Wednesday Evening (29 Decr). Our quarter deck, roofed in with flags of all
                   nations, presented as gay a Theatre as one would wish to see, while the rising tiers of benches from the deck to the bridge abaft,
-                  accommodated a large and happy audience, not only of our own bluejackets, but of those from the "<ref target="#Pelorus"
+                  accommodated a large and happy audience, not only of our own bluejackets, but of those from the "<ref target="Pelorus"
                      >Pelorus</ref>", the "DuChayla" and the "Roebuck".</p>
                <p>We are proud of our Amateur Performers, who have this time surpassed themselves. The comedy of King Charles the Second" being cast
                   as on the last occasion, we need say little, except to compliment the fair "Mary" the Wapping beauty, around whom the whole plot
@@ -4567,7 +4567,7 @@
                      what took place, tho' indeed I write even now with a feeling of horror at the spectacle At 4 am, as you know, we were all astir,
                      coffee being served out to the Marines and Boats' crews who were to attend. At One Bell we shoved off from the ship, and it still
                      wanted some time to daylight when we mustered, under Captain Seymour's orders, abreast of the old Turkish hulk whihc is lying off
-                     the town. The "<ref target="#Pelorus">Pelorus</ref>"' Boats were there and those of the "Ducayla" a goodly squadron in all, three
+                     the town. The "<ref target="Pelorus">Pelorus</ref>"' Boats were there and those of the "Ducayla" a goodly squadron in all, three
                      Pinnaces, besides several cutters, and two or three light gigs. The Pinnaces each carried their brass gun in the bows, and all
                      the Boat's crews were well provided with arms, and ammunition in case of any sudden outbreak of the natives. As daylight broke
                      over the walls and minarets of Jeddah, and the more distant hills that bound our landscape to the Eastward, we started from our
@@ -4622,7 +4622,7 @@
                      it afresh.</p>
                   <p>I was only too glad when the order was given to leave this scene of blood &amp; reembark in our boats. I am sure that not one of
                      those who saw it woudl ever with to witness such another scene</p>
-                  <p>Captain Seymour, H.M.S. "<ref target="#Pelorus">Pelorus</ref>" commanded our force, and was present inside the Square, attended
+                  <p>Captain Seymour, H.M.S. "<ref target="Pelorus">Pelorus</ref>" commanded our force, and was present inside the Square, attended
                      by the Commodore's Secretary and an Aide-de-camp, while Capt Tricault of "Duchayla" remained in charge of the boat squadron.</p>
                   <p>I remain Dear Sir<lb/>Yours truly</p>
                   <p>"Eye Witness"</p>
@@ -4793,7 +4793,7 @@
                </div>
                <div type="section">
                   <head>Promotions &amp; Appointments</head>
-                  <p>[...]8th <ref target="#A_D_McArthur">Mr A.D. McArthur</ref> Clerk having passed provisionally before Mr Hayward Paymaster to be
+                  <p>[...]8th <ref target="A_D_McArthur">Mr A.D. McArthur</ref> Clerk having passed provisionally before Mr Hayward Paymaster to be
                      Act Asst Paymr[...]</p>
                </div>
                <div type="section">
