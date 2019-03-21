@@ -55,47 +55,23 @@
          <particDesc>
             <listPerson>
                <person xml:id="Franey">
-                  <note>What can we know about Franey other than "(steerage servant) a veteran"<bibl>
-                        <author><persName>Lessig, Lawrence</persName></author>. <title>Free Culture</title>: <title type="sub">How Big Media Uses
-                           Technology and the Law to Lock Down Culture and Control Creativity</title>. <publisher>The Penguin Press</publisher>,
-                           <pubPlace>New York</pubPlace>; <date when="2004"/>. <idno type="ISBN">1-59420-006-8</idno>
-                     </bibl></note>
+                  <note>What can we know about Franey other than "(steerage servant) a veteran"</note>
                </person>
                <person xml:id="Williams_carpenter">
-                  <note>What can we know about Williams other than that he played Variella?<bibl>
-                        <author><persName>Lessig, Lawrence</persName></author>. <title>Free Culture</title>: <title type="sub">How Big Media Uses
-                           Technology and the Law to Lock Down Culture and Control Creativity</title>. <publisher>The Penguin Press</publisher>,
-                           <pubPlace>New York</pubPlace>; <date when="2004"/>. <idno type="ISBN">1-59420-006-8</idno>
-                     </bibl></note>
+                  <note>What can we know about Williams other than that he played Variella?</note>
                </person>
                <person xml:id="Bunnell">
-                  <note>We know many things about Bunnell. page 8 of 48 in pdf of macedonian musters...says some things that are a bit illegible<bibl>
-                        <author><persName>Lessig, Lawrence</persName></author>. <title>Free Culture</title>: <title type="sub">How Big Media Uses
-                           Technology and the Law to Lock Down Culture and Control Creativity</title>. <publisher>The Penguin Press</publisher>,
-                           <pubPlace>New York</pubPlace>; <date when="2004"/>. <idno type="ISBN">1-59420-006-8</idno>
-                     </bibl></note>
+                  <note>We know many things about Bunnell. page 8 of 48 in pdf of macedonian musters...says some things that are a bit illegible</note>
                </person>
                <person xml:id="Williams_Sneer">
                   <note>Also perhaps of the foretop? perhaps 9 of 48 in musters document (could also be the John Williams on page 11 of 48 also could
-                     be thomas williams, also on the same page (11 of 48)?<bibl>
-                        <author><persName>Lessig, Lawrence</persName></author>. <title>Free Culture</title>: <title type="sub">How Big Media Uses
-                           Technology and the Law to Lock Down Culture and Control Creativity</title>. <publisher>The Penguin Press</publisher>,
-                           <pubPlace>New York</pubPlace>; <date when="2004"/>. <idno type="ISBN">1-59420-006-8</idno>
-                     </bibl></note>
+                     be thomas williams, also on the same page (11 of 48)?</note>
                </person>
                <person xml:id="Fanigan">
-                  <note>Worked on scenery...possibly John Fanigan page 7 of 48 in pdf of macedonian musters<bibl>
-                        <author><persName>Lessig, Lawrence</persName></author>. <title>Free Culture</title>: <title type="sub">How Big Media Uses
-                           Technology and the Law to Lock Down Culture and Control Creativity</title>. <publisher>The Penguin Press</publisher>,
-                           <pubPlace>New York</pubPlace>; <date when="2004"/>. <idno type="ISBN">1-59420-006-8</idno>
-                     </bibl></note>
+                  <note>Worked on scenery...possibly John Fanigan page 7 of 48 in pdf of macedonian musters</note>
                </person>
                <person xml:id="Horton">
-                  <note>of the foretop, played Briefwit<bibl>
-                        <author><persName>Lessig, Lawrence</persName></author>. <title>Free Culture</title>: <title type="sub">How Big Media Uses
-                           Technology and the Law to Lock Down Culture and Control Creativity</title>. <publisher>The Penguin Press</publisher>,
-                           <pubPlace>New York</pubPlace>; <date when="2004"/>. <idno type="ISBN">1-59420-006-8</idno>
-                     </bibl></note>
+                  <note>of the foretop, played Briefwit</note>
                </person>
             </listPerson>
             <listOrg>
@@ -119,7 +95,7 @@
 
          <pb n="15"/>
          <div>
-            <head>20th</head>
+            <head>25th</head>
             <p>Much rain during the 24 hours the crew employed washing their clothes. <!--  Lat. Ob 30. 11.S Long: by d:r. 42.44'W. Thermo: 74-->
                Written hand bills were distributed about the ship this afternoon, giving notice that a play called the "Weather Cock," with an after
                piece <hi rend="underline">entitled</hi> the Sailor's Fortune, would be performed in the evening. The <choice>
