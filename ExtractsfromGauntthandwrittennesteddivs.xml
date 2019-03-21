@@ -61,7 +61,8 @@
                   <note>What can we know about Williams other than that he played Variella?</note>
                </person>
                <person xml:id="Bunnell">
-                  <note>We know many things about Bunnell. page 8 of 48 in pdf of macedonian musters...says some things that are a bit illegible</note>
+                  <note>We know many things about Bunnell. page 8 of 48 in pdf of macedonian musters...says some things that are a bit
+                     illegible</note>
                </person>
                <person xml:id="Williams_Sneer">
                   <note>Also perhaps of the foretop? perhaps 9 of 48 in musters document (could also be the John Williams on page 11 of 48 also could
@@ -72,6 +73,9 @@
                </person>
                <person xml:id="Horton">
                   <note>of the foretop, played Briefwit</note>
+               </person>
+               <person xml:id="Goodfellow">
+                  <note>New hand at the bellows, plays gardener in scene with Tristram</note>
                </person>
             </listPerson>
             <listOrg>
@@ -227,7 +231,7 @@
                         <orig>imp</orig>
                         <corr/>
                      </choice><pb n="22"/>important part of the Weathercock, was assigned to the <hi rend="underline">Natural</hi> and <hi
-                        rend="underline">acquired</hi>abilities of <persName ref="#Bunnell"><hi rend="underline">Mr</hi> David C. Bunnel</persName>,
+                        rend="underline">acquired</hi> abilities of <persName ref="#Bunnell"><hi rend="underline">Mr</hi> David C. Bunnel</persName>,
                      who has for a length of time appeared, with so much honor to himself and advantage to the community, upon the Theatre of the
                      Congress and Macedonian Frigates. He is not however, without his imperfections, and in reminding him of them, we have not only
                      the reputation of the stage at heart, but that of his own welfare on this stage, and that to which he may be translated. In that
@@ -236,9 +240,52 @@
                      Johnson, Walker &amp; others, In pronouncing Demosthenes, he says Demosthenes, which must be disgusting to those who are familiar
                      with pointing and diction</p>
                   <p>In another part he says the Ane_than instead ofthe Athenean Orator, We hope that he will make it his study to repair the damages
-                     done to the King's English</p>
+                     done to the "King's English" by a proper adherence to the rules of pronunciation, in order that the brilliancy of his Theatrical
+                     abilities may not be tinged by imperfections which require little or no gumption to remove.</p>
+                  <p>In regard to <persName ref="#Williams_Sneer">Mr Williams</persName>, of the Fore Top, we doubt not but that he possesses
+                        <add>more</add> assurance than generally falls to the lot of Mankind._ It is not within the compass of our power to conceive
+                     what it was that actuated <hi rend="underline">Mr</hi> W. to embard in that line <choice>
+                        <orig>of</orig>
+                        <corr/>
+                     </choice><pb n="23"/>of life, for which he has neither Earthly nor Heavenly capacity, and we are at a loss to know what will
+                     cause him to recede from that line of life which ruins his judgement, and consigns his reputation to merited contempt and just
+                     indignation._</p>
+                  <p>In regard to Old Fickle, great allowances should be made, a little of that <hi rend="underline">Twang</hi> which seems to be
+                     forced more than Natural should give way for more "Ease and Elegance" in pronunciation, toge<del>a</del>ther with a more
+                     retentive memory, that recourse need not be had to written parts in presence of the Audience._</p>
+                  <p>Great credit is due to the unwearied exertions of <persName ref="#Fanigan"><hi rend="underline">Mr</hi> Fanigan</persName>, who
+                     has been zealously employed in getting up the scenery &amp;c &amp;c. One gross mistake however, caught our Eye as soon as we
+                     entered the room, which was a Turkey Buzzard substituted for the American Coat of Arms. Without this, the scenery was in every
+                     respect complete._</p>
+                  <p><persName ref="#Goodfellow"><hi rend="underline">Mr</hi> Goodfellow</persName>, <add>whom</add> it seems is a new hand at the
+                     Bellows, did not more than rise to mediocrity. But his Articulation at the time Tristram discovers him in the capacity of a
+                     Gardener, gave evident proof of his being likely to prove a great acquisition to the Thespian Band.</p>
+                  <p><persName ref="#Horton">Briefwit, alias Mr Horton of the Fore top</persName>, was both dull and tedious. Tameness was perceivable
+                     in every gesture, which may attributed to his being totally unacquainted with the Latin Tongue with which his part abounded_ Let
+                        <persName ref="#Bunnell">the Manager</persName> hereafter be cautious how he disposes <choice>
+                        <orig>of</orig>
+                        <corr/>
+                     </choice><pb n="23"/> of those parts of the play on which depends solely the merit or demerit of the Performers.</p>
+                  <p><persName ref="#Williams_carpenter">Variella</persName> was immeasur<del>e</del>ably disgusting. Her appearance denoted a girl
+                     who had been rioting in all the pleasures which fancy could bestow from her earliest infancy with a countenance which denied all
+                     shame, and which had not felt a blush since she entered her teens; she labored through her part without the least display of
+                     anything like gesture or simplicity of manner which would even cause the spectators of an inverted Comedy to smile._</p>
+                  <p>In taking a restrospect of the whole, we cannot but say that it crowns everything that was ever presented to our view, If these
+                     gentle admonitions should be of any avail, we will be foremost in noticing it after the next performance; but if the reverse, we
+                     shall continue to hold them up as subjects of severe criticism_and exclaim that, we have not, nor shall we ne'er look upon their
+                     like, again"<note>allusion</note>
+                  </p>
                </div>
             </div>
+         </div>
+         <div type="entry">
+            <head>3d January.</head>
+            <p>The sea appears discolored, sounded with 80 fthms of line no bottom, light winds from teh Southard &amp; Eastward, at 7 p.m. set
+               steering sails_ Lat: ob: 43.20'5. Long. d.r. 56.27;. Course S 32. W. distance log 59 miles_wind W. by S.</p>
+         </div>
+         <div type="entry">
+            <head>4th</head>
+            <p>At 9 a.m. beat to quarters &amp; examined the bags of clothes of the crew_ took in steering sails_</p>
          </div>
 
 
