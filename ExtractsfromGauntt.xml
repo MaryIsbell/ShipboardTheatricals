@@ -51,35 +51,66 @@
          <particDesc>
             <listPerson>
                <person xml:id="Franey">
-                  <note>What can we know about Franey other than "(steerage servant) a veteran"</note>
+                  <note>Mathias Franey is described in these accounts as a veteran (not sure if this means of war or theatrical performance) and a
+                     steerage servant. The steerage refers to the quarters of the officers in training (midshipmen), who would have servants. It seems
+                     quite likely that franey was in a servant role, rather than a role at the rigging [primary sources describing "steerage servant"
+                     can be added to this note--they are saved in Zotero]. He joined the Macedonian on August 20, 1818 in Boston and is listed as "O.
+                     Sea," which means ordinary seaman. An ordinary seaman had at least three years' experience at sea, and was the second lowest
+                     ranking (above landsman, but below able-bodied seaman). There is a note in the musters that says "noted landsman October 1,
+                     1819," which could signify a demotion? (Mathias Franey, 9 of 48 in musters pdf)</note>
                </person>
                <person xml:id="Williams_carpenter">
-                  <note>What can we know about Williams other than that he played Variella?</note>
+                  <note>Williams, of the carpenter's crew, played Variella. At least two members of the crew have the surname Williams, so it is hard
+                     to identify which describes this sailor. John Williams (#1 in musters) is designated as "O. Sea," which means Ordinary Seaman. An
+                     ordinary seaman had at least three years' experience at sea, and was the second lowest ranking (above landsman, but below
+                     able-bodied seaman). He is noted to have done something particular on July 20, 1820. It is hard to read the muster log, but it
+                     seems like it might say "Gunman" (9 of 48 in musters pdf). John Williams (#2 in musters) is also designated as an ordinary
+                     seaman. He is noted to have done something particular on September 6, 1818 (which was before the ship left on the voyage). It is
+                     hard to read the muster log, but it seems like it might say "Capt. Coxwain" (11 of 48 in musters pdf). There are more members of
+                     the crew with the surname Williams (Thomas Williams, 11 of 48 in pdf).</note>
                </person>
                <person xml:id="Bunnell">
-                  <note>We know many things about Bunnell. page 8 of 48 in pdf of macedonian musters...says some things that are a bit
-                     illegible</note>
+                  <note>Carpenter's Yeoman. Bunnell joined the Macedonian (perhaps in Philadelphia?) on August 20, 1818 and left the Macedonian for
+                     USS Constellation on March 10, 1821 (page 8 of 48 in pdf of macedonian musters). Bunnell was injured at the Battle of Little York
+                     and remained in the US Navy as long as he possibly could, and then was officially discharged when diagnosed with
+                     consumption.</note>
                </person>
                <person xml:id="Williams_Sneer">
-                  <note>Also perhaps of the foretop? perhaps 9 of 48 in musters document (could also be the John Williams on page 11 of 48 also could
-                     be thomas williams, also on the same page (11 of 48)?</note>
+                  <note>At least two members of the crew have the surname Williams, so it is hard to identify which describes this sailor. This
+                     Williams is said to be "of the foretop," meaning he handles the foretopsail of the vessel (the sail at the middle height on the
+                     forward-most mast of the vessel. John Williams (#1 in musters) is designated as "O. Sea," which means Ordinary Seaman. He is
+                     noted to have done something particular on July 20, 1820. It is hard to read the muster log, but it seems like it might say
+                     "Gunman" (9 of 48 in musters pdf). John Williams (#2 in musters) is also designated as "O. Sea," which means Ordinary Seaman. He
+                     is noted to have done something particular on September 6, 1818 (which was before the ship left on the voyage). It is hard to
+                     read the muster log, but it seems like it might say "Capt. Coxwain" (11 of 48 in musters pdf). There are more members of the crew
+                     with the surname Williams (Thomas Williams, 11 of 48 in pdf).</note>
                </person>
                <person xml:id="Fanigan">
-                  <note>Worked on scenery...possibly John Fanigan page 7 of 48 in pdf of macedonian musters</note>
+                  <note>John Fanigan is designated as "O. Sea," which means Ordinary Seaman. An ordinary seaman had at least three years' experience
+                     at sea, and was the second lowest ranking (above landsman, but below able-bodied seaman). He is described in these reviews as
+                     working on the scenery for the performances (page 7 of 48 in musters pdf)</note>
                </person>
                <person xml:id="Horton">
-                  <note>of the foretop, played Briefwit</note>
+                  <note>Described in these accounts as being "of the foretop," meaning he handles the foretopsail of the vessel (the sail at the
+                     middle height on the forward-most mast of the vessel. He played Briefwit and has not yet been located in Musters, but his
+                     proximity in position to the sailors playing Sneer (both of the foretop) would have permitted opportunities for
+                     rehearsals.</note>
                </person>
                <person xml:id="Goodfellow">
-                  <note>New hand at the bellows, plays gardener in scene with Tristram</note>
+                  <note>William Goodfellow joined the Macedonian on August 20, 1818 from ??? and he left the ship on January 9, 1820, though it
+                     difficult to decipher where he went (perhaps "Captain Phillips"?). Goodfellow is listed as "lands," which means landsman. This is
+                     the lowest ranking, for those who have sailed for less than three years. He is described in these reviews as a new hand at the
+                     bellows, and plays the gardener in a scene with Tristram (played by Bunnell)</note>
                </person>
             </listPerson>
             <listOrg>
                <org xml:id="Macedonian">
-                  <note>What can we know about Macedonian</note>
+                  <note>US Navy Vessel captured from the British during the War of 1812. During this cruise, the ship holds a complement of 422
+                     men.</note>
                </org>
                <org xml:id="Congress">
-                  <note>What can we know about Congress</note>
+                  <note>Another US Navy Vessel, which Bunnell served aboard just before joining the Macedonian. Bunnell recounts being aboard the US
+                     Congress for a 14-month cruise that spent the majority of time at the New Orleans station, then the West Indies (143).</note>
                </org>
             </listOrg>
          </particDesc>
@@ -98,8 +129,8 @@
             <p>...</p>
             <p>I again visited Washington, and was ordered, July 10th. 1818, to join my old ship the Macedonian I proceeded to the Navy Yard
                Charleston, Massachusetts, where the ship lay fitting out for a three years' cruise to the Pacific Ocean, and reported, 19th. July, to
-               Captain Downes for duty.[list of the officers of the Macedonian, not transcribing now <pb n="20" facs="https://farm8.staticflickr.com/7875/46564973305_f82b921881_k_d.jpg"/>...] Officers and crew in number
-               422.</p>
+               Captain Downes for duty.[list of the officers of the Macedonian, not transcribing now <pb n="20"
+                  facs="https://farm8.staticflickr.com/7875/46564973305_f82b921881_k_d.jpg"/>...] Officers and crew in number 422.</p>
             <p>The equipment of the Macedonian was completed September the 19th. and on Sunday the 20th. 1818, we sailed from Boston with a fine
                breeze from W. S. W.</p>
             <p>On the 27th. of September, Latitude 36&#176; N. Longtitude 56&#176; W. we were dismasted in a hurricane--during the night it blew
@@ -122,9 +153,10 @@
                ceremonies of crossing the Line--a visit much better omitted than observed, on board a man of war.</p>
             <p>You will see, my sons, by what follows, that the crew of the Macedonian were not without their amuseuments.</p>
             <p>Written hand bills were distributed about the ship, giving notice that, on the evening of Christmas, a play, called the Weathercock,
-               with an after piece entitled the Sailor's Fortune, would be performed: the author-<pb n="22" facs="https://farm8.staticflickr.com/7885/46564973415_187e6ec4ec_k_d.jpg"/>ship of the latter piece was claimed by
-                  <persName ref="#Bunnell">D.C.B.</persName> carpenter's yeoman of the frigate. By permission of Captain Downs, the play and farce
-               were acted, affording a novel treat to the officers and crew of the ship.</p>
+               with an after piece entitled the Sailor's Fortune, would be performed: the author-<pb n="22"
+                  facs="https://farm8.staticflickr.com/7885/46564973415_187e6ec4ec_k_d.jpg"/>ship of the latter piece was claimed by <persName
+                  ref="#Bunnell">D.C.B.</persName> carpenter's yeoman of the frigate. By permission of Captain Downs, the play and farce were acted,
+               affording a novel treat to the officers and crew of the ship.</p>
             <p>On new year evening, the play of the Weathercock was again performed, after which we were entertained with the Cobbler and his
                Daughter, interspersed with songs &amp;, the whole got up, and the farce written, by our indefatigable <hi>author</hi> and
                   <hi>actor</hi> D.C.B. carpenter's yeoman. A criticism of the whole performance appeared in the Thespian Critic and Theatrical
@@ -141,8 +173,9 @@
             <p>The Thespian Theatre was opened last evening for the second time, with the following entertainment of the Weathercock--and the Cobbler
                and his Daughter; Tristram by <persName ref="#Bunnell">Mr. D.C.B.</persName> from the Theatre Royal. As expectation is always on
                   tipto<add>e</add> at the <hi>debut</hi> of a new performer, and his merits and demerits occasion much animadversion, we have taken
-               the trouble of minutely observing this new performer's beginning to give our <pb n="23" facs="https://farm8.staticflickr.com/7880/46756931434_a3d31e1fd0_k_d.jpg"/>friends an impartial account of him; and we
-               must say that our expectations were much disappointed, particularly with regard to his tautology and his gesticulation.</p>
+               the trouble of minutely observing this new performer's beginning to give our <pb n="23"
+                  facs="https://farm8.staticflickr.com/7880/46756931434_a3d31e1fd0_k_d.jpg"/>friends an impartial account of him; and we must say that
+               our expectations were much disappointed, particularly with regard to his tautology and his gesticulation.</p>
             <p>In act 1st scene 1st, for saying "did you never hear of Demosthenes the Athenean orator &amp;," he repeats, did you never hear of
                De--mo--thens the A--the--an orator--certainly the most vulgar pronunciation. In his next speech of "I think I see him now awaking
                &amp;," his gesticulations were so violent that it reminded us of a frantic bedlamite, and seemed possessed with the idea that the more
@@ -153,13 +186,14 @@
                grimace is so intolerable, that it was painful to observe him; and he either forgot or was ignorant that, in addressing Juliet, he
                ought to have bended one knee; but no, with his finger pointed as if to command silence of his Juliet that she may hear his rhapsody:
                But of all the canting, noisey Billingsgate slang, his speech of a Soldier, a General &amp;, is made to represent to a hair: his
-               eyes<pb n="24" facs="https://farm8.staticflickr.com/7890/46756931574_0af4f959af_k_d.jpg"/>roll, his chest is extended, his limbs compressed into the form of the letter S, and he makes the whole house
-               tremble while he wars it out, and at intervals, bellowing like a child crying for a piece of bread and butter; but when he takes his
-               sword--then comes the tug of war, and he fancies that admiration sits on every countenance, and he dances from one end of the stage to
-               the other like a dancing bear. Again--in the scene between <persName ref="#Bunnell">Tristram</persName> and <persName ref="#Goodfellow"
-                  >the gardener</persName>--for "vile habilaments," he repeats--vile ha--bit--a--ments--what he means, no one could form an idea,
-               unless it was by the action of throwing off his clothes; but enough for the present. We could point out a number of other material
-               instances of defect; but hope that these will infuse into him a wish to correct his manners and pronounciation.</p>
+                  eyes<pb n="24" facs="https://farm8.staticflickr.com/7890/46756931574_0af4f959af_k_d.jpg"/>roll, his chest is extended, his limbs
+               compressed into the form of the letter S, and he makes the whole house tremble while he wars it out, and at intervals, bellowing like a
+               child crying for a piece of bread and butter; but when he takes his sword--then comes the tug of war, and he fancies that admiration
+               sits on every countenance, and he dances from one end of the stage to the other like a dancing bear. Again--in the scene between
+                  <persName ref="#Bunnell">Tristram</persName> and <persName ref="#Goodfellow">the gardener</persName>--for "vile habilaments," he
+               repeats--vile ha--bit--a--ments--what he means, no one could form an idea, unless it was by the action of throwing off his clothes; but
+               enough for the present. We could point out a number of other material instances of defect; but hope that these will infuse into him a
+               wish to correct his manners and pronounciation.</p>
             <p>Old Fickle by <persName ref="#Franey">Franey</persName>, steerage servant<note>A steerage servant is a servant in the steerage,
                   preparing meals and generally caring for midshipment, or young officers in training. This is unique position in a ship because the
                   steerage servant is likely well-known to these young officers, but is not equal to them. This person is also not working alongside
@@ -170,9 +204,9 @@
             <p>Miss Variella, by Williams of the carpenter's crew, --"grace in all <hi>her</hi>steps, heaven in <hi>her</hi> eye, in every gesture
                dignity and love."</p>
             <p>Briefwit, Mr. H, as stiff a piece mechanism and greater than the author intended him I dare say, for he was both briefwit and
-               briefless. Sneer Mr. W with a<pb n="25" facs="https://farm8.staticflickr.com/7877/46564973505_1062fed82c_k_d.jpg"/>little improvement will do well in those characters. The piece went off without either many
-               marks of approbation or disapprobation, and we hope that the piece will not be resumed without some attention being paid to the errors
-               and defects pointed out.</p>
+               briefless. Sneer Mr. W with a<pb n="25" facs="https://farm8.staticflickr.com/7877/46564973505_1062fed82c_k_d.jpg"/>little improvement
+               will do well in those characters. The piece went off without either many marks of approbation or disapprobation, and we hope that the
+               piece will not be resumed without some attention being paid to the errors and defects pointed out.</p>
             <p>The Pantomime was so wretchedly performed that even the name of it would have been incomprehensible, unless we had seen it in the play
                bills.</p>
             <p>The songs were however, very well, but the subject too pointed; though we believe unintentionally so by the author. We were glad to see
@@ -188,9 +222,10 @@
             <head><hi>Editorial</hi></head>
             <p>The Editor of this paper is really sorry that the remarks contained in his paper of January the third should have been of such a nature
                as to draw forth the "ire" of the gentleman who heads the Thespian Band. That a gentleman of his qualifications should have recourse to
-               caricature for the purpose of defaming <pb n="26" facs="https://farm8.staticflickr.com/7808/46564973595_88e0a11059_k_d.jpg"/>him, (who would be the last to injure the Thespian Throng,) is really astonishing.
-               With pleasure do we appeal to an enlightened public for an opinion of the following, which was made with no other view than to maintain
-               the dignity of the stage, and that lustre which spreads it refulgent beams around the personage of this modern Othello,</p>
+               caricature for the purpose of defaming <pb n="26" facs="https://farm8.staticflickr.com/7808/46564973595_88e0a11059_k_d.jpg"/>him, (who
+               would be the last to injure the Thespian Throng,) is really astonishing. With pleasure do we appeal to an enlightened public for an
+               opinion of the following, which was made with no other view than to maintain the dignity of the stage, and that lustre which spreads it
+               refulgent beams around the personage of this modern Othello,</p>
             <p>Theatrical Entertainment, January 2nd. 1819. Last evening the crew of the Macedonian frigate were politely favoured with a rich repast
                of Theatrical labour in the display of the Weathercock, and a pantomime of the Cobbler and his Daughter. We hope our subscribers will
                excuse us for a digression from our accustomed mode of issuing this paper in noticing the <hi>Dramatis Personae</hi> of those
@@ -200,11 +235,12 @@
                imperfections, and in reminding him of them, we have not only the stage at heart; but that of his own welfare on the stage, and that to
                which he may be translated.</p>
             <p>In the part which relates to his having arrived to the acme of perfection in the study of the Law, and the learned speech which he
-               makes to prove that he possesses that<pb n="27" facs="https://farm8.staticflickr.com/7855/46756931684_08d43c9a8d_k_d.jpg"/> fund of knowledge, we discover that his pronounciation is totally incorrect, as he
-               differs from Johnson, Walker, and others. In pronouncing Demosthenes, he says "De--mo--thens, which must be disgusting to those who are
-               familiar with pointing and diction. In another part he says the Ane--than instead of the Athenean Orator. We hope that he will make it
-               his study to repair the damages done to the King's English by a proper adherence to the rules of pronounciation, in order that the
-               brilliancy of his Theatrical abilities may not be tinged by imperfection which require little or no gumption to remove. </p>
+               makes to prove that he possesses that<pb n="27" facs="https://farm8.staticflickr.com/7855/46756931684_08d43c9a8d_k_d.jpg"/> fund of
+               knowledge, we discover that his pronounciation is totally incorrect, as he differs from Johnson, Walker, and others. In pronouncing
+               Demosthenes, he says "De--mo--thens, which must be disgusting to those who are familiar with pointing and diction. In another part he
+               says the Ane--than instead of the Athenean Orator. We hope that he will make it his study to repair the damages done to the King's
+               English by a proper adherence to the rules of pronounciation, in order that the brilliancy of his Theatrical abilities may not be
+               tinged by imperfection which require little or no gumption to remove. </p>
             <p>in regard to <persName ref="#Williams_Sneer">"Williams"</persName> of the fore top, we doubt not but that he possesses more assurance
                than generally falls to the lot of mankind. It is not within the compass of our power to conceive what it was that actuated Williams to
                embark in that line of life, for which he has neither earthly or heavenly capacity; and we are at a loss to know what will cause him to
@@ -212,9 +248,10 @@
             <p>In regard to <persName ref="#Franey">old Fickle</persName>, great allowances should be made. A little of that <hi>twang</hi> which
                seems to be forced more than natural, should give way for more ease and elegance in pronounciation, together with a more retentive
                memory, that recourse need not be had to written papers in presence of the audience.</p>
-            <p>Great credit is due to the unwearied exertions of<pb n="28" facs="https://farm8.staticflickr.com/7803/46564973795_8f3717b116_k_d.jpg"/> "<persName ref="#Fanigan">Fanigan</persName>," who has been zealously
-               employed in getting up the scenery &amp; &amp;. One gross mistake however, caught our eye as soon as we entered the room, which was a
-               Turkey Buzzard substituted for the American coat of arms: without this, the scenery was in every respect complete.</p>
+            <p>Great credit is due to the unwearied exertions of<pb n="28" facs="https://farm8.staticflickr.com/7803/46564973795_8f3717b116_k_d.jpg"/>
+                  "<persName ref="#Fanigan">Fanigan</persName>," who has been zealously employed in getting up the scenery &amp; &amp;. One gross
+               mistake however, caught our eye as soon as we entered the room, which was a Turkey Buzzard substituted for the American coat of arms:
+               without this, the scenery was in every respect complete.</p>
             <p>"<persName ref="#Goodfellow">Goodfellow</persName>," whom it seems is a new hand at the bellows, did not more than rise to mediocrity:
                But his articulation at the time Tristram discovers him in the capacity of a gardener, gave evident proof of his being likely to prove
                a great acquisition to the Thespian Band.</p>
