@@ -44,8 +44,6 @@
                   </imprint>
                </monogr>
             </biblStruct>
-
-
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -67,20 +65,15 @@
                      UK (TNA): Public Record Office (PRO)</institution>                       
                      </msIdentifier></bibl>-->
                </person>
-
-
-
-               <person>
-                  <persName xml:id="J_W_L_Bampfield">John William Lewis Bampfield</persName>
+               <person xml:id="J_W_L_Bampfield">
                   <note>Reverend John William Lewis Bampfield joined the Chesapeake on July 24th 1857 and was a regular contributor to and supporter
                      of The Young Idea. While his age is not recorded in the muster book, census records reveal that Bampfield was born in June of
                      1823, so he was in his mid-thirties during the cruise. He was commissioned as chaplain aboard a different royal naval vessel in
                      Port Royal, Jamaica before his arrival aboard the Chesapeake. His detailed journal provides an additional witness to The Young
                      Idea, providing fascinating points of contrast from the facsimile edition that McArthur had printed in 1867 and offering hints
-                     about the authorship of contributions through his inclusion of the initials of authors (a marked list). </note>
+                     about the authorship of contributions through his inclusion of the initials of authors (a marked list).</note>
                </person>
-               <person>
-                  <persName xml:id="Edgell">Harry Edmund Edgell</persName>
+               <person xml:id="Edgell">
                   <note>Harry Edmund Edgell joined the Chesapeake as Commodore after the period chronicled in the issues included in this edition. He
                      was an enthusiastic supporter of The Young Idea. In <hi rend="italics">Martello Tower" in China, and the Pacific in H.M.S.
                         "Tribune," 1856-60</hi>, Francis Martin Norman recounts Edgell's enthusiastic support for a shipboard theatrical aboard H.M.S.
@@ -94,8 +87,7 @@
                      The latter returned to England and was paid off in 1860. Edgell had no further active employment and was promoted on the retired
                      list, reaching the rank of vice-admiral in 1871."</note>
                </person>
-               <person>
-                  <persName xml:id="Watson">Commodore Rundle Burges Watson</persName>
+               <person xml:id="Watson">
                   <note>Excerpts from “Watson, Rundle Burges” by <bibl><author>by J.K. Laughton, rev. Andrew Lambert</author></bibl> for the
                            <bibl><title>Oxford Dictionary of National Biography</title></bibl>: <quote>"Watson, Rundle Burges (1809–1860), naval
                         officer, was the eldest son of Captain Joshua Rowley Watson (1772–1810). He entered the navy in November 1821, and was
@@ -111,8 +103,7 @@
                         captain-superintendent of Sheerness Dockyard, where he died on 5 July 1860. An officer of great ability, Watson was one of the
                         last great sailing-ship captains, and the first frigate captain of the steam era."</quote></note>
                </person>
-               <person>
-                  <persName xml:id="Pratt">Archdeacon Pratt</persName>
+               <person xml:id="Pratt">
                   <note>Excerpt from “Pratt, John Henry” by <bibl><author>Anita McConnell</author></bibl> for the <bibl><title>Oxford Dictionary of
                            National Biography</title></bibl>: <quote>“Pratt, John Henry (bap. 1809, d. 1871), Church of England clergyman and
                         mathematician, was baptized on 30 June 1809 at St Mary Woolnoth, London, one of two sons of Josiah Pratt (1768–1844), Church
@@ -122,184 +113,154 @@
                         chaplain of the East India Company in 1838. He became Wilson's domestic chaplain and in 1850 archdeacon of
                      Calcutta.”</quote></note>
                </person>
-               <person>
-                  <persName xml:id="George_Horner">George Horner</persName>
+               <person xml:id="George_Horner">
                   <note>George Horner, a bandsman, joined the Chesapeake on August 12, 1857. He was born in London in 1817. The muster book for the
                      Chesapeake claims to offer the first entry for George Horner, perhaps meaning this was his first time at sea.<bibl>Muster Book of
                         Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
                         38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Charles_Stewart">Charles Stewart</persName>
+               <person xml:id="Charles_Stewart">
                   <note>Charles Stewart, an ordinary seaman, joined the Chesapeake on May 23, 1857. He was born in London and served aboard HMS
                      Gladiator just before joining the Chesapeake. He was born in 1834.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing
                         1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Thomas_Walsh">Thomas Walsh</persName>
+               <person xml:id="Thomas_Walsh">
                   <note>Thomas Walsh, an ordinary seaman, joined the Chesapeake on August 15, 1857. He was born in London in 1834 and served aboard
                      HMS Cressy just before joining the Chesapeake.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858
                         Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Robert_Wilkinson">Robert Wilkinson</persName>
+               <person xml:id="Robert_Wilkinson">
                   <note>Robert Wilkinson, a private in the Royal Marines, joined the Chesapeake on July 25th 1857. He was born in Sitchfield,
                         Staffordshire.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by
                         the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Henry_Underhill">Henry Underhill</persName>
+               <person xml:id="Henry_Underhill">
                   <note>muster#153, ordinary seaman from Alesford, 36 when coming aboard the Chesapeake<bibl>Muster Book of Her Majesty's Ship
                         Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl>
                   </note>
                </person>
-               <person>
-                  <persName xml:id="John_Welsh">John Welsh</persName>
+               <person xml:id="John_Welsh">
                   <note>John Welsh, an ordinary seaman, joined the Chesapeake on February 20, 1857. He was born in Mayo<bibl>Muster Book of Her
                         Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
                         38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Henry_Montagu">Henry Montagu</persName>
+               <person xml:id="Henry_Montagu">
                   <note>Henry Montagu, yeoman of signals, joined the Chesapeake on July 28, 1857 after serving aboard HMS President. He was born in
                      St. Hilliers, Jersey (the Channel Islands) in 1826, making him 32 at the time of the performance.<bibl>Muster Book of Her
                         Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
                         38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Isaac_Wright">Isaac Wright</persName>
+               <person xml:id="Isaac_Wright">
                   <note>Isaac Wright, an ordinary sailor 2nd class, joined the Chesapeake on September 4th 1857. Hew as born in Sunderland in 1835,
                      making him 23 at the time of the performance.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858
                         Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Henry_Hamilton">Henry Hamilton</persName>
+               <person xml:id="Henry_Hamilton">
                   <note>C. R. B. Hamilton (the only Hamilton in the musters) was a naval cadet who served aboard <orgName ref="Colossus">HMS
                         Colossus</orgName> before joining the Chesapeake on July 23, 1857. He was born in County Tyrone, Ireland in December of 1842,
                      making him 15 at the time the performance<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending
                         31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="James_Brown">James Browne</persName>
+               <person xml:id="James_Brown">
                   <note>James Brown, an ordinary seaman, joined the Chesapeake on July 23, 1857, after serving aboard <orgName ref="Cuckoo">HMS
                         Cuckoo</orgName> until February 3, 1857. He was born at Sheerness on the 17th of January 1829, making him 28 at the time of
                      the performance<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the
                         National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="William_Connell">William T Connell</persName>
+               <person xml:id="William_Connell">
                   <note>William T. Connell, an ordinary seaman, joined the Chesapeake on July 31 1857, after serving aboard <orgName ref="Eurydice"
                         >HMS Eurydice</orgName> until 17 June 1857. He was born in London in 1835, making him 27 at the time of the
                         performance.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the
                         National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Taylor">Edward Taylor</persName>
+               <person xml:id="Taylor">
                   <note>Edward Taylor, Assistant Engineer 3rd class (a commissioned officer), joined the Chesapeake on July 25th 1857. His age was not
                      recorded in the muster book<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858,
                         held by the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Brownrigg">Charles J. Brownrigg</persName>
+               <person xml:id="Brownrigg">
                   <note>Charles J. Brownrigg, a mate (a commissioned officer), joined the Chesapeake on August 4th, 1857. His age was not recorded in
                      the muster book.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by
                         the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Wilkinson">Wilkinson</persName>
+               <person xml:id="Wilkinson">
                   <note>Mr. Wilkinson, a clerk (a subordinate officer), joined the Chesapeake on July 23rd 1857 after serving aboard HMS Majestic. He
                      was born in Suffolk in 1836, which would make him 22 at the time of the cricket match in Calcutta<bibl>Muster Book of Her
                         Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
                         38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Shortt">John Shortt</persName>
+               <person xml:id="Shortt">
                   <note>John Shortt, a subordinate officer, joined the Chesapeake on July 23rd 1857, after serving aboard HMS Euridice. He was born in
                      Bombay in 1838, making him 20 at the time of this cricket match in Calcutta.<bibl>Muster Book of Her Majesty's Ship Chesapeake
                         Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Reynolds">S. Reynolds</persName>
+               <person xml:id="Reynolds">
                   <note>S. Reynolds, an ordinary seaman, joined the Chesapeake on September 4th 1857. He was born in Landport (Portsmouth) in 1839,
                      making him 19 at the time of the cricket match in Calcutta.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st
                         January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Theobald">C.B. Theobald</persName>
+               <person xml:id="Theobald">
                   <note>C.B. Theobald, a naval cadet, joined the Chesapeake on July 24th 1857. He was born in Mark's Tey, Essex in 1843, making him 15
                      at the time of the cricket match in Calcutta.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858
                         Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Cooper">Cooper</persName>
+               <person xml:id="Cooper">
                   <note>There are three different members of the ship's company with the last name Cooper. The only thing we can tell about the
                      "Cooper" referenced in the cricket match is that he was not a commissioned officer, but an ordinary seaman.<bibl>Muster Book of
                         Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
                         38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Chute">Charles T. Chute</persName>
+               <person xml:id="Chute">
                   <note>Charles T. Chute, a subordinate officer, joined the Chesapeake on July 23rd 1857, after serving aboard Euridice. He was born
                      in London in 1841, making him 17 at the time of the cricket match in Calcutta.<bibl>Muster Book of Her Majesty's Ship Chesapeake
                         Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Bew">James Bew</persName>
+               <person xml:id="Bew">
                   <note>James Bew, an experienced seaman, joined the Chesapeake on August 1st 1857. He was born in 1833, making him 25 at the time of
                      the cricket match in Calcutta.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March
                         1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Oxley">C.L. Oxley</persName>
+               <person xml:id="Oxley">
                   <note>C.L. Oxley, a midshipman, joined the Chesapeake on July 29th 1857. He was born in 1841, making him 17 at the time of the
                      cricket match in Calcutta.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858,
                         held by the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Behadoor">Rajah Behadoor</persName>
+               <person xml:id="Behadoor">
                   <note>Still searching for biographical details on Rajah Behadoor</note>
                </person>
-               <person>
-                  <persName xml:id="Hope">Hope</persName>
+               <person xml:id="Hope">
                   <note>Hope played for the "squadron's eleven" and does not appear in Chesapeak muster book, which means he likely belonged to
                      another ship in the squadron<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March
                         1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Haswell">Haswell</persName>
+               <person xml:id="Haswell">
                   <note>Haswell served aboard Himalaya until he was injured and replaced by Piers.<bibl>Muster Book of Her Majesty's Ship Chesapeake
                         Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Kelly">Lieutenant Edward Kelly</persName>
+               <person xml:id="Kelly">
                   <note>Lieutenant Edward Kelly does not appear in the muster book of HMS Chesapeake. <bibl>Muster Book of Her Majesty's Ship
                         Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
                      38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Parkin">George H. Parkin</persName>
+               <person xml:id="Parkin">
                   <note>George H. Parkin was named acting commander of HMS Chesapeake on February 1st 1858 and came aboard on February 25th after
                      serving aboard Roebuck. <bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858,
                         held by the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Piers">S.B. Piers</persName>
+               <person xml:id="Piers">
                   <note>S.B. Piers, a commander, joined the Chesapeake on July 28th 1857. He was discharged on January 22nd 1858 to serve aboard HMS
                      Himalaya when vice Haswell was invalided.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending
                         31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Faustino">Juan I. Faustino</persName>
+               <person xml:id="Faustino">
                   <note>Juan I. Faustino, bandmaster, joined the Chesapeake on September 14th 1857 after serving aboard HMS Imperieuse. He was born in
                      1820 in Allicante, Portugal, making him 37 when he joined the ship's company.<bibl>Muster Book of Her Majesty's Ship Chesapeake
                         Commencing 1st September 1857 Ending 30th September 1857, held by the National Archives at Kew (ADM 38/2883)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Namik_Pacha">Namik Pacha</persName>
+               <person xml:id="Namik_Pacha">
                   <note>cite one of the articles on the uprising</note>
                </person>
-               <person>
-                  <persName xml:id="James_Hammond">James Hammond</persName>
+               <person xml:id="James_Hammond">
                   <note>James Hammond, an ordinary seaman, joined the Chesapeake on July 13 1857, after serving aboard <orgName ref="Eurydice">HMS
                         Eurydice</orgName> until 12 June 1857. He was born in London on November 12, 1837, making him 21 at the time of the
                      performance. He entered the ship as "B1C" or "Boy, first class" and was promoted to Ordinary Seaman (second class) on July 27,
@@ -307,16 +268,14 @@
                      was given more responsibility within four months of joining the Chesapeake. <bibl>Muster Book of Her Majesty's Ship Chesapeake
                         Commencing 1st January 1859 Ending 31st March 1859, held by the National Archives at Kew (ADM 38/2886)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="Edward_Mansbridge">Edward Mansbridge</persName>
+               <person xml:id="Edward_Mansbridge">
                   <note>Edward Mansbridge, a landsman, joined the Chesapeake on August 13 1857, after serving aboard <orgName ref="Blenheim">HMS
                         Blenheim</orgName> until 12 August 1857. He was born in Landport (a district within Portsmouth) on November 2, 1829, making
                      him 31 at the time of the performance. He entered the ship as a landsman and worked as a stoker.<bibl>Muster Book of Her
                         Majesty's Ship Chesapeake Commencing 1st January 1859 Ending 31st March 1859, held by the National Archives at Kew (ADM
                         38/2886)</bibl></note>
                </person>
-               <person>
-                  <persName xml:id="John_Hurst">John Hurst</persName>
+               <person xml:id="John_Hurst">
                   <note>Have not yet located Hurst in the musters</note>
                </person>
             </listPerson>
@@ -3749,8 +3708,8 @@
             </div>
             <div type="play_review">
                <head>Theatre Royal<lb/>H.M.S. "CHESAPEAKE <note>The review included in Bampfield's transcription from The Young Idea is more detailed
-                     than the one in the 1867 edition. Bampfield attributes the review to McArthur. It offers a description of precisely how the quarter deck was arranged and who attended the
-                     performance. It also includes a cast of characters.</note></head>
+                     than the one in the 1867 edition. Bampfield attributes the review to McArthur. It offers a description of precisely how the
+                     quarter deck was arranged and who attended the performance. It also includes a cast of characters.</note></head>
                <p>On Friday night the 27th Inst our amateurs provided us with a first rate evenings amusement The Quarter deck was gaily decorated
                   with flags and flowers, and presented a beautiful spectacle, the utmost credit being due to the managers and arrangers of the
                   decorations, we have not space to give a lengthy description of the arrangements, but we cannot refrain from giving the actors that
@@ -3834,8 +3793,9 @@
                   calling to your Highness' notice the prompt &amp; gallant way in which all my orders were executed, &amp; the steadiness of both
                   officers &amp; men under the heavy fire, of the enemy, as well as the valuable assistance rendered me by Genl. Gander who was
                   severely wounded on this occasion; &amp; I beg to forward to you herewith a return of the forced engaged (Enclosure No 2) together
-                  with the casualties which have occurred. The Enemy loass is reported to be severe.</p><note>Bampfield's version of this contribution
-                  attributes it to "C.J. Brownrigg." Bampfield also includes extracts from his own journal right after that contribution</note>
+                  with the casualties which have occurred. The Enemy loass is reported to be severe.</p>
+               <note>Bampfield's version of this contribution attributes it to "C.J. Brownrigg." Bampfield also includes extracts from his own journal
+                  right after that contribution</note>
             </div>
             <div type="Pictorial_Rebus">
                <head>Pictorial Rebus</head>
@@ -4480,19 +4440,19 @@
                <p>We are proud of our Amateur Performers, who have this time surpassed themselves. The comedy of King Charles the Second" being cast
                   as on the last occasion, we need say little, except to compliment the fair "<persName ref="#James_Hammond">Mary</persName>" the
                   Wapping beauty, around whom the whole plot clusters, on the increasing ease, &amp; freedom with which she plays her part. "<persName
-                     ref="#George_Horner">Charles</persName>"
-                  was as royal, "<persName ref="#Charles_Stewart">Rochester</persName>" as Manly, and old "<persName ref="#Thomas_Walsh">Copp</persName>" as jolly hearted as ever.</p>
-               <p>The two farces which followed kept the audience in a state of continual laughter and applause. <persName ref="#Thomas_Walsh">Thos Walsh</persName>, as "Paddy Carey" was
-                  indeed a "broth of a boy", speaking with a rich brogue, whirling his shillelah in true Hibernian spirit, touching the hearts of the
-                  audience by the generous<pb n="TYI2034" facs="https://farm2.staticflickr.com/1743/27606331227_4931573b8b_k_d.jpg"/>nature of the
-                  deeds represented, and winding up with a song, and a "jig" which brought down thunders of applause. The other characters of the
-                  piece were all good, but "Widow Leary" the landlady deserves special mention. She was the yielding widow, and the Irish landlady is
-                  perfection.</p>
+                     ref="#George_Horner">Charles</persName>" was as royal, "<persName ref="#Charles_Stewart">Rochester</persName>" as Manly, and old
+                     "<persName ref="#Thomas_Walsh">Copp</persName>" as jolly hearted as ever.</p>
+               <p>The two farces which followed kept the audience in a state of continual laughter and applause. <persName ref="#Thomas_Walsh">Thos
+                     Walsh</persName>, as "Paddy Carey" was indeed a "broth of a boy", speaking with a rich brogue, whirling his shillelah in true
+                  Hibernian spirit, touching the hearts of the audience by the generous<pb n="TYI2034"
+                     facs="https://farm2.staticflickr.com/1743/27606331227_4931573b8b_k_d.jpg"/>nature of the deeds represented, and winding up with a
+                  song, and a "jig" which brought down thunders of applause. The other characters of the piece were all good, but "Widow Leary" the
+                  landlady deserves special mention. She was the yielding widow, and the Irish landlady is perfection.</p>
                <p>In the "Man about Town" the chief burden of the piece rested upon <persName ref="#Isaac_Wright">Isaac Wright</persName> as "Skirts",
                   and well did he sustain it. Coming in which his two large placards of the "Learned Pig," he at once moved our mucles to a state of
                   risibility, which we found it difficult to pause from, such was the continued succession of funny deeds, and speeches. <persName
-                     ref="#George_Horner">Horner</persName> as "Dr Mandible" the physician, <persName ref="#Thomas_Walsh">Walsh</persName> as "Topps" the Tiger, and indeed all the minor
-                  characters, played up to him well, and the curtain fell amidst loud and long applause.</p>
+                     ref="#George_Horner">Horner</persName> as "Dr Mandible" the physician, <persName ref="#Thomas_Walsh">Walsh</persName> as "Topps"
+                  the Tiger, and indeed all the minor characters, played up to him well, and the curtain fell amidst loud and long applause.</p>
                <p>We may safely say that all Oficers &amp; men present, whether French or English, were delighted with their Evening's amusement, and
                   we were glad to observe our newly arrived Commodore, tho' rather late or the first piece, thoroughly enjoying the fun of the two
                   Farces.</p>
