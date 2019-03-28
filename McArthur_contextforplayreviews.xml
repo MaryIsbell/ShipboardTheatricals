@@ -281,8 +281,8 @@
             </listPerson>
             <listOrg>
                <org xml:id="Pelorus">
-                  <note>HMS Pelorus was a Royal Navy screw corvette with twenty-one guns in the Pearl class. She was launched on February 5, 1858 and
-                     her masting and fitting-out was completed on September 10, 1857. She was 200 feet long, 40 feet 4 inches at the broadest point,
+                  <note>HMS Pelorus was a Royal Navy screw corvette with twenty-one guns in the Pearl class. The ship was launched on February 5, 1858 and
+                     its masting and fitting-out was completed on September 10, 1857. The ship was 200 feet long, 40 feet 4 inches at the broadest point,
                      with a depth in the hold of 23 feet 11 inches. As Lyon and Winfield explain, "Corvette designs were rapidly enlarged over the
                      1860s, as the corvette began to take over the traditional role of policing the high seas. To this end they were all built as
                      steam auxiliaries, designed to cruise under sail" (207). HMS Pelorus was broken up for parts at Devonport on February 3, 1869.
@@ -291,9 +291,9 @@
                </org>
                <org>
                   <orgName xml:id="Roebuck">Roebuck</orgName>
-                  <note>HMS Roebuck was a Royal Navy despatch vessel with 5 guns in the Intrepid class. She was launched on March 22, 1856 and her
-                     masting and fitting-out was completed on August 25, 1857. She was 200 feet long, 179 feet 5 1/4 inches at the broadest point,
-                     with a depth in the hold of 14 feet 6 inches. She was built for a company of 100 men. As Lyon and Winfield explain, "The outbreak
+                  <note>HMS Roebuck was a Royal Navy despatch vessel with 5 guns in the Intrepid class. The ship was launched on March 22, 1856 and its
+                     masting and fitting-out was completed on August 25, 1857. The ship was 200 feet long, 179 feet 5 1/4 inches at the broadest point,
+                     with a depth in the hold of 14 feet 6 inches. The ship was built for a company of 100 men. As Lyon and Winfield explain, "The outbreak
                      of the Russian War demonstrated the need for numerous manoeuvrable, shallow-draught vessels for coastal and inshore operations in
                      the Baltic and Black Seas. Six small screw steamers of the Arrow Class were approved to be built by contract in the Thames [...]"
                      (218). The Roebuck was one of twenty additional vessels ordered in 1855 (218-219). David Lyon and Rif Winfield, The Sail &amp;
@@ -301,10 +301,10 @@
                </org>
                <org>
                   <orgName xml:id="Cyclops">Cyclops</orgName>
-                  <note>HMS Cyclops was a Royal Navy steam vessel with six guns in the Cyclops class. She was launched on July 10, 1839. She was 190
-                     feet 3 inches long, 163 feet 6 inches at the broadest point, with a depth in the hold of 37 feet 6 inches. She was built for a
+                  <note>HMS Cyclops was a Royal Navy steam vessel with six guns in the Cyclops class. The ship was launched on July 10, 1839. The ship was 190
+                     feet 3 inches long, 163 feet 6 inches at the broadest point, with a depth in the hold of 37 feet 6 inches. The ship was built for a
                      company of 175 to 200 men. As Lyon and Winfield explain, the ship was re-armed in 1856 "with 2x 68 pdrds (95cwt) on the pivots
-                     and 4 x 10in (84cwt) on the broadside trucks." They also explain that she "was fitted 1856/57 to assist with the laying of the
+                     and 4 x 10in (84cwt) on the broadside trucks." They also explain that it "was fitted 1856/57 to assist with the laying of the
                      Atlantic cable (151). David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All the Ships of the Royal Navy, 1815–1889
                      (London: Chatham Publishing), 2004. </note>
                </org>
@@ -319,9 +319,9 @@
                <org>
                   <orgName xml:id="Chesapeake">Chesapeake</orgName>
                   <note>HMS Chesapeake was a Royal Navy screw frigate with fifty-one guns in the Forte (or Imperieuse) class, which was one of several
-                     classes including the thirty new wooden screw frigates completed between 1849 and 1865 (197). She was built in dry dock, launched
-                     on September 7, 1855, and her masting and fitting-out was completed on August 28, 1857. She was 212 feet long, 50 feet 2 inches
-                     at the broadest point, with a depth in the hold of 16 feet and 9 inches. She was built for a company of 515 men. The Chesapeake
+                     classes including the thirty new wooden screw frigates completed between 1849 and 1865 (197). The ship was built in dry dock, launched
+                     on September 7, 1855, and its masting and fitting-out was completed on August 28, 1857. The ship was 212 feet long, 50 feet 2 inches
+                     at the broadest point, with a depth in the hold of 16 feet and 9 inches. The ship was built for a company of 515 men. The Chesapeake
                      was sold in 1867 to be broken up for parts at Charlton (200). David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All
                      the Ships of the Royal Navy, 1815–1889 (London: Chatham Publishing), 2004.</note>
                </org>
@@ -342,7 +342,7 @@
 
          <!-- it may be quicker to keep these images as is and link to them in my own transformation (there are just too many to go to the trouble of
             uploading all image files to flickr-->
-         <pb n="IMG_1406.JPG" facs="___"/>
+         <pb n="IMG_1406.JPG"/>
          <div n="1" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -358,7 +358,7 @@
                <!-- don't forget to format this as a letter...just transcribing the body for now -->
                <p>On Wednesday the 9th a grand dinner party was given by the Ward Room Officers of H.M.S. Chesapeake to their commodore, in honor of
                   his having on that day hoisted his Broad Pendant</p>
-               <pb n="IMG_1406l.JPG" facs="___"/>
+               <pb n="IMG_1406l.JPG"/>
                <p>I will not encroach too much on your valuable time, by entering fully into minute details, but proceed to describe, as well, and
                   briefly, as I am able, one of the great features of the week. There is little occasion to name the Bill of Fare, as it might make
                   sundry people's mouths water to no purpose; suffice it to say the table was served in a most "recherche<!-- the e is accented -->"
@@ -398,7 +398,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
+         <pb n="_____"/>
          <div n="__" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -429,7 +429,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
+         <pb n="_____"/>
          <div n="__" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -460,7 +460,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
+         <pb n="_____"/>
          <div n="__" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -491,7 +491,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
+         <pb n="_____"/>
          <div n="__" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -522,7 +522,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
+         <pb n="_____"/>
          <div n="__" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -2850,7 +2850,7 @@
                   1858.</p>
             </div>
          </div>
-         <pb n="IMG_1430" facs="___"/>
+         <pb n="IMG_1430"/>
          <div n="14" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -2912,7 +2912,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="IMG_1432" facs="___"/>
+         <pb n="IMG_1432"/>
          <div n="15" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -2954,7 +2954,7 @@
                <p>[typical things for this section]</p>
             </div>
          </div>
-         <pb n="IMG_1434" facs="___"/>
+         <pb n="IMG_1434"/>
          <div n="16" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -2969,7 +2969,7 @@
                <head>The "Ava"'s Encampment</head>
                <p>[description of the officers of the Ava, who were staying on shore in white tents. Many little details shared, including the fact
                   that there were "Mahometan divers, who thought they would never succeed unless they had a white flag flying. <pb n="IMG_1435"
-                     facs="___"/></p>
+                    /></p>
                <div type="article">
                   <head>Diving Operations</head>
                   <head type="sub"><hi rend="underline">at the Wreck of the "Ava"</hi></head>
@@ -2998,7 +2998,7 @@
                </div>
             </div>
          </div>
-         <pb n="IMG_1436" facs="___"/>
+         <pb n="IMG_1436"/>
          <div n="17" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3052,7 +3052,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="IMG_1438" facs="___"/>
+         <pb n="IMG_1438"/>
          <div n="18" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3132,7 +3132,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
+         <pb n="_____"/>
          <div n="__" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3163,7 +3163,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
+         <pb n="_____"/>
          <div n="__" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3194,7 +3194,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
+         <pb n="_____"/>
          <div n="__" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3225,7 +3225,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
+         <pb n="_____"/>
          <div n="__" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3256,7 +3256,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
+         <pb n="_____"/>
          <div n="__" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3287,7 +3287,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
+         <pb n="_____"/>
          <div n="__" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3318,7 +3318,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="IMG_1452" facs="___"/>
+         <pb n="IMG_1452"/>
          <div n="25" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3348,7 +3348,7 @@
             </div>
             <div type="letter">
                <head>A Ramble in Diamond Harbour</head>
-               <p>an account of Diamond Harbour contributed to the paper since the editor has been sick <pb n="IMG_1453" facs="___"/> as the writer
+               <p>an account of Diamond Harbour contributed to the paper since the editor has been sick <pb n="IMG_1453"/> as the writer
                   describes the plant of interest, he describes asking a native who spoke English what the Hindoo name was: "but he could only tell me
                   it was a thorn flower and a weed; he did not understand that the weeds of Bengal became choice flowers in the conservatories of
                   England" next is a description of a woman begging and a journey in a dirty boat to a slimy shore, and then the discovery of a
@@ -3377,7 +3377,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
+         <pb n="_____"/>
          <div n="__" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3408,7 +3408,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
+         <pb n="_____"/>
          <div n="__" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3439,7 +3439,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="IMG_1456" facs="___"/>
+         <pb n="IMG_1456"/>
          <div n="27" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3469,7 +3469,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="IMG_1458" facs="___"/>
+         <pb n="IMG_1458"/>
          <div n="28" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3500,7 +3500,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="_____" facs="___"/>
+         <pb n="_____"/>
          <div n="29" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3540,7 +3540,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="IMG_1462" facs="___"/>
+         <pb n="IMG_1462"/>
          <div n="30" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3644,7 +3644,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="1466" facs="___"/>
+         <pb n="1466"/>
          <div n="32" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3661,7 +3661,7 @@
                <p>[...]</p>
             </div>
          </div>
-         <pb n="IMG_1468" facs="___"/>
+         <pb n="IMG_1468"/>
          <div n="33" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
