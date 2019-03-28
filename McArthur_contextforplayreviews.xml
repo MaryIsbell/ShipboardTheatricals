@@ -298,6 +298,27 @@
                   <persName xml:id="Namik_Pacha">Namik Pacha</persName>
                   <note>cite one of the articles on the uprising</note>
                </person>
+               <person>
+                  <persName xml:id="James_Hammond">James Hammond</persName>
+                  <note>James Hammond, an ordinary seaman, joined the Chesapeake on July 13 1857, after serving aboard <orgName ref="Eurydice">HMS
+                        Eurydice</orgName> until 12 June 1857. He was born in London on November 12, 1837, making him 21 at the time of the
+                     performance. He entered the ship as "B1C" or "Boy, first class" and was promoted to Ordinary Seaman (second class) on July 27,
+                     1857. He was promoted to Ordinary Seaman (first class) on October 1, 1857, which suggests that he "learned the ropes" quickly and
+                     was given more responsibility within four months of joining the Chesapeake. <bibl>Muster Book of Her Majesty's Ship Chesapeake
+                        Commencing 1st January 1859 Ending 31st March 1859, held by the National Archives at Kew (ADM 38/2886)</bibl></note>
+               </person>
+               <person>
+                  <persName xml:id="Edward_Mansbridge">Edward Mansbridge</persName>
+                  <note>Edward Mansbridge, a landsman, joined the Chesapeake on August 13 1857, after serving aboard <orgName ref="Blenheim">HMS
+                        Blenheim</orgName> until 12 August 1857. He was born in Landport (a district within Portsmouth) on November 2, 1829, making
+                     him 31 at the time of the performance. He entered the ship as a landsman and worked as a stoker.<bibl>Muster Book of Her
+                        Majesty's Ship Chesapeake Commencing 1st January 1859 Ending 31st March 1859, held by the National Archives at Kew (ADM
+                        38/2886)</bibl></note>
+               </person>
+               <person>
+                  <persName xml:id="John_Hurst">John Hurst</persName>
+                  <note>Have not yet located Hurst in the musters</note>
+               </person>
             </listPerson>
             <listOrg>
                <org xml:id="Pelorus">
@@ -333,6 +354,10 @@
                   <note>Need to find about this P and O ship</note>
                </org>
                <org>
+                  <orgName xml:id="Blenheim">Blenheim</orgName>
+                  <note>Need to find about this Royal Navy vessel</note>
+               </org>
+               <org>
                   <orgName xml:id="Chesapeake">Chesapeake</orgName>
                   <note>HMS Chesapeake was a Royal Navy screw frigate with fifty-one guns in the Forte (or Imperieuse) class, which was one of several
                      classes including the thirty new wooden screw frigates completed between 1849 and 1865 (197). She was built in dry dock, launched
@@ -356,7 +381,8 @@
    <text>
       <body>
 
-         <!-- it may be quicker to keep these images as is and link to them in my own transformation -->
+         <!-- it may be quicker to keep these images as is and link to them in my own transformation (there are just too many to go to the trouble of
+            uploading all image files to flickr-->
          <pb n="IMG_1406.JPG" facs="___"/>
          <div n="1" type="issue">
             <head type="main">"The Young Idea"</head>
@@ -387,14 +413,14 @@
                   digressed from my subject, but as calumnious reports quickly get abroad, and such an one might prove detrimental to that well
                   regulated mess. I take this opportunity of nipping it in the bud: -to proceed:-The culinary department, under the care of Mons: do
                   Blanchearde, (who bids fair to outrival Mr Soyer) gave every satisfaction and the well satisfied look that rested on everyone's
-                  face, on the removal of the cloth, would, could he only have seen it, have repaid him well for his unremitting zeal.</p><p>Dessert
-                     on the table, and the glasses filled, the usual loyal toast was drunk to the splendid band of the ship, under their leader,
-                     Signor Faustine, playing "God save the Queen" followed immediately by "The return of the Admiral". Some slight mistake appears to
+                  face, on the removal of the cloth, would, could he only have seen it, have repaid him well for his unremitting zeal.</p>
+               <p>Dessert on the table, and the glasses filled, the usual loyal toast was drunk to the splendid band of the ship, under their leader,
+                  Signor Faustine, playing "God save the Queen" followed immediately by "The return of the Admiral". Some slight mistake appears to
                   have been made, in the time appointed for the playing of this Air; but to the fact of the Bandmaster being a foreigner, and as yet,
-                  not initiated into English customs, must this mistake be attributed</p><p>After the strains of music had ceased the President Capt.
-                     Piers, in an appropriate speech proposed the health of Commodore Watson CB which was drunk with enthusiasm, and no heel tops
-                     <note>"no heel tops" is a call made when one has not emptied their glass after a toast</note>, the band playing as before, the
-                     "Return of the Admiral" ...</p>
+                  not initiated into English customs, must this mistake be attributed</p>
+               <p>After the strains of music had ceased the President Capt. Piers, in an appropriate speech proposed the health of Commodore Watson CB
+                  which was drunk with enthusiasm, and no heel tops <note>"no heel tops" is a call made when one has not emptied their glass after a
+                     toast</note>, the band playing as before, the "Return of the Admiral" ...</p>
             </div>
             <div type="naval_intelligence">
                <head>Naval Intelligence</head>
@@ -3688,7 +3714,7 @@
                   now]</p>
             </div>
          </div>
-         <pb n="TYI1341"/>
+         <pb n="IMG_1470" facs="https://farm8.staticflickr.com/7869/46759093634_669a877fd1_k_d.jpg"/>
          <div n="33" type="issue">
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
@@ -3706,86 +3732,47 @@
                   vengeance thus to propagate itself; but we would hope that here it may end.</p>
                <p>While we admire the true English spirit, which has led our youthful Crusaders, to view a mob of infuriated "niggers" with more
                   indifference, than they would the same number of cats, or monkeys, we would yet hope, that no unnecessary animosity may be
-                     raised,<pb n="TYI1341"/>and that in our dealing as Christians, with these Gentoo natives, we may be guided always by a spirit of
-                  compassion, &amp; kindness, rather than one of oppression, &amp; contempt.<note>Bampfield's extracts include the initial "B" at the
-                     end of this article</note></p>
+                     raised,<pb n="IMG_1470l" facs="https://farm8.staticflickr.com/7843/47482467781_da64f0bebd_k_d.jpg"/>and that in our dealing as
+                  Christians, with these Gentoo natives, we may be guided always by a spirit of compassion, &amp; kindness, rather than one of
+                  oppression, &amp; contempt.<note>Bampfield's extracts include the initial "B" at the end of this article</note></p>
 
 
 
             </div>
             <div type="article">
                <head>Shooting Trip to Candligar</head>
-               <p>[...]</p>
+               <p>[...]<pb n="IMG_1471" facs="https://farm8.staticflickr.com/7862/46759093604_a209051beb_k_d.jpg"/>[...]</p>
             </div>
             <div type="sporting_intelligence">
-
                <head>Cricket Match between the "Cheseapeake, and "Army and Pelorus"</head>
-
                <p>[...]</p>
             </div>
             <div type="play_review">
                <head>Theatre Royal<lb/>H.M.S. "CHESAPEAKE <note>The review included in Bampfield's transcription from The Young Idea is more detailed
-                     than the one in the 1867 edition. It offers a description of precisely how the quarter deck was arranged and who attended the
-                     performance. It also includes a cast of characters</note></head>
+                     than the one in the 1867 edition. Bampfield attributes the review to McArthur. It offers a description of precisely how the quarter deck was arranged and who attended the
+                     performance. It also includes a cast of characters.</note></head>
                <p>On Friday night the 27th Inst our amateurs provided us with a first rate evenings amusement The Quarter deck was gaily decorated
                   with flags and flowers, and presented a beautiful spectacle, the utmost credit being due to the managers and arrangers of the
                   decorations, we have not space to give a lengthy description of the arrangements, but we cannot refrain from giving the actors that
-                  praise which is most justly their due. The pieces chosen were well suited to the various talents of the actors. Geo Horner as "King
-                  Charles the 2nd looked and acted the "Merry Monarch" well, and Chas. Stewart did equally well in the character of Rochester. But no
-                  doubt Captain Copp the kind hearted old sailor (Thos . Walshe) was the life and soul of the piece, and kept us in roars of laugher
-                  with his quaint sayings whenever he made his appearance. Lady Clara (John Hurst) looked the lady well, but spoke timidly, and Mary
-                  Jas Hammond) also required a little more self confidence</p>
-               <p>In the second piece "Raising the Wind", the part of "Jeremy Didler" was ably sustained by Isaac Wright, and Fainwould" the simple
-                  cockney was admirably impersonated by Chas. Stewart, indeed this appeared to us the most perfect impersonation of the Evening. The
-                  greatest credit is also due to Wm Connell for the way in which he played the lady's part of Miss Laurelia Durable, this appears to
-                  be his particular forte. Thos. Walshe again shone as "Sam 'the waiter, and the minor characters also did wel. Seldom have we seen an
-                  audience so well pleased or actors so well applauded. The "jig" by Thos Walshe was as excellent as usual, and the "Yo heave oh!"
-                  sung by Wm Connell produced a pleasing effect by the Chorus whihc it raised from the Blue jackets present.</p>
+                  praise which is most justly their due. The pieces chosen were well suited to the various talents of the actors. <persName
+                     ref="#George_Horner">Geo Horner</persName> as "King Charles the 2nd looked and acted the "Merry Monarch" well, and <persName
+                     ref="#Charles_Stewart">Chas. Stewart</persName> did equally well in the character of Rochester. But no doubt Captain Copp the
+                  kind hearted old sailor (<persName ref="#Thomas_Walsh">Thos. Walshe</persName>) was the life and soul of the piece, and kept us in
+                  roars of laugher with his quaint sayings whenever he made his appearance. Lady Clara (<persName ref="#John_Hurst">John
+                     Hurst</persName>) looked the lady well, but spoke timidly, and Mary (<persName ref="#James_Hammond">Jas Hammond</persName>) also
+                  required a little more self confidence</p>
+               <p>In the second piece "Raising the Wind", the part of "Jeremy Didler" was ably sustained by <persName ref="#Isaac_Wright">Isaac
+                     Wright</persName>, and Fainwould" the simple cockney was admirably impersonated by <persName ref="#Charles_Stewart">Chas.
+                     Stewart</persName>, indeed this appeared to us the most perfect impersonation of the Evening. The greatest credit is also due to
+                     <persName ref="#William_Connell">Wm Connell</persName> for the way in which he played the lady's part of Miss Laurelia Durable,
+                  this appears to be his particular forte. <persName ref="#Thomas_Walsh">Thos. Walshe</persName> again shone as "Sam 'the waiter, and
+                  the minor characters also did wel. Seldom have we seen an audience so well pleased or actors so well applauded. The "jig" by
+                     <persName ref="#Thomas_Walsh">Thos Walshe</persName> was as excellent as usual, and the "Yo heave oh!" sung by <persName
+                     ref="#William_Connell">Wm Connell</persName> produced a pleasing effect by the Chorus which it raised from the Blue jackets
+                  present.</p>
                <p>After the play, the Quarter Deck was cleared &amp; a few couples were formed for dancing. A large number of visitors were on board,
-                  than the one in the 1867 edition. It reads as follows
-                  <!--I will not want to keep this as a note because I want to be able
-                     to include all of the markup linking ography data; just putting this here for now with all of the markup in it-->On
-                  Friday Evening (28th Inst.) our Quarterdeck presented a gay scene, our Amateurs providing us with a first-rate Evening amusement.
-                  The Guns being removed, the whole space of the Quarter deck was converted into a Saloon festooned with flags, &amp; <del><gap
-                        reason="illegible"/></del> decorated with beautiful flowers, and green boughs. Chandeliers, constructed with bayonets, hung
-                  from above, giving abundance of light; the Capstan was taken away, &amp; its space occupied by a square ottoman; chairs &amp;
-                  benches filled the <gap reason="illegible"/> portion of the Deck, while a succession of rising seats extending back to the bridge
-                  accommodated a multitude of bluejacket spectators. This bridge alas being <del>itself</del>fully crowded. The stage itself was
-                  raised on the Starboard side, between the Mainmast and the Gangway, about 4 feet above the Deck, the Orchestra being arranged in
-                  front. The stage arrangements were very good, the lights well managed, and the scenery by Geo Horner, excellent. This being regarded
-                  as a farewell entertainment from the Officers of the Chesapeake, our Ship was enlivened by the presence of most of the ladies and
-                  gentlemen of Trincomalee, as well as a few of the passengers from the "Australasian", and officers as well as men, from the
-                  "Pelorus", &amp; the Fort. The following were the cast of characters. [not including this for now-don't have time]. The pieces
-                  chosen were well suited to develop the various talents of the Actors:--Geo: Horner, as King Charles 2nd looked &amp; acted the
-                  "Merry Monarch" well, and Chas Stewart as "Rochester" did no less well. But no doubt Capt Copp, the kind-hearted old Sailor (Thos
-                  Walshe) was the life and soul of the piece, &amp; kept us in roars of laughter with his quaint sayings whenever he made his
-                  appearance. "Lady Clara" looked the lady well, but spoke timidly, and "mary" alas required a little more confidence. In the 2nd
-                  Piece "Raising the Wind," the part of "Jeremy Didler" was ably sustained by <gap reason="unintelligible"/> Wright, &amp; "Fainwould"
-                  the simple cockney was admirably impersonated by Chs Stewart. Great credit is due also to Wm Connell for the way in which he played
-                  the lady's part of "Ship Laurelia Durable": this appears to be his particular forte. Thos Walshe again shone as "Sam" the Yorkshire
-                  waiter and the minor characters also did well. Seldome have we seen an audience so well pleased, our actors so well applauded. the
-                  "jib" by Thos Walshe was as excellent as usual, &amp; te "Yo, heave oh!" sung by Wm Connell produced a pleasing effect by the Chorus
-                  it raised from the Bluejackets present [the same continues as usual--the only real difference is that the cast of characters is not
-                  re-created in the lithograph edition and there is a much more detailed description of how the ship was configured in Bampfield's
-                  review]</p>
-               <p>On Friday night the 27th Inst our amateurs provided us with a first rate evenings amusement The Quarter deck was gaily decorated
-                  with flags and flowers, and presented a beautiful spectacle, the utmost credit being due to the managers and arrangers of the
-                  decorations, we hav enot space to give a lengthy description of the arrangeents, but we cannot refrain from giving the actors that
-                  praise which is most justly their due. The pieces chosen were well suited to the various talents of the actors. Geo Horner as "King
-                  Charles the 2nd looked and acted the "Merry Monarch" well, and Chas. Stewart did equally well in the character of Rochester. But no
-                  doubt Captain Copp the kind hearted old sailor (Thos . Walshe) was the life and soul of the piece, and kept us in roars of laugher
-                  with his quaint sayings shenever he made his appearance. Lady Clara (John Hurst) looked the lady well, but spoke timidly, and Mary
-                  Jas Hammond) also required a little more self confidence</p>
-               <p>In the second piece "Raising the Wind", the part of "Jeremy Didler" was ably sustained by Isaac Wright, and Fainwould" the simple
-                  cockney was admirably impersonated by Chas. Stewart, indeed this appeared to us the most perfect impersonation of the Evening. The
-                  greatest credit is also due to Wm Connell for the way in which he played the lady's part of Miss Laurelia Durable, this appears to
-                  be his particular forte. Thos. Walshe again shone as "Sam 'the waiter, and the minor characters also did wel. Seldom have we seen an
-                  audience so well pleased or actors so well applauded. The "jig" by Thos Walshe was as excellent as usual, and the "Yo heave oh!"
-                  sung by Wm Connell produced a pleasing effect by the Chorus whihc it raised from the Blue jackets present.</p>
-               <p>After the play, the Quarter Deck was cleared &amp; a few couples were formed for dancing. A arge number of visitors were on board,
                   and we believe very much enjoyed the Evening's entertainment. The Gun Room gave a capital spread despite their want of space &amp;
                   means to their brother officers of the "Pelorus"</p>
-               <p>[rest of the issue not relevant now]</p>
             </div>
          </div>
          <pb n="IMG_1470" facs="__"/>
@@ -3847,7 +3834,8 @@
                   calling to your Highness' notice the prompt &amp; gallant way in which all my orders were executed, &amp; the steadiness of both
                   officers &amp; men under the heavy fire, of the enemy, as well as the valuable assistance rendered me by Genl. Gander who was
                   severely wounded on this occasion; &amp; I beg to forward to you herewith a return of the forced engaged (Enclosure No 2) together
-                  with the casualties which have occurred. The Enemy loass is reported to be severe.</p>
+                  with the casualties which have occurred. The Enemy loass is reported to be severe.</p><note>Bampfield's version of this contribution
+                  attributes it to "C.J. Brownrigg." Bampfield also includes extracts from his own journal right after that contribution</note>
             </div>
             <div type="Pictorial_Rebus">
                <head>Pictorial Rebus</head>
@@ -4490,20 +4478,21 @@
                   accommodated a large and happy audience, not only of our own bluejackets, but of those from the "<orgName ref="#Pelorus"
                      >Pelorus</orgName>", the "DuChayla" and the "Roebuck".</p>
                <p>We are proud of our Amateur Performers, who have this time surpassed themselves. The comedy of King Charles the Second" being cast
-                  as on the last occasion, we need say little, except to compliment the fair "Mary" the Wapping beauty, around whom the whole plot
-                  clusters, on the increasing ease, &amp; freedom with which she plays her part. "Charles" was as royal, "Rochester" as Manly, and old
-                  "Copp" as jolly hearted as ever.</p>
-               <p>The two farces which followed kept the audience in a state of continuoual laughter and applause. Thos Walsh, as "Paddy Carey" was
+                  as on the last occasion, we need say little, except to compliment the fair "<persName ref="#James_Hammond">Mary</persName>" the
+                  Wapping beauty, around whom the whole plot clusters, on the increasing ease, &amp; freedom with which she plays her part. "<persName
+                     ref="#George_Horner">Charles</persName>"
+                  was as royal, "<persName ref="#Charles_Stewart">Rochester</persName>" as Manly, and old "<persName ref="#Thomas_Walsh">Copp</persName>" as jolly hearted as ever.</p>
+               <p>The two farces which followed kept the audience in a state of continual laughter and applause. <persName ref="#Thomas_Walsh">Thos Walsh</persName>, as "Paddy Carey" was
                   indeed a "broth of a boy", speaking with a rich brogue, whirling his shillelah in true Hibernian spirit, touching the hearts of the
                   audience by the generous<pb n="TYI2034" facs="https://farm2.staticflickr.com/1743/27606331227_4931573b8b_k_d.jpg"/>nature of the
                   deeds represented, and winding up with a song, and a "jig" which brought down thunders of applause. The other characters of the
-                  piece were all good, but "widow Leary" the landlady deserves special mention. She was the yielding widow, and the Irish landlady is
+                  piece were all good, but "Widow Leary" the landlady deserves special mention. She was the yielding widow, and the Irish landlady is
                   perfection.</p>
-               <p>In the "Man about Town" the chief burden of the piece rested upon Isaac Wright as "Skirts", and well did he sustain it. Coming in
-                  which his two large placards of the "Learned PIg," he at once moved our mucles to a state of risibility, which we found it difficult
-                  to pause from, such was the continued succession of funny deeds, and speeches. Horner as "Dr Mandible" the physician Walsh as
-                  "Topps" the Tiger, and indeed all the minor characters, played up to him well, and the curtain fell amidst loud and long
-                  applause.</p>
+               <p>In the "Man about Town" the chief burden of the piece rested upon <persName ref="#Isaac_Wright">Isaac Wright</persName> as "Skirts",
+                  and well did he sustain it. Coming in which his two large placards of the "Learned Pig," he at once moved our mucles to a state of
+                  risibility, which we found it difficult to pause from, such was the continued succession of funny deeds, and speeches. <persName
+                     ref="#George_Horner">Horner</persName> as "Dr Mandible" the physician, <persName ref="#Thomas_Walsh">Walsh</persName> as "Topps" the Tiger, and indeed all the minor
+                  characters, played up to him well, and the curtain fell amidst loud and long applause.</p>
                <p>We may safely say that all Oficers &amp; men present, whether French or English, were delighted with their Evening's amusement, and
                   we were glad to observe our newly arrived Commodore, tho' rather late or the first piece, thoroughly enjoying the fun of the two
                   Farces.</p>

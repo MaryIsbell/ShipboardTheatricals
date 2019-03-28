@@ -338,51 +338,177 @@
       </encodingDesc>
    </teiHeader>
    <text>
-      <body>      
-            <pb n="BETYI1341"/>
-            <div n="34" type="issue">
-               <head type="main">-</head>
-               <head type="main">-</head>
-               <head type="sub">-</head>
-               <head type="sub">-</head>
-               <div type="-">
-                  <head>-</head>
-                  <p>[...]</p>
-               </div>
-               <div type="-">
-                  <head>-</head>
-                  <p>[...]</p>
-               </div>
-               <div type="-">
-                  <head>-</head>
-                  <p>[...]</p></div>              
-               <div type="play_review">
-                  <head>????</head>
-                  <p>On Friday Evening (28th Inst.) our Quarterdeck presented a gay scene, our Amateurs providing us with a first-rate Evening
-                     amusement. The Guns being removed, the whole space of the Quarter deck was converted into a Saloon festooned with flags, &amp; <del>
-                        <gap reason="illegible"/>
-                     </del> decorated with beautiful flowers, and green boughs. Chandeliers, constructed with bayonets, hung from above, giving
-                     abundance of light; the Capstan was taken away, &amp; its space occupied by a square ottoman; chairs &amp; benches filled the
-                        <gap reason="illegible"/> portion of the Deck, while a succession of rising seats extending back to the bridge accommodated a
-                     multitude of bluejacket spectators. This bridge alas being <del>itself</del>fully crowded. The stage itself was raised on the
-                     Starboard side, between the Mainmast and the Gangway, about 4 feet above the Deck, the Orchestra being arranged in front. The
-                     stage arrangements were very good, the lights well managed, and the scenery by Geo Horner, excellent. This being regarded as a
-                     farewell entertainment from the Officers of the Chesapeake, our Ship was enlivened by the presence of most of the ladies and
-                     gentlemen of Trincomalee, as well as a few of the passengers from the "Australasian", and officers as well as men, from the
-                     "Pelorus", &amp; the Fort. The following were the cast of characters. [...]. The pieces chosen were well suited to develop the
-                     various talents of the Actors:--Geo: Horner, as King Charles 2nd looked &amp; acted the "Merry Monarch" well, and Chas Stewart as
-                     "Rochester" did no less well. But no doubt Capt Copp, the kind-hearted old Sailor (Thos Walshe) was the life and soul of the
-                     piece, &amp; kept us in roars of laughter with his quaint sayings whenever he made his appearance. "Lady Clara" looked the lady
-                     well, but spoke timidly, and "mary" alas required a little more confidence. In the 2nd Piece "Raising the Wind," the part of
-                     "Jeremy Didler" was ably sustained by <gap reason="illegible"/> Wright, &amp; "Fainwould" the simple cockney was admirably
-                     impersonated by Chs Stewart. Great credit is due also to Wm Connell for the way in which he played the lady's part of "Ship
-                     Laurelia Durable": this appears to be his particular forte. Thos Walshe again shone as "Sam" the Yorkshire waiter and the minor
-                     characters also did well. Seldome have we seen an audience so well pleased, our actors so well applauded. the "jig" by Thos
-                     Walshe was as excellent as usual, &amp; the "Yo, heave oh!" sung by Wm Connell produced a pleasing effect by the Chorus it raised
-                     from the Bluejackets present […]</p>
-               </div>
+      <body>
+         <pb n="BETYI1341"/>
+         <div n="34" type="issue">
+            <head>-</head>
+            <div type="-">
+               <head>-</head>
+               <p>[...]</p>
             </div>
-      
+            <div type="-">
+               <head>-</head>
+               <p>[...]</p>
+            </div>
+            <div type="-">
+               <head>-</head>
+               <p>[...]</p>
+            </div>
+            <div type="play_review">
+               <head>????</head>
+               <p>On Friday Evening (28th Inst.) our Quarterdeck presented a gay scene, our Amateurs providing us with a first-rate Evening amusement.
+                  The Guns being removed, the whole space of the Quarter deck was converted into a Saloon festooned with flags, &amp; <del>
+                     <gap reason="illegible"/>
+                  </del> decorated with beautiful flowers, and green boughs. Chandeliers, constructed with bayonets, hung from above, giving abundance
+                  of light; the Capstan was taken away, &amp; its space occupied by a square ottoman; chairs &amp; benches filled the <gap
+                     reason="illegible"/> portion of the Deck, while a succession of rising seats extending back to the bridge accommodated a
+                  multitude of bluejacket spectators. This bridge alas being <del>itself</del>fully crowded. The stage itself was raised on the
+                  Starboard side, between the Mainmast and the Gangway, about 4 feet above the Deck, the Orchestra being arranged in front. The stage
+                  arrangements were very good, the lights well managed, and the scenery by Geo Horner, excellent. This being regarded as a farewell
+                  entertainment from the Officers of the Chesapeake, our Ship was enlivened by the presence of most of the ladies and gentlemen of
+                  Trincomalee, as well as a few of the passengers from the "Australasian", and officers as well as men, from the "Pelorus", &amp; the
+                  Fort. The following were the cast of characters. [...]. The pieces chosen were well suited to develop the various talents of the
+                  Actors:--Geo: Horner, as King Charles 2nd looked &amp; acted the "Merry Monarch" well, and Chas Stewart as "Rochester" did no less
+                  well. But no doubt Capt Copp, the kind-hearted old Sailor (Thos Walshe) was the life and soul of the piece, &amp; kept us in roars
+                  of laughter with his quaint sayings whenever he made his appearance. "Lady Clara" looked the lady well, but spoke timidly, and
+                  "mary" alas required a little more confidence. In the 2nd Piece "Raising the Wind," the part of "Jeremy Didler" was ably sustained
+                  by <gap reason="illegible"/> Wright, &amp; "Fainwould" the simple cockney was admirably impersonated by Chs Stewart. Great credit is
+                  due also to Wm Connell for the way in which he played the lady's part of "Ship Laurelia Durable": this appears to be his particular
+                  forte. Thos Walshe again shone as "Sam" the Yorkshire waiter and the minor characters also did well. Seldome have we seen an
+                  audience so well pleased, our actors so well applauded. the "jig" by Thos Walshe was as excellent as usual, &amp; the "Yo, heave
+                  oh!" sung by Wm Connell produced a pleasing effect by the Chorus it raised from the Bluejackets present […]</p>
+               
+               <!-- Something weird has happened here...adding what I cut from the McArthur file just in case it isn't all in this document yet...<p>After the play, the Quarter Deck was cleared &amp; a few couples were formed for dancing. A large number of visitors were on board,
+                  than the one in the 1867 edition. It reads as follows
+                  On Friday Evening (28th Inst.) our Quarterdeck presented a gay scene, our Amateurs providing us with a first-rate Evening amusement.
+               The Guns being removed, the whole space of the Quarter deck was converted into a Saloon festooned with flags, &amp; <del><gap
+                  reason="illegible"/></del> decorated with beautiful flowers, and green boughs. Chandeliers, constructed with bayonets, hung
+               from above, giving abundance of light; the Capstan was taken away, &amp; its space occupied by a square ottoman; chairs &amp;
+               benches filled the <gap reason="illegible"/> portion of the Deck, while a succession of rising seats extending back to the bridge
+               accommodated a multitude of bluejacket spectators. This bridge alas being <del>itself</del>fully crowded. The stage itself was
+               raised on the Starboard side, between the Mainmast and the Gangway, about 4 feet above the Deck, the Orchestra being arranged in
+               front. The stage arrangements were very good, the lights well managed, and the scenery by Geo Horner, excellent. This being regarded
+               as a farewell entertainment from the Officers of the Chesapeake, our Ship was enlivened by the presence of most of the ladies and
+               gentlemen of Trincomalee, as well as a few of the passengers from the "Australasian", and officers as well as men, from the
+               "Pelorus", &amp; the Fort. The following were the cast of characters. [not including this for now-don't have time]. The pieces
+               chosen were well suited to develop the various talents of the Actors:Geo: Horner, as King Charles 2nd looked &amp; acted the
+               "Merry Monarch" well, and Chas Stewart as "Rochester" did no less well. But no doubt Capt Copp, the kind-hearted old Sailor (Thos
+               Walshe) was the life and soul of the piece, &amp; kept us in roars of laughter with his quaint sayings whenever he made his
+               appearance. "Lady Clara" looked the lady well, but spoke timidly, and "mary" alas required a little more confidence. In the 2nd
+               Piece "Raising the Wind," the part of "Jeremy Didler" was ably sustained by <gap reason="unintelligible"/> Wright, &amp; "Fainwould"
+               the simple cockney was admirably impersonated by Chs Stewart. Great credit is due also to Wm Connell for the way in which he played
+               the lady's part of "Ship Laurelia Durable": this appears to be his particular forte. Thos Walshe again shone as "Sam" the Yorkshire
+               waiter and the minor characters also did well. Seldome have we seen an audience so well pleased, our actors so well applauded. the
+               "jib" by Thos Walshe was as excellent as usual, &amp; te "Yo, heave oh!" sung by Wm Connell produced a pleasing effect by the Chorus
+               it raised from the Bluejackets present [the same continues as usual. The only real difference is that the cast of characters is not
+               re-created in the lithograph edition and there is a much more detailed description of how the ship was configured in Bampfield's
+               review]</p>
+               <p>On Friday night the 27th Inst our amateurs provided us with a first rate evenings amusement The Quarter deck was gaily decorated
+                  with flags and flowers, and presented a beautiful spectacle, the utmost credit being due to the managers and arrangers of the
+                  decorations, we hav enot space to give a lengthy description of the arrangeents, but we cannot refrain from giving the actors that
+                  praise which is most justly their due. The pieces chosen were well suited to the various talents of the actors. Geo Horner as "King
+                  Charles the 2nd looked and acted the "Merry Monarch" well, and Chas. Stewart did equally well in the character of Rochester. But no
+                  doubt Captain Copp the kind hearted old sailor (Thos . Walshe) was the life and soul of the piece, and kept us in roars of laugher
+                  with his quaint sayings shenever he made his appearance. Lady Clara (John Hurst) looked the lady well, but spoke timidly, and Mary
+                  Jas Hammond) also required a little more self confidence</p>
+               <p>In the second piece "Raising the Wind", the part of "Jeremy Didler" was ably sustained by Isaac Wright, and Fainwould" the simple
+                  cockney was admirably impersonated by Chas. Stewart, indeed this appeared to us the most perfect impersonation of the Evening. The
+                  greatest credit is also due to Wm Connell for the way in which he played the lady's part of Miss Laurelia Durable, this appears to
+                  be his particular forte. Thos. Walshe again shone as "Sam 'the waiter, and the minor characters also did wel. Seldom have we seen an
+                  audience so well pleased or actors so well applauded. The "jig" by Thos Walshe was as excellent as usual, and the "Yo heave oh!"
+                  sung by Wm Connell produced a pleasing effect by the Chorus whihc it raised from the Blue jackets present.</p> -->
+            </div>
+         </div>
+         <pb n="___"/>
+         <div n="__" type="issue">
+            <head>-</head>
+            <div type="-">
+               <head>-</head>
+               <p>[...]</p>
+            </div>
+            <div type="-">
+               <head>-</head>
+               <p>[...]</p>
+            </div>
+            <div type="-">
+               <head>-</head>
+               <p>[...]</p>
+            </div>
+            <div type="Naval_Intelligence">
+               <head>Naval Intelligence</head>
+               <p>[...]</p>
+            </div>
+            <div type="epitome">
+               <head>Epitome</head>
+               <p>[...]</p>
+            </div>
+            <div type="facetiae">
+               <head>Facetiae</head>
+               <p>[...]</p>
+            </div>
+            <div type="rebus">
+               <head>Rebus</head>
+               <p>[...]</p>
+            </div>
+            <div type="answers">
+               <head>__</head>
+               <p>[...]</p>
+            </div>
+            <div type="publication_info">
+               <head>_</head>
+               <p>[...]</p>
+            </div>
+         </div>
+         <!-- After transcribing an entire issue, adjust what follows to become a template for Bampfield transcription -->
+         <pb n="___"/>
+         <div n="__" type="issue">
+            <head>-</head>
+            <div type="-">
+               <head>-</head>
+               <p>[...]</p>
+            </div>
+            <div type="-">
+               <head>-</head>
+               <p>[...]</p>
+            </div>
+            <div type="-">
+               <head>-</head>
+               <p>[...]</p>
+            </div>
+            <div type="Naval_Intelligence">
+               <head>Naval Intelligence</head>
+               <p>[...]</p>
+            </div>
+            <div type="epitome">
+               <head>Epitome</head>
+               <p>[...]</p>
+            </div>
+            <div type="facetiae">
+               <head>Facetiae</head>
+               <p>[...]</p>
+            </div>
+            <div type="rebus">
+               <head>Rebus</head>
+               <p>[...]</p>
+            </div>
+            <div type="answers">
+               <head>__</head>
+               <p>[...]</p>
+            </div>
+            <div type="publication_info">
+               <head>_</head>
+               <p>[...]</p>
+            </div>
+         </div>
+         <div type="playbill">
+            <head>Chesapeake Theatre.</head>
+            <ab><l>THE SEAMEN AMATEURS OF H. M.'S SHIP CHESAPEAKE,</l><l>WILL ON</l><l>Tuesday, 3d January, 1860,</l><l>Produce their First
+                  Representation at Hongkong, on</l><l>which occasion will be Performed</l><l>The much admired Comedy in 3 Acts adapted from "La
+                  Jeunesse</l><l>de Henri 5,'</l><l>By John Howard Payne, Esq.,</l><l>ENTITLED,</l><l>CHARLES THE II.,</l><l>OR,</l><l>The Merry
+                  Monarch.</l><note>This playbill announces a performance taking place in January of 1860, eight months after The Young Idea ceased publication. Charles the II is
+                  repeated, but a new performer takes on the role of Lady Clara in this performance (William Connell performs as Mary, which he hadn't
+                  done before). Who is Mansbridge and what happened to the sailor performing as Mary in Jeddah?</note></ab>
+         </div>
       </body>
    </text>
 </TEI>
