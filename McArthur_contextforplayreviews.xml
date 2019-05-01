@@ -153,7 +153,11 @@
                <person xml:id="Isaac_Wright">
                   <note>Isaac Wright, an ordinary sailor 2nd class, joined the Chesapeake on September 4th 1857. Hew as born in Sunderland in 1835,
                      making him 23 at the time of the performance.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858
-                        Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+                        Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884). In January of 1859 (after the performance at
+                        Jeddah), the following event is chronicled in The Young Idea: "On Monday (24th) when shifting Topsails Isaac Wright Ordy fell
+                        backwards from the main Topsail Yard, but was happily brought up by his knife lanyard hitching, which gave him time to grasp
+                        the rigging: we should indeed have been very sorry had anything more serious befallen one, whose comic powers have so lately
+                        given us amusement"</bibl></note>
                </person>
                <person xml:id="Henry_Hamilton">
                   <note>C. R. B. Hamilton (the only Hamilton in the musters) was a naval cadet who served aboard <orgName ref="Colossus">HMS
@@ -281,32 +285,32 @@
             </listPerson>
             <listOrg>
                <org xml:id="Pelorus">
-                  <note>HMS Pelorus was a Royal Navy screw corvette with twenty-one guns in the Pearl class. The ship was launched on February 5, 1858 and
-                     its masting and fitting-out was completed on September 10, 1857. The ship was 200 feet long, 40 feet 4 inches at the broadest point,
-                     with a depth in the hold of 23 feet 11 inches. As Lyon and Winfield explain, "Corvette designs were rapidly enlarged over the
-                     1860s, as the corvette began to take over the traditional role of policing the high seas. To this end they were all built as
+                  <note>HMS Pelorus was a Royal Navy screw corvette with twenty-one guns in the Pearl class. The ship was launched on February 5, 1858
+                     and its masting and fitting-out was completed on September 10, 1857. The ship was 200 feet long, 40 feet 4 inches at the broadest
+                     point, with a depth in the hold of 23 feet 11 inches. As Lyon and Winfield explain, "Corvette designs were rapidly enlarged over
+                     the 1860s, as the corvette began to take over the traditional role of policing the high seas. To this end they were all built as
                      steam auxiliaries, designed to cruise under sail" (207). HMS Pelorus was broken up for parts at Devonport on February 3, 1869.
                      David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All the Ships of the Royal Navy, 1815–1889 (London: Chatham
                      Publishing), 2004.</note>
                </org>
                <org>
                   <orgName xml:id="Roebuck">Roebuck</orgName>
-                  <note>HMS Roebuck was a Royal Navy despatch vessel with 5 guns in the Intrepid class. The ship was launched on March 22, 1856 and its
-                     masting and fitting-out was completed on August 25, 1857. The ship was 200 feet long, 179 feet 5 1/4 inches at the broadest point,
-                     with a depth in the hold of 14 feet 6 inches. The ship was built for a company of 100 men. As Lyon and Winfield explain, "The outbreak
-                     of the Russian War demonstrated the need for numerous manoeuvrable, shallow-draught vessels for coastal and inshore operations in
-                     the Baltic and Black Seas. Six small screw steamers of the Arrow Class were approved to be built by contract in the Thames [...]"
-                     (218). The Roebuck was one of twenty additional vessels ordered in 1855 (218-219). David Lyon and Rif Winfield, The Sail &amp;
-                     Steam Navy List: All the Ships of the Royal Navy, 1815–1889 (London: Chatham Publishing), 2004.</note>
+                  <note>HMS Roebuck was a Royal Navy despatch vessel with 5 guns in the Intrepid class. The ship was launched on March 22, 1856 and
+                     its masting and fitting-out was completed on August 25, 1857. The ship was 200 feet long, 179 feet 5 1/4 inches at the broadest
+                     point, with a depth in the hold of 14 feet 6 inches. The ship was built for a company of 100 men. As Lyon and Winfield explain,
+                     "The outbreak of the Russian War demonstrated the need for numerous manoeuvrable, shallow-draught vessels for coastal and inshore
+                     operations in the Baltic and Black Seas. Six small screw steamers of the Arrow Class were approved to be built by contract in the
+                     Thames [...]" (218). The Roebuck was one of twenty additional vessels ordered in 1855 (218-219). David Lyon and Rif Winfield, The
+                     Sail &amp; Steam Navy List: All the Ships of the Royal Navy, 1815–1889 (London: Chatham Publishing), 2004.</note>
                </org>
                <org>
                   <orgName xml:id="Cyclops">Cyclops</orgName>
-                  <note>HMS Cyclops was a Royal Navy steam vessel with six guns in the Cyclops class. The ship was launched on July 10, 1839. The ship was 190
-                     feet 3 inches long, 163 feet 6 inches at the broadest point, with a depth in the hold of 37 feet 6 inches. The ship was built for a
-                     company of 175 to 200 men. As Lyon and Winfield explain, the ship was re-armed in 1856 "with 2x 68 pdrds (95cwt) on the pivots
-                     and 4 x 10in (84cwt) on the broadside trucks." They also explain that it "was fitted 1856/57 to assist with the laying of the
-                     Atlantic cable (151). David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All the Ships of the Royal Navy, 1815–1889
-                     (London: Chatham Publishing), 2004. </note>
+                  <note>HMS Cyclops was a Royal Navy steam vessel with six guns in the Cyclops class. The ship was launched on July 10, 1839. The ship
+                     was 190 feet 3 inches long, 163 feet 6 inches at the broadest point, with a depth in the hold of 37 feet 6 inches. The ship was
+                     built for a company of 175 to 200 men. As Lyon and Winfield explain, the ship was re-armed in 1856 "with 2x 68 pdrds (95cwt) on
+                     the pivots and 4 x 10in (84cwt) on the broadside trucks." They also explain that it "was fitted 1856/57 to assist with the laying
+                     of the Atlantic cable (151). David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All the Ships of the Royal Navy,
+                     1815–1889 (London: Chatham Publishing), 2004. </note>
                </org>
                <org>
                   <orgName xml:id="Bentinck">Bentinck</orgName>
@@ -319,11 +323,11 @@
                <org>
                   <orgName xml:id="Chesapeake">Chesapeake</orgName>
                   <note>HMS Chesapeake was a Royal Navy screw frigate with fifty-one guns in the Forte (or Imperieuse) class, which was one of several
-                     classes including the thirty new wooden screw frigates completed between 1849 and 1865 (197). The ship was built in dry dock, launched
-                     on September 7, 1855, and its masting and fitting-out was completed on August 28, 1857. The ship was 212 feet long, 50 feet 2 inches
-                     at the broadest point, with a depth in the hold of 16 feet and 9 inches. The ship was built for a company of 515 men. The Chesapeake
-                     was sold in 1867 to be broken up for parts at Charlton (200). David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All
-                     the Ships of the Royal Navy, 1815–1889 (London: Chatham Publishing), 2004.</note>
+                     classes including the thirty new wooden screw frigates completed between 1849 and 1865 (197). The ship was built in dry dock,
+                     launched on September 7, 1855, and its masting and fitting-out was completed on August 28, 1857. The ship was 212 feet long, 50
+                     feet 2 inches at the broadest point, with a depth in the hold of 16 feet and 9 inches. The ship was built for a company of 515
+                     men. The Chesapeake was sold in 1867 to be broken up for parts at Charlton (200). David Lyon and Rif Winfield, The Sail &amp;
+                     Steam Navy List: All the Ships of the Royal Navy, 1815–1889 (London: Chatham Publishing), 2004.</note>
                </org>
             </listOrg>
          </particDesc>
@@ -2968,8 +2972,7 @@
             <div type="article">
                <head>The "Ava"'s Encampment</head>
                <p>[description of the officers of the Ava, who were staying on shore in white tents. Many little details shared, including the fact
-                  that there were "Mahometan divers, who thought they would never succeed unless they had a white flag flying. <pb n="IMG_1435"
-                    /></p>
+                  that there were "Mahometan divers, who thought they would never succeed unless they had a white flag flying. <pb n="IMG_1435"/></p>
                <div type="article">
                   <head>Diving Operations</head>
                   <head type="sub"><hi rend="underline">at the Wreck of the "Ava"</hi></head>
@@ -3348,13 +3351,13 @@
             </div>
             <div type="letter">
                <head>A Ramble in Diamond Harbour</head>
-               <p>an account of Diamond Harbour contributed to the paper since the editor has been sick <pb n="IMG_1453"/> as the writer
-                  describes the plant of interest, he describes asking a native who spoke English what the Hindoo name was: "but he could only tell me
-                  it was a thorn flower and a weed; he did not understand that the weeds of Bengal became choice flowers in the conservatories of
-                  England" next is a description of a woman begging and a journey in a dirty boat to a slimy shore, and then the discovery of a
-                  respectable European house, which was inhabited by a magistrate that was hearing a court case for arson. The magistrate then
-                  acquaints the Chesapeake men about the impossibility of learning the truth about this. Very detailed description given of the sights
-                  and the account is seemingly written during the trip. </p>
+               <p>an account of Diamond Harbour contributed to the paper since the editor has been sick <pb n="IMG_1453"/> as the writer describes the
+                  plant of interest, he describes asking a native who spoke English what the Hindoo name was: "but he could only tell me it was a
+                  thorn flower and a weed; he did not understand that the weeds of Bengal became choice flowers in the conservatories of England" next
+                  is a description of a woman begging and a journey in a dirty boat to a slimy shore, and then the discovery of a respectable European
+                  house, which was inhabited by a magistrate that was hearing a court case for arson. The magistrate then acquaints the Chesapeake men
+                  about the impossibility of learning the truth about this. Very detailed description given of the sights and the account is seemingly
+                  written during the trip. </p>
             </div>
             <div type="play_review">
                <head>Theatricals.</head>
@@ -3806,27 +3809,31 @@
             </div>
          </div>
          <pb n="IMG_1472"/>
-         <div n="35" type="issue"><note>The editorial, written by McArthur, appears in the same location in Bampfield.</note>
+         <div n="35" type="issue">
+            <note>The editorial, written by McArthur, appears in the same location in Bampfield.</note>
             <head type="main">"The Young Idea"</head>
             <head type="main">Chesapeake Chronicle and Weekly Journal</head>
             <head type="sub">Saturday 4 September 1858</head>
             <head type="sub">Vol 1. No 35</head>
             <div type="editorial">
-               
+
                <p>The last week has seen a great change come o'er our arrangements; destined for Calcutta, already anticipating the sweets of Diamond
                   Harbour, enjoying our visit to Madras, and quite secure from thoughts of sailing, except in a Northerly direction, we have been
-                  suddenly disturbed, and all our propsitions overthrown by a Telegram from the Senior Officer ordering us off to Aden</p><p>Altho' we
-                  saw a possibility of such an order, and even expected it, which laying in the peaceful harbour of Trincomalee, when first the
-                  intelligence of the massacre at Jeddah arrived, still we had dispelled the idea during the intervening fortnight, and the order for
-                  us to repoir thither was as unexpected as it was sudden.</p><p>We have heard that the "Cyclops," having been fired upon at Jeddah,
-                     has totally destroyed the Forts, so that we shall have little or no work to do there</p><p>We are not sorry that we are called to
-                     another part of the station, for we hope to find fresh matter of interest, &amp; amuseument for our columns, and in the shores<pb
-                     n="1472l"/>of the Red Sea, so familiar to us thro' biblical, and ancient records, such cannot be wanting.</p><p>All must be glad
-                        to hear that the endeavour to lay down the Atlantic Telegraph has at last met with the success, the mighty scheme deserved.
-                        England, &amp; America are now linked together, &amp; tho' separated by the vast Atlantic, the ingenuity of man, aided by
-                        Providence, has overcome space, time, &amp; every obstacle, &amp; words, &amp; thoughts can now be exchanged, with an
-                        inconceivable rapidity</p><note>it must be noted that the conflict at Jeddah escalated primarily because directions sent to
-                           the Captain of the Cyclops were not received before he decided to bombard Jeddah--a massive miscommunication resulted.</note>
+                  suddenly disturbed, and all our propsitions overthrown by a Telegram from the Senior Officer ordering us off to Aden</p>
+               <p>Altho' we saw a possibility of such an order, and even expected it, which laying in the peaceful harbour of Trincomalee, when first
+                  the intelligence of the massacre at Jeddah arrived, still we had dispelled the idea during the intervening fortnight, and the order
+                  for us to repoir thither was as unexpected as it was sudden.</p>
+               <p>We have heard that the "Cyclops," having been fired upon at Jeddah, has totally destroyed the Forts, so that we shall have little or
+                  no work to do there</p>
+               <p>We are not sorry that we are called to another part of the station, for we hope to find fresh matter of interest, &amp; amuseument
+                  for our columns, and in the shores<pb n="1472l"/>of the Red Sea, so familiar to us thro' biblical, and ancient records, such cannot
+                  be wanting.</p>
+               <p>All must be glad to hear that the endeavour to lay down the Atlantic Telegraph has at last met with the success, the mighty scheme
+                  deserved. England, &amp; America are now linked together, &amp; tho' separated by the vast Atlantic, the ingenuity of man, aided by
+                  Providence, has overcome space, time, &amp; every obstacle, &amp; words, &amp; thoughts can now be exchanged, with an inconceivable
+                  rapidity</p>
+               <note>it must be noted that the conflict at Jeddah escalated primarily because directions sent to the Captain of the Cyclops were not
+                  received before he decided to bombard Jeddah--a massive miscommunication resulted.</note>
             </div>
             <div type="__">
                <head>[...]</head>
@@ -3856,7 +3863,8 @@
             <head type="sub">Saturday 11th September 1858</head>
             <head type="sub">Vol. 1 No. 36<!-- add the volume in for all othersI was missing it!!--></head>
 
-            <div type="article"><note>This contribution does not appear in Bampfield's extracts. His issue begins with "burial at sea."</note>
+            <div type="article">
+               <note>This contribution does not appear in Bampfield's extracts. His issue begins with "burial at sea."</note>
                <p>We are now about to cross the Equator for a the third time since leaving England, and as we have a great many on board who have not
                   been subjected to the usual ceremonies of initiation; Father Neptune will perhaps regard us with an angry eye, on our again entering
                   his domains. </p>
@@ -3872,8 +3880,9 @@
                   probability, be sent there to meet us.</p>
 
             </div>
-            <div type="poem"><note>Bampfield includes the initials of McArthur and Bampfield for this poem, which is perhaps longer in Bampfield's
-               transcription (check on this)--it appears as the first contribution to issue 36.</note>
+            <div type="poem">
+               <note>Bampfield includes the initials of McArthur and Bampfield for this poem, which is perhaps longer in Bampfield's transcription
+                  (check on this)--it appears as the first contribution to issue 36.</note>
                <head>The Burial at Sea</head>
                <lg>
                   <l>a poem about burying a boy, 17, who was killed by a fall from aloft 8 September 1858 poem written by McArthur (and signed in the
@@ -3923,7 +3932,8 @@
                   moonlight shining over groves of Palm trees added solemnity to the surrounding scene.</p>
                <p>The dark Gentoo worshippers, so far from expressing any signs of aversion to our being present at the spectacle, seemed rather to
                   greet us with smiles as they passed the spot where we were standing. As the gorgeous shrine moved on to reenter the temple, Lieut.
-                  Nelson<note>Bampfield does not include a specific name in his transcription, instead referring to "Lieut. W__"</note> and two or three of our younger Companions moved with the crowd, hoping to catch a sight<pb n="1475l"
+                     Nelson<note>Bampfield does not include a specific name in his transcription, instead referring to "Lieut. W__"</note> and two or
+                  three of our younger Companions moved with the crowd, hoping to catch a sight<pb n="1475l"
                      facs="https://farm8.staticflickr.com/7829/33606968798_a494180c84_k_d.jpg"/>of the interior of the building. They had already
                   entered the outer enclosure, &amp; were about approaching the vestibule of the temple, (a temporary shed thatched with palm leaves),
                   when, as I understand they were warned not to infringe in the part appropriated to the women. On this they moved to the other side,
@@ -4575,6 +4585,8 @@
                </div>
                <div type="letter">
                   <head type="main">The Jeddah Massacre</head>
+                  <note>Bampfield includes a note at the bottom of his transcription of this article that it was written by "J [from Major
+                     Masters]."</note>
                   <head type="sub">Execution of Mahtesil and Amoudi.</head>
                   <floatingText>
                      <body>
@@ -4589,13 +4601,13 @@
                            any sudden outbreak of the natives. As daylight broke over the walls and minarets of Jeddah, and the more distant hills
                            that bound our landscape to the Eastward, we started from our "rendezvous," the execution being fixed by the Turkish
                            authorities for one hour after daybreak. The Frenchmen led the way, the Boats following one another in single file; it took
-                           us fully half an hour to reach the shore, the pilotage among the shoals being diffuclt, and by the time that all
+                           us fully half an hour to reach the shore, the pilotage among the shoals being difficult, and by the time that all
                            arrangments were complete, the "one hour after daybreak" was fast expiring. We found the Turkish guard already drawn up at
                            the scene of execution; it was the square plot of ground on the Custom House Wharf, open to the shipping, and close under
                            the seawall of the town. As we stood facing the sea, the right side of the square was occupied by a company of Turkish
                            soldiers, perhaps 100 in number, a similar company of Albanians occupied the left; while a third side was formed of the
-                           English Marines &amp; French Sailors, each fifty in nuber, with their backs against the wall of the town. The French
-                           occupied theright of our position, their right thus touching the plank of the Turks, and between us waved, side by side,
+                           English Marines &amp; French Sailors, each fifty in number, with their backs against the wall of the town. The French
+                           occupied the right of our position, their right thus touching the plank of the Turks, and between us waved, side by side,
                            the flags of our two countries, those flags which had been dishonoured, &amp;<pb n="TYI2053"
                               facs="https://farm2.staticflickr.com/1755/40668618580_b0b4e0fdab_k_d.jpg"/>insulted on that fearful night of the
                            Christian massacre. It wasa picturesque sight, though we stood in shadow, there were the Turks in their red Fez caps, dark
