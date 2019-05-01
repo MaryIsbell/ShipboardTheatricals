@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Extracts from <hi rend="italics">The Young
+                    Idea</hi></title>
+                <author>Mary Isbell</author>
+                <author>Teresa Navarro</author>
+                <author>Katelyn Sahagian</author>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Scholarly Editing: The Annual of the Association for Documentary
+                    Editing</authority>
+                <address>
+                    <addrLine>juxta</addrLine>
+                    <addrLine>http://www.scholarlyediting.org</addrLine>
+                </address>
+                <publisher>Association for Documentary Editing</publisher>
+                <publisher>University of Nebraska&#8211;Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>http://cdrh.unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <date>2015</date>
+                <availability>
+                    <p>Scholarly Editing: The Annual of the Association for Documentary Editing is
+                        freely distributed by the Association for Documentary Editing and the Center
+                        for Digital Research in the Humanities at the University of Nebraska-Lincoln
+                        and licensed under a Creative Commons Attribution-NonCommercial-Share Alike
+                        3.0 Unported License</p>
+                </availability>
+                <idno type="file">variants.youngidea</idno>
+                <idno type="edition">youngidea</idno>
+            </publicationStmt>
+            <seriesStmt>
+                <title level="j">Scholarly Editing: The Annual of the Association for Documentary
+                    Editing</title>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name xml:id="ag">Amanda Gailey</name>
+                </respStmt>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name xml:id="awj">Andrew Jewell</name>
+                </respStmt>
+                <idno type="vol">37</idno>
+                <idno type="ISSN">2167-1257</idno>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Mary Isbell</author>
+                    <author>Teresa Navarro</author>
+                    <author>Katelyn Sahagian</author>
+                    <title level="m" type="main">Extracts from <hi rend="italics">The Young
+                            Idea</hi></title></bibl>
+                <listWit>
+
+                    <witness xml:id="McA">McArthur's 1867 Lithograph Edition of The Young
+                        Idea</witness>
+                    <witness xml:id="B">Bampfield's extracts from The Young Idea</witness>
+
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="location-referenced" location="external"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="apparatus-entries">
+                <!-- I am altering the process Wesley and Les used in UTC because the variation 
+                    I'm tracking is the location of particular contributions. So, the contribution remains mostly the same but the particular location of it changes. 
+                I think this means that I should use <app loc...> to indicate a particular contribution in TYI and then explain where it appears in BETYI with the 
+                <rdg wit...> element. I then use <ref target=""> to point to the same URI that I give in the <app loc=""> tag within the item in this list. 
+                This is imperfect because I'm using a base text, so when there's something that doesn't appear in McArthur that does
+                appear in Bampfield, I don't have an obvious piece of text to connect the note to. I will include it here but call it "BETYI7.01" 
+                and then in the witness I include what position it occurs in BETYI. I can link it to the text with a big red ASTERISK perhaps?-->
+                <list>
+                    <item>
+                        <app loc="#TYI7.01">
+                            <rdg wit="#B">This article does not appear in Bampfield's
+                                Extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI7.02">
+                            <rdg wit="#B">This article appears as the third contribution to issue
+                                7 in Bampfield's extracts and is attributed to "McA," which
+                                suggests it was written by <persName
+                                    ref="personography.xml#A_D_McArthur">McArthur</persName></rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI7.03">
+                            <rdg wit="#B">This article appears as the first contribution to issue
+                                7 in Bampfield's extracts and is attributed to "B."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#BETYI7.01">
+                            <rdg wit="#B">The version of the article Bampfield includes in his
+                                Extracts provides a more detailed description of the
+                                river:<lb/>Native boats <gap reason="indecipherable"/> of strange
+                                shape, <del>with</del> manned by a swarthy crew, floated up with the
+                                tide, &amp; here and there a dark, loathsome object on the surface
+                                of the water marked the presence of a putrefying Hindoo
+                                Corpse.<lb/>Still the river narrowed: &amp; the channel of the
+                                stream <choice>
+                                    <expan>would</expan>
+                                    <abbr>wd</abbr>
+                                </choice> sometimes sweep us close in to one of its banks, as the
+                                widening course offered some new Reach before us. Native Villagers,
+                                generally clustered about some creek, where a smaller stream joined
+                                the main river, now &amp; then called our attention: their huts,
+                                built of mud &amp; thatched, overshadowed by <gap
+                                    reason="indecipherable"/>; the almost naked inhabitants watching
+                                us from the shore: their Canoes, sharply pointed &amp; curving
+                                upwards at bow &amp; stern, drawn up on the sloping mud banks of the
+                                River.<lb/> These, in their turn, gave way to the traces of the
+                                European Settler...</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI7.04">
+                            <rdg wit="#B">This article appears as the eighth contribution to issue
+                                7 in Bampfield's extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI7.05">
+                            <rdg wit="#B">Some of the material presented in this contribution
+                                appears as the sixth contribution to issue 7 in Bampfield's
+                                Extracts. McArthur's edition mentions the <hi rend="italic">Himalaya</hi> only briefly in
+                                this contribution, but Bampfield's extracts also include the
+                                following detailed account of a visit to the <hi rend="italic">Himalaya</hi> (attributed to
+                                "B.") as the second contribution to issue 10:<lb/>A Visit to the
+                                Himalaya<lb/> We had an opportunity, before the "Himalaya" sailed,
+                                of going round her Decks, and observing the arrangements made for
+                                the conveyance of the sick and wounded. On the upper troop-Deck, the
+                                swinging Cots were strung true and free on either side, &amp;
+                                contained many poor fellows who had lost an arm or a leg in the late
+                                war: they had mostly formed a portion of the gallant little army
+                                which followed General Havelock to Cawnpore and Lucknow. It was
+                                distressing to see so many fine young soldiers maimed &amp;
+                                mutilated for life by the shot or shell of these detestable Sepoys;
+                                but a happy cheerful spirit seemed to pervade them all, &amp; one
+                                poor fellow who had lost both eyes by one musket shot, seemed the
+                                happiest &amp; merriest of them all, as he was led about between 2
+                                of his comrades. The lower troop-Deck was fitted with <gap
+                                    reason="indecipherable"/> for the convalescent: a few soldiers
+                                wives and children were also there, &amp; we were struck by the
+                                sight of one poor fellow, who had lost one of his arms, nursing his
+                                little baby with the other. A few ladies also, who have endured the
+                                siege of Lucknow, but have left it widowed, are going home in the
+                                "Himalaya" as Cabin passengers.</rdg>
+                        </app>
+                    </item>
+
+                    <item>
+                        <app loc="#TYI7.06">
+                            <rdg wit="#B">This article appears as the ninth contribution to issue
+                                7 in Bampfield's extracts and is attributed to "J."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI7.07">
+                            <rdg wit="#B">This conundrum appears as the second contribution to issue
+                                7 in Bampfield's extracts and is attributed to "J."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI7.08">
+                            <rdg wit="#B">This rebus appears as the fifth contribution to issue
+                                7 in Bampfield's extracts and is attributed to to "W."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI7.09">
+                            <rdg wit="#B">This rebus appears as the fifth contribution to issue
+                                7 in Bampfield's extracts, where it is entitled "conundrum" and
+                                both the question (When is an Angle like a ship-wrecked Mariner?)
+                                and answer (When it's a Rectangle) are included. No initials are
+                                supplied for this contribution.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI7.10">
+                            <rdg wit="#B">This publication information is not included in
+                                Bampfield's extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI8.01">
+                            <rdg wit="#B">This article appears as the first contribution to issue
+                                9 in Bampfield's extracts (an entirely different edition) and is
+                                attributed to "B."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI8.02">
+                            <rdg wit="#B">This article appears in the same position (second
+                                contribution to issue 8) in Bampfield's extracts and is
+                                attributed to "L."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI8.03">
+                            <rdg wit="#B">This article does not appear in Bampfield's
+                                Extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI8.04">
+                            <rdg wit="#B">This article appears as the third contribution to issue
+                                8 in Bampfield's extracts and is attributed to "McA," which
+                                suggests it was written by McArthur.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI8.05">
+                            <rdg wit="#B">This article appears in the same position (as the fifth
+                                contribution to issue 8) in Bampfield's extracts and is
+                                attributed to "McA," which suggests it was written by
+                                McArthur.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI8.06">
+                            <rdg wit="#B">This article appears as the fourth contribution to issue
+                                8 in Bampfield's extracts. Bampfield does not supply the
+                                initials of the contributor.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI8.07">
+                            <rdg wit="#B">The information in "Epitome" appears along with the
+                                information in "Naval Intelligence" as the fifth
+                                contribution to issue 8 in Bampfield's extracts. Bampfield
+                                attributes the contribution to "McA," which suggests it was written
+                                by McArthur.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI8.08">
+                            <rdg wit="#B">This letter appears as the fourth contribution to issue
+                                9 (an entirely different issue) in Bampfield's extracts and is
+                                attributed to "L."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI8.09">
+                            <rdg wit="#B">Only one of these conundrums (the one about "I") appears
+                                as the second contribution to issue 7 (an entirely different
+                                issue) in Bampfield's extracts. Bampfield attributes the
+                                contribution to "J."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI8.10">
+                            <rdg wit="#B">This publication info appears as the sixth contribution to
+                                issue 8 in Bampfield's extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI9.01">
+                            <rdg wit="#B">This article (with the first sentence excluded) appears as
+                                the first contribution to issue 8 (an entirely different issue)
+                                in Bampfield's extracts. Bampfield attributes it to "McA," which
+                                suggests it was written by McArthur.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI9.02">
+                            <rdg wit="#B">This article appears in the same position (second
+                                contribution to issue 9) in Bampfield's extracts. Bampfield does
+                                not supply the contributor's initials.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI9.03">
+                            <rdg wit="#B">This article appears as the first contribution to issue
+                                10 (an entirely different issue) in Bampfield's extracts and is
+                                attributed to "L."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI9.04">
+                            <rdg wit="#B">This article appears as the ninth contribution to issue
+                                9 in Bampfield's extracts. Bampfield does not supply an author's
+                                initial.</rdg>
+                        </app>
+                    </item>
+
+                    <item>
+                        <app loc="#TYI9.05">
+                            <rdg wit="#B">This article appears in the same position (fifth
+                                contribution to issue 9), but it is called "Epitome" instead of
+                                "Naval Intelligence" in Bampfield's extracts. Bampfield attributes
+                                the contribution to "McA," which suggests it was written by
+                                McArthur.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI9.06">
+                            <rdg wit="#B">This article appears as the fifth contribution to issue
+                                9 (along with the details included in "Naval Intelligence") in
+                                Bampfield's extracts. Bampfield attributes it to "McA," which
+                                suggests it was written by McArthur.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI9.07">
+                            <rdg wit="#B">This article appears as the sixth contribution to issue
+                                9 in Bampfield's extracts and is attributed to "B."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI9.08">
+                            <rdg wit="#B">This letter appears as the seventh contribution to issue
+                                9 in Bampfield's extracts and is attributed to "J."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI9.09">
+                            <rdg wit="#B">This rebus appears as the eighth contribution to issue
+                                9 in Bampfield's extracts and is attributed to "W."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI9.10">
+                            <rdg wit="#B">This publication information does not appear in
+                                Bampfield's extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI10.1">
+                            <rdg wit="#B">This information appears under the heading "epitome" as
+                                the fifth contribution to issue 10 in Bampfield's extracts.
+                                Bampfield does not supply an author's initial</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI10.02">
+                            <rdg wit="#B">This letter appears as the third contribution to issue
+                                9 (an entirely different issue) in Bampfield's extracts.
+                                Bampfield attributes the contribution to "W."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI10.03">
+                            <rdg wit="#B"><note>This article appears as the fourth contribution to
+                                    issue 10 in Bampfield's extracts and is attributed to
+                                    "J."</note></rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI10.04">
+                            <rdg wit="#B">This extract appears as the ninth contribution (a
+                                supplement) to issue 10. Bampfield attributes the contribution to
+                                J. Kavanagh, Esq.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI10.05">
+                            <rdg wit="#B">This regatta report appears as the third contribution to
+                                issue 10 in Bampfield's extracts and is attributed to "McA," which
+                                suggests it was written by McArthur.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI10.06">
+                            <rdg wit="#B">This contribution does not appear in Bampfield's
+                                Extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI10.07">
+                            <rdg wit="#B">This article appears as the fifth contribution to issue
+                                10 in Bampfield's extracts. Bampfield does not provide an author's
+                                initial</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI10.08">
+                            <rdg wit="#B">This pun does not appear in Bampfield's extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI10.09">
+                            <rdg wit="#B">Only one of these conundrums ("a tiger's foot &amp; a semi-colon")
+                                appears as the tenth contribution to issue 11 (with the answer)
+                                in Bampfield's extracts. Bampfield attributes the contribution to
+                                "J."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI10.10">
+                            <rdg wit="#B">This enigma does not appear in Bampfield's extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI10.11">
+                            <rdg wit="#B">This charade does not appear in Bampfield's
+                                Extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI10.12">
+                            <rdg wit="#B">This enigma appears as the ninth contribution to issue
+                                11 in Bampfield's extracts and is attributed to "J."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI10.13">
+                            <rdg wit="#B">This article appears as the eighth contribution to issue
+                                9 (an entirely different issue) in Bampfield's extracts.
+                                Bampfield does not provide an author's initial.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI10.14">
+                            <rdg wit="#B">This publication information does not appear in
+                                Bampfield's extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI11.01">
+                            <rdg wit="#B">This article does not appear in Bampfield's
+                                Extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI11.02">
+                            <rdg wit="#B">This article appears in the same position (second
+                                contribution to issue 11) in Bampfield's extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI11.03">
+                            <rdg wit="#B">This article appears as the first contribution to issue
+                                11 in Bampfield's extracts and is attributed to "J."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI11.04">
+                            <rdg wit="#B">This article appears in the same position (fourth
+                                contribution to issue 11) in Bampfield's extracts and is
+                                attributed to "J."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI11.05">
+                            <rdg wit="#B">This article appears as the sixth contribution to issue
+                                11 in Bampfield's extracts and is attributed to "W." </rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI11.06">
+                            <rdg wit="#B">This article does not appear in Bampfield's
+                                Extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI11.07">
+                            <rdg wit="#B">This article does not appear in Bampfield's
+                                Extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI11.08">
+                            <rdg wit="#B">"Epitome" appears as the fifth contribution to issue
+                                11 in Bampfield's extracts. Bampfield does not provide the
+                                author's initial.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI11.09">
+                            <rdg wit="#B">This article appears as the eighth contribution to issue
+                                11 in Bampfield's extracts and is attributed to "B."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI11.10">
+                            <rdg wit="#B">One of these conundrums (about the baker, number 19) appears with an answer as
+                                the first contribution to issue 11 in Bampfield's extracts and
+                                is attributed to "McA," which suggests it was written by McArthur.
+                                The conundrum about broken bottles (number 21) appears with an answer as the
+                                fourth contribution to issue 12 in Bampfield's extracts and is
+                                attributed to "L."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI11.11">
+                            <rdg wit="#B">This article appears as the seventh contribution to issue
+                                11 in Bampfield's extracts and is attributed to "L," but it is
+                                called a "charade."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI11.12">
+                            <rdg wit="#B">These conundrums appear as the eighth contribution to
+                                issue 9 in Bampfield's extracts. Bampfield does not provide the
+                                author's initial.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI11.13">
+                            <rdg wit="#B"><note>This publication information appears as the eleventh
+                                    (and final) contribution to issue 11 in Bampfield's
+                                    Extracts.</note></rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI12.01">
+                            <rdg wit="#B">This article appears in the same position (first
+                                contribution to issue 12) in Bampfield's extracts and is
+                                attributed to "McA," which suggests it was written by
+                                McArthur.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI12.02">
+                            <rdg wit="#B">This article appears as the third contribution to issue
+                                13 in Bampfield's extracts and is attributed to "McA," which
+                                suggests it was written by McArthur.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI12.03">
+                            <rdg wit="#B">This article does not appear in Bampfield's
+                                Extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI12.04">
+                            <rdg wit="#B">This article does not appear in Bampfield's extracts.
+                                Instead, the following review (attributed to McArthur) appears as
+                                the second contribution to issue 12:<lb/> The Theatre <lb/>The
+                                "Calcutta Lyric Theatre," as it is grandly called is but a poor
+                                building, constructed entirely of bamboos &amp; palm-leaf staffing.
+                                Standing as it does, in the Esplanade, under the shadow of the
+                                Ochterbury Monument, &amp; in sight of the Government House, &amp;
+                                other magnificent buildings, it looks a deal more like some country
+                                    <del>farm</del> barn or temporary shed, <gap
+                                    reason="indecipherable"/> a permanent temple of the Muses. We
+                                should conclude, &amp; rightly, that the Calcutta people are not
+                                admitted to public Evening amusements, &amp; are fonder of resting
+                                at home after the business of the day than of venturing abroad to
+                                the venue of histrionic efforts.<lb/>Taking this circumstance into
+                                consideration, we were glad to see so fair an audience assembled
+                                together on Thursday evening to witness the first performance of the
+                                "Sailors from the Chesapeake." The Theatre, on entering is far from
+                                unpleasing in appearance; the decorations of painted canvas,
+                                assisted by the lighted lamps, gave to it an air of decided taste
+                                and beauty, which on the present occasion was heightened by the
+                                female faces, dark &amp; fair, who occupied the front circle of
+                                raised seats. The little semicircular box was chiefly filled by
+                                Naval Officers from the Chesapeake, and a select number of our own
+                                Bluejackets. The Orchestra contained the Chesapeake band, which if
+                                somewhat too noisy from the predominance of brass instruments, at
+                                least contributed much to the pleasure of the Evening. The "Royal"
+                                Box, in the center of the raised seats, was on this occasion
+                                occupied by Commodore Watson, &amp; other patrons of the
+                                entertainment, on whose entrance the audience rose, the Band playing
+                                our National Anthem. <lb/>But we must now speak of our Actors &amp;
+                                give the Dramatis Personae, &amp; the names of those who sustained
+                                them.<lb/>"The Seven Clerks Dramatis Personae" <lb/>"The Seven
+                                Clerks." <lb/>(or the Thief &amp; the Denouncer) <lb/>Claude Darnaud
+                                (the Miser) Geo. Horner <lb/>Count Adolphe Chas. Stewart
+                                <lb/>Gustavus (his friend) Thos. Walshe <lb/>Larosse (a Merchant)
+                                Robt. Wilkinson <lb/>Simon Siggel, the Miser's Tenant Henry
+                                Underhill <lb/>Hans, a Dutchman Jno. Walshe <lb/>Matteo, an Italian
+                                (robbers) Henry Montagu <lb/>Jno. Brown, an Englishman Isaac Wright
+                                <lb/>Pierre Henry Hamilton <lb/>Antoine Jas. Browne <lb/>Victorine,
+                                the Miser's daughter Miss Connell <lb/>Peasantry, &amp;c &amp;c.
+                                <lb/>Nautical Hornpipe Thomas Walshe <lb/>Comic Duet, &amp;c Henry
+                                Underhill and William Connell <lb/>"Bombastes Furioso Dramatis
+                                Personae" <lb/>"Bombastes Furioso" <lb/>Artaxominus, the King Henry
+                                Montagu <lb/>Fusbas, Prime Minister Charles Stewart <lb/>General
+                                Bombastes Henry Underhill <lb/>Distaffina Miss Connell <lb/>The
+                                "Seven Clerks", a legend of Marseilles, was admirably revised to
+                                develop the various talents of the actors. Geo Horner, as the old
+                                Miser, sustained his tragic part most admirably, while St Underhill,
+                                as Simon Siggel, in the hunger which he so well pourtrayed, not only
+                                called down roars of laughter from the house, but produced a
+                                sympathetic feeling, which we were under the necessity of allaying
+                                directly the Theatre closed. J. Walshe, as the Dutch Robber, was
+                                very clever, &amp; Isaac Wright as the English robber from S. Giles,
+                                was no less droll. Great credit also must be given to <choice>
+                                    <abbr>Chs</abbr>
+                                    <expan>Charles</expan>
+                                </choice> Stewart, &amp; <choice>
+                                    <abbr>Wm</abbr>
+                                    <expan>William</expan>
+                                </choice> Connell, who maintained the 2 characters around which the
+                                others centered, namely those of Adolphe, &amp; Victorine. Stewart
+                                spoke nobly &amp; manfully, &amp; Connell looked and spoke the
+                                woman's part, with a grace &amp; tenderness we cd scarcely expect.
+                                The various tableaux, &amp; short strains of music, with which the
+                                Drama is interspersed, were very pleasing. <lb/>The Nautical
+                                Hornpipe, by <choice>
+                                    <abbr>Thos</abbr>
+                                    <expan>Thomas</expan>
+                                </choice> Walshe, that followed, was certainly not so good as one cd
+                                hoipe to see from H.M.S. "Chesapeake" &amp; we <choice>
+                                    <expan>should</expan>
+                                    <abbr>shd</abbr>
+                                </choice> have preferred the promised "Comic Duet" to the Solo song
+                                given us by Wm Connell:-but the Calcutta audience were well pleased,
+                                both with the dance &amp; song. <lb/>In "Bombastes Furioso," we will
+                                content ourselves by saying that all sustained their parts
+                                admirably, &amp; that roars of laughter resounded thro' the house.
+                                As this was the first time that our Chesapeake Amateurs have
+                                appeared before a public audience, we must say that the highest
+                                credit is due. <lb/>We close our notice by publishing the excellent
+                                Prologue, by Henry Montagu, which was written expressly for this
+                                occasion, &amp; spoken by him before the Curtain rose.
+                                <lb/>Prologue By Hy Montagu <lb/>Friends, Patrons of the "Thespian"
+                                art; I stand, <lb/>as spokesman for our little stage-struck band;
+                                <lb/>I come kind friends, respectfully to pray <lb/>Indulgent smiles
+                                for this our little play <lb/>Think not that we aspire to win a
+                                "Name" <lb/>In the high path of Histrionic fame: <lb/>Or that misled
+                                by fierce dramatic rage, <lb/>We hope like "Lear" to strut upon the
+                                stage: <lb/>No 'tis the aim of our most <del>humble</del> modest
+                                Muse <lb/>To please our patrons, and ourselves amuse, <lb/>Just
+                                this, no more, as Amateurs we come <lb/>Let this avowal strike the
+                                critics dumb. <lb/>Tonight, then, if our humble skill avails <lb/>We
+                                represent a legend of "Marseilles" <lb/>"Bombastes," next with love
+                                and fame elate, <lb/>Shall claim your laughter and your mirth
+                                create: <lb/>Joy, pathos, fun, e'en murder's sanguine strain
+                                <lb/>Mingle and follow in our motley train <lb/>Thus at the
+                                "Clerk's" sad fate, droops pity's eye, <lb/>Yet "Simon's" suppers,
+                                funds of mirth supply, <lb/>With horror "Darnaud's" vices now regard
+                                <lb/>And yield to Adolpho's love its due reward <lb/>Then comes
+                                "Bombastes" may he please you all <lb/>And may you laugh until the
+                                curtain fall <lb/>Well, then, my friends, scare not our sailor's
+                                muse <lb/>Nor to our first trial, applause refuse, <lb/>So shall our
+                                tread each moment firmer grow <lb/>And the dramatic fire more warmly
+                                glow. <lb/>Encourage this our unfledg'd wings first flight
+                                <lb/>We'll strive and please you more another night, <lb/>With
+                                grateful pride, I cast around my gaze <lb/>And see a host of varied
+                                beauty blaze <lb/>Soft beaming eyes, sweet lips, in smiles arrayed
+                                <lb/>Which might have well Herculean toils repaid <lb/>Their praise
+                                we covet, may we win the meed <lb/>Our labor's light, the guerdon
+                                great indeed <lb/>But hark! (Bell rings) our little troop impatient
+                                rage, <lb/>Anxious to "strut their hour" upon the stage. <lb/>And
+                                now my friends with Avon's Bard, I pray <lb/>Gently you'll judge,
+                                kindly you'll hear our play. </rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI12.05">
+                            <rdg wit="#B">Some of the items in this report of naval intelligence
+                                appear as the fifth contribution to issue 12 in Bampfield's
+                                Extracts. Bampfield does not provide an author's initial.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI12.06">
+                            <rdg wit="#B">This pun appears as the seventh contribution to issue
+                                12 in Bampfield's extracts. Bampfield attributes the
+                                contribution to "B."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI12.07">
+                            <rdg wit="#B">These conundrums do not appear as questions, but they do
+                                appear later with answers in Bampfield's extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI12.08">
+                            <rdg wit="#B">This conundrum appears as the fourth contribution to issue
+                                12 in Bampfield's extracts and is attributed to "L."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI12.09">
+                            <rdg wit="#B">This rebus does not appear in Bampfield's extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI12.10">
+                            <rdg wit="#B">Only one of these conundrums (the baker kneads) appears as
+                                the first contribution to issue 11 in Bampfield's extracts.
+                                Bampfield attributes the contribution to "McA," which suggests it
+                                was written by McArthur.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI12.11">
+                            <rdg wit="#B">This publication information does not appear in
+                                Bampfield's extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI13.01">
+                            <rdg wit="#B">This article appears in the same position (first
+                                contribution to issue 13) in Bampfield's extracts and is
+                                attributed to "McA," which suggests it was written by
+                                McArthur.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI13.02">
+                            <rdg wit="#B">This letter appears in the same position in Bampfield's
+                                Extracts and is attributed to "J."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI13.03">
+                            <rdg wit="#B">This letter appears as the third contribution to issue
+                                12 (a completely different issue) in Bampfield's extracts and is
+                                attributed to "W."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI13.04">
+                            <rdg wit="#B">This article does not appear in Bampfield's
+                                Extracts.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI13.05">
+                            <rdg wit="#B">This naval intelligence appears under the heading
+                                "epitome" as the fourth contribution to issue 13 in
+                                Bampfield's extracts. Bampfield does not supply an author's
+                                initial.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI13.06">
+                            <rdg wit="#B">Only the "Ava-launch" joke from this contribution appears
+                                as the fifth contribution to issue 13 in Bampfield's extracts.
+                                Bampfield attributes the contribution to "R.M."</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI13.07">
+                            <rdg wit="#B">"Epitome" appears (alongside information from naval
+                                intelligence) as the fourth contribution to issue 13 in
+                                Bampfield's extracts. Bampfield does not supply an author's
+                                initial.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI13.08">
+                            <rdg wit="#B">This rebus appears under the heading "charade" as the
+                                sixth contribution to issue 12 (an entirely different issue) in
+                                Bampfield's extracts. Bampfield attributes the contribution to
+                                "McA," which suggests it was written by McArthur.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI13.09">
+                            <rdg wit="#B">This enigma appears as the seventh contribution to issue
+                                13 in Bampfield's extracts. Bampfield does not supply the
+                                author's initial.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI13.10">
+                            <rdg wit="#B">This conundrum appears as the sixth contribution to issue
+                                13 in Bampfield's extracts. Bampfield does not supply the
+                                author's initial.</rdg>
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYI13.11">
+                            <rdg wit="#B"><note>This publication info appears as the eighth (final)
+                                    contribution to issue 13 in Bampfield's
+                                Extracts.</note></rdg>
+
+                        </app>
+                    </item>
+                    <item>
+                        <app loc="#TYIappendix">
+                            <rdg wit="#TYI">From McArthur's appendix: "Godown is the store or place
+                                of Business"</rdg>
+                        </app></item>
+                    <item>
+                        <app loc="#TYIappendix2">
+                            <rdg wit="#TYI">From McArthur's appendix: "Centipede was the name given
+                                to the lashing by which the men's blankets were strapped for Field
+                                Service"</rdg>
+                        </app></item>
+                    <item>
+                        <app loc="#TYIappendix3">
+                            <rdg wit="#TYI">From McArthur's appendix: "These boys were always in
+                                trouble and were sent home to be discharged from the Service."</rdg>
+                        </app></item>
+                </list>
+
+            </div>
+        </body>
+    </text>
+</TEI>
