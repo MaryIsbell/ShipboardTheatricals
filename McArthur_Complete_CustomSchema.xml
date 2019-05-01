@@ -610,11 +610,9 @@
                         <cb n="1"/>
                         <div type="article">
                             <p>
-                                <!-- Find a way to present information about differences between McArthur and Bampfield (likely a note instead of a ref tag) and then make the change throughout --><ref
-                                    target="variants.youngidea.xml#TYI7.01">Our long voyage has now come to a close, we may consider that we have
-                                    arrived at our destination, that our future prospects centre in <placeName ref="placeography.xml#Kolkata"
-                                        facs="Colton_Kolkata">Calcutta</placeName>.</ref>
-                            </p>
+                                <!-- Find a way to present information about differences between McArthur and Bampfield (likely a note instead of a ref tag) and then make the change throughout -->Our
+                                long voyage has now come to a close, we may consider that we have arrived at our destination, that our future
+                                prospects centre in <placeName ref="placeography.xml#Kolkata" facs="Colton_Kolkata">Calcutta</placeName>. </p>
                             <p>What these prospects may be, we are unable to determine at present, although, we may almost dispel the idea of seeing
                                 service before the enemy, as we had hoped, our proceedings will most likely consist in various kinds of extra duties,
                                 as unpleasant as they are unremunerative.</p>
@@ -638,9 +636,7 @@
                         </div>
 
                         <div type="article">
-                            <head>
-                                <ref target="variants.youngidea.xml#TYI7.02">Calcutta!</ref>
-                            </head>
+                            <head> Calcutta! </head>
                             <p>Here we are at last! the external appearance is novel and not uninteresting, what is the interior? Such were our
                                 reflections when we had time to look around us, and witness the busy scene,- boats of various shapes and build,
                                 dropping with the tide, with their swarthy crews, and the steersman wrapped in a linen robe, wielding the huge oar
@@ -686,9 +682,7 @@
                         <cb n="2"/>
 
                         <div type="article">
-                            <head>
-                                <ref target="variants.youngidea.xml#TYI7.03">Up the Hooghly</ref>
-                            </head>
+                            <head> Up the Hooghly </head>
                             <p>On Saturday evening last (Jan 16) although no land was in sight, we found ourselves nearing the channels of the
                                     <placeName ref="placeography.xml#Hugli_River">Hooghly</placeName>. At 6 P.M. we obtained soundings with the deep
                                 sea lead and two hours afterwards judging ourselves to be sufficiently near the Pilot station, we anchored for the
@@ -709,12 +703,12 @@
                                 clustered about some creek, where a smaller stream <pb n="TYI1074" facs="TYI1074"/><fw>The Young Idea Saturday 23<hi
                                         rend="superscript">rd</hi> January 1858.</fw><cb n="1"/> joined the main river, now, and then called our
                                 attention. In the stream, we passed many vessels, less favoured than ourselves, taking advantage of the tide to move
-                                up the river; others in their downward course, lying at anchor till the tide should turn. <ref
-                                    target="variants.youngidea.xml#BETYI7.01">Now we observed traces of the European settler</ref>, the tall factory
-                                of red brick, the neat white house with green blinds drawn down over the windows, the regular avenue of trees, the
-                                cultivated patches of sugar cane, the brick field with piles of bricks, furnished from the dark alluvial clay, of
-                                which doubtless, the whole Delta of the Ganges is composed. As we moved swiftly up, the banks of the river glided past
-                                like a moving panorama, and the eye could never tire of watching the beautiful scene.</p>
+                                up the river; others in their downward course, lying at anchor till the tide should turn. Now we observed traces of
+                                the European settler, the tall factory of red brick, the neat white house with green blinds drawn down over the
+                                windows, the regular avenue of trees, the cultivated patches of sugar cane, the brick field with piles of bricks,
+                                furnished from the dark alluvial clay, of which doubtless, the whole Delta of the Ganges is composed. As we moved
+                                swiftly up, the banks of the river glided past like a moving panorama, and the eye could never tire of watching the
+                                beautiful scene.</p>
                             <p>At sunset we came to an anchor in the <placeName ref="placeography.xml#Garden_Reach">Garden Reach</placeName>, 2 miles
                                 below <placeName ref="placeography.xml#Kolkata">Calcutta</placeName>, one or two pretty houses decked the banks, a
                                 forest of masts marked the position of the great capital. a deep red tinge, suffused the sky as the sun sank, and was
@@ -725,14 +719,14 @@
                         <div type="article">
                             <head>[No Title]</head>
 
-                            <p><ref target="variants.youngidea.xml#TYI7.04">The capture of <placeName ref="placeography.xml#Delhi">Delhi</placeName>,
-                                    &amp; the relief of <placeName ref="placeography.xml#Lucknow">Lucknow</placeName> are exploits which challenge our
-                                    national pride, as well as our national thanksgiving…….</ref>.In every shape which war could take, has the
-                                ascendancy of the British race been established. We have succeeded in capturing a strong position &amp; we have
-                                succeeded in defending a weak one. As besiegers at <placeName ref="placeography.xml#Delhi">Delhi</placeName>, as
-                                besieged at <placeName ref="placeography.xml#Lucknow">Lucknow</placeName>, we have been equally triumphant, while the
-                                advance of our column to the<cb n="2"/> capital of insurgent <placeName ref="placeography.xml#Ayodhya"
-                                    >Oude</placeName>, presents little less than a miracle of determination &amp; courage.</p>
+                            <p>The capture of <placeName ref="placeography.xml#Delhi">Delhi</placeName>, &amp; the relief of <placeName
+                                    ref="placeography.xml#Lucknow">Lucknow</placeName> are exploits which challenge our national pride, as well as our
+                                national thanksgiving……..In every shape which war could take, has the ascendancy of the British race been established.
+                                We have succeeded in capturing a strong position &amp; we have succeeded in defending a weak one. As besiegers at
+                                    <placeName ref="placeography.xml#Delhi">Delhi</placeName>, as besieged at <placeName
+                                    ref="placeography.xml#Lucknow">Lucknow</placeName>, we have been equally triumphant, while the advance of our
+                                column to the<cb n="2"/> capital of insurgent <placeName ref="placeography.xml#Ayodhya">Oude</placeName>, presents
+                                little less than a miracle of determination &amp; courage.</p>
                             <bibl>
                                 <title>The Evening Mail</title>
                             </bibl>
@@ -741,9 +735,7 @@
                         <div type="naval_intelligence">
 
                             <list type="simple">
-                                <head>
-                                    <ref target="variants.youngidea.xml#TYI7.05">Naval Intelligence</ref>
-                                </head>
+                                <head> Naval Intelligence </head>
                                 <item>Tuesday 19th H.M.S. <orgName ref="#Chesapeake"/>Chesapeake weighed early this morning and took up swinging
                                     moorings off the Esplanade. She saluted the Governor General, which was returned by the fort.</item>
                                 <item>Wednesday 20th Sailed H.M. Steam Vessels "<orgName ref="#Assurance">Assurance</orgName>" and "<orgName
@@ -760,23 +752,17 @@
 
                         <div type="article">
 
-                            <head>
-                                <ref target="variants.youngidea.xml#TYI7.06">A Swarm of Centipedes</ref>
-                            </head>
+                            <head> A Swarm of Centipedes </head>
 
                             <p>It appears that since leaving <placeName ref="placeography.xml#Trincomalee">Trincomalee</placeName>, a great number of
-                                    <ref target="variants.youngidea.xml#TYIappendix2">Centipedes</ref> have been produced on board, so much so that
-                                recently at Evening Quarters, each man was required to appear with a Centipede in his possession. We certainly should
-                                have thought that such noxious reptiles, and such unpleasant bedfellows would have been flung overboard at the
-                                earliest opportunity but learn with surprize that they are carefully retained, and will be coiled round each man's
-                                blanket in the event of a campaign on shore.</p>
+                                Centipedes have been produced on board, so much so that recently at Evening Quarters, each man was required to appear
+                                with a Centipede in his possession. We certainly should have thought that such noxious reptiles, and such unpleasant
+                                bedfellows would have been flung overboard at the earliest opportunity but learn with surprize that they are carefully
+                                retained, and will be coiled round each man's blanket in the event of a campaign on shore.</p>
                         </div>
 
                         <div type="conundrum">
-
-                            <head>
-                                <ref target="variants.youngidea.xml#TYI7.07">Conundrums</ref>
-                            </head>
+                            <head>Conundrums</head>
                             <list type="ordered">
                                 <item n="12">Why is <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> like the letter "I."?</item>
                                 <item n="13">What the slight difference between a lazy Clerk, and an old retired Seaman?</item>
@@ -785,7 +771,7 @@
 
                         <div type="rebus">
                             <head>
-                                <ref target="variants.youngidea.xml#TYI7.08">Answer to Rebus</ref>
+                                Answer to Rebus
                             </head>
                             <l>Though rough may be our sailors "fare"</l>
                             <l>Yet the tales of home we'll tell.</l>
@@ -795,7 +781,7 @@
 
                         <div type="rebus">
                             <head>
-                                <ref target="variants.youngidea.xml#TYI7.09">Unanswered</ref>
+                                Unanswered
                             </head>
                             <list type="ordered">
                                 <item n="10">When it is a rect angle.</item>
@@ -804,7 +790,7 @@
                         </div>
                         <div type="publication_info">
                             <head>
-                                <ref target="variants.youngidea.xml#TYI7.10">The Young Idea</ref>
+                                The Young Idea
                             </head>
                             <p>Published at the Office No. 1 Port St. <orgName ref="#Chesapeake">Chesapeake</orgName> every Saturday<lb/> Saturday 23
                                 Jan. 1858</p>
@@ -822,7 +808,7 @@
                         <cb n="1"/>
                         <div type="article">
                             <head>
-                                <ref target="variants.youngidea.xml#TYI8.01">Try Again</ref>
+                                Try Again
                             </head>
                             <p>It is seldom that any great &amp; unprecedented undertaking will meet with the complete success at the first trial: -
                                 the great engineering triumphs of the present century have mostly taught us to expect failure before we achieve
@@ -849,7 +835,7 @@
 
                         <div type="article">
                             <head>
-                                <ref target="variants.youngidea.xml#TYI8.02">A Bird's Eye View of Calcutta</ref>
+                                A Bird's Eye View of Calcutta
                             </head>
                             <p>Those who wish for a birds eye view of <placeName ref="placeography.xml#Kolkata">Calcutta</placeName>, we would
                                 strongly recommend to ascend the <placeName ref="placeography.xml#Ochterlony_Monument">the Ochterbury
@@ -870,7 +856,7 @@
                         <div type="article">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI8.03">Launching the "Leviathan"</ref>
+                                Launching the "Leviathan"
                             </head>
                             <bibl>
                                 <title>The Evening Mail</title>
@@ -886,7 +872,7 @@
                         <div type="article">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI8.04">The Special Thanksgiving At St. Paul's Cathedral</ref>
+                                The Special Thanksgiving At St. Paul's Cathedral
                             </head>
                             <p>Last Thursday week the 21st Inst. a special Thanksgiving service was held in St. Paul's Ca<pb n="TYI1083"
                                     facs="TYI1083"/><fw>The Young Idea Saturday 30<hi rend="superscript">th</hi> January 1858.</fw><cb n="1"/>thedral,
@@ -929,7 +915,7 @@
 
                             <list type="simple">
                                 <head>
-                                    <ref target="variants.youngidea.xml#TYI8.05">Naval Intelligence</ref>
+                                    Naval Intelligence
                                 </head>
                                 <item>26th HMS "<orgName ref="#Chesapeake">Chesapeake</orgName>" left her swinging moorings off the Esplanade and
                                     moored off Baboo Ghant<lb/>H.M.S. "<orgName ref="#Mohawk">Mohawk</orgName>" sailed for <placeName
@@ -943,7 +929,7 @@
                         <div type="promotions_and_appointments">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI8.06">Promotions and Appointments</ref>
+                                Promotions and Appointments
                             </head>
                             <list type="simple">
                                 <item><persName ref="#Kelly">Lieut.t Edw.d Kelly</persName> (additional) took passage in H.M.S. "<orgName
@@ -959,7 +945,7 @@
                         <div type="epitome">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI8.07">Epitome</ref>
+                                Epitome
                             </head>
                             <list type="simple">
                                 <item>A Regatta is announced to come off on the 10th Prosc.s but we have not received any information as to the terms
@@ -977,7 +963,7 @@
                         <div type="letter">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI8.08">First appearance of an Enemy.</ref>
+                                First appearance of an Enemy.
                             </head>
                             <floatingText>
                                 <body>
@@ -999,7 +985,7 @@
                         <div type="conundrum">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI8.09">Answers to Conundrums. 12 &amp; 13</ref>
+                                Answers to Conundrums. 12 &amp; 13
                             </head>
                             <p>To answer your two riddles, Sir, I'll try:</p>
                             <list type="ordered">
@@ -1014,7 +1000,7 @@
                         <div type="publication_info">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI8.10">The Young Idea</ref>
+                                The Young Idea
                             </head>
                             <p>Published at the Office No. 1 Port Street, "Chesapeake" every Saturday. Subscriptions most thankfully
                                 received<lb/>Saturday 30th January, 1858.</p>
@@ -1032,8 +1018,8 @@
                         <div type="article">
 
                             <p>
-                                <ref target="variants.youngidea.xml#TYI9.01">Already one twelfth of the New Year has flown, and we find ourselves
-                                    rapidly entering into the second month.</ref>
+                                Already one twelfth of the New Year has flown, and we find ourselves
+                                    rapidly entering into the second month.
                             </p>
                             <p>In this short space of time we have seen much, done much, and heard much: already we miss the faces of one or two
                                 shipmates, and expect others to fill their places, and thus it ever is, and ever will be; -faces, and forms will
@@ -1067,7 +1053,7 @@
                         <div type="article">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI9.02">The Lucknow Tigers.</ref>
+                                The Lucknow Tigers.
                             </head>
                             <p>As we believe that many of our readers have availed themselves of our recommendation last week to ascend the Monument
                                 on the Esplanade, we will venture to call attention in like manner to the beautiful <placeName
@@ -1096,7 +1082,7 @@
                         <div type="article">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI9.03">"India"</ref>
+                                "India"
                             </head>
                             <p>Our papers, and our Reviews, our periodicals, have all one absorbing topic, and that is India. Fresh details of the
                                 horrible sufferings which our countrymen &amp; women underwent in the earlier part of the insurrection, further
@@ -1128,7 +1114,7 @@
                         <div type="conundrum">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI9.04">Con.</ref>
+                                Con.
                             </head>
                             <list type="ordered">
                                 <item n="14">When is an Editor like a coachman driving a restive tandem?<pb n="TYI1094" facs="TYI1094"/><fw>The Young
@@ -1140,7 +1126,7 @@
 
                             <list type="simple">
                                 <head>
-                                    <ref target="variants.youngidea.xml#TYI9.05">Naval Intelligence</ref>
+                                    Naval Intelligence
                                 </head>
                                 <item>4th Feb. H.M.S. "<orgName ref="#Himalaya">Himalaya</orgName>" hauled out into the stream, and is preparing for
                                     her departure for England. She will convey refugees from <placeName ref="placeography.xml#Lucknow"
@@ -1164,7 +1150,7 @@
                         <div type="epitome">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI9.06">Epitome</ref>
+                                Epitome
                             </head>
                             <list type="simple">
                                 <item>On Wednesday, our late Commander <choice>
@@ -1185,7 +1171,7 @@
                         <div type="pun">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI9.07">"Mind your P's and Q's. (By a Calcutta Billiard Player).</ref>
+                                "Mind your P's and Q's. (By a Calcutta Billiard Player).
                             </head>
                             <p>Take care of your ru<hi rend="underlined">pees</hi>, and avoid the Billiard <hi rend="underlined">cues</hi>.</p>
                         </div>
@@ -1193,7 +1179,7 @@
                         <div type="letter">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI9.08">To the Editor of the "Young Idea"</ref>
+                                To the Editor of the "Young Idea"
                             </head>
                             <floatingText>
                                 <body>
@@ -1212,7 +1198,7 @@
                         <div type="rebus">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI9.09">Rebus &amp;c.</ref>
+                                Rebus &amp;c.
                             </head>
                             <lg n="I">
                                 <l>When I was but a little boy</l>
@@ -1272,7 +1258,7 @@
                         <div type="publication_info">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI9.10">The Young Idea</ref>
+                                The Young Idea
                             </head>
                             <p>Published at the office No. 1 Port Street, "Chesapeake" every Saturday. contributions thankfully received<lb/>Saturday
                                 6 February, 1858.</p>
@@ -1290,8 +1276,8 @@
                         <div type="article">
 
                             <p>
-                                <ref target="variants.youngidea.xml#TYI10.01">The Past Week has certainly been productive of more excitement, and
-                                    enjoyment, than any we remember to have witnessed since our departure from England.</ref>
+                                The Past Week has certainly been productive of more excitement, and
+                                    enjoyment, than any we remember to have witnessed since our departure from England.
                             </p>
                             <p>One great event at least, has been its chief characteristic, one day at least, called forth more interest than the
                                 others, we speak of the Regatta day, and the attendant entertainment onboard the "<orgName ref="#Chesapeake"
@@ -1317,7 +1303,7 @@
                         <div type="letter">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI10.02">A Savage from the Andaman Islands</ref>
+                                A Savage from the Andaman Islands
                             </head>
                             <floatingText>
                                 <body>
@@ -1355,7 +1341,7 @@
                         <div type="article">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI10.03">Se(a)-poys and Sea-devils,</ref>
+                                Se(a)-poys and Sea-devils,
                             </head>
                             <p>The consternation struck into the sepoys in Central India by the sight of our Bluejackets, is scarcely to be imagined.
                                 "They are not English "men" say the sepoys. "Nor men, at all, but sea-devils who have come up out of the sea to fight
@@ -1369,7 +1355,7 @@
                         <div type="published_elsewhere">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI10.04">Extracts from a Personal Narrative of the Siege of Lucknow</ref>
+                                Extracts from a Personal Narrative of the Siege of Lucknow
                             </head>
                             <p>"Opening of the Siege." The troops mutinied on the 30th of May and after the 30th of June the siege commenced in
                                 earnest. The constant din of artillery and musketry, combined with the yells of the demons without, and busy
@@ -1448,10 +1434,10 @@
                         <div type="regatta_report">
 
                             <head type="main">
-                                <ref target="variants.youngidea.xml#TYI10.05">"The Young Idea"</ref>
+                                "The Young Idea"
                             </head>
                             <head type="sub">
-                                <ref target="variants.youngidea.xml#TYI10.05">The Regatta</ref>
+                                The Regatta
                             </head>
                             <p>The <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> Regatta of this season took place on Wednesday last
                                 the 10th Ist. &amp; went off very successfully, under the patronage of Commodore <persName ref="#Watson"
@@ -1628,7 +1614,7 @@
                         <div type="naval_intelligence">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI10.06">Naval Intelligence</ref>
+                                Naval Intelligence
                             </head>
                             <list type="simple">
                                 <item>H.M.S. <orgName ref="#Himalaya">Himalaya</orgName> sailed for England on Friday the 12th Instant, with invalids
@@ -1642,15 +1628,15 @@
                         <div type="epitome">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI10.07">Epitome.</ref>
+                                Epitome.
                             </head>
                             <list type="simple">
                                 <item>On Thursday night (Feb. 11) about 11 o'clock a very heavy thunderstorm passed over us. The best description of
                                     the hailstones which fell on this occasion is to say that in size and shape, though not in colour or taste, they
                                     resembled very large "acidulated drops" The lightning was very vivid and of a beautiful pale blue color.</item>
                                 <item>Messrs Palmer, Weatherstone and Smithers. Second Class Boys, have taken their departure for England in the
-                                        "<orgName ref="#Himalaya">Himalaya</orgName>" <ref target="variants.youngidea.xml#TYIappendix3">much regretted
-                                        by the Master at Arms, and by their respective Masters.</ref></item>
+                                        "<orgName ref="#Himalaya">Himalaya</orgName>" much regretted
+                                        by the Master at Arms, and by their respective Masters.</item>
                                 <item>A Cricket Ball is announced to take place on Monday the 15th Inst. to which the officers have received a general
                                     invitation.</item>
                                 <item>We hear that the Royal Navy are likely to be challenged to a match at Cricket by the Officers of the P. and O.
@@ -1661,13 +1647,13 @@
                             <head>[No Title]</head>
 
                             <p>
-                                <ref target="variants.youngidea.xml#TYI10.08">Motto for a Tiger's Den. "Mangling done here."</ref>
+                                Motto for a Tiger's Den. "Mangling done here."
                             </p>
                         </div>
                         <div type="conundrum">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI10.09">Conundrums</ref>
+                                Conundrums
                             </head>
                             <list type="ordered">
                                 <item n="15">What is the slight difference between a tiger's foot &amp; a semi-colon?</item>
@@ -1679,7 +1665,7 @@
                         <div type="enigma">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI10.10">What letters of the Alphabet will represent?</ref>
+                                What letters of the Alphabet will represent?
                             </head>
                             <list type="simple">
                                 <item>(2 Letters) To surpass? A Fowl? Superfluity? A Turkish magistrate? To coop up? &amp; an English County?</item>
@@ -1690,7 +1676,7 @@
                         <div type="charade">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI10.11">Answer to Last Week's Charade.</ref>
+                                Answer to Last Week's Charade.
                             </head>
                             <lg>
                                 <l>Gaily floats the "burning" light</l>
@@ -1707,7 +1693,7 @@
                         <div type="enigma">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI10.12">Answer to Alphabetical Enigmas</ref>
+                                Answer to Alphabetical Enigmas
                             </head>
                             <p>If my sweeheart of only two letters may be M.A. (Emma) L.N. (Ellen) or K.T. (Katey) most surely is she with pockets
                                 quite M.T. (Empty) my home in D.K. (decay) How I N.V. (Envy) the rich in their gorgeous R.A. (array) I have sold my
@@ -1716,7 +1702,7 @@
                         <div type="conundrum">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI10.13">Unanswered from last week</ref>
+                                Unanswered from last week
                             </head>
                             <list type="ordered">
                                 <item n="14">When is an Editor like a coachman driving a restive tandem? When he cannot compose the Leader.</item>
@@ -1726,7 +1712,7 @@
                         <div type="publication_info">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI10.14">The Young Idea</ref>
+                                The Young Idea
                             </head>
                             <p>Published at the office No. 1 Port Street, "Chesapeake" every Saturday. Contributions solicited<lb/>Saturday 13
                                 February, 1858.</p>
@@ -1742,8 +1728,8 @@
                         <cb n="1"/>
                         <div type="article">
 
-                            <p><ref target="variants.youngidea.xml#TYI11.01">Rumours are now flying about, purporting to remove us from our present
-                                    snug anchorage at Calcutta for some time;</ref> that we are destined to convey Lady <persName
+                            <p>Rumours are now flying about, purporting to remove us from our present
+                                    snug anchorage at Calcutta for some time; that we are destined to convey Lady <persName
                                     ref="#Charlotte_Canning">Canning</persName> to <placeName ref="placeography.xml#Chennai">Madras</placeName>, and
                                 from these, it is said, we steer to <placeName ref="placeography.xml#Yangon">Rangoon</placeName>.</p>
                             <p>This will of course involve an absence of some two or three months, and will we hope, be found to prove a beneficial
@@ -1764,7 +1750,7 @@
                         <div type="published_elsewhere">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI11.02">"Origin of the Name of Delhi</ref>
+                                "Origin of the Name of Delhi
                             </head>
                             <p>The city of <placeName ref="placeography.xml#Delhi">Delhi</placeName> originally bore the name of Indraprasthe, and was
                                 the royal capital of the aboriginal Pandoos. After falling into decay and lying desolate for a period of eight
@@ -1787,7 +1773,7 @@
                         <div type="article">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI11.03">Our Naval Brigade</ref>
+                                Our Naval Brigade
                             </head>
                             <p>We have as yet said little or nothing about the movements of our Naval Brigade up the country, being ourselves very
                                 much in the dark concerning them. But such information as we possess, we are happy to communicate to our Readers.</p>
@@ -1831,10 +1817,10 @@
                         <div type="cricket_report">
 
                             <head type="main">
-                                <ref target="variants.youngidea.xml#TYI11.04">Sporting Intelligence</ref>
+                                Sporting Intelligence
                             </head>
                             <head type="sub">
-                                <ref target="variants.youngidea.xml#TYI11.04">Cricket</ref>
+                                Cricket
                             </head>
                             <p>On Wednesday the 17th Inst. a match took place on the ground near the <placeName
                                     ref="placeography.xml#Ochterlony_Monument">the Ochterbury monument</placeName> between the Officers of H.M.S.
@@ -2084,7 +2070,7 @@
                         <div type="pun">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI11.05">"The Great Mo-gul"</ref>
+                                "The Great Mo-gul"
                             </head>
                             <p>This remarkable species of gull has lately been captured at <placeName ref="placeography.xml#Delhi">Delhi</placeName>
                                 where it has existed for several centuries It is the largest gull known, as well as the most destructive, and
@@ -2098,7 +2084,7 @@
                         <div type="naval_intelligence">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI11.06">Naval and Military Intelligence</ref>
+                                Naval and Military Intelligence
                             </head>
                             <list type="simple">
                                 <item>On Monday the 15th Inst. H.M. Steam troop ship "Megoera" after being inspected by Commodore R.B. <persName
@@ -2119,7 +2105,7 @@
                         <div type="article">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI11.07">The "Calcutta Englishman" convicted of a Pun.</ref>
+                                The "Calcutta Englishman" convicted of a Pun.
                             </head>
                             <p>The <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> Englishman has actually been delivered of a pun.
                                 Hear it! Oh ye punsters of the earth, and say what shall be done to our poor shore going contemporary. Describing the
@@ -2134,7 +2120,7 @@
                         <div type="epitome">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI11.08">Epitome</ref>
+                                Epitome
                             </head>
                             <list type="simple">
                                 <item>On Monday night the annual Ball given by the <placeName ref="placeography.xml#Kolkata">Calcutta</placeName>
@@ -2151,18 +2137,17 @@
                             <head>[No Title]</head>
 
                             <p>
-                                <ref target="variants.youngidea.xml#TYI11.09">"Paws for a reply" as the cat said when she scratched the dog for
-                                    barking at her.</ref>
+                                "Paws for a reply" as the cat said when she scratched the dog for
+                                    barking at her.
                             </p>
                             <p>"There are more ways out of the woods than one," as the rum said when saw a spile coming through the cask.</p>
-                            <p>Maxim for a <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> Storekeeper. <ref
-                                    target="variants.youngidea.xml#TYIappendix">"If you wish to go up in the world, stick well to your
-                                go-down.</ref></p>
+                            <p>Maxim for a <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> Storekeeper. "If you wish to go up in the world, stick well to your
+                                go-down.</p>
                         </div>
                         <div type="conundrum">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI11.10">Conundrums</ref>
+                                Conundrums
                             </head>
                             <list type="ordered">
                                 <item n="19">When does a baker most want materials for his trade?</item>
@@ -2174,7 +2159,7 @@
                         <div type="rebus">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI11.11">Rebus &amp;c.</ref>
+                                Rebus &amp;c.
                             </head>
                             <lg n="I">
                                 <l>The sheep &amp; Ox, in concert met</l>
@@ -2194,7 +2179,7 @@
                         <div type="conundrum">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI11.12">Unanswered from last week</ref>
+                                Unanswered from last week
                             </head>
                             <list type="ordered">
                                 <item n="15"> What is the slight difference between a tiger's foot and a semi-colon? The one shows its pause at the
@@ -2212,7 +2197,7 @@
                         <div type="publication_info">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI11.13">The Young Idea</ref>
+                                The Young Idea
                             </head>
                             <p>Published at the office No. 1 Port Street, "Chesapeake" every Saturday. contributions thankfully received<lb/>Saturday
                                 20 February, 1858.</p>
@@ -2228,8 +2213,8 @@
                         <cb n="1"/>
                         <div type="article">
 
-                            <p><ref target="variants.youngidea.xml#TYI12.01">The Past Week has been extraordinarily productive of events of interest
-                                    &amp; amusement</ref>, and we feel bound to afford all the space we can for the same The Rajah's dinner, &amp;
+                            <p>The Past Week has been extraordinarily productive of events of interest
+                                    &amp; amusement, and we feel bound to afford all the space we can for the same The Rajah's dinner, &amp;
                                 marriage of his juvenile granddaughter, the Cricket match between our Club &amp; the Squadron and our defeat; the
                                 success of our Amateurs in their performance on Thursday night; all afford a supply of intelligence upon the requisite
                                 space for which we are loath to encroach. A few days more and we shall look back upon <placeName
@@ -2246,8 +2231,8 @@
                         <div type="article">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI12.02">Dinner Party at Cossipore &amp; Marriage of the Granddaughter of Rajah
-                                    Behadoor</ref>
+                                Dinner Party at Cossipore &amp; Marriage of the Granddaughter of Rajah
+                                    Behadoor
                             </head>
                             <p>On Monday night the 22d Inst. of the Rajah Budderaunth Roy Behadoor celebrated the marriage of his Granddaughter, with
                                 a grand dinner party fireworks and a nautch. For the information of those of our readers who were unfortunately unable
@@ -2408,13 +2393,13 @@
                         <div type="cricket_report">
 
                             <head type="main">
-                                <ref target="variants.youngidea.xml#TYI12.03">Sporting Intelligence</ref>
+                                Sporting Intelligence
                             </head>
                             <head type="sub">
-                                <ref target="variants.youngidea.xml#TYI12.03">Cricket</ref>
+                                Cricket
                             </head>
                             <head type="sub">
-                                <ref target="variants.youngidea.xml#TYI12.03">Match between the Chesapeake &amp; Squadron</ref>
+                                Match between the Chesapeake &amp; Squadron
                             </head>
 
                             <p>On Thursday afternoon a Cricket Match took place between the "<orgName ref="#Chesapeake">Chesapeake</orgName>" eleven,
@@ -2588,7 +2573,7 @@
                         <div type="play_review">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI12.04">The Theatre</ref>
+                                The Theatre
                             </head>
                             <p>On Thursday evening the Amateurs of HMS <orgName ref="#Chesapeake">Chesapeake</orgName> performed for the first time at
                                 the <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> Lyric Theatre. The Drama performed was <ref
@@ -2621,7 +2606,7 @@
                         <div type="naval_intelligence">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI12.05">Naval Intelligence</ref>
+                                Naval Intelligence
                             </head>
                             <list type="simple">
                                 <item>H.M. Gunboat Roebuck arrived on Wednesday afternoon bringing <persName ref="#Parkin">Commander G. H.
@@ -2636,13 +2621,13 @@
                         </div>
                         <div type="pun">
 
-                            <p><ref target="variants.youngidea.xml#TYI12.06">"Can I offer you any aid"?</ref> said a polite gentleman to a lady who
+                            <p>"Can I offer you any aid"? said a polite gentleman to a lady who
                                 was overcome by the heat, "O! yes, Sir, if you please," replied the fainting beauty "a little lemon-ade."</p>
                         </div>
                         <div type="conundrum">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI12.07">Conundrums</ref>
+                                Conundrums
                             </head>
                             <list type="ordered">
                                 <item n="22">When the cook lets the salad fall into the fireplace, what great saracen hero, would you be reminded
@@ -2653,7 +2638,7 @@
                         <div type="conundrum">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI12.08">Answer to Conundrums</ref>
+                                Answer to Conundrums
                             </head>
                             <list type="ordered">
                                 <item n="21">Supposing a number of bottles were broken by the fall of a tree, what ejaculation would they give vent
@@ -2664,14 +2649,14 @@
                         <div type="rebus">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI12.09">Unanswered from last Week</ref>
+                                Unanswered from last Week
                             </head>
                             <p>Rebus. Ba boo</p>
                         </div>
                         <div type="conundrum">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI12.10">Conundrums</ref>
+                                Conundrums
                             </head>
                             <list type="ordered">
                                 <item n="19">When does a baker most want materials for his trade? When he kneads (needs) his dough.</item>
@@ -2681,7 +2666,7 @@
                         <div type="publication_info">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI12.11">The Young Idea</ref>
+                               The Young Idea
                             </head>
                             <p>Published at the office No. 1 Port Street<lb/>"Chesapeake" every Saturday.<lb/>contributions solicited<lb/>Saturday 27
                                 February, 1858.</p>
@@ -2699,8 +2684,8 @@
                         <cb n="1"/>
                         <div type="article">
 
-                            <p><ref target="variants.youngidea.xml#TYI13.01">Once more we thread our pathless track across the waters of the Bay of
-                                    Bengal; once more our gallant craft obeys the impulse of her wondrous motive power.</ref> Once more the fresh sea
+                            <p>Once more we thread our pathless track across the waters of the Bay of
+                                    Bengal; once more our gallant craft obeys the impulse of her wondrous motive power. Once more the fresh sea
                                 breezes fan our heated brows, and we feel their invigorating influence; again in the quiet routine of a sea life we
                                 can sit down to peruse our latest intelligence from home, to dream over the past, to form conjectures on the future;
                                 again we partake of the pleasures of quiescence, after the excitement attendant upon our stay at <placeName
@@ -2724,7 +2709,7 @@
                         <div type="letter">
 
                             <head>
-                                <ref target="variants.youngidea.xml#TYI13.02">To the Editor of "The Young Idea"</ref>
+                                To the Editor of "The Young Idea"
                             </head>
                             <floatingText>
                                 <body>
@@ -2754,7 +2739,7 @@
 
                         <div type="letter">
                             <head>
-                                <ref target="variants.youngidea.xml#TYI13.03">The Chesapeake Brigade</ref>
+                                The Chesapeake Brigade
                             </head>
                             <floatingText>
                                 <body>
@@ -2807,7 +2792,7 @@
 
                         <div type="article">
                             <head>
-                                <ref target="variants.youngidea.xml#TYI13.04">The Chesapeake Amateurs</ref>
+                                The Chesapeake Amateurs
                             </head>
                             <p>There is nothing spoken, done, written or effected in this world, but the ever ready <pb n="TYI1134" facs="TYI1134"
                                     /><fw>The Young Idea" Saturday 6 March 1858.</fw><cb n="1"/>tongue of criticism is prepared to weaken or destroy
@@ -2878,7 +2863,7 @@
                         </div>
                         <div type="naval_intelligence">
                             <head>
-                                <ref target="variants.youngidea.xml#TYI13.05">Naval Intelligence</ref>
+                                Naval Intelligence
                             </head>
                             <list type="simple">
                                 <item>1st March H.M.S. <orgName ref="#Chesapeake">Chesapeake</orgName> unmoored this morning &amp; proceeded down the
@@ -2903,7 +2888,7 @@
                         </div>
                         <div type="facetiae">
                             <head>
-                                <ref target="variants.youngidea.xml#TYI13.06">Facetiae</ref>
+                                Facetiae
                             </head>
                             <p>A human specimen of the Vegetable Kingdom. A man with carrotty locks, reddish cheeks, a turn up nose, and a sage
                                 expression of countenance. When we add a mouth enclosed by two lips (tulips) we think we have described a decided link
@@ -2914,7 +2899,7 @@
                         </div>
                         <div type="epitome">
                             <head>
-                                <ref target="variants.youngidea.xml#TYI13.07">Epitome</ref>
+                                Epitome
                             </head>
                             <list type="simple">
                                 <item>The <orgName ref="#Ava">Ava</orgName> P.&amp;O Co.'s steam packet has been totally wrecked near <placeName
@@ -2930,7 +2915,7 @@
                         </div>
                         <div type="rebus">
                             <head>
-                                <ref target="variants.youngidea.xml#TYI13.08">Rebus</ref>
+                                Rebus
                             </head>
                             <lg n="1">
                                 <l>My first, what is my first? a counterfeit, </l>
@@ -2954,7 +2939,7 @@
 
                         <div type="enigma">
                             <head>
-                                <ref target="variants.youngidea.xml#TYI13.09">Illustrated Enigmas</ref>
+                                Illustrated Enigmas
                             </head>
                             <list type="simple">
                                 <head>Conundrums</head>
@@ -2980,7 +2965,7 @@
                         </div>
                         <div type="conundrum">
                             <head>
-                                <ref target="variants.youngidea.xml#TYI13.10">Answers to 22 &amp; 23 not received</ref>
+                                Answers to 22 &amp; 23 not received
                             </head>
                             <list type="ordered">
                                 <item n="22">Saladin the Great</item>
@@ -2989,7 +2974,7 @@
                         </div>
                         <div type="publication_info">
                             <head>
-                                <ref target="variants.youngidea.xml#TYI13.11">The Young Idea</ref>
+                                The Young Idea
                             </head>
                             <p>Published at the office No. 1 Port Street "Chesapeake" every Saturday.<lb/> contributions solicited<lb/>Saturday 27
                                 February, 1858.</p>
