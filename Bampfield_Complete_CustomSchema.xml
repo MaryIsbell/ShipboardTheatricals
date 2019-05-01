@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/maryisbell/Documents/GitHub/ShipboardTheatricals/Schema/TYISchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Extracts from the Journal of J.W.L. Bampfield</title>
+                <author>J.W.L. Bampfield</author>
+                <editor>Mary Isbell</editor>
+                <respStmt>
+                    <resp>Transcription, encoding, and notes</resp>
+                    <name xml:id="initials">Mary Isbell</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Mary Isbell</authority>
+                <address>
+                    <addrLine>Harugari Hall 300A</addrLine>
+                    <addrLine>University of New Haven</addrLine>
+                    <addrLine>West Haven, CT 06516</addrLine>
+                </address>
+                <distributor><orgName>TAPAS Project</orgName></distributor>
+                <ptr target="http://tapasproject.org"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>[still sorting out how to include manuscript material here]</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="A_D_McArthur">
+                        <note>Alexander D. McArthur, a clerk, joined the Chesapeake on December 9th 1857. He was born on December 25th 1835 in
+                            Woolwich, Kent, making him 21 when he came aboard. Census records for the town of Woolwich in 1851 reveal the family of
+                            John McAurthur, a captain in the Royal Marines, who lived with his wife Mary E., a son James (a gentleman, aged 29), a son
+                            John (no occupation, aged 27), a son Henry (a clerk in the wine trade, aged 17), a son Alexander D (a scholar, aged 15), a
+                            son Hanibal (no occupation, aged 13), and a servant Esther Johnson (aged 20).</note>
+
+                        <!--<bibl><<msIdentifier><msName>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858</msName>
+                        <institution>National Archives at Kew</institution>
+                     <idno>ADM 38/2884</idno>
+                     </msIdentifier></bibl>
+                  <bibl>
+                  <bibl><msIdentifier><msName>Census Returns of England and Wales, 1851. Kew, Surrey, England</msName><institution>The National Archives of the
+                     UK (TNA): Public Record Office (PRO)</institution>                       
+                     </msIdentifier></bibl>-->
+                    </person>
+                    <person xml:id="J_W_L_Bampfield">
+                        <note>Reverend John William Lewis Bampfield joined the Chesapeake on July 24th 1857 and was a regular contributor to and
+                            supporter of The Young Idea. While his age is not recorded in the muster book, census records reveal that Bampfield was
+                            born in June of 1823, so he was in his mid-thirties during the cruise. He was commissioned as chaplain aboard a different
+                            royal naval vessel in Port Royal, Jamaica before his arrival aboard the Chesapeake. His detailed journal provides an
+                            additional witness to The Young Idea, providing fascinating points of contrast from the facsimile edition that McArthur
+                            had printed in 1867 and offering hints about the authorship of contributions through his inclusion of the initials of
+                            authors (a marked list).</note>
+                    </person>
+                    <person xml:id="Edgell">
+                        <note>Harry Edmund Edgell joined the Chesapeake as Commodore after the period chronicled in the issues included in this
+                            edition. He was an enthusiastic supporter of The Young Idea. In <hi rend="italics">Martello Tower" in China, and the
+                                Pacific in H.M.S. "Tribune," 1856-60</hi>, Francis Martin Norman recounts Edgell's enthusiastic support for a
+                            shipboard theatrical aboard H.M.S. Tribune in 1857, when he was captain of the ship. Edgell composed the prologue for the
+                            play and painted the drop-scene (50). The National Maritime Museum at Greenwich (NMM) holds over 300 watercolors by
+                            Edgell, including some undertaken during the cruise chronicled in The Young Idea. The NMM's biographical note on Edgell
+                            reads as follows: "Edgell was promoted to lieutenant in 1828, to commander in 1837 and to captain in 1846. He was
+                            appointed to command the Tribune in 1855 when she was in the Crimea. During this commission she went to the Pacific and
+                            finally to China. In 1857 Edgell was the Senior Naval Officer at Hong Kong and he transferred into the Bittern tender
+                            commanding the gun boats on the Canton River during the hostilities with the Chinese. In 1858 be was given command of the
+                            squadron in Indian waters, during which time he commanded the Chesapeake and later the Retribution. The latter returned to
+                            England and was paid off in 1860. Edgell had no further active employment and was promoted on the retired list, reaching
+                            the rank of vice-admiral in 1871."</note>
+                    </person>
+                    <person xml:id="Watson">
+                        <note>Excerpts from “Watson, Rundle Burges” by <bibl><author>by J.K. Laughton, rev. Andrew Lambert</author></bibl> for the
+                                    <bibl><title>Oxford Dictionary of National Biography</title></bibl>: <quote>"Watson, Rundle Burges (1809–1860),
+                                naval officer, was the eldest son of Captain Joshua Rowley Watson (1772–1810). He entered the navy in November 1821,
+                                and was promoted lieutenant on 7 October 1829. [...] On 23 December 1842 he was advanced to post rank, and on 24
+                                December was made a CB. [...] In December 1852 [Watson] was appointed to the new steam frigate Impérieuse (50 guns),
+                                then, and for some years later, considered one of the finest ships in the navy. In 1854 she was sent into the Baltic
+                                in advance of the fleet, Watson being senior officer of the squadron of small vessels appointed to watch the breaking
+                                up of the ice, and to see that no Russian warships got to sea. It was an arduous service well performed. The
+                                Impérieuse continued with the flying squadron in the Baltic during the campaigns of 1854 and 1855, and until the
+                                signing of peace in March 1856. As the senior officer of the frigate squadron, and generally on detached service,
+                                Watson demonstrated the highest standards of seamanship, judgement, and leadership. After the peace the Impérieuse was
+                                sent to the North American station; she returned to England and was paid off early in 1857. From May 1856 until his
+                                death Watson was naval aide-de-camp to the queen. In June 1859 he was appointed captain-superintendent of Sheerness
+                                Dockyard, where he died on 5 July 1860. An officer of great ability, Watson was one of the last great sailing-ship
+                                captains, and the first frigate captain of the steam era."</quote></note>
+                    </person>
+                    <person xml:id="Pratt">
+                        <note>Excerpt from “Pratt, John Henry” by <bibl><author>Anita McConnell</author></bibl> for the <bibl><title>Oxford Dictionary
+                                    of National Biography</title></bibl>: <quote>“Pratt, John Henry (bap. 1809, d. 1871), Church of England clergyman
+                                and mathematician, was baptized on 30 June 1809 at St Mary Woolnoth, London, one of two sons of Josiah Pratt
+                                (1768–1844), Church of England clergyman, and his wife, Elizabeth, formerly Jowett. He was educated at Oakham School,
+                                Rutland, and entered Gonville and Caius College, Cambridge, in 1829, graduating BA in 1833 as third wrangler. He was
+                                elected to a fellowship, and proceeded MA in 1836. After taking orders he was appointed through the influence of
+                                Daniel Wilson, bishop of Calcutta, a chaplain of the East India Company in 1838. He became Wilson's domestic chaplain
+                                and in 1850 archdeacon of Calcutta.”</quote></note>
+                    </person>
+                    <person xml:id="George_Horner">
+                        <note>George Horner, a bandsman, joined the Chesapeake on August 12, 1857. He was born in London in 1817. The muster book for
+                            the Chesapeake claims to offer the first entry for George Horner, perhaps meaning this was his first time at
+                                sea.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the
+                                National Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Charles_Stewart">
+                        <note>Charles Stewart, an ordinary seaman, joined the Chesapeake on May 23, 1857. He was born in London and served aboard HMS
+                            Gladiator just before joining the Chesapeake. He was born in 1834.<bibl>Muster Book of Her Majesty's Ship Chesapeake
+                                Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Thomas_Walsh">
+                        <note>Thomas Walsh, an ordinary seaman, joined the Chesapeake on August 15, 1857. He was born in London in 1834 and served
+                            aboard HMS Cressy just before joining the Chesapeake.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st
+                                January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Robert_Wilkinson">
+                        <note>Robert Wilkinson, a private in the Royal Marines, joined the Chesapeake on July 25th 1857. He was born in Sitchfield,
+                                Staffordshire.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858,
+                                held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Henry_Underhill">
+                        <note>muster#153, ordinary seaman from Alesford, 36 when coming aboard the Chesapeake<bibl>Muster Book of Her Majesty's Ship
+                                Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
+                                38/2884)</bibl>
+                        </note>
+                    </person>
+                    <person xml:id="John_Welsh">
+                        <note>John Welsh, an ordinary seaman, joined the Chesapeake on February 20, 1857. He was born in Mayo<bibl>Muster Book of Her
+                                Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew
+                                (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Henry_Montagu">
+                        <note>Henry Montagu, yeoman of signals, joined the Chesapeake on July 28, 1857 after serving aboard HMS President. He was born
+                            in St. Hilliers, Jersey (the Channel Islands) in 1826, making him 32 at the time of the performance.<bibl>Muster Book of
+                                Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew
+                                (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Isaac_Wright">
+                        <note>Isaac Wright, an ordinary sailor 2nd class, joined the Chesapeake on September 4th 1857. Hew as born in Sunderland in
+                            1835, making him 23 at the time of the performance.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st
+                                January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884). In January of 1859 (after the
+                                performance at Jeddah), the following event is chronicled in The Young Idea: "On Monday (24th) when shifting Topsails
+                                Isaac Wright Ordy fell backwards from the main Topsail Yard, but was happily brought up by his knife lanyard hitching,
+                                which gave him time to grasp the rigging: we should indeed have been very sorry had anything more serious befallen
+                                one, whose comic powers have so lately given us amusement"</bibl></note>
+                    </person>
+                    <person xml:id="Henry_Hamilton">
+                        <note>C. R. B. Hamilton (the only Hamilton in the musters) was a naval cadet who served aboard <orgName ref="Colossus">HMS
+                                Colossus</orgName> before joining the Chesapeake on July 23, 1857. He was born in County Tyrone, Ireland in December
+                            of 1842, making him 15 at the time the performance<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st
+                                January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="James_Brown">
+                        <note>James Brown, an ordinary seaman, joined the Chesapeake on July 23, 1857, after serving aboard <orgName ref="Cuckoo">HMS
+                                Cuckoo</orgName> until February 3, 1857. He was born at Sheerness on the 17th of January 1829, making him 28 at the
+                            time of the performance<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March
+                                1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="William_Connell">
+                        <note>William T. Connell, an ordinary seaman, joined the Chesapeake on July 31 1857, after serving aboard <orgName
+                                ref="Eurydice">HMS Eurydice</orgName> until 17 June 1857. He was born in London in 1835, making him 27 at the time of
+                            the performance.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858,
+                                held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Taylor">
+                        <note>Edward Taylor, Assistant Engineer 3rd class (a commissioned officer), joined the Chesapeake on July 25th 1857. His age
+                            was not recorded in the muster book<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending
+                                31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Brownrigg">
+                        <note>Charles J. Brownrigg, a mate (a commissioned officer), joined the Chesapeake on August 4th, 1857. His age was not
+                            recorded in the muster book.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st
+                                March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Wilkinson">
+                        <note>Mr. Wilkinson, a clerk (a subordinate officer), joined the Chesapeake on July 23rd 1857 after serving aboard HMS
+                            Majestic. He was born in Suffolk in 1836, which would make him 22 at the time of the cricket match in Calcutta<bibl>Muster
+                                Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National
+                                Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Shortt">
+                        <note>John Shortt, a subordinate officer, joined the Chesapeake on July 23rd 1857, after serving aboard HMS Euridice. He was
+                            born in Bombay in 1838, making him 20 at the time of this cricket match in Calcutta.<bibl>Muster Book of Her Majesty's
+                                Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
+                                38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Reynolds">
+                        <note>S. Reynolds, an ordinary seaman, joined the Chesapeake on September 4th 1857. He was born in Landport (Portsmouth) in
+                            1839, making him 19 at the time of the cricket match in Calcutta.<bibl>Muster Book of Her Majesty's Ship Chesapeake
+                                Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Theobald">
+                        <note>C.B. Theobald, a naval cadet, joined the Chesapeake on July 24th 1857. He was born in Mark's Tey, Essex in 1843, making
+                            him 15 at the time of the cricket match in Calcutta.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st
+                                January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Cooper">
+                        <note>There are three different members of the ship's company with the last name Cooper. The only thing we can tell about the
+                            "Cooper" referenced in the cricket match is that he was not a commissioned officer, but an ordinary seaman.<bibl>Muster
+                                Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National
+                                Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Chute">
+                        <note>Charles T. Chute, a subordinate officer, joined the Chesapeake on July 23rd 1857, after serving aboard Euridice. He was
+                            born in London in 1841, making him 17 at the time of the cricket match in Calcutta.<bibl>Muster Book of Her Majesty's Ship
+                                Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
+                                38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Bew">
+                        <note>James Bew, an experienced seaman, joined the Chesapeake on August 1st 1857. He was born in 1833, making him 25 at the
+                            time of the cricket match in Calcutta.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858
+                                Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Oxley">
+                        <note>C.L. Oxley, a midshipman, joined the Chesapeake on July 29th 1857. He was born in 1841, making him 17 at the time of the
+                            cricket match in Calcutta.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March
+                                1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Behadoor">
+                        <note>Still searching for biographical details on Rajah Behadoor</note>
+                    </person>
+                    <person xml:id="Hope">
+                        <note>Hope played for the "squadron's eleven" and does not appear in Chesapeak muster book, which means he likely belonged to
+                            another ship in the squadron<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st
+                                March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Haswell">
+                        <note>Haswell served aboard Himalaya until he was injured and replaced by Piers.<bibl>Muster Book of Her Majesty's Ship
+                                Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
+                                38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Kelly">
+                        <note>Lieutenant Edward Kelly does not appear in the muster book of HMS Chesapeake. <bibl>Muster Book of Her Majesty's Ship
+                                Chesapeake Commencing 1st January 1858 Ending 31st March 1858, held by the National Archives at Kew (ADM
+                                38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Parkin">
+                        <note>George H. Parkin was named acting commander of HMS Chesapeake on February 1st 1858 and came aboard on February 25th
+                            after serving aboard Roebuck. <bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st
+                                March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Piers">
+                        <note>S.B. Piers, a commander, joined the Chesapeake on July 28th 1857. He was discharged on January 22nd 1858 to serve aboard
+                            HMS Himalaya when vice Haswell was invalided.<bibl>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January
+                                1858 Ending 31st March 1858, held by the National Archives at Kew (ADM 38/2884)</bibl></note>
+                    </person>
+                    <person xml:id="Faustino">
+                        <note>Juan I. Faustino, bandmaster, joined the Chesapeake on September 14th 1857 after serving aboard HMS Imperieuse. He was
+                            born in 1820 in Allicante, Portugal, making him 37 when he joined the ship's company.<bibl>Muster Book of Her Majesty's
+                                Ship Chesapeake Commencing 1st September 1857 Ending 30th September 1857, held by the National Archives at Kew (ADM
+                                38/2883)</bibl></note>
+                    </person>
+                    <person xml:id="Namik_Pacha">
+                        <note>cite one of the articles on the uprising</note>
+                    </person>
+                    <person xml:id="James_Hammond">
+                        <note>James Hammond, an ordinary seaman, joined the Chesapeake on July 13 1857, after serving aboard <orgName ref="Eurydice"
+                                >HMS Eurydice</orgName> until 12 June 1857. He was born in London on November 12, 1837, making him 21 at the time of
+                            the performance. He entered the ship as "B1C" or "Boy, first class" and was promoted to Ordinary Seaman (second class) on
+                            July 27, 1857. He was promoted to Ordinary Seaman (first class) on October 1, 1857, which suggests that he "learned the
+                            ropes" quickly and was given more responsibility within four months of joining the Chesapeake. <bibl>Muster Book of Her
+                                Majesty's Ship Chesapeake Commencing 1st January 1859 Ending 31st March 1859, held by the National Archives at Kew
+                                (ADM 38/2886)</bibl></note>
+                    </person>
+                    <person xml:id="Edward_Mansbridge">
+                        <note>Edward Mansbridge, a landsman, joined the Chesapeake on August 13 1857, after serving aboard <orgName ref="Blenheim">HMS
+                                Blenheim</orgName> until 12 August 1857. He was born in Landport (a district within Portsmouth) on November 2, 1829,
+                            making him 31 at the time of the performance. He entered the ship as a landsman and worked as a stoker.<bibl>Muster Book
+                                of Her Majesty's Ship Chesapeake Commencing 1st January 1859 Ending 31st March 1859, held by the National Archives at
+                                Kew (ADM 38/2886)</bibl></note>
+                    </person>
+                    <person xml:id="John_Hurst">
+                        <note>Have not yet located Hurst in the musters</note>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="Pelorus">
+                        <note>HMS Pelorus was a Royal Navy screw corvette with twenty-one guns in the Pearl class. The ship was launched on February
+                            5, 1858 and its masting and fitting-out was completed on September 10, 1857. The ship was 200 feet long, 40 feet 4 inches
+                            at the broadest point, with a depth in the hold of 23 feet 11 inches. As Lyon and Winfield explain, "Corvette designs were
+                            rapidly enlarged over the 1860s, as the corvette began to take over the traditional role of policing the high seas. To
+                            this end they were all built as steam auxiliaries, designed to cruise under sail" (207). HMS Pelorus was broken up for
+                            parts at Devonport on February 3, 1869. David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All the Ships of the
+                            Royal Navy, 1815–1889 (London: Chatham Publishing), 2004.</note>
+                    </org>
+                    <org>
+                        <orgName xml:id="Roebuck">Roebuck</orgName>
+                        <note>HMS Roebuck was a Royal Navy despatch vessel with 5 guns in the Intrepid class. The ship was launched on March 22, 1856
+                            and its masting and fitting-out was completed on August 25, 1857. The ship was 200 feet long, 179 feet 5 1/4 inches at the
+                            broadest point, with a depth in the hold of 14 feet 6 inches. The ship was built for a company of 100 men. As Lyon and
+                            Winfield explain, "The outbreak of the Russian War demonstrated the need for numerous manoeuvrable, shallow-draught
+                            vessels for coastal and inshore operations in the Baltic and Black Seas. Six small screw steamers of the Arrow Class were
+                            approved to be built by contract in the Thames [...]" (218). The Roebuck was one of twenty additional vessels ordered in
+                            1855 (218-219). David Lyon and Rif Winfield, The Sail &amp; Steam Navy List: All the Ships of the Royal Navy, 1815–1889
+                            (London: Chatham Publishing), 2004.</note>
+                    </org>
+                    <org>
+                        <orgName xml:id="Cyclops">Cyclops</orgName>
+                        <note>HMS Cyclops was a Royal Navy steam vessel with six guns in the Cyclops class. The ship was launched on July 10, 1839.
+                            The ship was 190 feet 3 inches long, 163 feet 6 inches at the broadest point, with a depth in the hold of 37 feet 6
+                            inches. The ship was built for a company of 175 to 200 men. As Lyon and Winfield explain, the ship was re-armed in 1856
+                            "with 2x 68 pdrds (95cwt) on the pivots and 4 x 10in (84cwt) on the broadside trucks." They also explain that it "was
+                            fitted 1856/57 to assist with the laying of the Atlantic cable (151). David Lyon and Rif Winfield, The Sail &amp; Steam
+                            Navy List: All the Ships of the Royal Navy, 1815–1889 (London: Chatham Publishing), 2004. </note>
+                    </org>
+                    <org>
+                        <orgName xml:id="Bentinck">Bentinck</orgName>
+                        <note>Need to find about this P and O ship</note>
+                    </org>
+                    <org>
+                        <orgName xml:id="Blenheim">Blenheim</orgName>
+                        <note>Need to find about this Royal Navy vessel</note>
+                    </org>
+                    <org>
+                        <orgName xml:id="Chesapeake">Chesapeake</orgName>
+                        <note>HMS Chesapeake was a Royal Navy screw frigate with fifty-one guns in the Forte (or Imperieuse) class, which was one of
+                            several classes including the thirty new wooden screw frigates completed between 1849 and 1865 (197). The ship was built
+                            in dry dock, launched on September 7, 1855, and its masting and fitting-out was completed on August 28, 1857. The ship was
+                            212 feet long, 50 feet 2 inches at the broadest point, with a depth in the hold of 16 feet and 9 inches. The ship was
+                            built for a company of 515 men. The Chesapeake was sold in 1867 to be broken up for parts at Charlton (200). David Lyon
+                            and Rif Winfield, The Sail &amp; Steam Navy List: All the Ships of the Royal Navy, 1815–1889 (London: Chatham Publishing),
+                            2004.</note>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="Cyprus">
+                        <placeName>Cyprus</placeName>
+                        <note>As Renowned Scholar explains in <hi rend="italics">Island Countries</hi>, Cyprus is very interesting because "la di da"
+                            (300).<lb/>Source<lb/>Scholar, Renowned. <hi rend="italics">Island Countries</hi> London: University of London Press,
+                            2019. Print.</note>
+                    </place>
+                    <place xml:id="Istanbul">
+                        <placeName>Istanbul</placeName>
+                        <location>
+                            <geo>41.0333 28.9500</geo>
+                            <note>Getty ID:7002473</note>
+                        </location>
+                    </place>
+                    <place xml:id="Hugli_River">
+                        <placeName>Hugli River</placeName>
+                        <location>
+                            <geo>21.8320 88.0300</geo>
+                            <note>Getty ID:1124685</note>
+                        </location>
+                    </place>
+                    <place xml:id="Khejuri">
+                        <placeName>Khejuri</placeName>
+                        <location>
+                            <geo>21.8050 86.3039</geo>
+                            <note>Getty ID: 7577299</note>
+                        </location>
+                    </place>
+                    <place xml:id="Sāgar_Island">
+                        <placeName>Saugar</placeName>
+                        <location>
+                            <geo>21.7445 88.1184</geo>
+                            <note>Getty ID:7577299</note>
+                        </location>
+                    </place>
+                    <place xml:id="Garden_Reach">
+                        <placeName>Garden Reach</placeName>
+                        <location>
+                            <geo>22.5430 88.3060</geo>
+                            <note>Getty ID: 1075308</note>
+                        </location>
+                    </place>
+                    <place xml:id="Delhi">
+                        <placeName>Delhi</placeName>
+                        <location>
+                            <geo>28.6536 77.2290</geo>
+                            <note>Getty ID:7001535</note>
+                        </location>
+                    </place>
+                    <place xml:id="Lucknow">
+                        <placeName>Lucknow</placeName>
+                        <location>
+                            <geo>26.8393 80.9231</geo>
+                            <note>Getty ID:7001561</note>
+                        </location>
+                    </place>
+                    <place xml:id="Yangon">
+                        <placeName>Yangon</placeName>
+                        <location>
+                            <geo>16.7833 96.1667</geo>
+                            <note>Getty ID:7002152</note>
+                        </location>
+                    </place>
+
+                    <place xml:id="Trincomalee">
+                        <placeName>Trincomalee</placeName>
+                        <location>
+                            <geo>8.5667 81.2167</geo>
+                            <note>Getty ID:7002519</note>
+                        </location>
+                    </place>
+                    <place xml:id="Andaman_Islands">
+                        <placeName>Andaman Islands</placeName>
+                        <location>
+                            <geo>12.0000 92.7500</geo>
+                            <note>Getty ID:1009838</note>
+                        </location>
+                    </place>
+                    <place xml:id="Canton">
+                        <placeName>Canton</placeName>
+                        <location>
+                            <geo>23.1333 113.3333</geo>
+                            <note>Getty ID:7018040</note>
+                        </location>
+                    </place>
+                    <place xml:id="Allahabad">
+                        <placeName>Allahābād</placeName>
+                        <location>
+                            <geo>25.4489 81.8333</geo>
+                            <note>Getty ID:7001500</note>
+                        </location>
+                    </place>
+                    <!--Without an id in Getty, I can't include this place in this edition<place>
+               <placeName xml:id="Futty_Ghur"><placeName>Futty Ghur</placeName>
+               <note>Not in Getty; a military station on the Ganges</note>
+            </place>-->
+                    <place xml:id="Chhapra">
+                        <placeName>Chhapra</placeName>
+                        <location>
+                            <geo>25.7810 84.7309</geo>
+                            <note>Getty ID:1140125</note>
+                        </location>
+                    </place>
+                    <place xml:id="Gorakhpur">
+                        <placeName>Gorakhpur</placeName>
+                        <location>
+                            <geo>26.7548 83.3724</geo>
+                            <note>Getty ID: 1075386</note>
+                        </location>
+                    </place>
+                    <place xml:id="Faizabad">
+                        <placeName>Faizābād</placeName>
+                        <location>
+                            <geo>26.7769 82.1329</geo>
+                            <note>Getty ID: 1075256</note>
+
+                        </location>
+                    </place>
+                    <place xml:id="Chennai">
+                        <placeName>Chennai</placeName>
+                        <location>
+                            <geo>13.0833 80.2833</geo>
+                            <note>Getty ID:7001562</note>
+                        </location>
+                    </place>
+                    <place xml:id="Kanpur">
+                        <placeName>Kānpur</placeName>
+                        <location>
+                            <geo>26.4478 80.3463</geo>
+                            <note>Getty ID: 7001527</note>
+                        </location>
+                    </place>
+
+                    <place xml:id="Ayodhya">
+                        <placeName>Ayodhya</placeName>
+                        <location>
+                            <geo>26.7996 82.2041</geo>
+                            <note>Getty ID: 7001502</note>
+                        </location>
+                    </place>
+                    <place xml:id="Gomati_River">
+                        <placeName>Gomati River</placeName>
+                        <location>
+                            <geo>25.5333 83.1667</geo>
+                            <note>Getty ID: 1124239</note>
+                        </location>
+                    </place>
+                    <place xml:id="Ochterlony_Monument">
+                        <placeName>Ochterlony Monument</placeName>
+                        <location>
+                            <geo>22.56286 88.34923</geo>
+                            <note>Getty ID:7030776</note>
+                        </location>
+                    </place>
+                    <place xml:id="Balham">
+                        <placeName>Balham</placeName>
+                        <location>
+                            <geo>51.4434 -0.1468</geo>
+                            <note>Getty ID: 7029240</note>
+                        </location>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>column breaks have not been retained, superscript has not been retained. Individual paragraphs have not been captured, making it
+                    seem like an entire contribution is one complete paragraph, which is not the case. Only the beginning of most contributions have
+                    been transcribed, followed by [...] indicating additional content to be transcribed. Where there is no title, "No Title" is used
+                    as the header.</p>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="BETYI1341"/>
+            <div n="34" type="issue">
+                <head>-</head>
+                <div type="TBD">
+                    <head>-</head>
+                    <p>[...]</p>
+                </div>
+                <div type="TBD">
+                    <head>-</head>
+                    <p>[...]</p>
+                </div>
+                <div type="TBD">
+                    <head>-</head>
+                    <p>[...]</p>
+                </div>
+                <div type="play_review">
+                    <head>????</head>
+                    <p>On Friday Evening (28th Inst.) our Quarterdeck presented a gay scene, our Amateurs providing us with a first-rate Evening amusement.
+                        The Guns being removed, the whole space of the Quarter deck was converted into a Saloon festooned with flags, &amp; <del>
+                            <gap reason="illegible"/>
+                        </del> decorated with beautiful flowers, and green boughs. Chandeliers, constructed with bayonets, hung from above, giving abundance
+                        of light; the Capstan was taken away, &amp; its space occupied by a square ottoman; chairs &amp; benches filled the <gap
+                            reason="illegible"/> portion of the Deck, while a succession of rising seats extending back to the bridge accommodated a
+                        multitude of bluejacket spectators. This bridge alas being <del>itself</del>fully crowded. The stage itself was raised on the
+                        Starboard side, between the Mainmast and the Gangway, about 4 feet above the Deck, the Orchestra being arranged in front. The stage
+                        arrangements were very good, the lights well managed, and the scenery by Geo Horner, excellent. This being regarded as a farewell
+                        entertainment from the Officers of the Chesapeake, our Ship was enlivened by the presence of most of the ladies and gentlemen of
+                        Trincomalee, as well as a few of the passengers from the "Australasian", and officers as well as men, from the "Pelorus", &amp; the
+                        Fort. The following were the cast of characters. [...]. The pieces chosen were well suited to develop the various talents of the
+                        Actors:--Geo: Horner, as King Charles 2nd looked &amp; acted the "Merry Monarch" well, and Chas Stewart as "Rochester" did no less
+                        well. But no doubt Capt Copp, the kind-hearted old Sailor (Thos Walshe) was the life and soul of the piece, &amp; kept us in roars
+                        of laughter with his quaint sayings whenever he made his appearance. "Lady Clara" looked the lady well, but spoke timidly, and
+                        "mary" alas required a little more confidence. In the 2nd Piece "Raising the Wind," the part of "Jeremy Didler" was ably sustained
+                        by <gap reason="illegible"/> Wright, &amp; "Fainwould" the simple cockney was admirably impersonated by Chs Stewart. Great credit is
+                        due also to Wm Connell for the way in which he played the lady's part of "Ship Laurelia Durable": this appears to be his particular
+                        forte. Thos Walshe again shone as "Sam" the Yorkshire waiter and the minor characters also did well. Seldome have we seen an
+                        audience so well pleased, our actors so well applauded. the "jig" by Thos Walshe was as excellent as usual, &amp; the "Yo, heave
+                        oh!" sung by Wm Connell produced a pleasing effect by the Chorus it raised from the Bluejackets present […]</p>
+                    
+                    <!-- Something weird has happened here...adding what I cut from the McArthur file just in case it isn't all in this document yet...<p>After the play, the Quarter Deck was cleared &amp; a few couples were formed for dancing. A large number of visitors were on board,
+                  than the one in the 1867 edition. It reads as follows
+                  On Friday Evening (28th Inst.) our Quarterdeck presented a gay scene, our Amateurs providing us with a first-rate Evening amusement.
+               The Guns being removed, the whole space of the Quarter deck was converted into a Saloon festooned with flags, &amp; <del><gap
+                  reason="illegible"/></del> decorated with beautiful flowers, and green boughs. Chandeliers, constructed with bayonets, hung
+               from above, giving abundance of light; the Capstan was taken away, &amp; its space occupied by a square ottoman; chairs &amp;
+               benches filled the <gap reason="illegible"/> portion of the Deck, while a succession of rising seats extending back to the bridge
+               accommodated a multitude of bluejacket spectators. This bridge alas being <del>itself</del>fully crowded. The stage itself was
+               raised on the Starboard side, between the Mainmast and the Gangway, about 4 feet above the Deck, the Orchestra being arranged in
+               front. The stage arrangements were very good, the lights well managed, and the scenery by Geo Horner, excellent. This being regarded
+               as a farewell entertainment from the Officers of the Chesapeake, our Ship was enlivened by the presence of most of the ladies and
+               gentlemen of Trincomalee, as well as a few of the passengers from the "Australasian", and officers as well as men, from the
+               "Pelorus", &amp; the Fort. The following were the cast of characters. [not including this for now-don't have time]. The pieces
+               chosen were well suited to develop the various talents of the Actors:Geo: Horner, as King Charles 2nd looked &amp; acted the
+               "Merry Monarch" well, and Chas Stewart as "Rochester" did no less well. But no doubt Capt Copp, the kind-hearted old Sailor (Thos
+               Walshe) was the life and soul of the piece, &amp; kept us in roars of laughter with his quaint sayings whenever he made his
+               appearance. "Lady Clara" looked the lady well, but spoke timidly, and "mary" alas required a little more confidence. In the 2nd
+               Piece "Raising the Wind," the part of "Jeremy Didler" was ably sustained by <gap reason="unintelligible"/> Wright, &amp; "Fainwould"
+               the simple cockney was admirably impersonated by Chs Stewart. Great credit is due also to Wm Connell for the way in which he played
+               the lady's part of "Ship Laurelia Durable": this appears to be his particular forte. Thos Walshe again shone as "Sam" the Yorkshire
+               waiter and the minor characters also did well. Seldome have we seen an audience so well pleased, our actors so well applauded. the
+               "jib" by Thos Walshe was as excellent as usual, &amp; te "Yo, heave oh!" sung by Wm Connell produced a pleasing effect by the Chorus
+               it raised from the Bluejackets present [the same continues as usual. The only real difference is that the cast of characters is not
+               re-created in the lithograph edition and there is a much more detailed description of how the ship was configured in Bampfield's
+               review]</p>
+               <p>On Friday night the 27th Inst our amateurs provided us with a first rate evenings amusement The Quarter deck was gaily decorated
+                  with flags and flowers, and presented a beautiful spectacle, the utmost credit being due to the managers and arrangers of the
+                  decorations, we hav enot space to give a lengthy description of the arrangeents, but we cannot refrain from giving the actors that
+                  praise which is most justly their due. The pieces chosen were well suited to the various talents of the actors. Geo Horner as "King
+                  Charles the 2nd looked and acted the "Merry Monarch" well, and Chas. Stewart did equally well in the character of Rochester. But no
+                  doubt Captain Copp the kind hearted old sailor (Thos . Walshe) was the life and soul of the piece, and kept us in roars of laugher
+                  with his quaint sayings shenever he made his appearance. Lady Clara (John Hurst) looked the lady well, but spoke timidly, and Mary
+                  Jas Hammond) also required a little more self confidence</p>
+               <p>In the second piece "Raising the Wind", the part of "Jeremy Didler" was ably sustained by Isaac Wright, and Fainwould" the simple
+                  cockney was admirably impersonated by Chas. Stewart, indeed this appeared to us the most perfect impersonation of the Evening. The
+                  greatest credit is also due to Wm Connell for the way in which he played the lady's part of Miss Laurelia Durable, this appears to
+                  be his particular forte. Thos. Walshe again shone as "Sam 'the waiter, and the minor characters also did wel. Seldom have we seen an
+                  audience so well pleased or actors so well applauded. The "jig" by Thos Walshe was as excellent as usual, and the "Yo heave oh!"
+                  sung by Wm Connell produced a pleasing effect by the Chorus whihc it raised from the Blue jackets present.</p> -->
+                </div>
+            </div>
+            <pb n="___"/>
+            <div n="__" type="issue">
+                <head>-</head>
+                <div type="TBD">
+                    <head>-</head>
+                    <p>[...]</p>
+                </div>
+                <div type="TBD">
+                    <head>-</head>
+                    <p>[...]</p>
+                </div>
+                <div type="TBD">
+                    <head>-</head>
+                    <p>[...]</p>
+                </div>
+                <div type="naval_intelligence">
+                    <head>Naval Intelligence</head>
+                    <p>[...]</p>
+                </div>
+                <div type="epitome">
+                    <head>Epitome</head>
+                    <p>[...]</p>
+                </div>
+                <div type="facetiae">
+                    <head>Facetiae</head>
+                    <p>[...]</p>
+                </div>
+                <div type="rebus">
+                    <head>Rebus</head>
+                    <p>[...]</p>
+                </div>
+                <div type="answer">
+                    <head>__</head>
+                    <p>[...]</p>
+                </div>
+                <div type="publication_info">
+                    <head>_</head>
+                    <p>[...]</p>
+                </div>
+            </div>
+            <!-- After transcribing an entire issue, adjust what follows to become a template for Bampfield transcription -->
+            <pb n="___"/>
+            <div n="__" type="issue">
+                <head>-</head>
+                <div type="TBD">
+                    <head>-</head>
+                    <p>[...]</p>
+                </div>
+                <div type="TBD">
+                    <head>-</head>
+                    <p>[...]</p>
+                </div>
+                <div type="TBD">
+                    <head>-</head>
+                    <p>[...]</p>
+                </div>
+                <div type="naval_intelligence">
+                    <head>Naval Intelligence</head>
+                    <p>[...]</p>
+                </div>
+                <div type="epitome">
+                    <head>Epitome</head>
+                    <p>[...]</p>
+                </div>
+                <div type="facetiae">
+                    <head>Facetiae</head>
+                    <p>[...]</p>
+                </div>
+                <div type="rebus">
+                    <head>Rebus</head>
+                    <p>[...]</p>
+                </div>
+                <div type="answer">
+                    <head>__</head>
+                    <p>[...]</p>
+                </div>
+                <div type="publication_info">
+                    <head>_</head>
+                    <p>[...]</p>
+                </div>
+            </div>
+            <div type="TBD">
+                <head>Chesapeake Theatre.</head>
+                <ab><l>THE SEAMEN AMATEURS OF H. M.'S SHIP CHESAPEAKE,</l><l>WILL ON</l><l>Tuesday, 3d January, 1860,</l><l>Produce their First
+                    Representation at Hongkong, on</l><l>which occasion will be Performed</l><l>The much admired Comedy in 3 Acts adapted from "La
+                        Jeunesse</l><l>de Henri 5,'</l><l>By John Howard Payne, Esq.,</l><l>ENTITLED,</l><l>CHARLES THE II.,</l><l>OR,</l><l>The Merry
+                            Monarch.</l><note>This playbill announces a performance taking place in January of 1860, eight months after The Young Idea ceased publication. Charles the II is
+                                repeated, but a new performer takes on the role of Lady Clara in this performance (William Connell performs as Mary, which he hadn't
+                                done before).</note></ab>
+            </div>
+        </body>
+    </text>
+</TEI>

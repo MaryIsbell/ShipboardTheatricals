@@ -18,10 +18,16 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <publisher>TAPAS</publisher>
-                <date>2018</date>
+                <authority>Mary Isbell</authority>
+                <address>
+                    <addrLine>Harugari Hall 300A</addrLine>
+                    <addrLine>University of New Haven</addrLine>
+                    <addrLine>West Haven, CT 06516</addrLine>
+                </address>
+                <distributor><orgName>TAPAS Project</orgName></distributor>
+                <ptr target="http://tapasproject.org"/>
                 <availability>
-                    <p>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. </p>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
