@@ -341,162 +341,162 @@
                 </listOrg>
             </particDesc>
             <settingDesc>
-                <listPlace>                  
+                <listPlace>
                     <place xml:id="Cyprus">
                         <placeName>Cyprus</placeName>
                         <note>As Renowned Scholar explains in <hi rend="italics">Island Countries</hi>, Cyprus is very interesting because "la di da"
                             (300).<lb/>Source<lb/>Scholar, Renowned. <hi rend="italics">Island Countries</hi> London: University of London Press,
                             2019. Print.</note>
                     </place>
-                    <place>
-                        <placeName xml:id="Istanbul">Istanbul</placeName>
+                    <place xml:id="Istanbul">
+                        <placeName>Istanbul</placeName>
                         <location>
                             <geo>41.0333 28.9500</geo>
                             <note>Getty ID:7002473</note>
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Hugli_River">Hugli River</placeName>
+                    <place xml:id="Hugli_River">
+                        <placeName>Hugli River</placeName>
                         <location>
                             <geo>21.8320 88.0300</geo>
                             <note>Getty ID:1124685</note>
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Khejuri">Khejuri</placeName>
+                    <place xml:id="Khejuri">
+                        <placeName>Khejuri</placeName>
                         <location>
                             <geo>21.8050 86.3039</geo>
                             <note>Getty ID: 7577299</note>
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Sāgar_Island">Saugar</placeName>
+                    <place xml:id="Sāgar_Island">
+                        <placeName>Saugar</placeName>
                         <location>
                             <geo>21.7445 88.1184</geo>
                             <note>Getty ID:7577299</note>
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Garden_Reach">Garden Reach</placeName>
+                    <place xml:id="Garden_Reach">
+                        <placeName>Garden Reach</placeName>
                         <location>
                             <geo>22.5430 88.3060</geo>
                             <note>Getty ID: 1075308</note>
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Delhi">Delhi</placeName>
+                    <place xml:id="Delhi">
+                        <placeName>Delhi</placeName>
                         <location>
                             <geo>28.6536 77.2290</geo>
                             <note>Getty ID:7001535</note>
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Lucknow">Lucknow</placeName>
+                    <place xml:id="Lucknow">
+                        <placeName>Lucknow</placeName>
                         <location>
                             <geo>26.8393 80.9231</geo>
                             <note>Getty ID:7001561</note>
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Yangon">Yangon</placeName>
+                    <place xml:id="Yangon">
+                        <placeName>Yangon</placeName>
                         <location>
                             <geo>16.7833 96.1667</geo>
                             <note>Getty ID:7002152</note>
                         </location>
                     </place>
-                    
-                    <place>
-                        <placeName xml:id="Trincomalee">Trincomalee</placeName>
+
+                    <place xml:id="Trincomalee">
+                        <placeName>Trincomalee</placeName>
                         <location>
                             <geo>8.5667 81.2167</geo>
                             <note>Getty ID:7002519</note>
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Andaman_Islands">Andaman Islands</placeName>
+                    <place xml:id="Andaman_Islands">
+                        <placeName>Andaman Islands</placeName>
                         <location>
                             <geo>12.0000 92.7500</geo>
                             <note>Getty ID:1009838</note>
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Canton">Canton</placeName>
+                    <place xml:id="Canton">
+                        <placeName>Canton</placeName>
                         <location>
                             <geo>23.1333 113.3333</geo>
                             <note>Getty ID:7018040</note>
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Allahabad">Allahābād</placeName>
+                    <place xml:id="Allahabad">
+                        <placeName>Allahābād</placeName>
                         <location>
                             <geo>25.4489 81.8333</geo>
                             <note>Getty ID:7001500</note>
                         </location>
                     </place>
                     <!--Without an id in Getty, I can't include this place in this edition<place>
-               <placeName xml:id="Futty_Ghur">Futty Ghur</placeName>
+               <placeName xml:id="Futty_Ghur"><placeName>Futty Ghur</placeName>
                <note>Not in Getty; a military station on the Ganges</note>
             </place>-->
-                    <place>
-                        <placeName xml:id="Chhapra">Chhapra</placeName>
+                    <place xml:id="Chhapra">
+                        <placeName>Chhapra</placeName>
                         <location>
                             <geo>25.7810 84.7309</geo>
                             <note>Getty ID:1140125</note>
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Gorakhpur">Gorakhpur</placeName>
+                    <place xml:id="Gorakhpur">
+                        <placeName>Gorakhpur</placeName>
                         <location>
                             <geo>26.7548 83.3724</geo>
                             <note>Getty ID: 1075386</note>
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Faizabad">Faizābād</placeName>
+                    <place xml:id="Faizabad">
+                        <placeName>Faizābād</placeName>
                         <location>
                             <geo>26.7769 82.1329</geo>
                             <note>Getty ID: 1075256</note>
-                            
+
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Chennai">Chennai</placeName>
+                    <place xml:id="Chennai">
+                        <placeName>Chennai</placeName>
                         <location>
                             <geo>13.0833 80.2833</geo>
                             <note>Getty ID:7001562</note>
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Kanpur">Kānpur</placeName>
+                    <place xml:id="Kanpur">
+                        <placeName>Kānpur</placeName>
                         <location>
                             <geo>26.4478 80.3463</geo>
                             <note>Getty ID: 7001527</note>
                         </location>
                     </place>
-                    
-                    <place>
-                        <placeName xml:id="Ayodhya">Ayodhya</placeName>
+
+                    <place xml:id="Ayodhya">
+                        <placeName>Ayodhya</placeName>
                         <location>
                             <geo>26.7996 82.2041</geo>
                             <note>Getty ID: 7001502</note>
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Gomati_River">Gomati River</placeName>
+                    <place xml:id="Gomati_River">
+                        <placeName>Gomati River</placeName>
                         <location>
                             <geo>25.5333 83.1667</geo>
                             <note>Getty ID: 1124239</note>
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Ochterlony_Monument">Ochterlony Monument</placeName>
+                    <place xml:id="Ochterlony_Monument">
+                        <placeName>Ochterlony Monument</placeName>
                         <location>
                             <geo>22.56286 88.34923</geo>
                             <note>Getty ID:7030776</note>
                         </location>
                     </place>
-                    <place>
-                        <placeName xml:id="Balham">Balham</placeName>
+                    <place xml:id="Balham">
+                        <placeName>Balham</placeName>
                         <location>
                             <geo>51.4434 -0.1468</geo>
                             <note>Getty ID: 7029240</note>
@@ -776,7 +776,7 @@
                             <p>
                                 <!-- Find a way to present information about differences between McArthur and Bampfield (likely a note instead of a ref tag) and then make the change throughout -->Our
                                 long voyage has now come to a close, we may consider that we have arrived at our destination, that our future
-                                prospects centre in <placeName ref="placeography.xml#Kolkata" facs="Colton_Kolkata">Calcutta</placeName>. </p>
+                                prospects centre in <placeName ref="#Kolkata" facs="Colton_Kolkata">Calcutta</placeName>. </p>
                             <p>What these prospects may be, we are unable to determine at present, although, we may almost dispel the idea of seeing
                                 service before the enemy, as we had hoped, our proceedings will most likely consist in various kinds of extra duties,
                                 as unpleasant as they are unremunerative.</p>
@@ -814,7 +814,7 @@
                                 refusals of his services, he persisted in following and shading us from the sun.</p>
                             <p>We found him useful, and intelligent, and had no cause to regret making his acquaintance; he guided us to the bazaars,
                                 which reminded us forcibly of the like places for vending goods and merchandize in <placeName
-                                    ref="placeography.xml#Istanbul">Constantinople</placeName>. The small low shops and dirty lanes, for we cannot
+                                    ref="#Istanbul">Constantinople</placeName>. The small low shops and dirty lanes, for we cannot
                                 designate them streets, the various costumes of the natives, yellow, blue, red and white, the most part clothed in
                                 little save their tawny skins, all meeting the eye in a variegated mass, as the whole extent of the bazaar was
                                 comprehended at a glance, the creaking of the drays, or waggons, drawn by two small buffaloes, and made of bamboos,
@@ -822,7 +822,7 @@
                                 some corpulent old gentleman, who perhaps, entertained the opinion that the sun might melt him, were he to expose
                                 himself; the touting of the vendors, who, with salaams, begged us to walk into, each, his particular shop, and become
                                 their customers, all this and many other circumstances which struck us at the time, brought back very strongly to our
-                                memories the streets and bazaars of <placeName ref="placeography.xml#Istanbul">Constantinople</placeName></p>
+                                memories the streets and bazaars of <placeName ref="#Istanbul">Constantinople</placeName></p>
                             <pb n="TYI1073" facs="TYI1073"/>
                             <fw>"The Young Idea" Saturday 23 January 1858.</fw>
                             <cb n="1"/>
@@ -840,7 +840,7 @@
                                 the immense millinery, and bonnet establishments which with open doors and temptingly displayed head dresses, robes,
                                 mantles, &amp;c, &amp;c invited the victims to enter and become an easy prey.</p>
                             <p>The shades of night falling fast and thick, and not wishing to remain any longer on shore, we returned on board, not as
-                                well satisfied with <placeName ref="placeography.xml#Kolkata">Calcutta</placeName>, at first sight, as we had hoped to
+                                well satisfied with <placeName ref="#Kolkata">Calcutta</placeName>, at first sight, as we had hoped to
                                 be.</p>
                         </div>
                         <cb n="2"/>
@@ -848,7 +848,7 @@
                         <div type="article">
                             <head> Up the Hooghly </head>
                             <p>On Saturday evening last (Jan 16) although no land was in sight, we found ourselves nearing the channels of the
-                                    <placeName ref="placeography.xml#Hugli_River">Hooghly</placeName>. At 6 P.M. we obtained soundings with the deep
+                                    <placeName ref="#Hugli_River">Hooghly</placeName>. At 6 P.M. we obtained soundings with the deep
                                 sea lead and two hours afterwards judging ourselves to be sufficiently near the Pilot station, we anchored for the
                                 night in 17 fathoms water, our anchor was again weighed at daylight &amp; about 9 A.M. we passed the first large Buoy
                                 that marks the approach to the Eastern channel. At noon we were nearing the Pilot Brig, and the Pilot shortly
@@ -857,10 +857,10 @@
                                 to an even keel: still no land in sight, though the red haze in the Evening horizon seemed to tell of its
                                 vicinity.</p>
                             <p>Daylight again found us under way and about 10 A.M. we descried the low banks of the <placeName
-                                    ref="placeography.xml#Hugli_River">Hooghly</placeName>, opening on either side of us. With the strong tide in our
+                                    ref="#Hugli_River">Hooghly</placeName>, opening on either side of us. With the strong tide in our
                                 favor, and our engines working at full power, we now advanced very rapidly; the river banks drew nearer to us;
-                                    <placeName ref="placeography.xml#Sāgar_Island">Saugar</placeName> appeared on our right <placeName
-                                    ref="placeography.xml#Khejuri">Kedgeree</placeName> on our left, with a little cluster of shipping at the
+                                    <placeName ref="#Sāgar_Island">Saugar</placeName> appeared on our right <placeName
+                                    ref="#Khejuri">Kedgeree</placeName> on our left, with a little cluster of shipping at the
                                 anchorage. The water which on the previous day had been of a greenish hue, now became very thick and muddy. Objects on
                                 shore now became more distinct as the river lessened in width, the banks were still low &amp; level, not an outline of
                                 any distant hills to be seen, here &amp; there a rice plantation varied the jungle Native villages, generally
@@ -873,8 +873,8 @@
                                 furnished from the dark alluvial clay, of which doubtless, the whole Delta of the Ganges is composed. As we moved
                                 swiftly up, the banks of the river glided past like a moving panorama, and the eye could never tire of watching the
                                 beautiful scene.</p>
-                            <p>At sunset we came to an anchor in the <placeName ref="placeography.xml#Garden_Reach">Garden Reach</placeName>, 2 miles
-                                below <placeName ref="placeography.xml#Kolkata">Calcutta</placeName>, one or two pretty houses decked the banks, a
+                            <p>At sunset we came to an anchor in the <placeName ref="#Garden_Reach">Garden Reach</placeName>, 2 miles
+                                below <placeName ref="#Kolkata">Calcutta</placeName>, one or two pretty houses decked the banks, a
                                 forest of masts marked the position of the great capital. a deep red tinge, suffused the sky as the sun sank, and was
                                 reflected streakily in the ebbing tide, soon darkness came, the river's banks were left to the howling jackal, or the
                                 crickets and toads, that made a ceaseless whirring through the watches of the night.</p>
@@ -883,13 +883,13 @@
                         <div type="article">
                             <head>[No Title]</head>
 
-                            <p>The capture of <placeName ref="placeography.xml#Delhi">Delhi</placeName>, &amp; the relief of <placeName
-                                    ref="placeography.xml#Lucknow">Lucknow</placeName> are exploits which challenge our national pride, as well as our
+                            <p>The capture of <placeName ref="#Delhi">Delhi</placeName>, &amp; the relief of <placeName
+                                    ref="#Lucknow">Lucknow</placeName> are exploits which challenge our national pride, as well as our
                                 national thanksgiving……..In every shape which war could take, has the ascendancy of the British race been established.
                                 We have succeeded in capturing a strong position &amp; we have succeeded in defending a weak one. As besiegers at
-                                    <placeName ref="placeography.xml#Delhi">Delhi</placeName>, as besieged at <placeName
-                                    ref="placeography.xml#Lucknow">Lucknow</placeName>, we have been equally triumphant, while the advance of our
-                                column to the<cb n="2"/> capital of insurgent <placeName ref="placeography.xml#Ayodhya">Oude</placeName>, presents
+                                    <placeName ref="#Delhi">Delhi</placeName>, as besieged at <placeName
+                                    ref="#Lucknow">Lucknow</placeName>, we have been equally triumphant, while the advance of our
+                                column to the<cb n="2"/> capital of insurgent <placeName ref="#Ayodhya">Oude</placeName>, presents
                                 little less than a miracle of determination &amp; courage.</p>
                             <bibl>
                                 <title>The Evening Mail</title>
@@ -903,13 +903,13 @@
                                 <item>Tuesday 19th H.M.S. <orgName ref="#Chesapeake"/>Chesapeake weighed early this morning and took up swinging
                                     moorings off the Esplanade. She saluted the Governor General, which was returned by the fort.</item>
                                 <item>Wednesday 20th Sailed H.M. Steam Vessels "<orgName ref="#Assurance">Assurance</orgName>" and "<orgName
-                                        ref="#Pelorus">Pelorus</orgName>" for <placeName ref="placeography.xml#Yangon">Rangoon</placeName>.</item>
+                                        ref="#Pelorus">Pelorus</orgName>" for <placeName ref="#Yangon">Rangoon</placeName>.</item>
                                 <item>Thursday 21st Arrived H.M.S.V. "<orgName ref="#Mohawk">Mohawk</orgName>" from <placeName
-                                        ref="placeography.xml#Trincomalee">Trincomalee</placeName> having made a very quick passage of four
+                                        ref="#Trincomalee">Trincomalee</placeName> having made a very quick passage of four
                                     days.</item>
                                 <item>H.M.S. "<orgName ref="#Himalaya">Himalaya</orgName>" is about to proceed to England having broken her main
                                     shaft, and being very leaky.</item>
-                                <item>The "<orgName ref="#Mohawk">Mohawk</orgName>" is to go to <placeName ref="placeography.xml#Yangon"
+                                <item>The "<orgName ref="#Mohawk">Mohawk</orgName>" is to go to <placeName ref="#Yangon"
                                         >Rangoon</placeName> to join the squadron there.</item>
                             </list>
                         </div>
@@ -918,7 +918,7 @@
 
                             <head> A Swarm of Centipedes </head>
 
-                            <p>It appears that since leaving <placeName ref="placeography.xml#Trincomalee">Trincomalee</placeName>, a great number of
+                            <p>It appears that since leaving <placeName ref="#Trincomalee">Trincomalee</placeName>, a great number of
                                 Centipedes have been produced on board, so much so that recently at Evening Quarters, each man was required to appear
                                 with a Centipede in his possession. We certainly should have thought that such noxious reptiles, and such unpleasant
                                 bedfellows would have been flung overboard at the earliest opportunity but learn with surprize that they are carefully
@@ -928,7 +928,7 @@
                         <div type="conundrum">
                             <head>Conundrums</head>
                             <list type="ordered">
-                                <item n="12">Why is <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> like the letter "I."?</item>
+                                <item n="12">Why is <placeName ref="#Kolkata">Calcutta</placeName> like the letter "I."?</item>
                                 <item n="13">What the slight difference between a lazy Clerk, and an old retired Seaman?</item>
                             </list>
                         </div>
@@ -991,12 +991,12 @@
 
                         <div type="article">
                             <head> A Bird's Eye View of Calcutta </head>
-                            <p>Those who wish for a birds eye view of <placeName ref="placeography.xml#Kolkata">Calcutta</placeName>, we would
-                                strongly recommend to ascend the <placeName ref="placeography.xml#Ochterlony_Monument">the Ochterbury
+                            <p>Those who wish for a birds eye view of <placeName ref="#Kolkata">Calcutta</placeName>, we would
+                                strongly recommend to ascend the <placeName ref="#Ochterlony_Monument">the Ochterbury
                                     monument</placeName> on the Esplanade.</p>
                             <p>They will be amply repaid for the labouring ascent of the dark winding staircase by the glorious view, which awaits
                                 them on emerging at the top. The whole city lies at their feet, spread out before their gaze like a vast map. The
-                                winding <placeName ref="placeography.xml#Hugli_River">Hooghly</placeName> with its shipping; the Esplanade, with its
+                                winding <placeName ref="#Hugli_River">Hooghly</placeName> with its shipping; the Esplanade, with its
                                 mixed multitude of European carriages, palanquine-bearers, riders galloping over the turf, soldiers at their Canteen,
                                 and the swarms of dark natives, the handsome European houses, intermingled with the low, dingy-roofed bazaars of the
                                 natives, the spires of the Christian Churches, the Moslem mosque, the massive pile, the palace of the Governor
@@ -1026,8 +1026,8 @@
                             <head> The Special Thanksgiving At St. Paul's Cathedral </head>
                             <p>Last Thursday week the 21st Inst. a special Thanksgiving service was held in St. Paul's Ca<pb n="TYI1083"
                                     facs="TYI1083"/><fw>The Young Idea Saturday 30<hi rend="superscript">th</hi> January 1858.</fw><cb n="1"/>thedral,
-                                to return thanks for the relief of <placeName ref="placeography.xml#Lucknow">Lucknow</placeName>.</p>
-                            <p>As it was understood that most of the <placeName ref="placeography.xml#Lucknow">Lucknow</placeName> people would be
+                                to return thanks for the relief of <placeName ref="#Lucknow">Lucknow</placeName>.</p>
+                            <p>As it was understood that most of the <placeName ref="#Lucknow">Lucknow</placeName> people would be
                                 present the occasion presented too much interest for us to neglect witnessing it, and partaking in the ceremony.</p>
                             <p>Accordingly at 1/4 to 10 a.m. we left the ship and engaged a buggy at the landing place, into which four of us were
                                 speedily stowed: the driver took us through Fort William and we were thus enabled to take a cursory view of the
@@ -1067,10 +1067,10 @@
                                 <head> Naval Intelligence </head>
                                 <item>26th HMS "<orgName ref="#Chesapeake">Chesapeake</orgName>" left her swinging moorings off the Esplanade and
                                     moored off Baboo Ghant<lb/>H.M.S. "<orgName ref="#Mohawk">Mohawk</orgName>" sailed for <placeName
-                                        ref="placeography.xml#Yangon">Rangoon</placeName></item>
+                                        ref="#Yangon">Rangoon</placeName></item>
                                 <item>29th H.M.S. "<orgName ref="#Pearl">Pearl</orgName>" hauled out into the stream.</item>
                                 <item>30th H.M.St.V. "<orgName ref="#Sparrowhawk">Sparrowhawk</orgName>" sailed this afternoon for <placeName
-                                        ref="placeography.xml#Yangon">Rangoon</placeName>, having completed her objects</item>
+                                        ref="#Yangon">Rangoon</placeName>, having completed her objects</item>
                             </list>
                         </div>
 
@@ -1129,8 +1129,8 @@
                             <head> Answers to Conundrums. 12 &amp; 13 </head>
                             <p>To answer your two riddles, Sir, I'll try:</p>
                             <list type="ordered">
-                                <item n="12">Why is <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> like the letter "I."? "I" is the
-                                    capital of India--true? <lb/> So is "<placeName ref="placeography.xml#Kolkata">Calcutta</placeName>"--won't my
+                                <item n="12">Why is <placeName ref="#Kolkata">Calcutta</placeName> like the letter "I."? "I" is the
+                                    capital of India--true? <lb/> So is "<placeName ref="#Kolkata">Calcutta</placeName>"--won't my
                                     answer do?</item>
                                 <item n="13">The Sailor old a "Pensioner" may be, am I not right?<lb/>The early clock, a sad "Pin mummer" he, and so
                                     good night.</item>
@@ -1190,15 +1190,15 @@
                             <head> The Lucknow Tigers. </head>
                             <p>As we believe that many of our readers have availed themselves of our recommendation last week to ascend the Monument
                                 on the Esplanade, we will venture to call attention in like manner to the beautiful <placeName
-                                    ref="placeography.xml#Lucknow">Lucknow</placeName> tigers which may be seen on the payment of one Rupee in Wood
+                                    ref="#Lucknow">Lucknow</placeName> tigers which may be seen on the payment of one Rupee in Wood
                                 Street, Chowringhee.</p>
-                            <p>They have been lately brought from <placeName ref="placeography.xml#Lucknow">Lucknow</placeName>, where they formed a
-                                portion of the Royal Menagerie which the Kings of <placeName ref="placeography.xml#Ayodhya">Oude</placeName> have been
+                            <p>They have been lately brought from <placeName ref="#Lucknow">Lucknow</placeName>, where they formed a
+                                portion of the Royal Menagerie which the Kings of <placeName ref="#Ayodhya">Oude</placeName> have been
                                 in the habit of maintaining. </p>
                             <p>The first Tiger you see on entering is a beautiful creature most remarkable for its tameness. At <placeName
-                                    ref="placeography.xml#Lucknow">Lucknow</placeName> it had been brought up by hand, and led about with only a chain
+                                    ref="#Lucknow">Lucknow</placeName> it had been brought up by hand, and led about with only a chain
                                 round its neck. It would allow little children to play with it in passing along the streets, and the people of
-                                    <placeName ref="placeography.xml#Lucknow">Lucknow</placeName> lamented when they saw it put into a cage, to be
+                                    <placeName ref="#Lucknow">Lucknow</placeName> lamented when they saw it put into a cage, to be
                                 carried away.</p>
                             <p>There are 6 or 7 others, of which we recollect two particularly, one because of its ferocious growl, the only savage
                                 one, and the other as being the largest of all, and distinguished for the beauty of its stripes, which, it will be
@@ -1218,8 +1218,8 @@
                             <p>Our papers, and our Reviews, our periodicals, have all one absorbing topic, and that is India. Fresh details of the
                                 horrible sufferings which our countrymen &amp; women underwent in the earlier part of the insurrection, further
                                 particulars of the movements of our gallant army, praises of those heroic spirits who have fought and perchance have
-                                fallen, before the gates of <placeName ref="placeography.xml#Delhi">Delhi</placeName>, or within the walls of
-                                    <placeName ref="placeography.xml#Lucknow">Lucknow</placeName>, comments on the past misgovernment of the country,
+                                fallen, before the gates of <placeName ref="#Delhi">Delhi</placeName>, or within the walls of
+                                    <placeName ref="#Lucknow">Lucknow</placeName>, comments on the past misgovernment of the country,
                                 suggestions towards its better management for the future; these seem to form the staple of what we have received by
                                 our two last mails; pictorial papers take up the same subject, and views from india, and illustrations of Hindoo
                                 customs, now meet us in every page: when we open our Magazines, we find historical papers, tracing the rise of the
@@ -1256,14 +1256,14 @@
                             <list type="simple">
                                 <head> Naval Intelligence </head>
                                 <item>4th Feb. H.M.S. "<orgName ref="#Himalaya">Himalaya</orgName>" hauled out into the stream, and is preparing for
-                                    her departure for England. She will convey refugees from <placeName ref="placeography.xml#Lucknow"
+                                    her departure for England. She will convey refugees from <placeName ref="#Lucknow"
                                         >Lucknow</placeName>; and other places.</item>
                                 <item>A working party under JW Worsley second master, have been employed onboard the "<orgName ref="#Pearl"
                                         >Pearl</orgName>" during the past week, stowing holds and provisioning her from the Barque "Oceanica"</item>
                                 <item>The crew of H.M.S. "<orgName ref="#Chesapeake">Chesapeake</orgName>" have been employed turning in the rigging
                                     afresh and rattling down.</item>
                                 <item>The mail steamer from China arrived this morning. By Advices from that part of the world, we learn of the
-                                    storming of <placeName ref="placeography.xml#Canton">Canton</placeName>, and the capture of <persName
+                                    storming of <placeName ref="#Canton">Canton</placeName>, and the capture of <persName
                                         ref="#Ye_Mingchen">Commisioner Yeh</persName>, who is now on board the "Inflexible." Our loss was 118 killed,
                                     and wounded; amongst the former we regret to find the name of <choice>
                                         <expan>Captain</expan>
@@ -1405,10 +1405,10 @@
                                 the bright colours<cb n="2"/> of whose tasteful array, enlivened our decks, and gave the ship a holiday
                                 appearance,</p>
                             <p>Our news this week is somewhat general and extensive; we have news of the movements of the Naval Brigade and the
-                                probability of intelligence arriving soon of an attack upon <placeName ref="placeography.xml#Lucknow"
-                                    >Lucknow</placeName>: from <placeName ref="placeography.xml#Yangon">Rangoon</placeName>, accounts would lead us to
+                                probability of intelligence arriving soon of an attack upon <placeName ref="#Lucknow"
+                                    >Lucknow</placeName>: from <placeName ref="#Yangon">Rangoon</placeName>, accounts would lead us to
                                 believe that the disturbances there are not likely to be settled either quickly or quietly, as, by the <placeName
-                                    ref="placeography.xml#Kolkata">Calcutta</placeName> "Englishman" it is reported that Captain Beauchamp <persName
+                                    ref="#Kolkata">Calcutta</placeName> "Englishman" it is reported that Captain Beauchamp <persName
                                     ref="#Beauchamp_Seymour">Seymour</persName> has landed the crew of the "<orgName ref="#Pelorus">Pelorus</orgName>"
                                 with a view of forming a Naval Brigade, but we must not place implicit reliance upon this latter report, as it is as
                                 yet unauthenticated.</p>
@@ -1421,21 +1421,21 @@
                             <floatingText>
                                 <body>
                                     <opener>Dear Sir,</opener>
-                                    <p>The following account which was given me by a gentleman of <placeName ref="placeography.xml#Kolkata"
+                                    <p>The following account which was given me by a gentleman of <placeName ref="#Kolkata"
                                             >Calcutta</placeName> may perhaps, prove interesting <pb n="TYI1102" facs="TYI1102"/><fw>The "Young Idea"
                                             Saturday 13<hi rend="superscript">th</hi> February 1858</fw><cb n="1"/> to the Readers of the "Young
                                         Idea"</p>
-                                    <p>An exploring party was recently sent from <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> to
-                                        visit the <placeName ref="placeography.xml#Andaman_Islands">Andaman Islands</placeName> in the Bay of Bengal
+                                    <p>An exploring party was recently sent from <placeName ref="#Kolkata">Calcutta</placeName> to
+                                        visit the <placeName ref="#Andaman_Islands">Andaman Islands</placeName> in the Bay of Bengal
                                         with the view of selecting a site to establish a penal colony, and to banish thither the captive King of
-                                            <placeName ref="placeography.xml#Delhi">Delhi</placeName> and his rebel Sepoys. It is remarkable that this
+                                            <placeName ref="#Delhi">Delhi</placeName> and his rebel Sepoys. It is remarkable that this
                                         group of Islands, tho' so near to the Asiatic Continent, are inhabited by a race of savages, no way akin to
                                         the Asiatic tribes, but apparently much nearer allied to the African Negroes. They live in a perfect state of
                                         nature, without the slightest vestige of a garment; their huts are mere dens or kennels under which they crawl
                                         at night; in fact they seem to be among the most degraded forms of humanity.</p>
                                     <p>The first salutation our explorers received was a flight of arrows, but a few musket shots soon dispersed the
                                         natives. Two of them were killed, and one captured. This savage has been brought to <placeName
-                                            ref="placeography.xml#Kolkata">Calcutta</placeName> by Dr. ..... and both he and Mrs...... have done their
+                                            ref="#Kolkata">Calcutta</placeName> by Dr. ..... and both he and Mrs...... have done their
                                         best to humanize him by kind treatment. He was introduced to several Negroes of different tribes, but none of
                                         them could understand his language.</p>
                                     <p>He shews himself not insensible to kindness, and was pleased with Dr. .....,'s little child, making signs, that
@@ -1472,7 +1472,7 @@
                             <p>Some sat patiently, others ran from room to room, thinking the shot pursued them, some cried and beat their chests,
                                 others dragged their children from one side of the room to the other, as the roar of the cannon disturbed them, some
                                 prayed as they had never prayed before, while others laughed at the fear &amp; confusion of the rest.</p>
-                            <p><hi rend="underlined">"Relief of <placeName ref="placeography.xml#Lucknow">Lucknow</placeName> by <persName
+                            <p><hi rend="underlined">"Relief of <placeName ref="#Lucknow">Lucknow</placeName> by <persName
                                         ref="#Sir_Henry_Havelock"><choice>
                                             <expan>General></expan>
                                             <abbr>Genl.</abbr>
@@ -1484,7 +1484,7 @@
                                 oppose that brave little force for three days we heard the firing of artillery coming closer and closer; On the last
                                 day there was a great stir, detachments of the enemy in retreat passed by; onwards came the British Troops, driving
                                 the cowards in terror before them. Elephants, camels, carts, horses, bullocks, and men made in masses for the bridge
-                                of boats over the <placeName ref="placeography.xml#Gomati_River">Goomtee</placeName>. They crowded on to it, and it
+                                of boats over the <placeName ref="#Gomati_River">Goomtee</placeName>. They crowded on to it, and it
                                 broke, sending some to the bottom of the stream, and the rest running up and down the banks in a panic. About 8
                                 o'clock in the Evening we saw Sir J <persName ref="#Outram">Outram</persName> and <persName ref="#Sir_Henry_Havelock"
                                     >General Havelock</persName> and staff enter the street facing us, leading the 78th Highlanders &amp; Ferozepore
@@ -1516,7 +1516,7 @@
                                 or "Kummerbund", My face and neck down to the shoulders, and my hands to the wrists, were coloured with lampblack, the
                                 cork used being dipped in oil to cause the colour to adhere. After being provided with a small double barrelled
                                 pistol, and a pair of broad pyjamahs over the tight trousers, I proceeded with Kunrigee Lall to the banks of the
-                                    <placeName ref="placeography.xml#Gomati_River">river Goomtee</placeName>. We undressed and quickly forded the
+                                    <placeName ref="#Gomati_River">river Goomtee</placeName>. We undressed and quickly forded the
                                 river, which was about 4 1/2 ft. deep, and about 100 yards wide at this point. My courage failed me while in the
                                 water, and if my guide had been within reach, I should perhaps have pulled him back and abandoned the<cb n="2"/>
                                 enterprize **** With my <gap reason="indecipherable"/> resting on my shoulder, we advanced among the huts in front,
@@ -1526,7 +1526,7 @@
                                 spirits when we reached the green fields, into which I had not been for five months Everything around us smelt sweet,
                                 and a carrot I took from the roadside, was, the most delicious I ever tasted. I gave vent to my feelings in a
                                 conversation with Kenrigee Lall, who joined in my admiration of the province of <placeName
-                                    ref="placeography.xml#Ayodhya">Oudh</placeName>, and lamented that it was now in the hands of wretches, whose
+                                    ref="#Ayodhya">Oudh</placeName>, and lamented that it was now in the hands of wretches, whose
                                 misgovernment and rapacity was ruining it.</p>
                             <p><hi rend="underlined">"Arrival at the British Camp"</hi>. By 3 o'clock in the morning we arrived at a grove of mango
                                 trees, in which a man was singing at the top of his voice! He was alarmed at hearing us approach, and astonished us
@@ -1544,7 +1544,7 @@
 
                             <head type="main"> "The Young Idea" </head>
                             <head type="sub"> The Regatta </head>
-                            <p>The <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> Regatta of this season took place on Wednesday last
+                            <p>The <placeName ref="#Kolkata">Calcutta</placeName> Regatta of this season took place on Wednesday last
                                 the 10th Ist. &amp; went off very successfully, under the patronage of Commodore <persName ref="#Watson"
                                     >Watson</persName>, C.B. &amp; the Officers of the Royal Navy, as also the Judges of the Supreme Court. The Judges
                                 on the occasion were <choice>
@@ -1721,7 +1721,7 @@
                             <head> Naval Intelligence </head>
                             <list type="simple">
                                 <item>H.M.S. <orgName ref="#Himalaya">Himalaya</orgName> sailed for England on Friday the 12th Instant, with invalids
-                                    and refugees from <placeName ref="placeography.xml#Lucknow">Lucknow</placeName>. We hope next week to be able to
+                                    and refugees from <placeName ref="#Lucknow">Lucknow</placeName>. We hope next week to be able to
                                     present our readers with a slight account of her arrangements. </item>
                                 <item>Commodore <persName ref="#Watson">Watson</persName> C.B. inspected her previous to her departure.</item>
                                 <item>H.M.S. Megoera has taken the berth lately occupied by the "<orgName ref="#Himalaya">Himalaya</orgName>" and has
@@ -1817,15 +1817,15 @@
 
                             <p>Rumours are now flying about, purporting to remove us from our present snug anchorage at Calcutta for some time; that
                                 we are destined to convey Lady <persName ref="#Charlotte_Canning">Canning</persName> to <placeName
-                                    ref="placeography.xml#Chennai">Madras</placeName>, and from these, it is said, we steer to <placeName
-                                    ref="placeography.xml#Yangon">Rangoon</placeName>.</p>
+                                    ref="#Chennai">Madras</placeName>, and from these, it is said, we steer to <placeName
+                                    ref="#Yangon">Rangoon</placeName>.</p>
                             <p>This will of course involve an absence of some two or three months, and will we hope, be found to prove a beneficial
                                 change, for, after all, there is nothing like constant change of air, of scenery, and position for enhancing the
                                 excitement and monotony of a sea life.: two varied sentiments, which, however, are most peculiarly our own. </p>
-                            <p><placeName ref="placeography.xml#Yangon">Rangoon</placeName> we have been informed offers no advantages or inducements
+                            <p><placeName ref="#Yangon">Rangoon</placeName> we have been informed offers no advantages or inducements
                                 as a place of pleasure, and no amusements are to be obtained, wherewith<cb n="2"/> to assist the laggard hours, as
                                 each day "draws its slow length along" but then we shall return in a riper mood for the enjoyment of the few
-                                recreations <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> affords.</p>
+                                recreations <placeName ref="#Kolkata">Calcutta</placeName> affords.</p>
                             <p>Besides, we are unable to foresee what other seaport we may visit, what circumstances, may befall us, what fortune may
                                 be our lot, and in the fresh kindled sensations of excitement &amp; wonder, which stir our hearts, when visiting
                                 strange shores, and towns, and people; we shall find an agreeable relief to the feeling of satiety, to which the
@@ -1837,20 +1837,20 @@
                         <div type="published_elsewhere">
 
                             <head> "Origin of the Name of Delhi </head>
-                            <p>The city of <placeName ref="placeography.xml#Delhi">Delhi</placeName> originally bore the name of Indraprasthe, and was
+                            <p>The city of <placeName ref="#Delhi">Delhi</placeName> originally bore the name of Indraprasthe, and was
                                 the royal capital of the aboriginal Pandoos. After falling into decay and lying desolate for a period of eight
                                 centuries, it was revived again (about A.D. 792) by a descendant of the ancient Kings, entitled Bulwan Deo.</p>
-                            <p>It was he who changed the name from Indraprasthe to <placeName ref="placeography.xml#Delhi">Delhi</placeName>, the
+                            <p>It was he who changed the name from Indraprasthe to <placeName ref="#Delhi">Delhi</placeName>, the
                                 origin of which is related as follows:-</p>
                             <p>"There was in one part of the city an iron "kheel" or pillar, said to have been left standing by the ancient "Pandoos"
                                 Tradition attached a sacred import to this pillar, and alleged it to be based upon a pedestal fixed in the regions of
                                 hell. As Bulwan Deo doubted the truth of the legend, the sceptic monarch determined to test the depth, and he caused
                                 the pillar to be violently shaken. A stream of blood immediately gushed up from the earth's centre, and the pillar
                                 from that time became loose or in their own language "dheli"</p>
-                            <p>This was the original of the name of <placeName ref="placeography.xml#Delhi">Delhi</placeName></p>
+                            <p>This was the original of the name of <placeName ref="#Delhi">Delhi</placeName></p>
                             <p>
                                 <bibl>
-                                    <title><placeName ref="placeography.xml#Kolkata">Calcutta</placeName> Englishman</title>
+                                    <title><placeName ref="#Kolkata">Calcutta</placeName> Englishman</title>
                                 </bibl>
                             </p>
                         </div>
@@ -1871,18 +1871,18 @@
                                         <abbr>Capt</abbr>
                                     </choice> Peel</persName> taking the greater portion of the "<orgName ref="#Shannon">Shannon</orgName>'s" Crew,
                                 and raising a considerable addition from the merchant<cb n="2"/> seamen, numbering in all about 500 men.</p>
-                            <p>These ascending the river to <placeName ref="placeography.xml#Allahabad">Allahabad</placeName> with several of their
-                                heavy guns, advanced afterwards to <placeName ref="placeography.xml#Kanpur">Cawnpore</placeName>, where they rendered
+                            <p>These ascending the river to <placeName ref="#Allahabad">Allahabad</placeName> with several of their
+                                heavy guns, advanced afterwards to <placeName ref="#Kanpur">Cawnpore</placeName>, where they rendered
                                 almost unprecedented service, and are now stationed at Futty ghur, ready to advance upon <placeName
-                                    ref="placeography.xml#Lucknow">Lucknow</placeName> from the N.W.</p>
+                                    ref="#Lucknow">Lucknow</placeName> from the N.W.</p>
                             <p><persName ref="#Edward_Southwell_Sotheby"><choice>
                                         <expan>Captain</expan>
                                         <abbr>Capt</abbr>
                                     </choice>Sotheby</persName>, shortly after, having landed his little crew from the "<orgName ref="#Pearl"
                                     >Pearl</orgName>,' increased his numbers from other sources to about 250 men. These advanced up the river, we
-                                believe, as far as <placeName ref="placeography.xml#Chhapra">Chupra</placeName>, and then took to the land: they have
-                                marched through <placeName ref="placeography.xml#Gorakhpur">Goruckpoor</placeName> and <placeName
-                                    ref="placeography.xml#Faizabad">Fyzabad</placeName>, at each place encountering the enemy and rendering good
+                                believe, as far as <placeName ref="#Chhapra">Chupra</placeName>, and then took to the land: they have
+                                marched through <placeName ref="#Gorakhpur">Goruckpoor</placeName> and <placeName
+                                    ref="#Faizabad">Fyzabad</placeName>, at each place encountering the enemy and rendering good
                                 service with their long guns: several companies of <choice>
                                     <orig>bra</orig>
                                     <reg>brave</reg>
@@ -1890,7 +1890,7 @@
                                         <expan>Captain</expan>
                                         <abbr>Capt</abbr>
                                     </choice>Sotheby</persName>'s division but our bluejackets have charge of the Artillery; they are now ready to
-                                advance upon <placeName ref="placeography.xml#Lucknow">Lucknow</placeName> from the Eastward, and we may hope
+                                advance upon <placeName ref="#Lucknow">Lucknow</placeName> from the Eastward, and we may hope
                                 therefore, that under the walls of this stronghold, our brave comrades of the "<orgName ref="#Pearl">Pearl</orgName>"
                                 and "<orgName ref="#Shannon">Shannon</orgName>" may again meet in victory, and assist in crushing out the last sparks
                                 of the rebellion in India.</p>
@@ -1902,7 +1902,7 @@
                             <head type="main"> Sporting Intelligence </head>
                             <head type="sub"> Cricket </head>
                             <p>On Wednesday the 17th Inst. a match took place on the ground near the <placeName
-                                    ref="placeography.xml#Ochterlony_Monument">the Ochterbury monument</placeName> between the Officers of H.M.S.
+                                    ref="#Ochterlony_Monument">the Ochterbury monument</placeName> between the Officers of H.M.S.
                                     "<orgName ref="#Chesapeake">Chesapeake</orgName>, and the Petty Officers, assisted by Messrs Mereweather, Budding,
                                 &amp; Edwards of <orgName ref="#Pylades">Pylades</orgName>. Having received a good account of the game with the
                                 scoring made on this occasion, and this being the first time our club has done battle with other players, we feel
@@ -2149,7 +2149,7 @@
                         <div type="pun">
 
                             <head> "The Great Mo-gul" </head>
-                            <p>This remarkable species of gull has lately been captured at <placeName ref="placeography.xml#Delhi">Delhi</placeName>
+                            <p>This remarkable species of gull has lately been captured at <placeName ref="#Delhi">Delhi</placeName>
                                 where it has existed for several centuries It is the largest gull known, as well as the most destructive, and
                                 truculent. In fact those who have effected its capture deserve the gratitude of the world, as Hercules did for
                                 destroying the great Hydra. It is supposed that the species will soon be extinct. Its plumage is said to have been
@@ -2166,9 +2166,9 @@
                                         ref="#Watson">Watson</persName> C.B, sailed for Sydney.</item>
                                 <item>On Friday morning the small arm companies, field piece parties, and marines of the Squadron landed and performed
                                     a variety of evolutions, returning on board at 7:30 A.M.</item>
-                                <item>H.M.S. <orgName ref="#Shannon">Shannon</orgName> arrived at <placeName ref="placeography.xml#Garden_Reach"
+                                <item>H.M.S. <orgName ref="#Shannon">Shannon</orgName> arrived at <placeName ref="#Garden_Reach"
                                         >Garden Reach</placeName> from Point De Galle on Thursday Evening and on Friday morning came up to <placeName
-                                        ref="placeography.xml#Kolkata">Calcutta</placeName> mooring ahead of the "<orgName ref="#Chesapeake"
+                                        ref="#Kolkata">Calcutta</placeName> mooring ahead of the "<orgName ref="#Chesapeake"
                                         >Chesapeake</orgName>." She brings the 6th Regiment of Infantry, consisting of 22 officers 580 non
                                     commissioned officers and Rank and file, and 22 women and 60 children.</item>
                                 <item>H.M.S. "<orgName ref="#Chesapeake">Chesapeake</orgName>" commenced provisioning on Friday. The launch laden with
@@ -2180,7 +2180,7 @@
                         <div type="article">
 
                             <head> The "Calcutta Englishman" convicted of a Pun. </head>
-                            <p>The <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> Englishman has actually been delivered of a pun.
+                            <p>The <placeName ref="#Kolkata">Calcutta</placeName> Englishman has actually been delivered of a pun.
                                 Hear it! Oh ye punsters of the earth, and say what shall be done to our poor shore going contemporary. Describing the
                                 Military Review on the Espalanade (Novr 24) "They halted" says the Englishman "near the Peepul tree, and People's tree
                                 it ought to be called for it was crowded with human denizens." And this vile pun has actually gone home to England.
@@ -2194,12 +2194,12 @@
 
                             <head> Epitome </head>
                             <list type="simple">
-                                <item>On Monday night the annual Ball given by the <placeName ref="placeography.xml#Kolkata">Calcutta</placeName>
+                                <item>On Monday night the annual Ball given by the <placeName ref="#Kolkata">Calcutta</placeName>
                                     Cricket Club came off. It was numerously attended and passed off most satisfactorily.</item>
                                 <item>Our officers have been practising Cricket nearly every day of the past week as it was expected that they would
                                     be engaged to play the P. and Os but the latter declined to accept the challenge.</item>
                                 <item>On Thursday Evening next the Amateurs of the H.M.S. <orgName ref="#Chesapeake">Chesapeake</orgName> will perform
-                                    at the <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> Lyric Theatre for the Benefit of the Indian
+                                    at the <placeName ref="#Kolkata">Calcutta</placeName> Lyric Theatre for the Benefit of the Indian
                                     Relief fund. The pieces named are "The Seven Clerks" and "Bombastes Furiosa" between which, nautical songs,
                                     hornpipes, &amp;c, will vary the amusements. Tickets 5rs each. reserved seats.</item>
                             </list>
@@ -2209,7 +2209,7 @@
 
                             <p> "Paws for a reply" as the cat said when she scratched the dog for barking at her. </p>
                             <p>"There are more ways out of the woods than one," as the rum said when saw a spile coming through the cask.</p>
-                            <p>Maxim for a <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> Storekeeper. "If you wish to go up in the
+                            <p>Maxim for a <placeName ref="#Kolkata">Calcutta</placeName> Storekeeper. "If you wish to go up in the
                                 world, stick well to your go-down.</p>
                         </div>
                         <div type="conundrum">
@@ -2277,10 +2277,10 @@
                                 all the space we can for the same The Rajah's dinner, &amp; marriage of his juvenile granddaughter, the Cricket match
                                 between our Club &amp; the Squadron and our defeat; the success of our Amateurs in their performance on Thursday
                                 night; all afford a supply of intelligence upon the requisite space for which we are loath to encroach. A few days
-                                more and we shall look back upon <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> and all the pleasures
+                                more and we shall look back upon <placeName ref="#Kolkata">Calcutta</placeName> and all the pleasures
                                 it has afforded us, as a mem'ry of the past, &amp; fresh scenes will meet us, and in turn give way to others. We shall
-                                almost regret the distance, which will soon be placed between us &amp; <placeName ref="placeography.xml#Kolkata"
-                                    >Calcutta</placeName>, for we are desirous to know of the operations at <placeName ref="placeography.xml#Lucknow"
+                                almost regret the distance, which will soon be placed between us &amp; <placeName ref="#Kolkata"
+                                    >Calcutta</placeName>, for we are desirous to know of the operations at <placeName ref="#Lucknow"
                                     >Lucknow</placeName>, and it is most likely we shall not hear of the events which will take place in that quarter
                                 until some time after their occurrence. We earnestly hope that the blow may be struck speedily, &amp; let us<cb n="2"
                                 /> not forget, in our regret for our absence that it is certain to be "all for the best":- for our actions and
@@ -2454,7 +2454,7 @@
 
                             <p>On Thursday afternoon a Cricket Match took place between the "<orgName ref="#Chesapeake">Chesapeake</orgName>" eleven,
                                 and the Squadron eleven, which resulted we are sorry to say in the defeat of the former. The wickets were pitched at 2
-                                P.M. on the ground near <placeName ref="placeography.xml#Ochterlony_Monument">the Ochterbury monument</placeName>, the
+                                P.M. on the ground near <placeName ref="#Ochterlony_Monument">the Ochterbury monument</placeName>, the
                                 squadron eleven going into the wickets first. The play was remarkably good, but we consider that the high score made
                                 by Mr. <persName ref="#Hope">Hope</persName> was the cause of the Squadron proving the winners. We must give due
                                 credit to them, they played beautifully, and owing to their good fielding, the <orgName ref="#Chesapeake"
@@ -2624,7 +2624,7 @@
 
                             <head> The Theatre </head>
                             <p>On Thursday evening the Amateurs of HMS <orgName ref="#Chesapeake">Chesapeake</orgName> performed for the first time at
-                                the <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> Lyric Theatre. The Drama performed was <ref
+                                the <placeName ref="#Kolkata">Calcutta</placeName> Lyric Theatre. The Drama performed was <ref
                                     rend="new" target="http://victorian.nuigalway.ie/modx/assets/docs/pdf/Vol40ixSeven.pdf">The Seven Clerks" or the
                                     Thief &amp; the Denouncer.</ref></p>
                             <p>We cannot speak too highly of the creditable manner in which the performers acted, although a shore going paper has
@@ -2634,7 +2634,7 @@
                                     was the cause of the unwarrantable attack upon the labours of our men.</ref></p>
                             <p>The purely acrimonious composition and illiberal manner in which the several "dramatis personae" are pulled to pieces
                                 could not have proceeded from any other source, than that of<cb n="2"/> envy and vexation at the successful result of
-                                the entertainment, which the writer who is doubtless a member of the <placeName ref="placeography.xml#Kolkata"
+                                the entertainment, which the writer who is doubtless a member of the <placeName ref="#Kolkata"
                                     >Calcutta</placeName> Amateur Performers, never before witnessed, when himself and fellow players have acted.</p>
                             <p>But we can afford to take no more notice of him.</p>
                             <p>The Drama was ably supported by the various characters, <persName ref="#George_Horner"/>Geo Horner as the Miser, Claude
@@ -2658,7 +2658,7 @@
                                 <item>H.M. Gunboat Roebuck arrived on Wednesday afternoon bringing <persName ref="#Parkin">Commander G. H.
                                         Parkin</persName> to join the "<orgName ref="#Chesapeake">Chesapeake</orgName>."</item>
                                 <item>H.M.S. <orgName ref="#Chesapeake">Chesapeake</orgName> is to sail on Monday for <placeName
-                                        ref="placeography.xml#Chennai">Madras</placeName>, whither she will convey Viscountess <persName
+                                        ref="#Chennai">Madras</placeName>, whither she will convey Viscountess <persName
                                         ref="#Charlotte_Canning">Canning</persName>. The Hon. Mrs Stuart, the Hon <choice>
                                         <expan>Captain</expan>
                                         <abbr>Capt</abbr>
@@ -2724,20 +2724,20 @@
                                 impulse of her wondrous motive power. Once more the fresh sea breezes fan our heated brows, and we feel their
                                 invigorating influence; again in the quiet routine of a sea life we can sit down to peruse our latest intelligence
                                 from home, to dream over the past, to form conjectures on the future; again we partake of the pleasures of quiescence,
-                                after the excitement attendant upon our stay at <placeName ref="placeography.xml#Kolkata">Calcutta</placeName>.</p>
+                                after the excitement attendant upon our stay at <placeName ref="#Kolkata">Calcutta</placeName>.</p>
                             <p>We can now look back and ponder upon all we have seen and done, fixing the past scenes and events firm<cb n="2"/> ly in
                                 our memories, in that handy memorandum-book, whence in future days we may glean pleasure to ourselves and others by
                                 drawing forth from the hidden stores, with which it is enriched: many any interesting account of the "City of Palaces"
                                 and other places we have visited, and yet may visit.</p>
                             <p>In our present trip we are happily not Entirely debarred from the generous influence, which is ever cast over man by
                                 the presence and society of the "fair sex", and even the knowledge that we are conveying to <placeName
-                                    ref="placeography.xml#Chennai">Madras</placeName>, the <persName ref="#Charlotte_Canning">Viscountess
+                                    ref="#Chennai">Madras</placeName>, the <persName ref="#Charlotte_Canning">Viscountess
                                     Canning</persName> and Honble Mrs Stuart, deprives us of the general laxity which cha<pb n="TYI1132"
                                     facs="TYI1132"/><fw>The Young Idea" Saturday 6<hi rend="superscript">th</hi>March 1858.</fw><cb n="1"/>racterizes
                                 us at sea, and causes us to pay more regard to the higher essentials of good breeding, casting aside the ordinary
                                 roughness which we assume as soon as the anchor is weighed.</p>
                             <p>We hope that a speedy passage may be our fortune, and that it may be our lot to drop anchor once more in the quiet,
-                                peaceful harbour of <placeName ref="placeography.xml#Trincomalee">Trincomalee</placeName>, there to enjoy the many
+                                peaceful harbour of <placeName ref="#Trincomalee">Trincomalee</placeName>, there to enjoy the many
                                 pleasures which this little spot affords.</p>
                         </div>
 
@@ -2777,7 +2777,7 @@
                                     <opener>To the Editor of the "Young Idea"<lb/>Dear Sir</opener>
                                     <p>Much disappointment has been caused by your passing over with so slight a mention, what we have considered one
                                         of the principal events in our nautical existence; namely the landing of our Bluejackets, and Marines on the
-                                        morning of the 19th February, for exercise on the <placeName ref="placeography.xml#Kolkata"
+                                        morning of the 19th February, for exercise on the <placeName ref="#Kolkata"
                                             >Calcutta</placeName> Esplanade. All performed their part so well, all returned to the ship so pleased at
                                         their own performance, that I hope, Mr. Editor you will not consider me too obtrusive if I beg for a little
                                         longer notice. Everybody knows that the soul of an Editor is everywhere present and that he sees everything
@@ -2801,13 +2801,13 @@
                                         native niggers, and we only wished that a few hundred Sepoys were there to practice upon in real earnest. As
                                         for the Marine Light Infantry they went right away all over the <cb n="2"/>field and I did not wonder at their
                                         having a jolly good run - skirmishing they called it - after being so long penned up on board ship.</p>
-                                    <p>The "bang, bang", of our field pieces, now drew the attention of all <placeName ref="placeography.xml#Kolkata"
+                                    <p>The "bang, bang", of our field pieces, now drew the attention of all <placeName ref="#Kolkata"
                                             >Calcutta</placeName> upon us, and the fashionable ladies and gentlemen who were out riding, came flocking
                                         round us to see so novel a spectacle. The artillery did as beautifully as all the rest of us, and even the
                                         small guns worked by small boys, made a very considerable noise on this eventful occasion. But everything must
                                         have an end, Mr Editor, so had our field practice, &amp; so also must my letter. See us again drawn up in the
                                         line of march, again the lively strains of the "Cheasapeake's" band float over the <placeName
-                                            ref="placeography.xml#Kolkata">Calcutta</placeName> Esplanade, &amp; crowds of Hindoo niggers flock round
+                                            ref="#Kolkata">Calcutta</placeName> Esplanade, &amp; crowds of Hindoo niggers flock round
                                         to see the Regiment of British Tars returning to their "Wooden Walls"</p>
                                     <p>It would be unjust not to mention how these wooden walls were guarded in our absence, and how gallantly the
                                         Idlers on board prepared to repel boarders in case of invasion:- Those who saw the ship's tailor, doing
@@ -2834,11 +2834,11 @@
                                 him before the public as a laughing stock, was a prominent feature in the desire to ridicule, which animated the
                                 narrow mind, which presumed to judge of our Amateurs performance. The writer then proceeds to state that "he trembled
                                 for the fate of those of Neptune's Hardy Sons"—for why? because "the beauty and fashion of <placeName
-                                    ref="placeography.xml#Kolkata">Calcutta</placeName> were present," most likely he imagined the "hardy sons of
+                                    ref="#Kolkata">Calcutta</placeName> were present," most likely he imagined the "hardy sons of
                                 Neptune" could never stand a battery of bright eyes, however brave when confronting a battery of heavy guns. But we
                                 cannot afford space to pull him to pieces in the manner he deserves, but we must notice one thing. The word
                                 "Ditchers." such is the very euphonious appellation which the Histrionic Critic of the Hurkaru claims for himself and
-                                his copeers of <placeName ref="placeography.xml#Kolkata">Calcutta</placeName>. We will not now enquire into the origin
+                                his copeers of <placeName ref="#Kolkata">Calcutta</placeName>. We will not now enquire into the origin
                                 of the name, but simply observe that such being the title of our assailant, we need not feel surprised to find him
                                 such an adept in the art of "flinging mud." We close this article by publishing the Prologue which was read and
                                 written expressly for the occasion.</p>
@@ -2887,26 +2887,26 @@
                                 <l>Gently you'll judge, kindly you'll hear our play.</l>
                             </lg>
                             <p>As <persName ref="#Henry_Montagu">Montagu</persName> was the composer of this really creditable piece. We are glad to
-                                say that the other <placeName ref="placeography.xml#Kolkata">Calcutta</placeName> Journals, gave a very good account
+                                say that the other <placeName ref="#Kolkata">Calcutta</placeName> Journals, gave a very good account
                                 of the performance.</p>
                         </div>
                         <div type="naval_intelligence">
                             <head> Naval Intelligence </head>
                             <list type="simple">
                                 <item>1st March H.M.S. <orgName ref="#Chesapeake">Chesapeake</orgName> unmoored this morning &amp; proceeded down the
-                                        <placeName ref="placeography.xml#Hugli_River">Hooghly</placeName>. She came to anchor at 3.</item>
+                                        <placeName ref="#Hugli_River">Hooghly</placeName>. She came to anchor at 3.</item>
                                 <item>2d Weighed at 12.10 and proceeded, anchoring at half past 4. On letting go the Port Anchor when the strain came
                                     on the cable it parted close to the bitts. Let go starboard anchor.</item>
-                                <item>3d Weighed at 10.30 and proceeded, anchored at 4.30 off <placeName ref="placeography.xml#Khejuri"
+                                <item>3d Weighed at 10.30 and proceeded, anchored at 4.30 off <placeName ref="#Khejuri"
                                         >Kedgeree</placeName>.</item>
                                 <item>4th Weighed at 9.20 a.m. and anchored at 12.30 p.m. The Steamer <orgName ref="#Canning">Canning</orgName>
-                                    arrived from <placeName ref="placeography.xml#Kolkata">Calcutta</placeName>, and anchored alongside about 3
+                                    arrived from <placeName ref="#Kolkata">Calcutta</placeName>, and anchored alongside about 3
                                     bringing down Viscountess <persName ref="#Charlotte_Canning">Canning</persName>, the Honble Mr rs Stuart and
                                     attendants. The</item>
                                 <item>Commodore went for her ladyship in his barge, and was received on her coming on board, with a guard of Marines,
                                     the band, &amp; the officers in undress.</item>
                                 <item>5th Weighed this morning at 11. Lady <persName ref="#Charlotte_Canning">Canning</persName> &amp; retinue on
-                                    board for <placeName ref="placeography.xml#Chennai">Madras</placeName>.</item>
+                                    board for <placeName ref="#Chennai">Madras</placeName>.</item>
                                 <item>The Chinese mail was boarded and by it Commodore <persName ref="#Watson">Watson</persName> received despatches
                                     from Adm l <persName ref="#Beauchamp_Seymour">Seymour</persName>.</item>
                                 <item><persName ref="#Brownrigg">Mr Brownrigg</persName> received official intimation of his promotion to Lieutenant,
@@ -2926,7 +2926,7 @@
                             <head> Epitome </head>
                             <list type="simple">
                                 <item>The <orgName ref="#Ava">Ava</orgName> P.&amp;O Co.'s steam packet has been totally wrecked near <placeName
-                                        ref="placeography.xml#Trincomalee">Trincomalee</placeName> with 25 lakhs of rupees &amp; the mails on
+                                        ref="#Trincomalee">Trincomalee</placeName> with 25 lakhs of rupees &amp; the mails on
                                     board.</item>
                                 <item>The Leviathan is afloat.</item>
                                 <item><persName ref="#Sir_William_Peel"><choice>
