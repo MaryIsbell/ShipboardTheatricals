@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/Users/maryisbell/Documents/GitHub/ShipboardTheatricals/Schema/TYISchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="Schema/TYISchema.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -59,7 +59,6 @@
                             John McAurthur, a captain in the Royal Marines, who lived with his wife Mary E., a son James (a gentleman, aged 29), a son
                             John (no occupation, aged 27), a son Henry (a clerk in the wine trade, aged 17), a son Alexander D (a scholar, aged 15), a
                             son Hanibal (no occupation, aged 13), and a servant Esther Johnson (aged 20).</note>
-
                         <!--<bibl><<msIdentifier><msName>Muster Book of Her Majesty's Ship Chesapeake Commencing 1st January 1858 Ending 31st March 1858</msName>
                         <institution>National Archives at Kew</institution>
                      <idno>ADM 38/2884</idno>
@@ -410,7 +409,6 @@
                             <note>Getty ID:7002152</note>
                         </location>
                     </place>
-
                     <place xml:id="Trincomalee">
                         <placeName>Trincomalee</placeName>
                         <location>
@@ -462,7 +460,6 @@
                         <location>
                             <geo>26.7769 82.1329</geo>
                             <note>Getty ID: 1075256</note>
-
                         </location>
                     </place>
                     <place xml:id="Chennai">
@@ -479,7 +476,6 @@
                             <note>Getty ID: 7001527</note>
                         </location>
                     </place>
-
                     <place xml:id="Ayodhya">
                         <placeName>Ayodhya</placeName>
                         <location>
@@ -522,9 +518,10 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="TBD"/>
+          <pb n="TBD"/>
+          <div n="1" type="volume">
             <div n="1" type="issue">
-                <head type="main">"The Young Idea"</head>
+              <head type="main">"The Young Idea"</head>
                 <head type="main">Chesapeake Chronicle and Weekly Journal</head>
                 <head type="sub">Saturday-December 12, 1857</head>
                 <head type="sub">No 1.</head>
@@ -805,7 +802,6 @@
                         intelligence of the successful career of that gallant soldier <persName ref="#Campbell">Sir Colin Campbell</persName>, as well
                         as of a speedy termination to the disturbances in India.</p>
                 </div>
-
                 <div type="article">
                     <head> Calcutta! </head>
                     <p>Here we are at last! the external appearance is novel and not uninteresting, what is the interior? Such were our reflections
@@ -850,7 +846,6 @@
                         satisfied with <placeName ref="#Kolkata">Calcutta</placeName>, at first sight, as we had hoped to be.</p>
                 </div>
                 <cb n="2"/>
-
                 <div type="article">
                     <head> Up the Hooghly </head>
                     <p>On Saturday evening last (Jan 16) although no land was in sight, we found ourselves nearing the channels of the <placeName
@@ -882,10 +877,8 @@
                         darkness came, the river's banks were left to the howling jackal, or the crickets and toads, that made a ceaseless whirring
                         through the watches of the night.</p>
                 </div>
-
                 <div type="article">
                     <head>[No Title]</head>
-
                     <p>The capture of <placeName ref="#Delhi">Delhi</placeName>, &amp; the relief of <placeName ref="#Lucknow">Lucknow</placeName> are
                         exploits which challenge our national pride, as well as our national thanksgiving……..In every shape which war could take, has
                         the ascendancy of the British race been established. We have succeeded in capturing a strong position &amp; we have succeeded
@@ -896,9 +889,7 @@
                         <title>The Evening Mail</title>
                     </bibl>
                 </div>
-
                 <div type="naval_intelligence">
-
                     <list type="simple">
                         <head> Naval Intelligence </head>
                         <item>Tuesday 19th H.M.S. <orgName ref="#Chesapeake"/>Chesapeake weighed early this morning and took up swinging moorings off
@@ -913,18 +904,14 @@
                             squadron there.</item>
                     </list>
                 </div>
-
                 <div type="article">
-
                     <head> A Swarm of Centipedes </head>
-
                     <p>It appears that since leaving <placeName ref="#Trincomalee">Trincomalee</placeName>, a great number of Centipedes have been
                         produced on board, so much so that recently at Evening Quarters, each man was required to appear with a Centipede in his
                         possession. We certainly should have thought that such noxious reptiles, and such unpleasant bedfellows would have been flung
                         overboard at the earliest opportunity but learn with surprize that they are carefully retained, and will be coiled round each
                         man's blanket in the event of a campaign on shore.</p>
                 </div>
-
                 <div type="conundrum">
                     <head>Conundrums</head>
                     <list type="ordered">
@@ -932,7 +919,6 @@
                         <item n="13">What the slight difference between a lazy Clerk, and an old retired Seaman?</item>
                     </list>
                 </div>
-
                 <div type="rebus">
                     <head> Answer to Rebus </head>
                     <l>Though rough may be our sailors "fare"</l>
@@ -940,7 +926,6 @@
                     <l>And "well" we'll wish to the dear ones there</l>
                     <l>As we think of our last "Farewell</l>
                 </div>
-
                 <div type="rebus">
                     <head> Unanswered </head>
                     <list type="ordered">
@@ -952,12 +937,9 @@
                     <head> The Young Idea </head>
                     <p>Published at the Office No. 1 Port St. <orgName ref="#Chesapeake">Chesapeake</orgName> every Saturday<lb/> Saturday 23 Jan.
                         1858</p>
-
                 </div>
             </div>
             <pb n="TYI1081" facs="TYI1081"/>
-
-
             <div n="8" type="issue">
                 <head type="main">"The Young Idea"</head>
                 <head type="main">"Chesapeake" Chronicle and Weekly Journal</head>
@@ -987,7 +969,6 @@
                         sound his notes of warning to the denizens of our Metropolis, "Leviathan" shall yet float on the waters, the glory and triumph
                         of our Naval Architects, and the "Young Idea" shall gain the support and interest of all.</p>
                 </div>
-
                 <div type="article">
                     <head> A Bird's Eye View of Calcutta </head>
                     <p>Those who wish for a birds eye view of <placeName ref="#Kolkata">Calcutta</placeName>, we would strongly recommend to ascend
@@ -1003,9 +984,7 @@
                     <p>It is not our wish to enter upon an elaborate description but simply to recommend others to attempt the same ascent, to look
                         around for themselves, and to describe with more accurate pen or pencil the scene which we have attempted to de-pict.</p>
                 </div>
-
                 <div type="article">
-
                     <head> Launching the "Leviathan" </head>
                     <bibl>
                         <title>The Evening Mail</title>
@@ -1017,9 +996,7 @@
                         of the ship was regulated according as Mr. Brunel thought fit, with as much care and certainty, as if the vessel had been a
                         little cutter, instead of a ponderous structure of iron weighing upwards of 12,000 tons</p>
                 </div>
-
                 <div type="article">
-
                     <head> The Special Thanksgiving At St. Paul's Cathedral </head>
                     <p>Last Thursday week the 21st Inst. a special Thanksgiving service was held in St. Paul's Ca<pb n="TYI1083" facs="TYI1083"
                             /><fw>The Young Idea Saturday 30<hi rend="superscript">th</hi> January 1858.</fw><cb n="1"/>thedral, to return thanks for
@@ -1056,9 +1033,7 @@
                         gratitude from those who were so fresh from the scene of danger and distress.</p>
                     <p>We left the cathedral deeply impressed, with the solemnity, and applicability of the service we had witnessed.</p>
                 </div>
-
                 <div type="naval_intelligence">
-
                     <list type="simple">
                         <head> Naval Intelligence </head>
                         <item>26th HMS "<orgName ref="#Chesapeake">Chesapeake</orgName>" left her swinging moorings off the Esplanade and moored off
@@ -1069,9 +1044,7 @@
                                 >Rangoon</placeName>, having completed her objects</item>
                     </list>
                 </div>
-
                 <div type="promotions_and_appointments">
-
                     <head> Promotions and Appointments </head>
                     <list type="simple">
                         <item><persName ref="#Kelly">Lieut.t Edw.d Kelly</persName> (additional) took passage in H.M.S. "<orgName ref="#Pelorus"
@@ -1084,7 +1057,6 @@
                     </list>
                 </div>
                 <div type="epitome">
-
                     <head> Epitome </head>
                     <list type="simple">
                         <item>A Regatta is announced to come off on the 10th Prosc.s but we have not received any information as to the terms or
@@ -1098,9 +1070,7 @@
                             be imprisoned for the night.</item>
                     </list>
                 </div>
-
                 <div type="letter">
-
                     <head> First appearance of an Enemy. </head>
                     <floatingText>
                         <body>
@@ -1117,9 +1087,7 @@
                         </body>
                     </floatingText>
                 </div>
-
                 <div type="conundrum">
-
                     <head> Answers to Conundrums. 12 &amp; 13 </head>
                     <p>To answer your two riddles, Sir, I'll try:</p>
                     <list type="ordered">
@@ -1129,13 +1097,10 @@
                             night.</item>
                     </list>
                 </div>
-
                 <div type="publication_info">
-
                     <head> The Young Idea </head>
                     <p>Published at the Office No. 1 Port Street, "Chesapeake" every Saturday. Subscriptions most thankfully received<lb/>Saturday
                         30th January, 1858.</p>
-
                 </div>
             </div>
             <pb n="TYI1091" facs="TYI1091"/>
@@ -1146,7 +1111,6 @@
                 <head type="sub">No. 9</head>
                 <cb n="1"/>
                 <div type="article">
-
                     <p> Already one twelfth of the New Year has flown, and we find ourselves rapidly entering into the second month. </p>
                     <p>In this short space of time we have seen much, done much, and heard much: already we miss the faces of one or two shipmates,
                         and expect others to fill their places, and thus it ever is, and ever will be; -faces, and forms will change in the ever
@@ -1174,9 +1138,7 @@
                         others are drooping with pain and trouble.</p>
                     <p>May we know little of this latter.</p>
                 </div>
-
                 <div type="article">
-
                     <head> The Lucknow Tigers. </head>
                     <p>As we believe that many of our readers have availed themselves of our recommendation last week to ascend the Monument on the
                         Esplanade, we will venture to call attention in like manner to the beautiful <placeName ref="#Lucknow">Lucknow</placeName>
@@ -1198,9 +1160,7 @@
                         The man, though full sized, seems quite a pigmy when mounted on the tall quadruped; and we defy any one to keep himself from
                         laughing, when the poor beast sets off at a canter.</p>
                 </div>
-
                 <div type="article">
-
                     <head> "India" </head>
                     <p>Our papers, and our Reviews, our periodicals, have all one absorbing topic, and that is India. Fresh details of the horrible
                         sufferings which our countrymen &amp; women underwent in the earlier part of the insurrection, further particulars of the
@@ -1226,18 +1186,14 @@
                         which the eyes of the world, are turned; to see for ourselves something of those scenes which papers so fully describe to our
                         friends at home, and perchance to take part in those transactions, which are yet destined to become matters of history.</p>
                 </div>
-
                 <div type="conundrum">
-
                     <head> Con. </head>
                     <list type="ordered">
                         <item n="14">When is an Editor like a coachman driving a restive tandem?<pb n="TYI1094" facs="TYI1094"/><fw>The Young Idea
                                 Saturday 6<hi rend="superscript">th</hi> February 1858.</fw><cb n="1"/></item>
                     </list>
                 </div>
-
                 <div type="naval_intelligence">
-
                     <list type="simple">
                         <head> Naval Intelligence </head>
                         <item>4th Feb. H.M.S. "<orgName ref="#Himalaya">Himalaya</orgName>" hauled out into the stream, and is preparing for her
@@ -1258,9 +1214,7 @@
                             "celestials"</item>
                     </list>
                 </div>
-
                 <div type="epitome">
-
                     <head> Epitome </head>
                     <list type="simple">
                         <item>On Wednesday, our late Commander <choice>
@@ -1279,13 +1233,10 @@
                     </list>
                 </div>
                 <div type="pun">
-
                     <head> "Mind your P's and Q's. (By a Calcutta Billiard Player). </head>
                     <p>Take care of your ru<hi rend="underlined">pees</hi>, and avoid the Billiard <hi rend="underlined">cues</hi>.</p>
                 </div>
-
                 <div type="letter">
-
                     <head> To the Editor of the "Young Idea" </head>
                     <floatingText>
                         <body>
@@ -1298,11 +1249,9 @@
                             <dateline><orgName ref="#Chesapeake">Chesapeake</orgName> 4 Feb. 1858</dateline>
                         </body>
                     </floatingText>
-
                     <p>Ed. our answer is given below</p>
                 </div>
                 <div type="rebus">
-
                     <head> Rebus &amp;c. </head>
                     <lg n="I">
                         <l>When I was but a little boy</l>
@@ -1310,28 +1259,24 @@
                         <l>so gayly decked, so neatly dressed</l>
                         <l>so tenderly twas nursed.</l>
                     </lg>
-
                     <lg>
                         <l>With martial ardour next I sighed</l>
                         <l>To go where Glory beckoned.</l>
                         <l>I called myself a soldier lad</l>
                         <l>And bravely beat my <hi rend="underlined">second</hi></l>
                     </lg>
-
                     <lg>
                         <l>But now grown up to man's estate</l>
                         <l>A sailor bold am I:-</l>
                         <l>And here on the Equator's line</l>
                         <l>All listlessly we lie.</l>
                     </lg>
-
                     <lg>
                         <l>The sails flap idly on the mast-</l>
                         <l>My <hi rend="underlined">whole</hi>, My <hi rend="underlined">whole</hi> has caught us:</l>
                         <l>Down with the screw, whirl round the fan,</l>
                         <l>We'll Try what steam has taught us</l>
                     </lg>
-
                     <lg>
                         <l>My 7.8.12.4.10.12 oft is seen</l>
                         <l>Floating light from the peaks of the ships of our Queen</l>
@@ -1358,17 +1303,13 @@
                     <p>What two letters of the alphabet will represent?<lb/>A Female name? Voidness? Decline? Goods? Vexation? Dress? &amp; a
                         sensation after a night of dissipation?</p>
                 </div>
-
                 <div type="publication_info">
-
                     <head> The Young Idea </head>
                     <p>Published at the office No. 1 Port Street, "Chesapeake" every Saturday. contributions thankfully received<lb/>Saturday 6
                         February, 1858.</p>
-
                 </div>
             </div>
             <pb n="TYI1101" facs="TYI1101"/>
-
             <div n="10" type="issue">
                 <head type="main">"The Young Idea"</head>
                 <head type="main">"Chesapeake" Chronicle and Weekly Journal</head>
@@ -1376,7 +1317,6 @@
                 <head type="sub">No. 10</head>
                 <cb n="1"/>
                 <div type="article">
-
                     <p> The Past Week has certainly been productive of more excitement, and enjoyment, than any we remember to have witnessed since
                         our departure from England. </p>
                     <p>One great event at least, has been its chief characteristic, one day at least, called forth more interest than the others, we
@@ -1394,10 +1334,8 @@
                             >Pelorus</orgName>" with a view of forming a Naval Brigade, but we must not place implicit reliance upon this latter
                         report, as it is as yet unauthenticated.</p>
                     <p>We can only hope that we shall not be excluded from a participation of whatever may take place in that quarter.</p>
-
                 </div>
                 <div type="letter">
-
                     <head> A Savage from the Andaman Islands </head>
                     <floatingText>
                         <body>
@@ -1431,7 +1369,6 @@
                     </floatingText>
                 </div>
                 <div type="article">
-
                     <head> Se(a)-poys and Sea-devils, </head>
                     <p>The consternation struck into the sepoys in Central India by the sight of our Bluejackets, is scarcely to be imagined. "They
                         are not English "men" say the sepoys. "Nor men, at all, but sea-devils who have come up out of the sea to fight for the
@@ -1442,7 +1379,6 @@
                         are cannibals, and eat sepoys when they have salted them down, sepoy bullets cannot kill them."</p>
                 </div>
                 <div type="published_elsewhere">
-
                     <head> Extracts from a Personal Narrative of the Siege of Lucknow </head>
                     <p>"Opening of the Siege." The troops mutinied on the 30th of May and after the 30th of June the siege commenced in earnest. The
                         constant din of artillery and musketry, combined with the yells of the demons without, and busy excitement within our
@@ -1514,7 +1450,6 @@
                         enterprize. </p>
                 </div>
                 <div type="regatta_report">
-
                     <head type="main"> "The Young Idea" </head>
                     <head type="sub"> The Regatta </head>
                     <p>The <placeName ref="#Kolkata">Calcutta</placeName> Regatta of this season took place on Wednesday last the 10th Ist. &amp; went
@@ -1560,7 +1495,6 @@
                         </row>
                     </table>
                     <p>Sesostris came in first but having taken the wrong course Minna was adjudged the winner</p>
-
                     <table rows="3" cols="3">
                         <head>2nd Race. Ships Gigs 4 oars. 1st Prize 100 Rs. 2nd Prize 50 Rs. 3rd Prize save entrance.</head>
                         <row role="data">
@@ -1581,7 +1515,6 @@
                     </table>
                     <p>The American boat which was pulled by Negroes came in a good second</p>
                     <p>The Following also started Hurkaru, Megoera, Defiance, Undaunted Jas Hurtley Proserpone and Griffin.</p>
-
                     <table rows="3" cols="3">
                         <head>3rd Race Racing Gigs 6 Oars. 1st Prize Cup 300 Rs 2nd Prize 100 Rs. 4rd Prize save entrance.</head>
                         <row role="data">
@@ -1604,7 +1537,6 @@
                         White Gauntlet came in first, but as she had fowled, "Coquette" was adjudged the winner. The start was bad, and True Blue had
                         an oar broken. Fiery Cross. Which was pulled by Chinese made great play at first, but lost way by coming across a cargo
                         boat.</p>
-
                     <table rows="3" cols="3">
                         <head type="main">4th Race Double lanked ship's cutters. 8.10 &amp; 12 Oars</head>
                         <head type="main">1st Prize 100 Rs. 2nd Prize 50 Rs. 3rd Prize save entrance.</head>
@@ -1644,7 +1576,6 @@
                         </row>
                     </table>
                     <p>The following also started. <orgName ref="#Chesapeake">Chesapeake</orgName>'s 2d Launch &amp; Pinnace</p>
-
                     <table rows="2" cols="3">
                         <head>6th Race Covered Pancies. 1st Prize 30 Rs. 2d Prize 10 Rs</head>
                         <row role="data">
@@ -1659,7 +1590,6 @@
                         </row>
                     </table>
                     <p>The following also started. Hela. Mela. Kalee and Arrow</p>
-
 
                     <table rows="3" cols="2">
                         <head>7th Race. Dinghee Race for all comers</head>
@@ -1687,7 +1617,6 @@
                         satisfaction, altho' we could not but feel regret at the dancing being broken off at the early hour it was.<cb n="2"/></p>
                 </div>
                 <div type="naval_intelligence">
-
                     <head> Naval Intelligence </head>
                     <list type="simple">
                         <item>H.M.S. <orgName ref="#Himalaya">Himalaya</orgName> sailed for England on Friday the 12th Instant, with invalids and
@@ -1699,7 +1628,6 @@
                     </list>
                 </div>
                 <div type="epitome">
-
                     <head> Epitome. </head>
                     <list type="simple">
                         <item>On Thursday night (Feb. 11) about 11 o'clock a very heavy thunderstorm passed over us. The best description of the
@@ -1715,11 +1643,9 @@
                 </div>
                 <div type="pun">
                     <head>[No Title]</head>
-
                     <p> Motto for a Tiger's Den. "Mangling done here." </p>
                 </div>
                 <div type="conundrum">
-
                     <head> Conundrums </head>
                     <list type="ordered">
                         <item n="15">What is the slight difference between a tiger's foot &amp; a semi-colon?</item>
@@ -1729,7 +1655,6 @@
                     </list>
                 </div>
                 <div type="enigma">
-
                     <head> What letters of the Alphabet will represent? </head>
                     <list type="simple">
                         <item>(2 Letters) To surpass? A Fowl? Superfluity? A Turkish magistrate? To coop up? &amp; an English County?</item>
@@ -1738,7 +1663,6 @@
                     </list>
                 </div>
                 <div type="charade">
-
                     <head> Answer to Last Week's Charade. </head>
                     <lg>
                         <l>Gaily floats the "burning" light</l>
@@ -1753,14 +1677,12 @@
                     </lg>
                 </div>
                 <div type="enigma">
-
                     <head> Answer to Alphabetical Enigmas </head>
                     <p>If my sweeheart of only two letters may be M.A. (Emma) L.N. (Ellen) or K.T. (Katey) most surely is she with pockets quite M.T.
                         (Empty) my home in D.K. (decay) How I N.V. (Envy) the rich in their gorgeous R.A. (array) I have sold my F.X. (effects) and am
                         thoroughly needy. No wonder I feel most uncommonly C.D. (seedy).</p>
                 </div>
                 <div type="conundrum">
-
                     <head> Unanswered from last week </head>
                     <list type="ordered">
                         <item n="14">When is an Editor like a coachman driving a restive tandem? When he cannot compose the Leader.</item>
@@ -1768,11 +1690,9 @@
                     <p>Rebus. Doldrum</p>
                 </div>
                 <div type="publication_info">
-
                     <head> The Young Idea </head>
                     <p>Published at the office No. 1 Port Street, "Chesapeake" every Saturday. Contributions solicited<lb/>Saturday 13 February,
                         1858.</p>
-
                 </div>
             </div>
             <pb n="TYI1111" facs="TYI1111"/>
@@ -1783,7 +1703,6 @@
                 <head type="sub">No. 11</head>
                 <cb n="1"/>
                 <div type="article">
-
                     <p>Rumours are now flying about, purporting to remove us from our present snug anchorage at Calcutta for some time; that we are
                         destined to convey Lady <persName ref="#Charlotte_Canning">Canning</persName> to <placeName ref="#Chennai">Madras</placeName>,
                         and from these, it is said, we steer to <placeName ref="#Yangon">Rangoon</placeName>.</p>
@@ -1800,9 +1719,7 @@
                         this the so-called "City of Palaces" has not begun to succumb; having been disappointed in the hopes we had entertained on
                         arrival <pb n="TYI1112" facs="TYI1112"/><fw>The Young Idea. Saturday 20 February 1858</fw><cb n="1"/></p>
                 </div>
-
                 <div type="published_elsewhere">
-
                     <head> "Origin of the Name of Delhi </head>
                     <p>The city of <placeName ref="#Delhi">Delhi</placeName> originally bore the name of Indraprasthe, and was the royal capital of
                         the aboriginal Pandoos. After falling into decay and lying desolate for a period of eight centuries, it was revived again
@@ -1821,9 +1738,7 @@
                         </bibl>
                     </p>
                 </div>
-
                 <div type="article">
-
                     <head> Our Naval Brigade </head>
                     <p>We have as yet said little or nothing about the movements of our Naval Brigade up the country, being ourselves very much in the
                         dark concerning them. But such information as we possess, we are happy to communicate to our Readers.</p>
@@ -1862,7 +1777,6 @@
                         we shall be deeply indebted to them for making it public in our</p>
                 </div>
                 <div type="cricket_report">
-
                     <head type="main"> Sporting Intelligence </head>
                     <head type="sub"> Cricket </head>
                     <p>On Wednesday the 17th Inst. a match took place on the ground near the <placeName ref="#Ochterlony_Monument">the Ochterbury
@@ -2106,9 +2020,7 @@
                         </row>
                     </table>
                 </div>
-
                 <div type="pun">
-
                     <head> "The Great Mo-gul" </head>
                     <p>This remarkable species of gull has lately been captured at <placeName ref="#Delhi">Delhi</placeName> where it has existed for
                         several centuries It is the largest gull known, as well as the most destructive, and truculent. In fact those who have
@@ -2117,9 +2029,7 @@
                     <p>Several young gulls were caught in the same nest, but from their ferocity, were immediately destroyed. <pb n="TYI1114"
                             facs="TYI1114"/><fw>The Young Idea Saturday 20 February 1858</fw><cb n="1"/></p>
                 </div>
-
                 <div type="naval_intelligence">
-
                     <head> Naval and Military Intelligence </head>
                     <list type="simple">
                         <item>On Monday the 15th Inst. H.M. Steam troop ship "Megoera" after being inspected by Commodore R.B. <persName ref="#Watson"
@@ -2137,7 +2047,6 @@
                     </list>
                 </div>
                 <div type="article">
-
                     <head> The "Calcutta Englishman" convicted of a Pun. </head>
                     <p>The <placeName ref="#Kolkata">Calcutta</placeName> Englishman has actually been delivered of a pun. Hear it! Oh ye punsters of
                         the earth, and say what shall be done to our poor shore going contemporary. Describing the Military Review on the Espalanade
@@ -2147,9 +2056,7 @@
                         shall we consign him to eternal punishment, in the far distant regions of the Punjaab? Altho many would say "Gently with this
                         pun," we cannot help writing pungently, and making a stir about a pun from such a punster.<cb n="2"/></p>
                 </div>
-
                 <div type="epitome">
-
                     <head> Epitome </head>
                     <list type="simple">
                         <item>On Monday night the annual Ball given by the <placeName ref="#Kolkata">Calcutta</placeName> Cricket Club came off. It
@@ -2164,14 +2071,12 @@
                 </div>
                 <div type="pun">
                     <head>[No Title]</head>
-
                     <p> "Paws for a reply" as the cat said when she scratched the dog for barking at her. </p>
                     <p>"There are more ways out of the woods than one," as the rum said when saw a spile coming through the cask.</p>
                     <p>Maxim for a <placeName ref="#Kolkata">Calcutta</placeName> Storekeeper. "If you wish to go up in the world, stick well to your
                         go-down.</p>
                 </div>
                 <div type="conundrum">
-
                     <head> Conundrums </head>
                     <list type="ordered">
                         <item n="19">When does a baker most want materials for his trade?</item>
@@ -2180,7 +2085,6 @@
                     </list>
                 </div>
                 <div type="rebus">
-
                     <head> Rebus &amp;c. </head>
                     <lg n="I">
                         <l>The sheep &amp; Ox, in concert met</l>
@@ -2188,17 +2092,14 @@
                         <l>The sheep she bleated forth my <hi rend="underlined">first</hi></l>
                         <l>The ox lowed out my <hi rend="underlined">second</hi></l>
                     </lg>
-
                     <lg n="II">
                         <l>And as with bleating, lowing sound</l>
                         <l>Their blending voices fluttered</l>
                         <l>A Hindoo squire turned him round.</l>
                         <l>For he heard his title uttered.</l>
                     </lg>
-
                 </div>
                 <div type="conundrum">
-
                     <head> Unanswered from last week </head>
                     <list type="ordered">
                         <item n="15"> What is the slight difference between a tiger's foot and a semi-colon? The one shows its pause at the end of its
@@ -2212,13 +2113,10 @@
                         County S.X. A Foe N.M.E. An Image F.E.G. A Hollow place K.V.T. A Title of honour X.L.N.C. Ability F.E.K.C. Haste
                         X.P.D.N.C.</p>
                 </div>
-
                 <div type="publication_info">
-
                     <head> The Young Idea </head>
                     <p>Published at the office No. 1 Port Street, "Chesapeake" every Saturday. contributions thankfully received<lb/>Saturday 20
                         February, 1858.</p>
-
                 </div>
             </div>
             <pb n="TYI1121" facs="TYI1121"/>
@@ -2229,7 +2127,6 @@
                 <head type="sub">No. 12</head>
                 <cb n="1"/>
                 <div type="article">
-
                     <p>The Past Week has been extraordinarily productive of events of interest &amp; amusement, and we feel bound to afford all the
                         space we can for the same The Rajah's dinner, &amp; marriage of his juvenile granddaughter, the Cricket match between our Club
                         &amp; the Squadron and our defeat; the success of our Amateurs in their performance on Thursday night; all afford a supply of
@@ -2242,9 +2139,7 @@
                         /> not forget, in our regret for our absence that it is certain to be "all for the best":- for our actions and movements are
                         under the wise ordinance of One who knows more than we can, and who "disposes, when man proposes."</p>
                 </div>
-
                 <div type="article">
-
                     <head> Dinner Party at Cossipore &amp; Marriage of the Granddaughter of Rajah Behadoor </head>
                     <p>On Monday night the 22d Inst. of the Rajah Budderaunth Roy Behadoor celebrated the marriage of his Granddaughter, with a grand
                         dinner party fireworks and a nautch. For the information of those of our readers who were unfortunately unable to go, we will
@@ -2387,16 +2282,12 @@
                         after some little trouble, we were speedily borne from this novel and interesting scene, and returned on board heartily
                         pleased with our excursion. </p>
 
-
                 </div>
 
-
                 <div type="cricket_report">
-
                     <head type="main"> Sporting Intelligence </head>
                     <head type="sub"> Cricket </head>
                     <head type="sub"> Match between the Chesapeake &amp; Squadron </head>
-
                     <p>On Thursday afternoon a Cricket Match took place between the "<orgName ref="#Chesapeake">Chesapeake</orgName>" eleven, and the
                         Squadron eleven, which resulted we are sorry to say in the defeat of the former. The wickets were pitched at 2 P.M. on the
                         ground near <placeName ref="#Ochterlony_Monument">the Ochterbury monument</placeName>, the squadron eleven going into the
@@ -2413,7 +2304,6 @@
                         played) by a second innings on the following day, but the squadron, anxious perhaps to retain the victory, appeared unwilling
                         &amp; finally stated that circumstances would prevent them from playing, and they also declined playing this afternoon, much
                         to the <orgName ref="#Chesapeake">Chesapeake</orgName>'s regret.</p>
-
                     <table rows="14" cols="3">
                         <head>Squadron Eleven</head>
                         <row role="data">
@@ -2487,7 +2377,6 @@
                             <cell role="data">113.</cell>
                         </row>
                     </table>
-
                     <table rows="14" cols="3">
                         <head>Chesapeake Eleven</head>
                         <row role="data">
@@ -2545,7 +2434,6 @@
                             <cell role="data">5</cell>
                             <cell role="data">b Moore. run out.</cell>
                         </row>
-
                         <row role="data">
                             <cell role="label">Wides</cell>
                             <cell role="data">2</cell>
@@ -2563,9 +2451,7 @@
                         </row>
                     </table>
                 </div>
-
                 <div type="play_review">
-
                     <head> The Theatre </head>
                     <p>On Thursday evening the Amateurs of HMS <orgName ref="#Chesapeake">Chesapeake</orgName> performed for the first time at the
                             <placeName ref="#Kolkata">Calcutta</placeName> Lyric Theatre. The Drama performed was <ref rend="new"
@@ -2596,7 +2482,6 @@
                         may say that the whole passed off most satisfactorily.</p>
                 </div>
                 <div type="naval_intelligence">
-
                     <head> Naval Intelligence </head>
                     <list type="simple">
                         <item>H.M. Gunboat Roebuck arrived on Wednesday afternoon bringing <persName ref="#Parkin">Commander G. H. Parkin</persName>
@@ -2610,12 +2495,10 @@
                     </list>
                 </div>
                 <div type="pun">
-
                     <p>"Can I offer you any aid"? said a polite gentleman to a lady who was overcome by the heat, "O! yes, Sir, if you please,"
                         replied the fainting beauty "a little lemon-ade."</p>
                 </div>
                 <div type="conundrum">
-
                     <head> Conundrums </head>
                     <list type="ordered">
                         <item n="22">When the cook lets the salad fall into the fireplace, what great saracen hero, would you be reminded of?</item>
@@ -2623,7 +2506,6 @@
                     </list>
                 </div>
                 <div type="conundrum">
-
                     <head> Answer to Conundrums </head>
                     <list type="ordered">
                         <item n="21">Supposing a number of bottles were broken by the fall of a tree, what ejaculation would they give vent to?<lb/>0
@@ -2632,12 +2514,10 @@
                     </list>
                 </div>
                 <div type="rebus">
-
                     <head> Unanswered from last Week </head>
                     <p>Rebus. Ba boo</p>
                 </div>
                 <div type="conundrum">
-
                     <head> Conundrums </head>
                     <list type="ordered">
                         <item n="19">When does a baker most want materials for his trade? When he kneads (needs) his dough.</item>
@@ -2645,15 +2525,12 @@
                     </list>
                 </div>
                 <div type="publication_info">
-
                     <head> The Young Idea </head>
                     <p>Published at the office No. 1 Port Street<lb/>"Chesapeake" every Saturday.<lb/>contributions solicited<lb/>Saturday 27
                         February, 1858.</p>
 
-
                 </div>
             </div>
-
             <pb n="TYI1131" facs="TYI1131"/>
             <div n="13" type="issue">
                 <head type="main">"The Young Idea"</head>
@@ -2662,7 +2539,6 @@
                 <head type="sub">No. 13</head>
                 <cb n="1"/>
                 <div type="article">
-
                     <p>Once more we thread our pathless track across the waters of the Bay of Bengal; once more our gallant craft obeys the impulse of
                         her wondrous motive power. Once more the fresh sea breezes fan our heated brows, and we feel their invigorating influence;
                         again in the quiet routine of a sea life we can sit down to peruse our latest intelligence from home, to dream over the past,
@@ -2682,9 +2558,7 @@
                         harbour of <placeName ref="#Trincomalee">Trincomalee</placeName>, there to enjoy the many pleasures which this little spot
                         affords.</p>
                 </div>
-
                 <div type="letter">
-
                     <head> To the Editor of "The Young Idea" </head>
                     <floatingText>
                         <body>
@@ -2706,9 +2580,7 @@
                         </body>
                     </floatingText>
                     <p>Ed. We feel highly flattered, and can only say that our success is our reward.</p>
-
                 </div>
-
 
                 <div type="letter">
                     <head> The Chesapeake Brigade </head>
@@ -2756,7 +2628,6 @@
                         </body>
                     </floatingText>
                 </div>
-
                 <div type="article">
                     <head> The Chesapeake Amateurs </head>
                     <p>There is nothing spoken, done, written or effected in this world, but the ever ready <pb n="TYI1134" facs="TYI1134"/><fw>The
@@ -2886,7 +2757,6 @@
                         <l>Edgland is proud, to hold thee in her sway</l>
                     </lg>
                 </div>
-
                 <div type="enigma">
                     <head> Illustrated Enigmas </head>
                     <list type="simple">
@@ -2931,7 +2801,6 @@
                 <head type="sub">Saturday March 13th 1858</head>
                 <head type="sub">No 14</head>
                 <div type="TBD">
-
                     <p>The question has often been asked "What caused the Mutiny in India? and is yet often asked. This query has been the subject of
                         much dissertation, and various have been the replies given; still, we fancy public opinion has not received a satisfactory
                         answer. The most universal response (and this we consider to be partially caused by some of the mutineers stating that such
@@ -3073,7 +2942,6 @@
                     <p>[...]</p>
                 </div>
             </div>
-
             <pb n="IMG_1436"/>
             <div n="17" type="issue">
                 <head type="main">"The Young Idea"</head>
@@ -3403,7 +3271,6 @@
                 <head type="sub">Saturday 19th June 1858</head>
                 <head type="sub">No 25</head>
                 <div type="article">
-
                     <p>[explanation for why The Young Idea did not appear on the last three Saturdays (McArthur had been ill]</p>
                 </div>
                 <div type="poem">
@@ -3563,7 +3430,6 @@
                 <div type="poem">
                     <head>"The Bay of Bengal"</head>
                     <p>a song to the tune of something specific</p>
-
                 </div>
                 <div type="article">
                     <head>Our Ship's Pets</head>
@@ -3573,7 +3439,6 @@
                     <head>Naval Intelligence</head>
                     <p>[...]</p>
                 </div>
-
                 <div type="epitome">
                     <head>Epitome</head>
                     <p>[...]</p>
@@ -3594,7 +3459,6 @@
                 <head type="sub">Saturday 31st July 1858</head>
                 <head type="sub">Vol 1. No 30</head>
                 <div type="article">
-
                     <p>[The commodore has left--reflections on the many experiences of the first year (using a theatrical metaphor to call it "the
                         first act"]</p>
                 </div>
@@ -3825,7 +3689,6 @@
                 <head type="sub">Saturday 4 September 1858</head>
                 <head type="sub">Vol 1. No 35</head>
                 <div type="editorial">
-
                     <p>The last week has seen a great change come o'er our arrangements; destined for Calcutta, already anticipating the sweets of
                         Diamond Harbour, enjoying our visit to Madras, and quite secure from thoughts of sailing, except in a Northerly direction, we
                         have been suddenly disturbed, and all our propsitions overthrown by a Telegram from the Senior Officer ordering us off to
@@ -3872,7 +3735,6 @@
                 <head type="main">Chesapeake Chronicle and Weekly Journal</head>
                 <head type="sub">Saturday 11th September 1858</head>
                 <head type="sub">Vol. 1 No. 36<!-- add the volume in for all othersI was missing it!!--></head>
-
                 <div type="article">
                     <note>This contribution does not appear in Bampfield's extracts. His issue begins with "burial at sea."</note>
                     <p>We are now about to cross the Equator for a the third time since leaving England, and as we have a great many on board who have
@@ -3888,7 +3750,6 @@
                         conjecture, but we shall in all probability enter the Red Sea, and shew our Force to the disaffected tribes on the coast.</p>
                     <p>As we are going there in pursuance of Admiralty orders, we shall very likely receive our new Commodore, who will, in all
                         probability, be sent there to meet us.</p>
-
                 </div>
                 <div type="poem">
                     <note>Bampfield includes the initials of McArthur and Bampfield for this poem, which is perhaps longer in Bampfield's
@@ -4290,7 +4151,6 @@
                 <div type="publication_info">
                     <head>The Young Idea</head>
                     <p>[...]</p>
-
                 </div>
             </div>
             <pb n="TYI1441"/>
@@ -4341,9 +4201,11 @@
                     <p>[...]</p>
                 </div>
             </div>
-            <pb n="TYI2011"/>
+          </div>
+          <pb n="TYI2011"/>
+          <div n="2" type="volume">
             <div n="1" type="issue">
-                <head type="main">"The Young Idea"</head>
+              <head type="main">"The Young Idea"</head>
                 <head type="main">Chesapeake Chronicle and Weekly Journal</head>
                 <head type="sub">Saturday 18th December 1858</head>
                 <head type="sub">Vol 2. An accident to the Editor prevented last weeks no. from appearing No 1.</head>
@@ -4456,7 +4318,6 @@
                     <p>[...]<pb n="TYI2033" facs="https://farm2.staticflickr.com/1754/40668619260_625db61c72_k_d.jpg"/>[...]</p>
                 </div>
                 <div type="article">
-
                     <head>Our Christmas Play<note>Bampfield's trancription of this article attributes it to "W"; the review is very similar to the one
                             published in this lithograph edition. </note></head>
                     <p>Our Christmas play came off in right merry style on Wednesday Evening (29 Decr). Our quarter deck, roofed in with flags of all
@@ -4867,6 +4728,7 @@
                         <p>[...]</p>
                     </div>
                 </div>
+          </div>
         </body>
     </text>
 </TEI>

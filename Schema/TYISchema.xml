@@ -71,8 +71,9 @@
             <attDef ident="xml:lang" mode="delete"/>
             <attDef ident="xml:space" mode="delete"/>
             <attDef ident="type" mode="change" usage="req">
-              <desc>Each division must be given a type with a value from this list. As new values
-                for div types emerge, this schema will need to be updated.</desc>
+              <desc>Each division must be given a type with a value
+              from this list. As new values for div types emerge, this
+              schema will need to be updated.</desc>
               <valList type="closed" mode="replace">
                 <valItem ident="TBD">
                   <gloss>to be determined</gloss>
@@ -101,7 +102,8 @@
                 <valItem ident="regatta_report"/>
                 <valItem ident="riddle"/>
                 <valItem ident="song"/>
-                <valItem ident="sporting_intelligence"/>
+		<valItem ident="sporting_intelligence"/>
+		<valItem ident="volume"/>
               </valList>
             </attDef>
           </attList>
