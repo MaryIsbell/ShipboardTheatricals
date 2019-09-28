@@ -1,0 +1,535 @@
+001.   type=issue  and  n=1
+ 002.      type=editorial
+ 003.      type=letter
+ 004.      type=naval_intelligence
+ 005.      type=epitome
+ 006.      type=facetiae
+ 007.      type=conundrum
+ 008.   type=issue  and  n=2
+ 009.      type=editorial
+ 010.      type=letter
+ 011.      type=article
+ 012.      type=letter
+ 013.      type=article
+ 014.      type=naval_intelligence
+ 015.      type=epitome
+ 016.      type=facetiae
+ 017.      type=publication_info
+ 018.   type=issue  and  n=3
+ 019.      type=article
+ 020.      type=article
+ 021.      type=rebus
+ 022.      type=naval_intelligence
+ 023.      type=epitome
+ 024.      type=facetiae
+ 025.      type=charade
+ 026.      type=answer
+ 027.      type=publication_info
+ 028.   type=issue  and  n=4
+ 029.      type=editorial
+ 030.      type=letter
+ 031.      type=article
+ 032.      type=naval_intelligence
+ 033.      type=facetiae
+ 034.      type=conundrum
+ 035.      type=answer
+ 036.   type=publication_info
+ 037.   type=issue  and  n=5
+ 038.      type=editorial
+ 039.      type=article
+ 040.      type=conundrum
+ 041.      type=cricket_report
+ 042.      type=article
+ 043.      type=naval_intelligence
+ 044.      type=poem
+ 045.      type=conundrum
+ 046.      type=answer
+ 047.      type=publication_info
+ 048.   type=issue  and  n=TBD
+ 049.      type=TBD
+ 050.      type=TBD
+ 051.      type=naval_intelligence
+ 052.      type=epitome
+ 053.      type=facetiae
+ 054.      type=conundrum
+ 055.   type=issue  and  n=7
+ 056.      type=article
+ 057.      type=article
+ 058.      type=article
+ 059.      type=article
+ 060.      type=naval_intelligence
+ 061.      type=article
+ 062.      type=conundrum
+ 063.      type=rebus
+ 064.      type=rebus
+ 065.      type=publication_info
+ 066.   type=issue  and  n=8
+ 067.      type=article
+ 068.      type=article
+ 069.      type=article
+ 070.      type=article
+ 071.      type=naval_intelligence
+ 072.      type=promotions_and_appointments
+ 073.      type=epitome
+ 074.      type=letter
+ 075.      type=conundrum
+ 076.      type=publication_info
+ 077.   type=issue  and  n=9
+ 078.      type=article
+ 079.      type=article
+ 080.      type=article
+ 081.      type=conundrum
+ 082.      type=naval_intelligence
+ 083.      type=epitome
+ 084.      type=pun
+ 085.      type=letter
+ 086.      type=rebus
+ 087.      type=publication_info
+ 088.   type=issue  and  n=10
+ 089.      type=article
+ 090.      type=letter
+ 091.      type=article
+ 092.      type=published_elsewhere
+ 093.      type=regatta_report
+ 094.      type=naval_intelligence
+ 095.      type=epitome
+ 096.      type=pun
+ 097.      type=conundrum
+ 098.      type=enigma
+ 099.      type=charade
+ 100.      type=enigma
+ 101.      type=conundrum
+ 102.      type=publication_info
+ 103.   type=issue  and  n=11
+ 104.      type=article
+ 105.      type=published_elsewhere
+ 106.      type=article
+ 107.      type=cricket_report
+ 108.      type=pun
+ 109.      type=naval_intelligence
+ 110.      type=article
+ 111.      type=epitome
+ 112.      type=pun
+ 113.      type=conundrum
+ 114.      type=rebus
+ 115.      type=conundrum
+ 116.      type=publication_info
+ 117.   type=issue  and  n=12
+ 118.      type=article
+ 119.      type=article
+ 120.      type=cricket_report
+ 121.      type=play_review
+ 122.      type=naval_intelligence
+ 123.      type=pun
+ 124.      type=conundrum
+ 125.      type=conundrum
+ 126.      type=rebus
+ 127.      type=conundrum
+ 128.      type=publication_info
+ 129.   type=issue  and  n=13
+ 130.      type=article
+ 131.      type=letter
+ 132.      type=letter
+ 133.      type=article
+ 134.      type=naval_intelligence
+ 135.      type=facetiae
+ 136.      type=epitome
+ 137.      type=rebus
+ 138.      type=enigma
+ 139.      type=conundrum
+ 140.      type=publication_info
+ 141.   type=issue  and  n=14
+ 142.      type=TBD
+ 143.      type=article
+ 144.      type=letter
+ 145.      type=article
+ 146.      type=article
+ 147.      type=facetiae
+ 148.      type=conundrum
+ 149.   type=issue  and  n=15
+ 150.      type=article
+ 151.      type=letter
+ 152.      type=article
+ 153.      type=article
+ 154.      type=article
+ 155.      type=naval_intelligence
+ 156.      type=facetiae
+ 157.      type=conundrum
+ 158.      type=rebus
+ 159.   type=issue  and  n=16
+ 160.      type=article
+ 161.      type=article
+ 162.         type=article
+ 163.         type=article
+ 164.         type=naval_intelligence
+ 165.         type=epitome
+ 166.         type=facetiae
+ 167.         type=conundrum
+ 168.   type=issue  and  n=17
+ 169.      type=article
+ 170.      type=published_elsewhere
+ 171.      type=letter
+ 172.      type=letter
+ 173.      type=article
+ 174.      type=naval_intelligence
+ 175.      type=epitome
+ 176.      type=facetiae
+ 177.      type=riddle
+ 178.   type=issue  and  n=18
+ 179.      type=article
+ 180.      type=article
+ 181.      type=article
+ 182.      type=article
+ 183.      type=article
+ 184.      type=article
+ 185.      type=naval_intelligence
+ 186.      type=facetiae
+ 187.   type=issue  and  n=TBD
+ 188.      type=TBD
+ 189.      type=TBD
+ 190.      type=naval_intelligence
+ 191.      type=epitome
+ 192.      type=facetiae
+ 193.      type=conundrum
+ 194.   type=issue  and  n=TBD
+ 195.      type=TBD
+ 196.      type=TBD
+ 197.      type=naval_intelligence
+ 198.      type=epitome
+ 199.      type=facetiae
+ 200.      type=conundrum
+ 201.   type=issue  and  n=TBD
+ 202.      type=TBD
+ 203.      type=TBD
+ 204.      type=naval_intelligence
+ 205.      type=epitome
+ 206.      type=facetiae
+ 207.      type=conundrum
+ 208.   type=issue  and  n=TBD
+ 209.      type=TBD
+ 210.      type=TBD
+ 211.      type=naval_intelligence
+ 212.      type=epitome
+ 213.      type=facetiae
+ 214.      type=conundrum
+ 215.   type=issue  and  n=TBD
+ 216.      type=TBD
+ 217.      type=TBD
+ 218.      type=naval_intelligence
+ 219.      type=epitome
+ 220.      type=facetiae
+ 221.      type=conundrum
+ 222.   type=issue  and  n=TBD
+ 223.      type=TBD
+ 224.      type=TBD
+ 225.      type=naval_intelligence
+ 226.      type=epitome
+ 227.      type=facetiae
+ 228.      type=conundrum
+ 229.   type=issue  and  n=25
+ 230.      type=article
+ 231.      type=poem
+ 232.      type=letter
+ 233.      type=play_review
+ 234.      type=naval_intelligence
+ 235.      type=letter
+ 236.      type=facetiae
+ 237.      type=conundrum
+ 238.   type=issue  and  n=TBD
+ 239.      type=TBD
+ 240.      type=TBD
+ 241.      type=naval_intelligence
+ 242.      type=epitome
+ 243.      type=facetiae
+ 244.      type=conundrum
+ 245.   type=issue  and  n=TBD
+ 246.      type=TBD
+ 247.      type=TBD
+ 248.      type=naval_intelligence
+ 249.      type=epitome
+ 250.      type=facetiae
+ 251.      type=conundrum
+ 252.   type=issue  and  n=27
+ 253.      type=article
+ 254.      type=TBD
+ 255.      type=naval_intelligence
+ 256.      type=epitome
+ 257.      type=facetiae
+ 258.      type=conundrum
+ 259.   type=issue  and  n=28
+ 260.      type=article
+ 261.      type=TBD
+ 262.      type=naval_intelligence
+ 263.      type=epitome
+ 264.      type=facetiae
+ 265.      type=conundrum
+ 266.   type=issue  and  n=29
+ 267.      type=article
+ 268.      type=article
+ 269.      type=poem
+ 270.      type=article
+ 271.      type=naval_intelligence
+ 272.      type=epitome
+ 273.      type=facetiae
+ 274.      type=conundrum
+ 275.   type=issue  and  n=30
+ 276.      type=article
+ 277.      type=article
+ 278.      type=article
+ 279.      type=poem
+ 280.      type=naval_intelligence
+ 281.      type=facetiae
+ 282.      type=conundrum
+ 283.      type=conundrum
+ 284.   type=issue  and  n=31
+ 285.      type=TBD
+ 286.      type=article
+ 287.      type=article
+ 288.      type=article
+ 289.      type=article
+ 290.      type=article
+ 291.      type=naval_intelligence
+ 292.      type=epitome
+ 293.      type=facetiae
+ 294.      type=TBD
+ 295.   type=issue  and  n=32
+ 296.      type=article
+ 297.      type=TBD
+ 298.   type=issue  and  n=33
+ 299.      type=article
+ 300.   type=issue  and  n=33
+ 301.      type=article
+ 302.      type=article
+ 303.      type=sporting_intelligence
+ 304.      type=play_review
+ 305.   type=issue  and  n=34
+ 306.      type=article
+ 307.      type=TBD
+ 308.      type=naval_intelligence
+ 309.      type=epitome
+ 310.      type=article
+ 311.      type=TBD
+ 312.   type=issue  and  n=35
+ 313.      type=editorial
+ 314.      type=TBD
+ 315.      type=naval_intelligence
+ 316.      type=epitome
+ 317.      type=facetiae
+ 318.      type=conundrum
+ 319.   type=issue  and  n=36
+ 320.      type=article
+ 321.      type=poem
+ 322.      type=letter
+ 323.      type=naval_intelligence
+ 324.      type=TBD
+ 325.      type=epitome
+ 326.      type=facetiae
+ 327.      type=conundrum
+ 328.   type=issue  and  n=TBD
+ 329.      type=TBD
+ 330.      type=TBD
+ 331.      type=naval_intelligence
+ 332.      type=epitome
+ 333.      type=facetiae
+ 334.      type=conundrum
+ 335.   type=issue  and  n=42
+ 336.      type=article
+ 337.      type=article
+ 338.      type=poem
+ 339.      type=article
+ 340.      type=naval_intelligence
+ 341.      type=epitome
+ 342.      type=facetiae
+ 343.      type=enigma
+ 344.      type=answer
+ 345.      type=publication_info
+ 346.   type=issue  and  n=43
+ 347.      type=article
+ 348.      type=article
+ 349.      type=sporting_intelligence
+ 350.      type=song
+ 351.      type=article
+ 352.      type=epitome
+ 353.      type=facetiae
+ 354.      type=rebus
+ 355.      type=publication_info
+ 356.   type=issue  and  n=44
+ 357.      type=article
+ 358.      type=article
+ 359.      type=sporting_intelligence
+ 360.      type=letter
+ 361.      type=published_elsewhere
+ 362.      type=naval_intelligence
+ 363.      type=epitome
+ 364.      type=facetiae
+ 365.      type=conundrum
+ 366.      type=publication_info
+ 367.   type=issue  and  n=1
+ 368.      type=article
+ 369.      type=article
+ 370.      type=letter
+ 371.      type=article
+ 372.      type=song
+ 373.      type=article
+ 374.      type=naval_intelligence
+ 375.      type=epitome
+ 376.      type=facetiae
+ 377.      type=rebus
+ 378.      type=answer
+ 379.      type=publication_info
+ 380.   type=issue  and  n=2
+ 381.      type=article
+ 382.      type=poem
+ 383.      type=TBD
+ 384.      type=epitome
+ 385.      type=facetiae
+ 386.      type=illustration
+ 387.   type=issue  and  n=44
+ 388.      type=article
+ 389.      type=article
+ 390.      type=sporting_intelligence
+ 391.      type=letter
+ 392.      type=published_elsewhere
+ 393.      type=naval_intelligence
+ 394.      type=epitome
+ 395.      type=facetiae
+ 396.      type=conundrum
+ 397.      type=publication_info
+ 398.   type=issue  and  n=1
+ 399.      type=article
+ 400.      type=article
+ 401.      type=letter
+ 402.      type=article
+ 403.      type=song
+ 404.      type=article
+ 405.      type=naval_intelligence
+ 406.      type=epitome
+ 407.      type=facetiae
+ 408.      type=rebus
+ 409.      type=answer
+ 410.      type=publication_info
+ 411.   type=issue  and  n=2
+ 412.      type=article
+ 413.      type=poem
+ 414.      type=article
+ 415.      type=epitome
+ 416.      type=facetiae
+ 417.      type=illustration
+ 418.   type=issue  and  n=3
+ 419.      type=article
+ 420.      type=article
+ 421.      type=article
+ 422.      type=article
+ 423.      type=article
+ 424.      type=naval_intelligence
+ 425.      type=answer
+ 426.      type=publication_info
+ 427.   type=issue  and  n=4
+ 428.      type=article
+ 429.      type=published_elsewhere
+ 430.      type=article
+ 431.      type=song
+ 432.      type=article
+ 433.      type=naval_intelligence
+ 434.      type=epitome
+ 435.      type=rebus
+ 436.      type=TBD
+ 437.      type=answer
+ 438.      type=publication_info
+ 439.   type=issue  and  n=5
+ 440.      type=article
+ 441.      type=letter
+ 442.      type=poem
+ 443.      type=naval_intelligence
+ 444.      type=epitome
+ 445.      type=rebus
+ 446.      type=publication_info
+ 447.   type=issue  and  n=6
+ 448.      type=article
+ 449.      type=letter
+ 450.      type=letter
+ 451.      type=published_elsewhere
+ 452.      type=enigma
+ 453.      type=letter
+ 454.      type=naval_intelligence
+ 455.      type=epitome
+ 456.      type=facetiae
+ 457.      type=rebus
+ 458.      type=answer
+ 459.      type=publication_info
+ 460.   type=issue  and  n=7
+ 461.      type=article
+ 462.      type=letter
+ 463.      type=article
+ 464.      type=enigma
+ 465.      type=naval_intelligence
+ 466.      type=epitome
+ 467.      type=promotions_and_appointments
+ 468.      type=charade
+ 469.      type=answer
+ 470.      type=publication_info
+ 471.      type=TBD
+ 472.      type=TBD
+ 473.      type=TBD
+ 474.      type=TBD
+ 475.      type=TBD
+
+
+I'm mildly suspiscous
+ * that #036 should be inside issue 4 (#028) [changed this section to be a proper div and then closed the issue div and discovered an extra closing
+ div tag at the end of the document]
+ * that #162 to #167 belong inside #159, not #161 [there was a missing div closure...when added, allowed me to remove unecessary div at the end of
+ document]
+ * that the @n values of the issues is quite messed up:[yes, they were...much better now!]
+     001.  n=  1
+     008.  n=  2
+     018.  n=  3
+     028.  n=  4
+     037.  n=  5
+     048.  n=TBD
+     055.  n=  7
+     066.  n=  8
+     077.  n=  9
+     088.  n= 10
+     103.  n= 11
+     117.  n= 12
+     129.  n= 13
+     141.  n= 14
+     149.  n= 15
+     159.  n= 16
+     168.  n= 17
+     178.  n= 18
+     187.  n=TBD
+     194.  n=TBD
+     201.  n=TBD
+     208.  n=TBD
+     215.  n=TBD
+     222.  n=TBD
+     229.  n= 25
+     238.  n=TBD
+     245.  n=TBD
+     252.  n= 27
+     259.  n= 28
+     266.  n= 29
+     275.  n= 30
+     284.  n= 31
+     295.  n= 32
+     298.  n= 33
+     300.  n= 33
+     305.  n= 34
+     312.  n= 35
+     319.  n= 36
+     328.  n=TBD
+     335.  n= 42
+     346.  n= 43
+     356.  n= 44
+     367.  n=  1
+     380.  n=  2
+     387.  n= 44
+     398.  n=  1
+     411.  n=  2
+     418.  n=  3
+     427.  n=  4
+     439.  n=  5
+     447.  n=  6
+     460.  n=  7
