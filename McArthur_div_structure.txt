@@ -1,466 +1,467 @@
-001: type=volume  and  n=1
-002:   type=issue  and  n=1
-003:     type=editorial
-004:     type=letter
-005:     type=naval_intelligence
-006:     type=epitome
-007:     type=facetiae
-008:     type=conundrum
-009:   type=issue  and  n=2
-010:     type=editorial
-011:     type=letter
-012:     type=article
-013:     type=letter
-014:     type=article
-015:     type=naval_intelligence
-016:     type=epitome
-017:     type=facetiae
-018:     type=publication_info
-019:   type=issue  and  n=3
-020:     type=article
-021:     type=article
-022:     type=rebus
-023:     type=naval_intelligence
-024:     type=epitome
-025:     type=facetiae
-026:     type=charade
-027:     type=answer
-028:     type=publication_info
-029:   type=issue  and  n=4
-030:     type=editorial
-031:     type=letter
-032:     type=article
-033:     type=naval_intelligence
-034:     type=facetiae
-035:     type=conundrum
-036:     type=answer
-037:     type=publication_info
-038:   type=issue  and  n=5
-039:     type=editorial
-040:     type=article
-041:     type=conundrum
-042:     type=cricket_report
-043:     type=article
-044:     type=naval_intelligence
-045:     type=poem
-046:     type=conundrum
-047:     type=answer
-048:     type=publication_info
-049:   type=issue  and  n=6
-050:     type=TBD
-051:     type=TBD
-052:     type=naval_intelligence
-053:     type=epitome
-054:     type=facetiae
-055:     type=conundrum
-056:   type=issue  and  n=7
-057:     type=article
-058:     type=article
-059:     type=article
-060:     type=article
-061:     type=naval_intelligence
-062:     type=article
-063:     type=conundrum
-064:     type=rebus
-065:     type=rebus
-066:     type=publication_info
-067:   type=issue  and  n=8
-068:     type=article
-069:     type=article
-070:     type=article
-071:     type=article
-072:     type=naval_intelligence
-073:     type=promotions_and_appointments
-074:     type=epitome
-075:     type=letter
-076:     type=conundrum
-077:     type=publication_info
-078:   type=issue  and  n=9
-079:     type=article
-080:     type=article
-081:     type=article
-082:     type=conundrum
-083:     type=naval_intelligence
-084:     type=epitome
-085:     type=pun
-086:     type=letter
-087:     type=rebus
-088:     type=publication_info
-089:   type=issue  and  n=10
-090:     type=article
-091:     type=letter
-092:     type=article
-093:     type=published_elsewhere
-094:     type=regatta_report
-095:     type=naval_intelligence
-096:     type=epitome
-097:     type=pun
-098:     type=conundrum
-099:     type=enigma
-100:     type=charade
-101:     type=enigma
-102:     type=conundrum
-103:     type=publication_info
-104:   type=issue  and  n=11
-105:     type=article
-106:     type=published_elsewhere
-107:     type=article
-108:     type=cricket_report
-109:     type=pun
-110:     type=naval_intelligence
-111:     type=article
-112:     type=epitome
-113:     type=pun
-114:     type=conundrum
-115:     type=rebus
-116:     type=conundrum
-117:     type=publication_info
-118:   type=issue  and  n=12
-119:     type=article
-120:     type=article
-121:     type=cricket_report
-122:     type=play_review
-123:     type=naval_intelligence
-124:     type=pun
-125:     type=conundrum
-126:     type=conundrum
-127:     type=rebus
-128:     type=conundrum
-129:     type=publication_info
-130:   type=issue  and  n=13
-131:     type=article
-132:     type=letter
-133:     type=letter
-134:     type=article
-135:     type=naval_intelligence
-136:     type=facetiae
-137:     type=epitome
-138:     type=rebus
-139:     type=enigma
-140:     type=conundrum
-141:     type=publication_info
-142:   type=issue  and  n=14
-143:     type=TBD
-144:     type=article
-145:     type=letter
-146:     type=article
-147:     type=article
-148:     type=facetiae
-149:     type=conundrum
-150:   type=issue  and  n=15
-151:     type=article
-152:     type=letter
-153:     type=article
-154:     type=article
-155:     type=article
-156:     type=naval_intelligence
-157:     type=facetiae
-158:     type=conundrum
-159:     type=rebus
-160:   type=issue  and  n=16
-161:     type=article
-162:     type=article
-163:     type=article
-164:     type=article
-165:     type=naval_intelligence
-166:     type=epitome
-167:     type=facetiae
-168:     type=conundrum
-169:   type=issue  and  n=17
-170:     type=article
-171:     type=published_elsewhere
-172:     type=letter
-173:     type=letter
-174:     type=article
-175:     type=naval_intelligence
-176:     type=epitome
-177:     type=facetiae
-178:     type=riddle
-179:   type=issue  and  n=18
-180:     type=article
-181:     type=article
-182:     type=article
-183:     type=article
-184:     type=article
-185:     type=article
-186:     type=naval_intelligence
-187:     type=facetiae
-188:   type=issue  and  n=19
-189:     type=TBD
-190:     type=TBD
-191:     type=naval_intelligence
-192:     type=epitome
-193:     type=facetiae
-194:     type=conundrum
-195:   type=issue  and  n=20
-196:     type=TBD
-197:     type=TBD
-198:     type=naval_intelligence
-199:     type=epitome
-200:     type=facetiae
-201:     type=conundrum
-202:   type=issue  and  n=21
-203:     type=TBD
-204:     type=TBD
-205:     type=naval_intelligence
-206:     type=epitome
-207:     type=facetiae
-208:     type=conundrum
-209:   type=issue  and  n=22
-210:     type=TBD
-211:     type=TBD
-212:     type=naval_intelligence
-213:     type=epitome
-214:     type=facetiae
-215:     type=conundrum
-216:   type=issue  and  n=23
-217:     type=TBD
-218:     type=TBD
-219:     type=naval_intelligence
-220:     type=epitome
-221:     type=facetiae
-222:     type=conundrum
-223:   type=issue  and  n=24
-224:     type=TBD
-225:     type=TBD
-226:     type=naval_intelligence
-227:     type=epitome
-228:     type=facetiae
-229:     type=conundrum
-230:   type=issue  and  n=25
-231:     type=article
-232:     type=poem
-233:     type=letter
-234:     type=play_review
-235:     type=naval_intelligence
-236:     type=letter
-237:     type=facetiae
-238:     type=conundrum
-239:   type=issue  and  n=26
-240:     type=TBD
-241:     type=TBD
-242:     type=naval_intelligence
-243:     type=epitome
-244:     type=facetiae
-245:     type=conundrum
-246:   type=issue  and  n=27
-247:     type=article
-248:     type=TBD
-249:     type=naval_intelligence
-250:     type=epitome
-251:     type=facetiae
-252:     type=conundrum
-253:   type=issue  and  n=28
-254:     type=article
-255:     type=TBD
-256:     type=naval_intelligence
-257:     type=epitome
-258:     type=facetiae
-259:     type=conundrum
-260:   type=issue  and  n=29
-261:     type=article
-262:     type=article
-263:     type=poem
-264:     type=article
-265:     type=naval_intelligence
-266:     type=epitome
-267:     type=facetiae
-268:     type=conundrum
-269:   type=issue  and  n=30
-270:     type=article
-271:     type=article
-272:     type=article
-273:     type=poem
-274:     type=naval_intelligence
-275:     type=facetiae
-276:     type=conundrum
-277:     type=conundrum
-278:   type=issue  and  n=31
-279:     type=TBD
-280:     type=article
-281:     type=article
-282:     type=article
-283:     type=article
-284:     type=article
-285:     type=naval_intelligence
-286:     type=epitome
-287:     type=facetiae
-288:     type=TBD
-289:   type=issue  and  n=32
-290:     type=article
-291:     type=TBD
-292:   type=issue  and  n=33
-293:     type=article
-294:   type=issue  and  n=34
-295:     type=article
-296:     type=article
-297:     type=sporting_intelligence
-298:     type=play_review
-299:     type=TBD
-300:     type=article
-301:   type=issue  and  n=35
-302:     type=editorial
-303:     type=TBD
-304:     type=naval_intelligence
-305:     type=epitome
-306:     type=facetiae
-307:     type=conundrum
-308:   type=issue  and  n=36
-309:     type=article
-310:     type=poem
-311:     type=letter
-312:     type=naval_intelligence
-313:     type=TBD
-314:     type=epitome
-315:     type=facetiae
-316:     type=conundrum
-317:   type=issue  and  n=37
-318:     type=TBD
-319:     type=TBD
-320:     type=naval_intelligence
-321:     type=epitome
-322:     type=facetiae
-323:     type=conundrum
-324:   type=issue  and  n=38
-325:     type=TBD
-326:     type=TBD
-327:     type=naval_intelligence
-328:     type=epitome
-329:     type=facetiae
-330:     type=conundrum
-331:   type=issue  and  n=39
-332:     type=TBD
-333:     type=TBD
-334:     type=naval_intelligence
-335:     type=epitome
-336:     type=facetiae
-337:     type=conundrum
-338:   type=issue  and  n=40
-339:     type=TBD
-340:     type=TBD
-341:     type=naval_intelligence
-342:     type=epitome
-343:     type=facetiae
-344:     type=conundrum
-345:   type=issue  and  n=41
-346:     type=TBD
-347:     type=TBD
-348:     type=naval_intelligence
-349:     type=epitome
-350:     type=facetiae
-351:     type=conundrum
-352:   type=issue  and  n=42
-353:     type=article
-354:     type=article
-355:     type=poem
-356:     type=article
-357:     type=naval_intelligence
-358:     type=epitome
-359:     type=facetiae
-360:     type=enigma
-361:     type=answer
-362:     type=publication_info
-363:   type=issue  and  n=43
-364:     type=article
-365:     type=article
-366:     type=sporting_intelligence
-367:     type=song
-368:     type=article
-369:     type=epitome
-370:     type=facetiae
-371:     type=rebus
-372:     type=publication_info
-373:   type=issue  and  n=44
-374:     type=article
-375:     type=article
-376:     type=sporting_intelligence
-377:     type=letter
-378:     type=published_elsewhere
-379:     type=naval_intelligence
-380:     type=epitome
-381:     type=facetiae
-382:     type=conundrum
-383:     type=publication_info
-384: type=volume  and  n=2
-385:   type=issue  and  n=1
-386:     type=article
-387:     type=article
-388:     type=letter
-389:     type=article
-390:     type=song
-391:     type=article
-392:     type=naval_intelligence
-393:     type=epitome
-394:     type=facetiae
-395:     type=rebus
-396:     type=answer
-397:     type=publication_info
-398:   type=issue  and  n=2
-399:     type=article
-400:     type=poem
-401:     type=TBD
-402:     type=epitome
-403:     type=facetiae
-404:     type=illustration
-405:   type=issue  and  n=3
-406:     type=article
-407:     type=article
-408:     type=article
-409:     type=article
-410:     type=article
-411:     type=naval_intelligence
-412:     type=answer
-413:     type=publication_info
-414:   type=issue  and  n=4
-415:     type=article
-416:     type=published_elsewhere
-417:     type=article
-418:     type=song
-419:     type=article
-420:     type=naval_intelligence
-421:     type=epitome
-422:     type=rebus
-423:     type=TBD
-424:     type=answer
-425:     type=publication_info
-426:   type=issue  and  n=5
-427:     type=article
-428:     type=letter
-429:     type=poem
-430:     type=naval_intelligence
-431:     type=epitome
-432:     type=rebus
-433:     type=publication_info
-434:   type=issue  and  n=6
-435:     type=article
-436:     type=letter
-437:     type=letter
-438:     type=published_elsewhere
-439:     type=enigma
-440:     type=letter
-441:     type=naval_intelligence
-442:     type=epitome
-443:     type=facetiae
-444:     type=rebus
-445:     type=answer
-446:     type=publication_info
-447:   type=issue  and  n=7
-448:     type=article
-449:     type=letter
-450:     type=article
-451:     type=enigma
-452:     type=naval_intelligence
-453:     type=epitome
-454:     type=promotions_and_appointments
-455:     type=charade
-456:     type=answer
-457:     type=publication_info
-458:     type=TBD
-459:     type=TBD
-460:     type=TBD
-461:     type=TBD
-462:     type=TBD
+001: M1  type=volume  and  n=1
+002:     M1.01  type=issue  and  n=1
+003:       M1.01.01  type=editorial
+004:       M1.01.02  type=letter
+005:       M1.01.03  type=naval_intelligence
+006:       M1.01.04  type=epitome
+007:       M1.01.05  type=facetiae
+008:       M1.01.06  type=conundrum
+009:     M1.02  type=issue  and  n=2
+010:       M1.02.01  type=editorial
+011:       M1.02.02  type=letter
+012:       M1.02.03  type=article
+013:       M1.02.04  type=letter
+014:       M1.02.05  type=article
+015:       M1.02.06  type=naval_intelligence
+016:       M1.02.07  type=epitome
+017:       M1.02.08  type=facetiae
+018:       M1.02.09  type=publication_info
+019:     M1.03  type=issue  and  n=3
+020:       M1.03.01  type=article
+021:       M1.03.02  type=article
+022:       M1.03.03  type=rebus
+023:       M1.03.04  type=naval_intelligence
+024:       M1.03.05  type=epitome
+025:       M1.03.06  type=facetiae
+026:       M1.03.07  type=charade
+027:       M1.03.08  type=answer
+028:       M1.03.09  type=publication_info
+029:     M1.04  type=issue  and  n=4
+030:       M1.04.01  type=editorial
+031:       M1.04.02  type=letter
+032:       M1.04.03  type=article
+033:       M1.04.04  type=naval_intelligence
+034:       M1.04.05  type=facetiae
+035:       M1.04.06  type=conundrum
+036:       M1.04.07  type=answer
+037:       M1.04.08  type=publication_info
+038:     M1.05  type=issue  and  n=5
+039:       M1.05.01  type=editorial
+040:       M1.05.02  type=article
+041:       M1.05.03  type=conundrum
+042:       M1.05.04  type=cricket_report
+043:       M1.05.05  type=article
+044:       M1.05.06  type=naval_intelligence
+045:       M1.05.07  type=poem
+046:       M1.05.08  type=conundrum
+047:       M1.05.09  type=answer
+048:       M1.05.10  type=publication_info
+049:     M1.06  type=issue  and  n=6
+050:       M1.06.01  type=TBD
+051:       M1.06.02  type=TBD
+052:       M1.06.03  type=naval_intelligence
+053:       M1.06.04  type=epitome
+054:       M1.06.05  type=facetiae
+055:       M1.06.06  type=conundrum
+056:     M1.07  type=issue  and  n=7
+057:       M1.07.01  type=article
+058:       M1.07.02  type=article
+059:       M1.07.03  type=article
+060:       M1.07.04  type=article
+061:       M1.07.05  type=naval_intelligence
+062:       M1.07.06  type=article
+063:       M1.07.07  type=conundrum
+064:       M1.07.08  type=rebus
+065:       M1.07.09  type=rebus
+066:       M1.07.10  type=publication_info
+067:     M1.08  type=issue  and  n=8
+068:       M1.08.01  type=article
+069:       M1.08.02  type=article
+070:       M1.08.03  type=article
+071:       M1.08.04  type=article
+072:       M1.08.05  type=naval_intelligence
+073:       M1.08.06  type=promotions_and_appointments
+074:       M1.08.07  type=epitome
+075:       M1.08.08  type=letter
+076:       M1.08.09  type=conundrum
+077:       M1.08.10  type=publication_info
+078:     M1.09  type=issue  and  n=9
+079:       M1.09.01  type=article
+080:       M1.09.02  type=article
+081:       M1.09.03  type=article
+082:       M1.09.04  type=conundrum
+083:       M1.09.05  type=naval_intelligence
+084:       M1.09.06  type=epitome
+085:       M1.09.07  type=pun
+086:       M1.09.08  type=letter
+087:       M1.09.09  type=rebus
+088:       M1.09.10  type=publication_info
+089:     M1.10  type=issue  and  n=10
+090:       M1.10.01  type=article
+091:       M1.10.02  type=letter
+092:       M1.10.03  type=article
+093:       M1.10.04  type=published_elsewhere
+094:       M1.10.05  type=regatta_report
+095:       M1.10.06  type=naval_intelligence
+096:       M1.10.07  type=epitome
+097:       M1.10.08  type=pun
+098:       M1.10.09  type=conundrum
+099:       M1.10.10  type=enigma
+100:       M1.10.11  type=charade
+101:       M1.10.12  type=enigma
+102:       M1.10.13  type=conundrum
+103:       M1.10.14  type=publication_info
+104:     M1.11  type=issue  and  n=11
+105:       M1.11.01  type=article
+106:       M1.11.02  type=published_elsewhere
+107:       M1.11.03  type=article
+108:       M1.11.04  type=cricket_report
+109:       M1.11.05  type=pun
+110:       M1.11.06  type=naval_intelligence
+111:       M1.11.07  type=article
+112:       M1.11.08  type=epitome
+113:       M1.11.09  type=pun
+114:       M1.11.10  type=conundrum
+115:       M1.11.11  type=rebus
+116:       M1.11.12  type=conundrum
+117:       M1.11.13  type=publication_info
+118:     M1.12  type=issue  and  n=12
+119:       M1.12.01  type=article
+120:       M1.12.02  type=article
+121:       M1.12.03  type=cricket_report
+122:       M1.12.04  type=play_review
+123:       M1.12.05  type=naval_intelligence
+124:       M1.12.06  type=pun
+125:       M1.12.07  type=conundrum
+126:       M1.12.08  type=conundrum
+127:       M1.12.09  type=rebus
+128:       M1.12.10  type=conundrum
+129:       M1.12.11  type=publication_info
+130:     M1.13  type=issue  and  n=13
+131:       M1.13.01  type=article
+132:       M1.13.02  type=letter
+133:       M1.13.03  type=letter
+134:       M1.13.04  type=article
+135:       M1.13.05  type=naval_intelligence
+136:       M1.13.06  type=facetiae
+137:       M1.13.07  type=epitome
+138:       M1.13.08  type=rebus
+139:       M1.13.09  type=enigma
+140:       M1.13.10  type=conundrum
+141:       M1.13.11  type=publication_info
+142:     M1.14  type=issue  and  n=14
+143:       M1.14.01  type=TBD
+144:       M1.14.02  type=article
+145:       M1.14.03  type=letter
+146:       M1.14.04  type=article
+147:       M1.14.05  type=article
+148:       M1.14.06  type=facetiae
+149:       M1.14.07  type=conundrum
+150:     M1.15  type=issue  and  n=15
+151:       M1.15.01  type=article
+152:       M1.15.02  type=letter
+153:       M1.15.03  type=article
+154:       M1.15.04  type=article
+155:       M1.15.05  type=article
+156:       M1.15.06  type=naval_intelligence
+157:       M1.15.07  type=facetiae
+158:       M1.15.08  type=conundrum
+159:       M1.15.09  type=rebus
+160:     M1.16  type=issue  and  n=16
+161:       M1.16.01  type=article
+162:       M1.16.02  type=article
+163:       M1.16.03  type=article
+164:       M1.16.04  type=article
+165:       M1.16.05  type=naval_intelligence
+166:       M1.16.06  type=epitome
+167:       M1.16.07  type=facetiae
+168:       M1.16.08  type=conundrum
+169:     M1.17  type=issue  and  n=17
+170:       M1.17.01  type=article
+171:       M1.17.02  type=published_elsewhere
+172:       M1.17.03  type=letter
+173:       M1.17.04  type=letter
+174:       M1.17.05  type=article
+175:       M1.17.06  type=naval_intelligence
+176:       M1.17.07  type=epitome
+177:       M1.17.08  type=facetiae
+178:       M1.17.09  type=riddle
+179:     M1.18  type=issue  and  n=18
+180:       M1.18.01  type=article
+181:       M1.18.02  type=article
+182:       M1.18.03  type=article
+183:       M1.18.04  type=article
+184:       M1.18.05  type=article
+185:       M1.18.06  type=article
+186:       M1.18.07  type=naval_intelligence
+187:       M1.18.08  type=facetiae
+188:     M1.19  type=issue  and  n=19
+189:       M1.19.01  type=TBD
+190:       M1.19.02  type=TBD
+191:       M1.19.03  type=naval_intelligence
+192:       M1.19.04  type=epitome
+193:       M1.19.05  type=facetiae
+194:       M1.19.06  type=conundrum
+195:     M1.20  type=issue  and  n=20
+196:       M1.20.01  type=TBD
+197:       M1.20.02  type=TBD
+198:       M1.20.03  type=naval_intelligence
+199:       M1.20.04  type=epitome
+200:       M1.20.05  type=facetiae
+201:       M1.20.06  type=conundrum
+202:     M1.21  type=issue  and  n=21
+203:       M1.21.01  type=TBD
+204:       M1.21.02  type=TBD
+205:       M1.21.03  type=naval_intelligence
+206:       M1.21.04  type=epitome
+207:       M1.21.05  type=facetiae
+208:       M1.21.06  type=conundrum
+209:     M1.22  type=issue  and  n=22
+210:       M1.22.01  type=TBD
+211:       M1.22.02  type=TBD
+212:       M1.22.03  type=naval_intelligence
+213:       M1.22.04  type=epitome
+214:       M1.22.05  type=facetiae
+215:       M1.22.06  type=conundrum
+216:     M1.23  type=issue  and  n=23
+217:       M1.23.01  type=TBD
+218:       M1.23.02  type=TBD
+219:       M1.23.03  type=naval_intelligence
+220:       M1.23.04  type=epitome
+221:       M1.23.05  type=facetiae
+222:       M1.23.06  type=conundrum
+223:     M1.24  type=issue  and  n=24
+224:       M1.24.01  type=TBD
+225:       M1.24.02  type=TBD
+226:       M1.24.03  type=naval_intelligence
+227:       M1.24.04  type=epitome
+228:       M1.24.05  type=facetiae
+229:       M1.24.06  type=conundrum
+230:     M1.25  type=issue  and  n=25
+231:       M1.25.01  type=article
+232:       M1.25.02  type=poem
+233:       M1.25.03  type=letter
+234:       M1.25.04  type=play_review
+235:       M1.25.05  type=naval_intelligence
+236:       M1.25.06  type=letter
+237:       M1.25.07  type=facetiae
+238:       M1.25.08  type=conundrum
+239:     M1.26  type=issue  and  n=26
+240:       M1.26.01  type=TBD
+241:       M1.26.02  type=TBD
+242:       M1.26.03  type=naval_intelligence
+243:       M1.26.04  type=epitome
+244:       M1.26.05  type=facetiae
+245:       M1.26.06  type=conundrum
+246:     M1.27  type=issue  and  n=27
+247:       M1.27.01  type=article
+248:       M1.27.02  type=TBD
+249:       M1.27.03  type=naval_intelligence
+250:       M1.27.04  type=epitome
+251:       M1.27.05  type=facetiae
+252:       M1.27.06  type=conundrum
+253:     M1.28  type=issue  and  n=28
+254:       M1.28.01  type=article
+255:       M1.28.02  type=TBD
+256:       M1.28.03  type=naval_intelligence
+257:       M1.28.04  type=epitome
+258:       M1.28.05  type=facetiae
+259:       M1.28.06  type=conundrum
+260:     M1.29  type=issue  and  n=29
+261:       M1.29.01  type=article
+262:       M1.29.02  type=article
+263:       M1.29.03  type=poem
+264:       M1.29.04  type=article
+265:       M1.29.05  type=naval_intelligence
+266:       M1.29.06  type=epitome
+267:       M1.29.07  type=facetiae
+268:       M1.29.08  type=conundrum
+269:     M1.30  type=issue  and  n=30
+270:       M1.30.01  type=article
+271:       M1.30.02  type=article
+272:       M1.30.03  type=article
+273:       M1.30.04  type=poem
+274:       M1.30.05  type=naval_intelligence
+275:       M1.30.06  type=facetiae
+276:       M1.30.07  type=conundrum
+277:       M1.30.08  type=conundrum
+278:     M1.31  type=issue  and  n=31
+279:       M1.31.01  type=TBD
+280:       M1.31.02  type=article
+281:       M1.31.03  type=article
+282:       M1.31.04  type=article
+283:       M1.31.05  type=article
+284:       M1.31.06  type=article
+285:       M1.31.07  type=naval_intelligence
+286:       M1.31.08  type=epitome
+287:       M1.31.09  type=facetiae
+288:       M1.31.10  type=TBD
+289:     M1.32  type=issue  and  n=32
+290:       M1.32.01  type=article
+291:       M1.32.02  type=TBD
+292:     M1.33  type=issue  and  n=33
+293:       M1.33.01  type=article
+294:     M1.34  type=issue  and  n=34
+295:       M1.34.01  type=article
+296:       M1.34.02  type=article
+297:       M1.34.03  type=sporting_intelligence
+298:       M1.34.04  type=play_review
+299:       M1.34.05  type=TBD
+300:       M1.34.06  type=article
+301:     M1.35  type=issue  and  n=35
+302:       M1.35.01  type=editorial
+303:       M1.35.02  type=TBD
+304:       M1.35.03  type=naval_intelligence
+305:       M1.35.04  type=epitome
+306:       M1.35.05  type=facetiae
+307:       M1.35.06  type=conundrum
+308:     M1.36  type=issue  and  n=36
+309:       M1.36.01  type=article
+310:       M1.36.02  type=poem
+311:       M1.36.03  type=letter
+312:       M1.36.04  type=naval_intelligence
+313:       M1.36.05  type=TBD
+314:       M1.36.06  type=epitome
+315:       M1.36.07  type=facetiae
+316:       M1.36.08  type=conundrum
+317:     M1.37  type=issue  and  n=37
+318:       M1.37.01  type=TBD
+319:       M1.37.02  type=TBD
+320:       M1.37.03  type=naval_intelligence
+321:       M1.37.04  type=epitome
+322:       M1.37.05  type=facetiae
+323:       M1.37.06  type=conundrum
+324:     M1.38  type=issue  and  n=38
+325:       M1.38.01  type=TBD
+326:       M1.38.02  type=TBD
+327:       M1.38.03  type=naval_intelligence
+328:       M1.38.04  type=epitome
+329:       M1.38.05  type=facetiae
+330:       M1.38.06  type=conundrum
+331:     M1.39  type=issue  and  n=39
+332:       M1.39.01  type=TBD
+333:       M1.39.02  type=TBD
+334:       M1.39.03  type=naval_intelligence
+335:       M1.39.04  type=epitome
+336:       M1.39.05  type=facetiae
+337:       M1.39.06  type=conundrum
+338:     M1.40  type=issue  and  n=40
+339:       M1.40.01  type=TBD
+340:       M1.40.02  type=TBD
+341:       M1.40.03  type=naval_intelligence
+342:       M1.40.04  type=epitome
+343:       M1.40.05  type=facetiae
+344:       M1.40.06  type=conundrum
+345:     M1.41  type=issue  and  n=41
+346:       M1.41.01  type=TBD
+347:       M1.41.02  type=TBD
+348:       M1.41.03  type=naval_intelligence
+349:       M1.41.04  type=epitome
+350:       M1.41.05  type=facetiae
+351:       M1.41.06  type=conundrum
+352:     M1.42  type=issue  and  n=42
+353:       M1.42.01  type=article
+354:       M1.42.02  type=article
+355:       M1.42.03  type=poem
+356:       M1.42.04  type=article
+357:       M1.42.05  type=naval_intelligence
+358:       M1.42.06  type=epitome
+359:       M1.42.07  type=facetiae
+360:       M1.42.08  type=enigma
+361:       M1.42.09  type=answer
+362:       M1.42.10  type=publication_info
+363:     M1.43  type=issue  and  n=43
+364:       M1.43.01  type=article
+365:       M1.43.02  type=article
+366:       M1.43.03  type=sporting_intelligence
+367:       M1.43.04  type=song
+368:       M1.43.05  type=article
+369:       M1.43.06  type=epitome
+370:       M1.43.07  type=facetiae
+371:       M1.43.08  type=rebus
+372:       M1.43.09  type=publication_info
+373:     M1.44  type=issue  and  n=44
+374:       M1.44.01  type=article
+375:       M1.44.02  type=article
+376:       M1.44.03  type=sporting_intelligence
+377:       M1.44.04  type=letter
+378:       M1.44.05  type=published_elsewhere
+379:       M1.44.06  type=naval_intelligence
+380:       M1.44.07  type=epitome
+381:       M1.44.08  type=facetiae
+382:       M1.44.09  type=conundrum
+383:       M1.44.10  type=publication_info
+384: M2  type=volume  and  n=2
+385:     M2.01  type=issue  and  n=1
+386:       M2.01.01  type=article
+387:       M2.01.02  type=article
+388:       M2.01.03  type=letter
+389:       M2.01.04  type=article
+390:       M2.01.05  type=song
+391:       M2.01.06  type=article
+392:       M2.01.07  type=naval_intelligence
+393:       M2.01.08  type=epitome
+394:       M2.01.09  type=facetiae
+395:       M2.01.10  type=rebus
+396:       M2.01.11  type=answer
+397:       M2.01.12  type=publication_info
+398:     M2.02  type=issue  and  n=2
+399:       M2.02.01  type=article
+400:       M2.02.02  type=poem
+401:       M2.02.03  type=TBD
+402:       M2.02.04  type=epitome
+403:       M2.02.05  type=facetiae
+404:       M2.02.06  type=illustration
+405:     M2.03  type=issue  and  n=3
+406:       M2.03.01  type=article
+407:       M2.03.02  type=article
+408:       M2.03.03  type=article
+409:       M2.03.04  type=article
+410:       M2.03.05  type=article
+411:       M2.03.06  type=naval_intelligence
+412:       M2.03.07  type=answer
+413:       M2.03.08  type=publication_info
+414:     M2.04  type=issue  and  n=4
+415:       M2.04.01  type=article
+416:       M2.04.02  type=published_elsewhere
+417:       M2.04.03  type=article
+418:       M2.04.04  type=song
+419:       M2.04.05  type=article
+420:       M2.04.06  type=naval_intelligence
+421:       M2.04.07  type=epitome
+422:       M2.04.08  type=rebus
+423:       M2.04.09  type=TBD
+424:       M2.04.10  type=answer
+425:       M2.04.11  type=publication_info
+426:     M2.05  type=issue  and  n=5
+427:       M2.05.01  type=article
+428:       M2.05.02  type=letter
+429:       M2.05.03  type=poem
+430:       M2.05.04  type=naval_intelligence
+431:       M2.05.05  type=epitome
+432:       M2.05.06  type=rebus
+433:       M2.05.07  type=publication_info
+434:     M2.06  type=issue  and  n=6
+435:       M2.06.01  type=article
+436:       M2.06.02  type=letter
+437:       M2.06.03  type=letter
+438:       M2.06.04  type=published_elsewhere
+439:       M2.06.05  type=enigma
+440:       M2.06.06  type=letter
+441:       M2.06.07  type=naval_intelligence
+442:       M2.06.08  type=epitome
+443:       M2.06.09  type=facetiae
+444:       M2.06.10  type=rebus
+445:       M2.06.11  type=answer
+446:       M2.06.12  type=publication_info
+447:     M2.07  type=issue  and  n=7
+448:       M2.07.01  type=article
+449:       M2.07.02  type=letter
+450:       M2.07.03  type=article
+451:       M2.07.04  type=enigma
+452:       M2.07.05  type=naval_intelligence
+453:       M2.07.06  type=epitome
+454:       M2.07.07  type=promotions_and_appointments
+455:       M2.07.08  type=charade
+456:       M2.07.09  type=answer
+457:       M2.07.10  type=publication_info
+458:       M2.07.11  type=TBD
+459:       M2.07.12  type=TBD
+460:       M2.07.13  type=TBD
+461:       M2.07.14  type=TBD
+462:       M2.07.15  type=TBD
 
 Note-to-Syd
 -----------
-$ xsel -t -m "//t:div" -v "count( preceding::t:div|ancestor::t:div )+1" -o ": " --if "ancestor::t:div" -o "  " --if "ancestor::t:div" -o "  "  --if "ancestor::t:div[2]" -o "  " -b -b -b -v "concat('type=',@type)" --if "@n" -o "  and  " -v "concat('n=',@n)" -b -n McArthur.xml > McArthur_div_structure.txt 
+$ xsel -t -m "//t:div" -v "count( preceding::t:div|ancestor::t:div )+1" -o ": " --if "ancestor::t:div" -o "  " --if "ancestor::t:div" -o "  "  --if "ancestor::t:div[2]" -o "  " -b -b -b -v "concat( @xml:id, '  type=',@type)" --if "@n" -o "  and  " -v "concat('n=',@n)" -b -n McArthur.xml > McArthur_div_structure.txt 
+
