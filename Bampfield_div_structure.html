@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <!--
+      Note-to-Syd
+      $ xsel -t -m "//t:div" -v "concat( '<tr><td>',count( preceding::t:div|ancestor::t:div ),'</td><td>',count( ancestor::t:div)+1,'</td><td>',@xml:id,'</td><td>',@type,'</td><td>',@n,'</td></tr>')" -b -n Bampfield.xml > Bampfield_div_structure.html
+  -->
+  <head>
+    <title>Bampfield &lt;div>s</title>
+    <style type="text/css">
+      td, th { padding: 0.4em; }
+      td:first-child, th:first-child { text-align: right; }
+    </style>
+    <script type="application/javascript" src="http://www.wwp.neu.edu/utils/bin/javascript/sorttable.js"></script>
+  </head>
+  <body style="padding: 2em;">
+    <h2>table of &lt;div>s in Bampfield</h2>
+    <table class="sortable" border="1">
+      <thead style="background-color: #EDC;">
+	<tr>
+	  <th>seq #</th>
+	  <th>nesting<br/>depth</th>
+	  <th>ID</th>
+	  <th>type</th>
+	  <th>n</th>
+	</tr>
+      </thead>
+      <tbody>
+	<tr><td>0</td><td>1</td><td></td><td>volume</td><td>1</td></tr>
+	<tr><td>1</td><td>2</td><td></td><td>issue</td><td>34</td></tr>
+	<tr><td>2</td><td>3</td><td></td><td>TBD</td><td></td></tr>
+	<tr><td>3</td><td>3</td><td></td><td>TBD</td><td></td></tr>
+	<tr><td>4</td><td>3</td><td></td><td>TBD</td><td></td></tr>
+	<tr><td>5</td><td>3</td><td></td><td>play_review</td><td></td></tr>
+	<tr><td>6</td><td>2</td><td></td><td>issue</td><td>__</td></tr>
+	<tr><td>7</td><td>3</td><td></td><td>TBD</td><td></td></tr>
+	<tr><td>8</td><td>3</td><td></td><td>TBD</td><td></td></tr>
+	<tr><td>9</td><td>3</td><td></td><td>TBD</td><td></td></tr>
+	<tr><td>10</td><td>3</td><td></td><td>naval_intelligence</td><td></td></tr>
+	<tr><td>11</td><td>3</td><td></td><td>epitome</td><td></td></tr>
+	<tr><td>12</td><td>3</td><td></td><td>facetiae</td><td></td></tr>
+	<tr><td>13</td><td>3</td><td></td><td>rebus</td><td></td></tr>
+	<tr><td>14</td><td>3</td><td></td><td>answer</td><td></td></tr>
+	<tr><td>15</td><td>3</td><td></td><td>publication_info</td><td></td></tr>
+	<tr><td>16</td><td>2</td><td></td><td>TBD</td><td></td></tr>
+      </tbody>
+    </table>
+  </body>
+</html>

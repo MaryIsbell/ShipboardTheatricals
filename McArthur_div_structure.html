@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
+  <!--
+    Note-to-Syd
+    $ xsel -t -m "//t:div" -v "concat( '<tr><td>',count( preceding::t:div|ancestor::t:div ),'</td><td>',count( ancestor::t:div)+1,'</td><td>',@xml:id,'</td><td>',@type,'</td><td>',@n,'</td></tr>')" -b -n McArthur.xml > McArthur_div_structure.html
+  -->
   <head>
-    <title>table of &lt;div>s in McArthur</title>
+    <title>McArthur &lt;div>s</title>
     <style type="text/css">
       td, th { padding: 0.4em; }
       td:first-child, th:first-child { text-align: right; }
@@ -10,6 +14,7 @@
     <script type="application/javascript" src="http://www.wwp.neu.edu/utils/bin/javascript/sorttable.js"></script>
   </head>
   <body style="padding: 2em;">
+    <h2>table of &lt;div>s in McArthur</h2>
     <table class="sortable" border="1">
       <thead style="background-color: #EDC;">
 	<tr>

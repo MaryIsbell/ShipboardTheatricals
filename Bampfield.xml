@@ -507,6 +507,7 @@
     <text>
         <body>
             <pb n="BETYI1341"/>
+	    <div n="1" type="volume"> <!-- here just to make encoding even w/ MacArthur -->
             <div n="34" type="issue">
                 <head>[...]</head>
                 <div type="TBD">
@@ -596,6 +597,7 @@
                         ceased publication. Charles the II is repeated, but a new performer takes on the role of Lady Clara in this performance
                         (William Connell performs as Mary, which he hadn't done before).</note></ab>
             </div>
+	    </div>
         </body>
     </text>
 </TEI>
