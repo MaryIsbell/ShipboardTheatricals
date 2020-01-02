@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="file:/Users/maryisbell/Documents/GitHub/ShipboardTheatricals/Schema/TYISchema.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tmp="https://github.com/MaryIsbell/ShipboardTheatricals/temp_namespace">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tmpmi="https://github.com/MaryIsbell/ShipboardTheatricals/temp_namespace" xmlns:tmp="http://www.wwp.neu.edu/temp/ns">
   <teiHeader>
     <fileDesc>
       <titleStmt>
