@@ -63,6 +63,32 @@
              background-color: <xsl:value-of select="$backgroundColor"/>;
              }
         </style>
+        <script type="text/javascript">
+          <!--
+            Thanks to _SVG Essentials_ by J. David Eisenberg and to my son
+            David Bauman for the Javascript
+          -->
+//          function highlight(evt) {
+//            var divOfInterest = evt.target;
+//            divOfInterest.children.setAttribute("stroke-width", 6 );
+//            divOfInterest.children.setAttribute("stroke","red");
+//          }
+//          function normal(evt) {
+//            var divOfInterest = evt.target;
+//            divOfInterest.children.setAttribute("stroke-width", 1 );
+//            divOfInterest.children.setAttribute("stroke","black");
+//          }
+          function red_line(evt) {
+            var thisLine = evt.target;
+            thisLine.setAttribute("stroke-width", 6 );
+            thisLine.setAttribute("stroke","red");
+          }
+          function revert_line(evt) {
+            var thisLine = evt.target;
+            thisLine.setAttribute("stroke-width", 1 );
+            thisLine.setAttribute("stroke","black");
+          }
+        </script>
       </head>
       <body>
         <h1>Bampfield vs McArthur</h1>
@@ -99,20 +125,26 @@
       </xsl:choose>
     </xsl:variable>
     <xsl:variable name="yPos" as="xs:integer" select="(position() - 1) * $rectHeight"/>
-    <svg:rect x="0" y="{$yPos}" width="{$rectWidth}" height="{$rectHeight}"
-      stroke="black" stroke-width="2" fill="{$cellColor}"/>
-    <svg:text x="{$txtIndent}" y="{$yPos + $txtLeading}">
-      <xsl:value-of select="$cellContent"/>
-    </svg:text>
-    <xsl:if test="$drawLine">
-      <xsl:if test="$target//div/@xml:id = $corresp">
-        <xsl:variable name="yPosTarget" as="xs:integer"
-          select="($rectHeight div 2) + $rectHeight * ( count( $target//div[ @xml:id eq $corresp ]/(preceding::div[ @xml:id] | ancestor::div[@xml:id] ) ) )"/>
-        <svg:line stroke="black" stroke-width="1"
-          x1="{$rectWidth}" y1="{$yPos + ($rectHeight div 2)}"
-          x2="{$colDist}"   y2="{$yPosTarget}"/>
+    <!-- this bit — adding extra wrapper for JS to apply to rect, line, and text — is not working at all 
+    <svg:g>
+      <xsl:attribute name="onmouseover" select="'highlight(evt)'"/>
+      <xsl:attribute name="onmouseout" select="'normal(evt)'"/>-->
+      <svg:rect x="0" y="{$yPos}" width="{$rectWidth}" height="{$rectHeight}"
+        stroke="black" stroke-width="2" fill="{$cellColor}"/>
+      <svg:text x="{$txtIndent}" y="{$yPos + $txtLeading}">
+        <xsl:value-of select="$cellContent"/>
+      </svg:text>
+      <xsl:if test="$drawLine">
+        <xsl:if test="$target//div/@xml:id = $corresp">
+          <xsl:variable name="yPosTarget" as="xs:integer"
+            select="($rectHeight div 2) + $rectHeight * ( count( $target//div[ @xml:id eq $corresp ]/(preceding::div[ @xml:id] | ancestor::div[@xml:id] ) ) )"/>
+          <svg:line stroke="black" stroke-width="1"
+            onmouseover="red_line(evt)" onmouseout="revert_line(evt)"
+            x1="{$rectWidth}" y1="{$yPos + ($rectHeight div 2)}"
+            x2="{$colDist}"   y2="{$yPosTarget}"/>
+        </xsl:if>
       </xsl:if>
-    </xsl:if>
+    <!--</svg:g>-->
   </xsl:template>
 
 </xsl:stylesheet>
