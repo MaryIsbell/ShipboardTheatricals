@@ -15,8 +15,8 @@
  * files (defaulting to ../Bampfield.xml and ../McArthur.xml, but
  * that can be changed by setting the parameters "inS" and "inT")
  * and generate an SVG drawing of a "plectogram", and tiny HTML
- * wrapper for it, therefrom. For now I expect that there
- * may be @tmp:corresp attributes in the input; eventually these
+ * wrapper for it, therefrom. For now look for and process temp-
+ * orary @tmp:corresp attributes in the input; eventually these
  * would be proper TEI @corresp attributes.
 -->
 
@@ -48,6 +48,7 @@
   <xsl:param name="txtIndent" as="xs:integer" select="8"/>
   <!-- how far above bottom of cell text baseline is: -->
   <xsl:param name="txtLeading" as="xs:integer" select="16"/>
+  <!-- colors: -->
   <xsl:param name="backgroundColor">#EAD</xsl:param>
   <xsl:param name="cellColor">#FBE</xsl:param>
 
@@ -55,22 +56,26 @@
     <html>
       <head>
         <title>B vs M</title>
+        <meta name="generated" content="{current-dateTime()}"/>
         <style type="text/css">
           body {
              margin: 2em;
-             background-color: #EAD;
+             background-color: <xsl:value-of select="$backgroundColor"/>;
              }
         </style>
       </head>
       <body>
         <h1>Bampfield vs McArthur</h1>
         <svg:svg width="100%" height="{max( ( count($source//div[@tmp:corresp]), count($target//div[@xml:id]) ) ) * $rectHeight}">
-          <svg:g id="wrapper">
+          <svg:g id="wrapper"> <!-- ← currently no need for this outer wrapper -->
+            <!-- starting in upper L corner, generate L column of source <div>s: -->
             <svg:g id="BampfieldSet" transform="translate( 0, 0)">
               <xsl:apply-templates select="$source//div[@tmp:corresp]" mode="drawRect">
+                <!-- and draw the connecting lines while we are at it: -->
                 <xsl:with-param name="drawLine" select="true()"/>
               </xsl:apply-templates>
             </svg:g>
+            <!-- starting $colDist to R, generate R column of target <div>s: -->
             <svg:g id="McArthurSet" transform="translate( {$colDist}, 0)">
               <xsl:apply-templates select="$target//div[@xml:id]" mode="drawRect">
                 <xsl:with-param name="drawLine" select="false()"/>
@@ -86,7 +91,7 @@
     <xsl:param name="drawLine" as="xs:boolean"/>
     <xsl:comment select="' '||@xml:id||'('||$drawLine||'). '"/>
     <xsl:variable name="corresp" select="substring-after( @tmp:corresp,'#')"/>
-    <xsl:variable name="value">
+    <xsl:variable name="cellContent">
       <xsl:choose>
         <xsl:when test="@xml:id"><xsl:value-of select="@xml:id"/></xsl:when>
         <xsl:when test="@tmp:corresp"><xsl:value-of select="$corresp"/></xsl:when>
@@ -97,7 +102,7 @@
     <svg:rect x="0" y="{$yPos}" width="{$rectWidth}" height="{$rectHeight}"
       stroke="black" stroke-width="2" fill="{$cellColor}"/>
     <svg:text x="{$txtIndent}" y="{$yPos + $txtLeading}">
-      <xsl:value-of select="$value"/>
+      <xsl:value-of select="$cellContent"/>
     </svg:text>
     <xsl:if test="$drawLine">
       <xsl:if test="$target//div/@xml:id = $corresp">
