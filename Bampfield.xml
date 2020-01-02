@@ -517,7 +517,7 @@
             <head>[...]</head>
             <p>[...]</p>
           </div>
-          <div tmp:corresp="McArthur.xml#M1.01.03" type="TBD" xml:id="B1.01.03">
+          <div tmp:corresp="McArthur.xml#M1.01.05" type="TBD" xml:id="B1.01.03">
             <head>[...]</head>
             <p>[...]</p>
           </div>
@@ -525,7 +525,7 @@
             <head>[...]</head>
             <p>[...]</p>
           </div>
-          <div tmp:corresp="McArthur.xml#M1.01.05" type="TBD" xml:id="B1.01.05">
+          <div tmp:corresp="McArthur.xml#M1.01.03" type="TBD" xml:id="B1.01.05">
             <head>[...]</head>
             <p>[...]</p>
           </div>
@@ -533,7 +533,7 @@
             <head>[...]</head>
             <p>[...]</p>
           </div>
-          <div tmp:corresp="McArthur.xml#M1.02.01" type="TBD" xml:id="B1.01.07">
+          <div tmp:corresp="McArthur.xml#M1.03.01" type="TBD" xml:id="B1.01.07">
             <head>[...]</head>
             <p>[...]</p>
           </div>
@@ -575,7 +575,7 @@
             <head>[...]</head>
             <p>[...]</p>
           </div>
-          <div tmp:corresp="McArthur.xml#M1.03.01" type="TBD" xml:id="B1.03.03">
+          <div tmp:corresp="McArthur.xml#M1.02.01" type="TBD" xml:id="B1.03.03">
             <head>[...]</head>
             <p>[...]</p>
           </div>

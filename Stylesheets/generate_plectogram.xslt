@@ -11,15 +11,13 @@
  * on plectograms, in particular on his wonderful starter set
  * available at https://github.com/djbpitt/hwang.
  
- * Code not written yet, but the plan is to read in two XML
+ * Summarily ignore the input file and instead read in two XML
  * files (defaulting to ../Bampfield.xml and ../McArthur.xml, but
- * that would be controlled by parameter) and generate an SVG
- * and tiny HTML wrapper therefrom. For now I expect that there
+ * that can be changed by setting the parameters "inS" and "inT")
+ * and generate an SVG drawing of a "plectogram", and tiny HTML
+ * wrapper for it, therefrom. For now I expect that there
  * may be @tmp:corresp attributes in the input; eventually these
- * would be proper TEI @corresp attributes. Furthermore, I am
- * expecting to eventually move the proccessing function from
- * the djb: namespace to a ShipboardTheatricals namespace, but 
- * in the meantime will use the WWP functions namespace.
+ * would be proper TEI @corresp attributes.
 -->
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
@@ -40,39 +38,29 @@
   <xsl:param name="inT" select="'../McArthur.xml'"/>
   <xsl:variable name="source" select="document($inS)" as="document-node()"/>
   <xsl:variable name="target" select="document($inT)" as="document-node()"/>
-  <xsl:param name="rectHeight" as="xs:integer" select="20"/>
-  <xsl:param name="rectWidth" as="xs:integer" select="80"/>
+  <!-- height of each rectangle in each document column in output: -->
+  <xsl:param name="rectHeight" as="xs:integer" select="24"/>
+  <!-- width of each rectangle in each document column in output: -->
+  <xsl:param name="rectWidth" as="xs:integer" select="100"/>
+  <!-- distance between the two columns in output: -->
   <xsl:param name="colDist" as="xs:integer" select="400"/>
-
-  <xsl:function name="wf:processDivs" as="element()">
-    <xsl:param name="input"/>
-    <xsl:variable name="myN" as="xs:integer" select="count( $input/preceding::div[@tmp:corresp] ) +1"/>
-    <xsl:variable name="precedingDiv" select="$input/preceding-sibling::div[1]"/>
-    <svg:g id="Mdiv{format-number($myN,'000')}" transform="translate({$myN * $colDist}, 0)">
-      <xsl:for-each select="$input//div[@tmp:corresp]">
-        <xsl:variable name="yPos" as="xs:integer" select="(position() - 1) * $rectHeight"/>
-        <svg:rect x="0" y="{$yPos}" width="{$rectWidth}" height="{$rectHeight}"
-                  stroke="black" stroke-width="2" fill="none"/>
-        <svg:text x="2" y="{$yPos + 16}">
-          <xsl:value-of select="@xml:id"/>
-        </svg:text>
-        <xsl:if test="DUCK">
-          <xsl:if test="$precedingDiv/monument = current()">
-            <xsl:variable name="yPosPreceding" as="xs:integer"
-                          select="($rectHeight div 2) + $rectHeight * (count($precedingDiv/monument[. = current()]/preceding-sibling::monument))"/>
-            <svg:line x1="{$rectWidth - $colDist}" y1="{$yPosPreceding}" x2="0"
-                      y2="{$yPos + ($rectHeight div 2)}" stroke="black" stroke-width="1"/>
-          </xsl:if>
-        </xsl:if>
-      </xsl:for-each>
-    </svg:g>
-  </xsl:function>
+  <!-- how far each line of text inside a cell is indented from L edge of cell: -->
+  <xsl:param name="txtIndent" as="xs:integer" select="8"/>
+  <!-- how far above bottom of cell text baseline is: -->
+  <xsl:param name="txtLeading" as="xs:integer" select="16"/>
+  <xsl:param name="backgroundColor">#EAD</xsl:param>
+  <xsl:param name="cellColor">#FBE</xsl:param>
 
   <xsl:template match="/">
     <html>
       <head>
         <title>B vs M</title>
-        <link rel="stylesheet" type="text/css" href="http://www.obdurodon.org/css/style.css"/>
+        <style type="text/css">
+          body {
+             margin: 2em;
+             background-color: #EAD;
+             }
+        </style>
       </head>
       <body>
         <h1>Bampfield vs McArthur</h1>
@@ -96,26 +84,28 @@
 
   <xsl:template match="div" mode="drawRect">
     <xsl:param name="drawLine" as="xs:boolean"/>
+    <xsl:comment select="' '||@xml:id||'('||$drawLine||'). '"/>
     <xsl:variable name="corresp" select="substring-after( @tmp:corresp,'#')"/>
     <xsl:variable name="value">
       <xsl:choose>
-        <xsl:when test="@tmp:corresp"><xsl:value-of select="$corresp"/></xsl:when>
         <xsl:when test="@xml:id"><xsl:value-of select="@xml:id"/></xsl:when>
+        <xsl:when test="@tmp:corresp"><xsl:value-of select="$corresp"/></xsl:when>
         <xsl:otherwise>INTERNAL ERROR</xsl:otherwise>
       </xsl:choose>
     </xsl:variable>
     <xsl:variable name="yPos" as="xs:integer" select="(position() - 1) * $rectHeight"/>
     <svg:rect x="0" y="{$yPos}" width="{$rectWidth}" height="{$rectHeight}"
-      stroke="black" stroke-width="2" fill="none"/>
-    <svg:text x="2" y="{$yPos + 16}">
+      stroke="black" stroke-width="2" fill="{$cellColor}"/>
+    <svg:text x="{$txtIndent}" y="{$yPos + $txtLeading}">
       <xsl:value-of select="$value"/>
     </svg:text>
     <xsl:if test="$drawLine">
       <xsl:if test="$target//div/@xml:id = $corresp">
-        <xsl:variable name="yPosPreceding" as="xs:integer"
-          select="($rectHeight div 2) + $rectHeight * (count( preceding::div[@tmp:corresp]))"/>
-        <svg:line x1="{$rectWidth - $colDist}" y1="{$yPosPreceding}" x2="0"
-          y2="{$yPos + ($rectHeight div 2)}" stroke="black" stroke-width="1"/>
+        <xsl:variable name="yPosTarget" as="xs:integer"
+          select="($rectHeight div 2) + $rectHeight * ( count( $target//div[ @xml:id eq $corresp ]/(preceding::div[ @xml:id] | ancestor::div[@xml:id] ) ) )"/>
+        <svg:line stroke="black" stroke-width="1"
+          x1="{$rectWidth}" y1="{$yPos + ($rectHeight div 2)}"
+          x2="{$colDist}"   y2="{$yPosTarget}"/>
       </xsl:if>
     </xsl:if>
   </xsl:template>
