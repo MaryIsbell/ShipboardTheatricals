@@ -68,25 +68,29 @@
             Thanks to _SVG Essentials_ by J. David Eisenberg and to my son
             David Bauman for the Javascript
           -->
-//          function highlight(evt) {
-//            var divOfInterest = evt.target;
-//            divOfInterest.children.setAttribute("stroke-width", 6 );
-//            divOfInterest.children.setAttribute("stroke","red");
-//          }
-//          function normal(evt) {
-//            var divOfInterest = evt.target;
-//            divOfInterest.children.setAttribute("stroke-width", 1 );
-//            divOfInterest.children.setAttribute("stroke","black");
-//          }
-          function red_line(evt) {
-            var thisLine = evt.target;
-            thisLine.setAttribute("stroke-width", 6 );
-            thisLine.setAttribute("stroke","red");
-          }
-          function revert_line(evt) {
-            var thisLine = evt.target;
-            thisLine.setAttribute("stroke-width", 1 );
-            thisLine.setAttribute("stroke","black");
+          function highlight(nam) {
+            console.log( nam );
+            const srect = document.getElementById('S'+nam);
+            const trect = document.getElementById('T'+nam);
+            const line  = document.getElementById('L'+nam);
+            srect.setAttribute("stroke-width", 6 );
+            srect.setAttribute("stroke","red");
+            trect.setAttribute("stroke-width", 6 );
+            trect.setAttribute("stroke","red");
+            line.setAttribute("stroke-width", 6 );
+            line.setAttribute("stroke","red");
+            }
+          function normal(nam) {
+            const srect = document.getElementById('S'+nam);
+            const trect = document.getElementById('T'+nam);
+            const line  = document.getElementById('L'+nam);
+            console.log( 'duck'+nam );
+            srect.setAttribute("stroke-width", 2 );
+            srect.setAttribute("stroke","black");
+            trect.setAttribute("stroke-width", 2 );
+            trect.setAttribute("stroke","black");
+            line.setAttribute("stroke-width", 1 );
+            line.setAttribute("stroke","black");
           }
         </script>
       </head>
@@ -98,13 +102,13 @@
             <svg:g id="BampfieldSet" transform="translate( 0, 0)">
               <xsl:apply-templates select="$source//div[@tmp:corresp]" mode="drawRect">
                 <!-- and draw the connecting lines while we are at it: -->
-                <xsl:with-param name="drawLine" select="true()"/>
+                <xsl:with-param name="sourceDiv" select="true()"/>
               </xsl:apply-templates>
             </svg:g>
             <!-- starting $colDist to R, generate R column of target <div>s: -->
             <svg:g id="McArthurSet" transform="translate( {$colDist}, 0)">
               <xsl:apply-templates select="$target//div[@xml:id]" mode="drawRect">
-                <xsl:with-param name="drawLine" select="false()"/>
+                <xsl:with-param name="sourceDiv" select="false()"/>
               </xsl:apply-templates>
             </svg:g>
           </svg:g>
@@ -114,9 +118,29 @@
   </xsl:template>
 
   <xsl:template match="div" mode="drawRect">
-    <xsl:param name="drawLine" as="xs:boolean"/>
-    <xsl:comment select="' '||@xml:id||'('||$drawLine||'). '"/>
+    <xsl:param name="sourceDiv" as="xs:boolean"/>
     <xsl:variable name="corresp" select="substring-after( @tmp:corresp,'#')"/>
+    <xsl:variable name="corresponds" as="xs:boolean">
+      <xsl:choose>
+        <xsl:when test="$sourceDiv">
+          <xsl:value-of select="$target//div/@xml:id = $corresp"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="$source//div/@tmp:corresp => substring-after('#') = @xml:id"/>
+        </xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+    <xsl:variable name="myName">
+      <xsl:choose>
+        <xsl:when test="$sourceDiv">
+          <xsl:value-of select="'S'||$corresp"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="'T'||normalize-space(@xml:id)"/>
+        </xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+    <xsl:comment select="' '||@xml:id||'('||$sourceDiv||'). '"/>
     <xsl:variable name="cellContent">
       <xsl:choose>
         <xsl:when test="@xml:id"><xsl:value-of select="@xml:id"/></xsl:when>
@@ -125,26 +149,26 @@
       </xsl:choose>
     </xsl:variable>
     <xsl:variable name="yPos" as="xs:integer" select="(position() - 1) * $rectHeight"/>
-    <!-- this bit — adding extra wrapper for JS to apply to rect, line, and text — is not working at all 
-    <svg:g>
-      <xsl:attribute name="onmouseover" select="'highlight(evt)'"/>
-      <xsl:attribute name="onmouseout" select="'normal(evt)'"/>-->
-      <svg:rect x="0" y="{$yPos}" width="{$rectWidth}" height="{$rectHeight}"
-        stroke="black" stroke-width="2" fill="{$cellColor}"/>
-      <svg:text x="{$txtIndent}" y="{$yPos + $txtLeading}">
-        <xsl:value-of select="$cellContent"/>
-      </svg:text>
-      <xsl:if test="$drawLine">
-        <xsl:if test="$target//div/@xml:id = $corresp">
-          <xsl:variable name="yPosTarget" as="xs:integer"
-            select="($rectHeight div 2) + $rectHeight * ( count( $target//div[ @xml:id eq $corresp ]/(preceding::div[ @xml:id] | ancestor::div[@xml:id] ) ) )"/>
-          <svg:line stroke="black" stroke-width="1"
-            onmouseover="red_line(evt)" onmouseout="revert_line(evt)"
-            x1="{$rectWidth}" y1="{$yPos + ($rectHeight div 2)}"
-            x2="{$colDist}"   y2="{$yPosTarget}"/>
-        </xsl:if>
+    <svg:rect x="0" y="{$yPos}" width="{$rectWidth}" height="{$rectHeight}"
+      stroke="black" stroke-width="2" fill="{$cellColor}" id="{$myName}"
+      onmouseover="highlight('{substring($myName,2)}')"
+      onmouseout="normal('{substring($myName,2)}')"/>
+    <svg:text x="{$txtIndent}" y="{$yPos + $txtLeading}"
+      onmouseout="normal('{substring($myName,2)}')"
+      onmouseover="highlight('{substring($myName,2)}')">
+      <xsl:value-of select="$cellContent"/>
+    </svg:text>
+    <xsl:if test="$sourceDiv">
+      <xsl:if test="$corresponds">
+        <xsl:variable name="yPosTarget" as="xs:integer"
+          select="($rectHeight div 2) + $rectHeight * ( count( $target//div[ @xml:id eq $corresp ]/(preceding::div[ @xml:id] | ancestor::div[@xml:id] ) ) )"/>
+        <svg:line stroke="black" stroke-width="1" id="{'L'||substring($myName,2)}"
+          x1="{$rectWidth}" y1="{$yPos + ($rectHeight div 2)}"
+          x2="{$colDist}"   y2="{$yPosTarget}"
+          onmouseout="normal('{substring($myName,2)}')"
+          onmouseover="highlight('{substring($myName,2)}')"/>
       </xsl:if>
-    <!--</svg:g>-->
+    </xsl:if>
   </xsl:template>
 
 </xsl:stylesheet>
