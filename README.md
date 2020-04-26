@@ -2,7 +2,7 @@
 Encoding work toward a digital archive to accompany book on shipboard theatricals.
 
 # Publications related to this project
-* Isbell, Mary. “Diplomatic Editions of a Handwritten Shipboard Newspaper.” Accepted for publication in *Handwritten Newspapers as an Alternative Medium during the Early Modern and Modern Periods* Studia Fennica Folkloristica series. London: Ubiquity Press. In production. Forthcoming in 2019.
+* Isbell, Mary. “Diplomatic Editions of a Handwritten Shipboard Newspaper.” *Handwritten Newspapers as an Alternative Medium during the Early Modern and Modern Periods* Studia Fennica Folkloristica series. London: Ubiquity Press. 2019. https://oa.finlit.fi/site/books/10.21435/sfh.26/read/?loc=Handwritten_Newspapers-12.xhtml
 * Isbell, Mary. Extracts from The Young Idea” (Editor). *Scholarly Editing* 37 (2016). Online. http://scholarlyediting.org/2016/editions/intro.youngidea.html 
 
 
