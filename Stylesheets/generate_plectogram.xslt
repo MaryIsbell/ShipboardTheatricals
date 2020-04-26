@@ -32,7 +32,7 @@
                 xmlns="http://www.w3.org/1999/xhtml"
                 xmlns:tei="http://www.tei-c.org/ns/1.0"
                 xpath-default-namespace="http://www.tei-c.org/ns/1.0"
-                exclude-result-prefixes="#all" version="2.0">
+                exclude-result-prefixes="#all" version="3.0">
 
   <xsl:output method="xml" indent="yes"/>
   <!-- input file that has @corresp that point to other input file: -->
